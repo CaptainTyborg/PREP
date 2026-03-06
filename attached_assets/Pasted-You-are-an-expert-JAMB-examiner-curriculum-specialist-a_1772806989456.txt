@@ -1,0 +1,130 @@
+You are an expert JAMB examiner, curriculum specialist, and assessment designer. Your task is to generate a **large, high-quality question databank for a JAMB CBT practice platform called JambPrep**.
+
+The goal is to create **200 well-structured multiple-choice questions for the subject: [INSERT SUBJECT NAME]**.
+
+These questions will be stored in a JSON database and used for **randomized CBT exam simulations**, so they must closely resemble **real JAMB UTME questions in style, difficulty, and wording**.
+
+GENERAL REQUIREMENTS
+
+Generate exactly **200 questions**.
+
+Difficulty level must be **average JAMB difficulty**, similar to real UTME questions.
+
+Questions must cover **many topics within the subject**, not just one area.
+
+Avoid repeating similar questions.
+
+Each question must have **4 options only (A, B, C, D)**.
+
+Only **one option must be correct**.
+
+Include **clear explanations** for learning purposes.
+
+The wording must sound **like real JAMB questions**.
+
+TOPIC DISTRIBUTION
+
+Ensure the 200 questions cover multiple topics such as:
+
+If the subject is Mathematics, include topics like:
+
+* Algebra
+* Trigonometry
+* Geometry
+* Statistics
+* Probability
+* Calculus (basic)
+* Indices and Logarithms
+* Simultaneous equations
+* Number base
+* Variation
+
+If the subject is Biology, include topics like:
+
+* Cell structure
+* Genetics
+* Ecology
+* Evolution
+* Nutrition
+* Reproduction
+* Physiology
+
+For other subjects, distribute questions across the **major WAEC/NECO/JAMB syllabus topics**.
+
+JSON OUTPUT FORMAT
+
+The output must be **valid JSON only**.
+
+Do not include explanations outside the JSON.
+
+Structure the file like this:
+
+{
+"subject": "[SUBJECT NAME]",
+"total_questions": 200,
+"questions": [
+{
+"id": 1,
+"topic": "",
+"difficulty": "medium",
+"question": "",
+"options": {
+"A": "",
+"B": "",
+"C": "",
+"D": ""
+},
+"correct_answer": "",
+"explanation": ""
+},
+{
+"id": 2,
+"topic": "",
+"difficulty": "medium",
+"question": "",
+"options": {
+"A": "",
+"B": "",
+"C": "",
+"D": ""
+},
+"correct_answer": "",
+"explanation": ""
+}
+]
+}
+
+IMPORTANT RULES
+
+* Ensure the JSON is **perfectly valid** so it can be parsed by JavaScript.
+* IDs must run sequentially from **1 to 200**.
+* Do not skip numbers.
+* Do not include trailing commas.
+* Avoid duplicate questions.
+* Ensure explanations are **brief but educational**.
+
+RANDOMIZATION SUPPORT
+
+The questions will be used by a CBT simulator that randomly selects questions, so the questions must be **independent and not dependent on previous questions**.
+
+SUBJECTS TO GENERATE
+
+Run this prompt separately for each subject:
+
+Use of English
+Mathematics
+Physics
+Chemistry
+Biology
+Literature in English
+Government
+Economics
+Geography
+Agricultural Science
+Civic Education
+Christian Religious Studies
+Islamic Studies
+
+FINAL OUTPUT
+
+Return the **complete JSON databank containing all 200 questions** for the selected subject.
