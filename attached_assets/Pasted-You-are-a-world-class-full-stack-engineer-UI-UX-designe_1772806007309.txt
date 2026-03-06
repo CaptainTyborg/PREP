@@ -1,0 +1,305 @@
+You are a world-class full-stack engineer, UI/UX designer, and edtech visionary. Build the single best website ever created for JAMB preparation—PREP (domain: prep.ng). It must have unbeatable frontend (stunning, intuitive, addictive) and backend (scalable, secure, real-time), with UI/UX that feels premium and effortless, surpassing every existing JAMB app or site.
+
+Mission: Simulate the entire JAMB UTME process realistically while equipping students with tools to prepare thoroughly. Help users achieve 300+ scores through practice, insights, and motivation.
+
+ACCURATE JAMB REPLICATION
+
+Exactly 180 questions per mock exam:
+
+* 60 Use of English
+* 40 questions from each of the other 3 selected subjects
+
+120-minute timer with visual warnings.
+
+CBT interface must include:
+
+* Top bar (user info, timer, submit)
+* Subject tabs
+* Question display area
+* A/B/C/D radio answer options
+* Bottom navigation (Previous, Next)
+* Question palette/grid with color coding:
+
+  * answered
+  * unanswered
+  * flagged
+
+Keyboard shortcuts:
+A/B/C/D to answer
+Arrow keys to move between questions
+
+Allow:
+
+* question flagging
+* review mode before submission
+* auto-scoring
+* detailed explanations after submission
+
+QUESTION DATABASE REQUIREMENTS
+
+Each JAMB subject must contain **at least 200 questions stored in the databank**. These questions must be stored in **JSON format** and organized by subject and topic.
+
+Supported subjects must include:
+
+* Use of English
+* Mathematics
+* Physics
+* Chemistry
+* Biology
+* Literature in English
+* Government
+* Economics
+* Geography
+* Agriculture Science
+* Civic Education
+* Christian Religious Studies (CRS)
+* Islamic Studies (IRS)
+
+Each question object must contain:
+
+{
+"id": "",
+"subject": "",
+"topic": "",
+"year": "",
+"difficulty": "",
+"question": "",
+"options": {
+"A": "",
+"B": "",
+"C": "",
+"D": ""
+},
+"correct_answer": "",
+"explanation": ""
+}
+
+Every subject must contain **200+ questions in its JSON databank** so the system can randomly select questions.
+
+RANDOMIZATION SYSTEM
+
+Whenever a user starts a new exam attempt:
+
+* The system must randomly shuffle questions from the **200-question databank**
+* Each attempt must load **a different random set of questions**
+* The same user should rarely see the same question twice in a row
+* Randomization must occur on both **subject selection and question order**
+
+QUESTION STORAGE STRUCTURE
+
+Store questions as:
+
+/data/questions/use_of_english.json
+/data/questions/mathematics.json
+/data/questions/physics.json
+/data/questions/chemistry.json
+/data/questions/biology.json
+/data/questions/literature.json
+/data/questions/economics.json
+/data/questions/government.json
+/data/questions/geography.json
+/data/questions/agriculture.json
+/data/questions/civic_education.json
+/data/questions/crs.json
+/data/questions/irs.json
+
+Each file must contain **200 structured questions**.
+
+TECH STACK (REPLIT FRIENDLY)
+
+Frontend:
+Next.js 15
+TypeScript
+Tailwind CSS
+shadcn/ui
+Framer Motion
+Lucide icons
+
+State management:
+Zustand or Jotai
+
+Backend:
+
+Node.js API routes or Supabase backend
+
+Database:
+
+PostgreSQL
+
+Authentication:
+
+Supabase Auth or JWT
+
+Charts:
+
+Recharts for analytics
+
+Deployment:
+
+Replit (development)
+Vercel (production)
+
+Ensure:
+
+* <100ms load time
+* near perfect Lighthouse scores
+* PWA support for offline study
+
+USER ACCOUNT SYSTEM
+
+Students must be able to:
+
+Create an account using:
+
+* Name
+* Email
+* Password
+
+The system must store:
+
+Users table
+
+* id
+* name
+* email
+* password_hash
+* created_at
+* target_score
+* preferred_subjects
+
+Attempts table
+
+* id
+* user_id
+* exam_type
+* subjects
+* answers JSON
+* score
+* subject_scores
+* time_taken
+* created_at
+
+Students must be able to:
+
+* log in
+* take mock exams
+* see previous attempts
+* track progress
+* view score history
+
+Dashboard must show:
+
+* total attempts
+* best score
+* average score
+* subject performance chart
+* study streak
+
+CALCULATOR UPGRADE
+
+The CBT calculator must include:
+
+* addition
+* subtraction
+* multiplication
+* division
+* square (x²)
+* square root (√)
+* memory clear
+* basic scientific layout
+
+INTERFACE DESIGN
+
+Visual style:
+
+* deep green
+* gold accents
+* white
+* Nigerian inspired palette
+
+Features:
+
+* default dark mode
+* smooth animations
+* micro-interactions
+* confetti for high scores
+* mobile-first design
+* full keyboard accessibility
+* screen reader compatibility
+
+CORE WEBSITE SECTIONS
+
+Landing Page
+
+* hero section
+* statistics (e.g., “10,000+ students helped to score 300+”)
+* demo CBT video
+* testimonials
+* signup CTA
+
+Dashboard
+
+* progress widgets
+* performance analytics
+* study streak tracker
+
+Practice Center
+
+* topic practice
+* random quizzes
+* full CBT mock exams
+
+Study Library
+
+* syllabus tracker
+* notes
+* flashcards
+* video lessons
+
+AI Tutor
+
+Integrate OpenAI or Grok to provide:
+
+* explanations for wrong answers
+* personalized weekly study plans
+* topic recommendations
+
+Community
+
+* moderated discussion forums
+* national mock competitions
+* leaderboard rankings
+
+MONETIZATION
+
+Free plan:
+
+* limited practice
+* basic analytics
+
+Premium plan:
+
+* unlimited mocks
+* advanced analytics
+* AI tutor priority
+* ad-free experience
+
+DELIVERABLES
+
+Provide:
+
+1. Complete project folder structure
+2. Example JSON question databanks (200 questions per subject)
+3. Key frontend files (layout, CBT exam page, dashboard)
+4. Backend API routes
+5. Database schema and migrations
+6. Random question selection logic
+7. Replit deployment guide
+8. Scaling guide
+9. Suggestions for future improvements (voice explanations, AR mock centers, adaptive difficulty)
+
+PRIORITY
+
+The CBT simulator must feel exactly like the real JAMB exam, but faster, smoother, and more engaging.
+
+Every pixel and interaction must make students feel confident, focused, and motivated to achieve a 300+ score.
