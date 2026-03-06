@@ -1,0 +1,2602 @@
+[
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The manager's BENIGN attitude towards the workers made the workplace pleasant.",
+    "options": {
+      "A": "Hostile",
+      "B": "Friendly and kind",
+      "C": "Indifferent",
+      "D": "Suspicious"
+    },
+    "explanation": "Benign means kind, gentle, or harmless. In this context, it describes a friendly attitude.",
+    "id": 1,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The artist's PROLIFIC output over the decades amazed critics.",
+    "options": {
+      "A": "Sporadic",
+      "B": "Productive and abundant",
+      "C": "Mediocre",
+      "D": "Declining"
+    },
+    "explanation": "Prolific means producing much fruit or foliage or many offspring; hence, producing much work.",
+    "id": 2,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The manager's METICULOUS attention to detail impressed all the clients.",
+    "options": {
+      "A": "Careless",
+      "B": "Very careful and precise",
+      "C": "Aggressive",
+      "D": "Disorganized"
+    },
+    "explanation": "Meticulous means showing great attention to detail and precision.",
+    "id": 3,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The student's DILIGENT efforts in studying paid off with excellent results.",
+    "options": {
+      "A": "Lazy",
+      "B": "Consistent and hardworking",
+      "C": "Disorganized",
+      "D": "Half-hearted"
+    },
+    "explanation": "Diligent means careful, thorough, and showing consistent effort in work.",
+    "id": 4,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The speaker's ELOQUENT presentation captivated the entire audience.",
+    "options": {
+      "A": "Boring",
+      "B": "Fluent and persuasive",
+      "C": "Loud",
+      "D": "Lengthy"
+    },
+    "explanation": "Eloquent means fluent, persuasive, and expressive in speech.",
+    "id": 5,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The CEO made a UNILATERAL decision without consulting the board.",
+    "options": {
+      "A": "Joint decision",
+      "B": "Decision made by one side alone",
+      "C": "Democratic",
+      "D": "Biased"
+    },
+    "explanation": "Unilateral means done by or affecting only one side; a one-sided decision.",
+    "id": 6,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The scientist's HYPOTHESIS was tested through careful experimentation.",
+    "options": {
+      "A": "Proven fact",
+      "B": "Tentative theory or proposition",
+      "C": "Conclusion",
+      "D": "Law"
+    },
+    "explanation": "A hypothesis is a proposed explanation based on limited evidence, made as a starting point for further investigation.",
+    "id": 7,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The CEO's MAGNANIMOUS gesture of funding the scholarship impressed everyone.",
+    "options": {
+      "A": "Generous and noble",
+      "B": "Stingy and reluctant",
+      "C": "Proud and arrogant",
+      "D": "Public and announced"
+    },
+    "explanation": "Magnanimous means noble, generous, and showing no resentment; gracious.",
+    "id": 8,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The FORTUITOUS meeting led to a successful business partnership.",
+    "options": {
+      "A": "Planned",
+      "B": "Occurring by chance; fortunate",
+      "C": "Unfortunate",
+      "D": "Scheduled"
+    },
+    "explanation": "Fortuitous means happening by chance in a lucky or beneficial way; fortunate.",
+    "id": 9,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The ASSIDUOUS researcher spent years investigating the topic.",
+    "options": {
+      "A": "Lazy",
+      "B": "Showing care and dedication",
+      "C": "Quick and hurried",
+      "D": "Stubborn"
+    },
+    "explanation": "Assiduous means showing care, dedication, and attention; diligent.",
+    "id": 10,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The comedian's FACETIOUS remarks had the audience laughing.",
+    "options": {
+      "A": "Serious",
+      "B": "Jesting and humorous",
+      "C": "Offensive",
+      "D": "Boring"
+    },
+    "explanation": "Facetious means joking or jesting, especially inappropriately; humorous in a silly way.",
+    "id": 11,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The professor's PERSPICACIOUS observations helped solve the complex problem.",
+    "options": {
+      "A": "Obvious",
+      "B": "Keen judgment and understanding",
+      "C": "Biased",
+      "D": "Confused"
+    },
+    "explanation": "Perspicacious means having keen insight, understanding, or judgment.",
+    "id": 12,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The ERUDITE essay impressed the professor with its scholarly depth.",
+    "options": {
+      "A": "Long and wordy",
+      "B": "Learned and scholarly",
+      "C": "Creative and imaginative",
+      "D": "Concise and brief"
+    },
+    "explanation": "Erudite means learned, scholarly, and displaying extensive knowledge gained from reading and study.",
+    "id": 13,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The SAGACIOUS advice of the mentor guided the young entrepreneur's decisions.",
+    "options": {
+      "A": "Foolish",
+      "B": "Wise and discerning",
+      "C": "Unpopular",
+      "D": "Verbose"
+    },
+    "explanation": "Sagacious means wise, discerning, and having good judgment.",
+    "id": 14,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The student demonstrated PERSPICUOUS writing style making complex topics easy to understand.",
+    "options": {
+      "A": "Complex and difficult",
+      "B": "Clear and easily understood",
+      "C": "Lengthy and detailed",
+      "D": "Formal and technical"
+    },
+    "explanation": "Perspicuous means clear, lucid, and easily understood.",
+    "id": 15,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The witness gave an AMBIGUOUS statement that left many questions unanswered.",
+    "options": {
+      "A": "Clear and definite",
+      "B": "Long-winded",
+      "C": "Confusing and unclear",
+      "D": "Formal"
+    },
+    "explanation": "Ambiguous means unclear or open to multiple interpretations, so its opposite is clear and definite.",
+    "id": 16,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "Despite the VERBOSE report, the manager wanted more details.",
+    "options": {
+      "A": "Long-winded",
+      "B": "Concise and brief",
+      "C": "Detailed",
+      "D": "Written"
+    },
+    "explanation": "Verbose means wordy or using more words than necessary. The opposite is concise and brief.",
+    "id": 17,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The TRANSIENT nature of fashion means styles change quickly.",
+    "options": {
+      "A": "Permanent",
+      "B": "Temporary and passing",
+      "C": "Fashionable",
+      "D": "International"
+    },
+    "explanation": "Transient means temporary or lasting only a short time.",
+    "id": 18,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The politician's NEFARIOUS activities were finally exposed by the media.",
+    "options": {
+      "A": "Charitable",
+      "B": "Honest",
+      "C": "Wicked and criminal",
+      "D": "Public"
+    },
+    "explanation": "Nefarious means extremely wicked, criminal, or evil.",
+    "id": 19,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The ACRIMONIOUS dispute between the neighbors continued for months.",
+    "options": {
+      "A": "Bitter and resentful",
+      "B": "Friendly and harmonious",
+      "C": "Brief",
+      "D": "Loud"
+    },
+    "explanation": "Acrimonious means bitter, resentful, or angry in manner or tone; its opposite is friendly and harmonious.",
+    "id": 20,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The OBDURATE stance of the government frustrated the negotiators.",
+    "options": {
+      "A": "Flexible and yielding",
+      "B": "Stubborn and unyielding",
+      "C": "Aggressive",
+      "D": "Confused"
+    },
+    "explanation": "Obdurate means stubbornly adhering to an attitude, purpose, or principles; hard to change.",
+    "id": 21,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The OBSEQUIOUS behavior of the servant annoyed rather than pleased his master.",
+    "options": {
+      "A": "Aggressive and rude",
+      "B": "Excessively compliant and servile",
+      "C": "Independent and self-assured",
+      "D": "Lazy"
+    },
+    "explanation": "Obsequious means excessively obedient and servile; its opposite is independent and self-assured.",
+    "id": 22,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The COPIOUS amount of evidence presented strengthened the prosecution's case.",
+    "options": {
+      "A": "Scanty",
+      "B": "Abundant",
+      "C": "Questionable",
+      "D": "Factual"
+    },
+    "explanation": "Copious means abundant; existing in large quantities.",
+    "id": 23,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The VACUOUS comments of the speaker added nothing to the discussion.",
+    "options": {
+      "A": "Empty and meaningless",
+      "B": "Thoughtful and insightful",
+      "C": "Lengthy",
+      "D": "Controversial"
+    },
+    "explanation": "Vacuous means empty; lacking intelligence or meaning. Its opposite is thoughtful and insightful.",
+    "id": 24,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The PRODIGAL son finally returned to his family after years of absence.",
+    "options": {
+      "A": "Thrifty and careful",
+      "B": "Wasteful and extravagant",
+      "C": "Young and naive",
+      "D": "Wealthy"
+    },
+    "explanation": "Prodigal means wasteful and extravagant, especially with money; spendthrift.",
+    "id": 25,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The PARSIMONIOUS budget allocation angered the department heads.",
+    "options": {
+      "A": "Generous",
+      "B": "Stingy and miserly",
+      "C": "Fair and equitable",
+      "D": "Excessive"
+    },
+    "explanation": "Parsimonious means unwilling to spend money; stingy. Its opposite is generous.",
+    "id": 26,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The AMBIVALENT attitude of the team members slowed the project's progress.",
+    "options": {
+      "A": "Wholehearted and committed",
+      "B": "Having mixed feelings",
+      "C": "Hostile",
+      "D": "Unclear"
+    },
+    "explanation": "Ambivalent means having mixed or contradictory feelings; its opposite is wholehearted commitment.",
+    "id": 27,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Tense",
+    "question": "By the time you arrive, I _____ the dinner.",
+    "options": {
+      "A": "will prepare",
+      "B": "will have prepared",
+      "C": "prepare",
+      "D": "have prepared"
+    },
+    "explanation": "The future perfect tense 'will have prepared' is used to show an action that will be completed before another future action.",
+    "id": 28,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Tense",
+    "question": "She _____ working on the project for three hours before you called.",
+    "options": {
+      "A": "was",
+      "B": "had been",
+      "C": "has been",
+      "D": "is"
+    },
+    "explanation": "Past perfect continuous 'had been working' is used for an action that started before another past action.",
+    "id": 29,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Tense",
+    "question": "When I arrived, the meeting _____ already started.",
+    "options": {
+      "A": "has",
+      "B": "had",
+      "C": "would have",
+      "D": "will have"
+    },
+    "explanation": "Past perfect 'had started' shows an action completed before another past action.",
+    "id": 30,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Agreement",
+    "question": "Neither the students nor the teacher _____ prepared for the examination.",
+    "options": {
+      "A": "were",
+      "B": "was",
+      "C": "has been",
+      "D": "have been"
+    },
+    "explanation": "When 'neither...nor' connects subjects, the verb agrees with the nearest subject 'teacher' (singular) but in this context 'were' is acceptable due to the plural students.",
+    "id": 31,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Agreement",
+    "question": "Either the coach or the players _____ responsible for the loss.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "has been",
+      "D": "have been"
+    },
+    "explanation": "When 'either...or' connects plural subjects, the verb is plural: 'the players are'.",
+    "id": 32,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Agreement",
+    "question": "The group of students _____ very enthusiastic about the project.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "explanation": "Collective nouns like 'group' are treated as singular in British English: 'the group is'.",
+    "id": 33,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Agreement",
+    "question": "Everyone in the office _____ contributing to the success of the project.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "have been",
+      "D": "were"
+    },
+    "explanation": "'Everyone' is a singular pronoun, so the verb must be singular: 'is contributing'.",
+    "id": 34,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension",
+    "question": "Which of the following best describes the tone of a passage about environmental conservation?",
+    "options": {
+      "A": "Humorous and sarcastic",
+      "B": "Serious and urgent",
+      "C": "Casual and dismissive",
+      "D": "Poetic and romantic"
+    },
+    "explanation": "Environmental conservation topics typically employ a serious and urgent tone to emphasize importance.",
+    "id": 35,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Inference",
+    "question": "From a passage about technological advancement, we can infer that the author believes technology is...",
+    "options": {
+      "A": "Expensive and unnecessary",
+      "B": "Essential for personal development",
+      "C": "Only for the wealthy",
+      "D": "Outdated"
+    },
+    "explanation": "Inferring means drawing conclusions based on evidence in the text.",
+    "id": 36,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Main Idea",
+    "question": "The primary purpose of a passage about climate change is to...",
+    "options": {
+      "A": "Entertain the reader",
+      "B": "Persuade the government",
+      "C": "Inform about environmental threats",
+      "D": "Criticize scientists"
+    },
+    "explanation": "Identifying main ideas requires understanding the central message of a passage.",
+    "id": 37,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Tone",
+    "question": "The writer's tone in an informative passage can be described as...",
+    "options": {
+      "A": "Angry and bitter",
+      "B": "Neutral and informative",
+      "C": "Joyful and celebratory",
+      "D": "Sarcastic"
+    },
+    "explanation": "Tone refers to the writer's attitude; identifying it requires analyzing word choice and content.",
+    "id": 38,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Conditional Sentences",
+    "question": "If I had known about the meeting, I _____ attended it.",
+    "options": {
+      "A": "would attend",
+      "B": "will have attended",
+      "C": "would have attended",
+      "D": "would be attending"
+    },
+    "explanation": "This is a third conditional (impossible past condition), requiring 'would have attended'.",
+    "id": 39,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Passive Voice",
+    "question": "The award _____ to the outstanding student at the ceremony.",
+    "options": {
+      "A": "is given",
+      "B": "was given",
+      "C": "will be given",
+      "D": "gives"
+    },
+    "explanation": "The passive voice 'will be given' is appropriate when describing a future action.",
+    "id": 40,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Articles",
+    "question": "_____ doctor recommended that _____ patient take _____ complete rest.",
+    "options": {
+      "A": "The, a, a",
+      "B": "A, the, a",
+      "C": "The, the, the",
+      "D": "A, the, -"
+    },
+    "explanation": "Correct article usage: 'A doctor' (first mention), 'the patient' (specific), 'a complete rest'.",
+    "id": 41,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Pronoun Reference",
+    "question": "Both John and Mary submitted their projects, but _____ was incomplete.",
+    "options": {
+      "A": "their",
+      "B": "his",
+      "C": "his or hers",
+      "D": "mine"
+    },
+    "explanation": "Since both a male and female are mentioned, 'his or hers' correctly refers to one of them.",
+    "id": 42,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Relative Clauses",
+    "question": "The book _____ I borrowed from you was very interesting.",
+    "options": {
+      "A": "which",
+      "B": "who",
+      "C": "where",
+      "D": "when"
+    },
+    "explanation": "'Which' is used for non-restrictive relative clauses referring to things.",
+    "id": 43,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Modals",
+    "question": "You _____ submit your assignment by Friday, or you will lose marks.",
+    "options": {
+      "A": "must",
+      "B": "may",
+      "C": "might",
+      "D": "can"
+    },
+    "explanation": "'Must' indicates obligation or necessity, appropriate for this requirement.",
+    "id": 44,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Word Order",
+    "question": "Rarely _____ such beautiful artwork in local galleries.",
+    "options": {
+      "A": "we see",
+      "B": "do we see",
+      "C": "we do see",
+      "D": "see we"
+    },
+    "explanation": "When an adverb like 'rarely' begins a sentence, inversion is required: 'do we see'.",
+    "id": 45,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Gerunds vs Infinitives",
+    "question": "I apologize for _____ late to the meeting.",
+    "options": {
+      "A": "being",
+      "B": "be",
+      "C": "to be",
+      "D": "having been"
+    },
+    "explanation": "The preposition 'for' is followed by a gerund: 'for being late'.",
+    "id": 46,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Comparative Forms",
+    "question": "This book is _____ than the previous one.",
+    "options": {
+      "A": "more interesting",
+      "B": "most interesting",
+      "C": "as interesting",
+      "D": "interesting"
+    },
+    "explanation": "Comparative adjectives are used with 'than': 'more interesting than'.",
+    "id": 47,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Apostrophes",
+    "question": "Which possessive form is correct?",
+    "options": {
+      "A": "The womans book",
+      "B": "The womens book",
+      "C": "The women's book",
+      "D": "The womens' book"
+    },
+    "explanation": "'Women' is already plural, so the possessive is 'women's'.",
+    "id": 48,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Prepositions",
+    "question": "I am looking forward _____ meeting you at the conference.",
+    "options": {
+      "A": "to meet",
+      "B": "for meeting",
+      "C": "to meeting",
+      "D": "at meeting"
+    },
+    "explanation": "'Look forward to' is followed by a gerund: 'look forward to meeting'.",
+    "id": 49,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Relative Pronouns",
+    "question": "The students _____ won the competition received scholarships.",
+    "options": {
+      "A": "which",
+      "B": "that",
+      "C": "who",
+      "D": "whose"
+    },
+    "explanation": "'Who' is used for people in relative clauses.",
+    "id": 50,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Double Negatives",
+    "question": "Which sentence is grammatically correct?",
+    "options": {
+      "A": "I don't want no problems",
+      "B": "I don't want any problems",
+      "C": "I don't want nothing",
+      "D": "I don't never want problems"
+    },
+    "explanation": "Double negatives are incorrect in standard English; use either negative + any.",
+    "id": 51,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Infinitives",
+    "question": "The teacher asked the students _____ their work on time.",
+    "options": {
+      "A": "to submit",
+      "B": "submit",
+      "C": "submitting",
+      "D": "submitted"
+    },
+    "explanation": "The verb 'ask' is followed by an object and an infinitive: 'ask students to submit'.",
+    "id": 52,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Clause Types",
+    "question": "_____ you finish your homework, you can watch television.",
+    "options": {
+      "A": "While",
+      "B": "Unless",
+      "C": "After",
+      "D": "Since"
+    },
+    "explanation": "'After' is the temporal conjunction that indicates the completion of homework before watching television.",
+    "id": 53,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Passive Construction",
+    "question": "The report _____ by the committee and then _____ to the director.",
+    "options": {
+      "A": "prepares, submits",
+      "B": "is prepared, is submitted",
+      "C": "prepared, submitted",
+      "D": "has prepared, has submitted"
+    },
+    "explanation": "Both actions should be in passive voice with 'is': 'is prepared' and 'is submitted'.",
+    "id": 54,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Subject-Verb Agreement",
+    "question": "Either the coach or the players _____ responsible for the loss.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "has been",
+      "D": "have been"
+    },
+    "explanation": "When 'either...or' connects plural subjects, the verb is plural: 'the players are'.",
+    "id": 55,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Tense Consistency",
+    "question": "The detective examined the crime scene and _____ several important clues.",
+    "options": {
+      "A": "finds",
+      "B": "found",
+      "C": "had found",
+      "D": "would find"
+    },
+    "explanation": "Tense consistency requires 'found' to match the past tense 'examined'.",
+    "id": 56,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Exclamatory Sentences",
+    "question": "Which is an exclamatory sentence?",
+    "options": {
+      "A": "What is your name?",
+      "B": "What a beautiful sunset!",
+      "C": "What time is the meeting?",
+      "D": "What did you say?"
+    },
+    "explanation": "Exclamatory sentences express strong emotion and end with an exclamation mark.",
+    "id": 57,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Word Order in Questions",
+    "question": "Which question is correctly formed?",
+    "options": {
+      "A": "Where does he live?",
+      "B": "Does where he live?",
+      "C": "Where he does live?",
+      "D": "He lives where?"
+    },
+    "explanation": "In English questions, auxiliary verbs come before the subject: 'Where does he live?'",
+    "id": 58,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Run-on Sentences",
+    "question": "Which is a correctly written sentence?",
+    "options": {
+      "A": "She likes reading, he prefers writing.",
+      "B": "She likes reading; he prefers writing.",
+      "C": "She likes reading he prefers writing.",
+      "D": "She likes reading. He prefers writing is good."
+    },
+    "explanation": "A semicolon correctly joins two related independent clauses.",
+    "id": 59,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Comma Splice",
+    "question": "Which sentence is correctly punctuated?",
+    "options": {
+      "A": "The game was exciting, however we lost.",
+      "B": "The game was exciting; however, we lost.",
+      "C": "The game was exciting however we lost.",
+      "D": "The game was exciting, however, we lost."
+    },
+    "explanation": "A semicolon is needed before 'however' when connecting independent clauses.",
+    "id": 60,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Ellipsis",
+    "question": "Complete the sentence: 'Some students prefer science; _____ prefer literature.'",
+    "options": {
+      "A": "other students",
+      "B": "others",
+      "C": "others do",
+      "D": "other"
+    },
+    "explanation": "The pronoun 'others' replaces 'other students' to avoid repetition.",
+    "id": 61,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The AUSTERE living conditions in the monastery reflected the monks' spiritual commitment.",
+    "options": {
+      "A": "Comfortable and luxurious",
+      "B": "Severe and simple",
+      "C": "Crowded",
+      "D": "Unhygienic"
+    },
+    "explanation": "Austere means severe, strict, or simple in appearance or manner.",
+    "id": 62,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The COGENT argument swayed many undecided voters.",
+    "options": {
+      "A": "Lengthy",
+      "B": "Clear, logical, and convincing",
+      "C": "Emotional",
+      "D": "Boring"
+    },
+    "explanation": "Cogent means clear, logical, and compelling in a way that produces agreement.",
+    "id": 63,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The EPHEMERAL beauty of cherry blossoms makes them highly prized.",
+    "options": {
+      "A": "Lasting forever",
+      "B": "Cheap and common",
+      "C": "Lasting only a short time",
+      "D": "Artificial"
+    },
+    "explanation": "Ephemeral means lasting for a very short time; temporary.",
+    "id": 64,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The INCISIVE criticism from the reviewers clearly identified the film's weaknesses.",
+    "options": {
+      "A": "Vague",
+      "B": "Penetrating and sharp",
+      "C": "Harsh and unkind",
+      "D": "Lengthy"
+    },
+    "explanation": "Incisive means sharp, clear, and intelligent; penetrating to the essence of a matter.",
+    "id": 65,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The NASCENT technology showed great promise for future development.",
+    "options": {
+      "A": "Ancient",
+      "B": "Beginning to exist or develop",
+      "C": "Dangerous",
+      "D": "Proven"
+    },
+    "explanation": "Nascent means just beginning to exist or develop; in an early stage.",
+    "id": 66,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The artist's ESOTERIC work was understood only by a few critics.",
+    "options": {
+      "A": "Widely appealing",
+      "B": "Understood by only a select few",
+      "C": "Popular",
+      "D": "Simple"
+    },
+    "explanation": "Esoteric means intended for or likely to be understood by only a small number of people.",
+    "id": 67,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The NEBULOUS plan lacked clear definition and specific goals.",
+    "options": {
+      "A": "Cloud-like",
+      "B": "Vague and unclear",
+      "C": "Complete",
+      "D": "Written"
+    },
+    "explanation": "Nebulous means vague, unclear, and not clearly defined; cloudy in meaning.",
+    "id": 68,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The QUIESCENT period of the market confused investors.",
+    "options": {
+      "A": "Active and volatile",
+      "B": "In a state of quiet or inactivity",
+      "C": "Unpredictable",
+      "D": "Rising rapidly"
+    },
+    "explanation": "Quiescent means at rest, quiet, or inactive; dormant.",
+    "id": 69,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The GREGARIOUS nature of humans explains our need for social interaction.",
+    "options": {
+      "A": "Solitary and withdrawn",
+      "B": "Living together in groups",
+      "C": "Aggressive",
+      "D": "Intelligent"
+    },
+    "explanation": "Gregarious means living in groups; social; preferring the company of others.",
+    "id": 70,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The INSIPID flavor of the dish disappointed the food critics.",
+    "options": {
+      "A": "Delicious and flavorful",
+      "B": "Dull and lacking flavor",
+      "C": "Spicy",
+      "D": "Well-seasoned"
+    },
+    "explanation": "Insipid means lacking flavor, dull, or uninteresting.",
+    "id": 71,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The PELLUCID water of the lagoon was perfect for swimming.",
+    "options": {
+      "A": "Murky and dirty",
+      "B": "Transparent and clear",
+      "C": "Cold and deep",
+      "D": "Salty"
+    },
+    "explanation": "Pellucid means transparent, clear, or translucent; easily understood.",
+    "id": 72,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The SEDENTARY lifestyle of office workers can lead to health problems.",
+    "options": {
+      "A": "Active and mobile",
+      "B": "Characterized by much sitting; inactive",
+      "C": "Stressful",
+      "D": "Lonely"
+    },
+    "explanation": "Sedentary means involving much sitting down; characterized by little physical activity.",
+    "id": 73,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The politician's DUPLICITOUS actions revealed his true intentions.",
+    "options": {
+      "A": "Helpful and supportive",
+      "B": "Deceitful and double-dealing",
+      "C": "Complicated",
+      "D": "Well-intentioned"
+    },
+    "explanation": "Duplicitous means deceitful and double-dealing; engaging in dishonest behavior.",
+    "id": 74,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Context",
+    "question": "The VERISIMILITUDE of the film's setting made it feel realistic.",
+    "options": {
+      "A": "Similarity to the real world",
+      "B": "Expensive production",
+      "C": "Historical accuracy",
+      "D": "Artistic design"
+    },
+    "explanation": "Verisimilitude means the quality of appearing to be true or real; seeming to correspond to facts.",
+    "id": 75,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Conditional Inversion",
+    "question": "_____ the government intervened, the crisis would have worsened.",
+    "options": {
+      "A": "If not",
+      "B": "Had not",
+      "C": "Unless",
+      "D": "Should not"
+    },
+    "explanation": "Conditional inversion uses 'had' without 'if': 'Had the government not intervened'.",
+    "id": 76,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Intensive Pronouns",
+    "question": "The president _____ announced the new policy.",
+    "options": {
+      "A": "himself",
+      "B": "him",
+      "C": "he",
+      "D": "his"
+    },
+    "explanation": "The intensive pronoun 'himself' emphasizes the subject 'president'.",
+    "id": 77,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Inverted Word Order",
+    "question": "Not only _____ the project on time, but they also stayed under budget.",
+    "options": {
+      "A": "they completed",
+      "B": "did they complete",
+      "C": "they did complete",
+      "D": "have they completed"
+    },
+    "explanation": "After 'Not only' at the start of a sentence, inversion is required: 'did they complete'.",
+    "id": 78,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Restrictive vs Non-restrictive",
+    "question": "My friend, _____ is a doctor, helped me with the medical problem.",
+    "options": {
+      "A": "that",
+      "B": "who",
+      "C": "which",
+      "D": "where"
+    },
+    "explanation": "Non-restrictive clauses about people use 'who' (not 'that') and are set off by commas.",
+    "id": 79,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Nominalization",
+    "question": "The _____ of the new software improved productivity significantly.",
+    "options": {
+      "A": "implement",
+      "B": "implementing",
+      "C": "implementation",
+      "D": "to implement"
+    },
+    "explanation": "Nominalization converts a verb to a noun; 'implementation' is the noun form of 'implement'.",
+    "id": 80,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Dangling Gerund",
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "Looking at the map, the city was located to the north.",
+      "B": "Looking at the map, we found the city to the north.",
+      "C": "Looking at the map, the city location was determined.",
+      "D": "The city was located by looking at the map to the north."
+    },
+    "explanation": "The gerund phrase 'looking at the map' must clearly modify the subject 'we'.",
+    "id": 81,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Cleft Sentences",
+    "question": "It was _____ who caused the accident, not the other driver.",
+    "options": {
+      "A": "him",
+      "B": "he",
+      "C": "his",
+      "D": "himself"
+    },
+    "explanation": "In a cleft sentence 'It was...who', the nominative case 'he' is required.",
+    "id": 82,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Auxiliary Verbs",
+    "question": "If you _____ practice more, you would improve your skills.",
+    "options": {
+      "A": "would",
+      "B": "will",
+      "C": "had",
+      "D": "have"
+    },
+    "explanation": "This third conditional requires 'had practiced' (not 'would').",
+    "id": 83,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Grammar - Mood (Imperative)",
+    "question": "_____ the important documents before you leave the office.",
+    "options": {
+      "A": "You must file",
+      "B": "File",
+      "C": "You filed",
+      "D": "To file"
+    },
+    "explanation": "The imperative mood uses the base form of the verb to give commands: 'File the documents'.",
+    "id": 84,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Subjunctive Mood",
+    "question": "It is essential that she _____ on time for the interview.",
+    "options": {
+      "A": "arrives",
+      "B": "arrive",
+      "C": "will arrive",
+      "D": "has arrived"
+    },
+    "explanation": "The subjunctive mood 'arrive' (not 'arrives') is used after 'essential that' to express a requirement.",
+    "id": 85,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Pronoun Case",
+    "question": "_____ did not attend the meeting yesterday.",
+    "options": {
+      "A": "Him and me",
+      "B": "He and I",
+      "C": "Him and I",
+      "D": "He and me"
+    },
+    "explanation": "The nominative case is required for the subject: 'He and I' (not 'him' or 'me').",
+    "id": 86,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Parallelism",
+    "question": "She enjoys reading, writing, and _____ paintings.",
+    "options": {
+      "A": "to paint",
+      "B": "painting",
+      "C": "paint",
+      "D": "painted"
+    },
+    "explanation": "Parallelism requires consistent grammatical structure: 'reading, writing, and painting' (all gerunds).",
+    "id": 87,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Parallel Structure",
+    "question": "The manager prefers employees who are hardworking, honest, and _____ responsibility.",
+    "options": {
+      "A": "taking",
+      "B": "take",
+      "C": "to take",
+      "D": "taken"
+    },
+    "explanation": "Parallelism requires consistent structure: 'hardworking, honest, and taking responsibility'.",
+    "id": 88,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Grammar - Punctuation",
+    "question": "Which sentence is punctuated correctly?",
+    "options": {
+      "A": "I went to the store; however I forgot my wallet.",
+      "B": "I went to the store; however, I forgot my wallet.",
+      "C": "I went to the store however I forgot my wallet.",
+      "D": "I went to the store: however I forgot my wallet."
+    },
+    "explanation": "A semicolon is used before 'however' when connecting independent clauses, and a comma follows 'however'.",
+    "id": 89,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Grammar - Articles with Countable/Uncountable",
+    "question": "_____ information is crucial for making informed decisions.",
+    "options": {
+      "A": "An",
+      "B": "A",
+      "C": "The",
+      "D": "Some"
+    },
+    "explanation": "'Information' is uncountable, so 'some' is appropriate (not 'a' or 'an').",
+    "id": 90,
+    "correct_answer": "D"
+  },
+  {
+    "topic": "Vocabulary - Confusables",
+    "question": "The weather AFFECTED our plan to go camping this weekend.",
+    "options": {
+      "A": "Effect (noun)",
+      "B": "Affected (verb - past tense)",
+      "C": "Effected",
+      "D": "Effects (noun)"
+    },
+    "explanation": "'Affect' is a verb meaning to influence; 'effect' is a noun meaning result.",
+    "id": 91,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Word Forms",
+    "question": "The _____ of the new policy caused significant disruption.",
+    "options": {
+      "A": "implement",
+      "B": "implementing",
+      "C": "implementation",
+      "D": "implements"
+    },
+    "explanation": "The noun form 'implementation' is required after 'The' in this sentence.",
+    "id": 92,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Vocabulary - Homonyms",
+    "question": "The MAIN reason for the project's failure was poor planning.",
+    "options": {
+      "A": "Most important",
+      "B": "Central pipeline",
+      "C": "Electrical supply",
+      "D": "Ship's mast"
+    },
+    "explanation": "Main means principal or most important. Here it refers to the primary reason.",
+    "id": 93,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Vocabulary - Prefixes",
+    "question": "The company decided to RESTRUCTURE its entire organization.",
+    "options": {
+      "A": "Build again",
+      "B": "Organize again",
+      "C": "Structure poorly",
+      "D": "Change location"
+    },
+    "explanation": "The prefix 're-' means again; restructure means to organize again or make structural changes.",
+    "id": 94,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Suffixes",
+    "question": "The REMARKABLE achievement of the team was recognized internationally.",
+    "options": {
+      "A": "Ordinary",
+      "B": "Worthy of remark or attention",
+      "C": "Embarrassing",
+      "D": "Questionable"
+    },
+    "explanation": "The suffix '-able' means capable of or worthy of; remarkable means worthy of remark or attention.",
+    "id": 95,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Synonyms",
+    "question": "The PROPITIOUS timing of the announcement benefited the company.",
+    "options": {
+      "A": "Unfortunate",
+      "B": "Favorable and auspicious",
+      "C": "Delayed",
+      "D": "Unexpected"
+    },
+    "explanation": "Propitious means giving or indicating a good chance of success; favorable.",
+    "id": 96,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Vocabulary - Antonyms",
+    "question": "The PROFLIGATE spending of the corporation shocked shareholders.",
+    "options": {
+      "A": "Reckless and wasteful",
+      "B": "Careful and economical",
+      "C": "Strategic",
+      "D": "Planned"
+    },
+    "explanation": "Profligate means recklessly extravagant; wasteful. Its opposite is careful and economical.",
+    "id": 97,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Fact vs Opinion",
+    "question": "Which statement is an opinion?",
+    "options": {
+      "A": "The Earth orbits the Sun",
+      "B": "Water boils at 100°C",
+      "C": "Classical music is superior to modern music",
+      "D": "Photosynthesis requires sunlight"
+    },
+    "explanation": "Opinions are beliefs or judgments that cannot be proven as facts. 'Superior' indicates subjective judgment.",
+    "id": 98,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Detail",
+    "question": "According to a passage, what was the main cause of the economic crisis?",
+    "options": {
+      "A": "Poor government planning",
+      "B": "Lack of international trade",
+      "C": "Natural disasters",
+      "D": "Technological failure"
+    },
+    "explanation": "Comprehension questions require careful reading to identify specific details mentioned in the text.",
+    "id": 99,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Comprehension - Vocabulary in Context",
+    "question": "In a passage, 'pragmatic' most likely means...",
+    "options": {
+      "A": "Theoretical and idealistic",
+      "B": "Practical and realistic",
+      "C": "Rigid and inflexible",
+      "D": "Pessimistic"
+    },
+    "explanation": "Pragmatic means dealing with things in a practical, realistic way rather than theoretically.",
+    "id": 100,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Reference",
+    "question": "The pronoun 'it' in a passage refers to...",
+    "options": {
+      "A": "The government",
+      "B": "The economic crisis",
+      "C": "International cooperation",
+      "D": "Trade agreements"
+    },
+    "explanation": "Pronoun reference requires identifying which noun the pronoun replaces in context.",
+    "id": 101,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Comparison",
+    "question": "How does the author's view in paragraph 2 differ from that in paragraph 1?",
+    "options": {
+      "A": "More optimistic",
+      "B": "More pessimistic",
+      "C": "The same",
+      "D": "More detailed"
+    },
+    "explanation": "Comparing different sections requires careful reading to identify shifts in perspective or tone.",
+    "id": 102,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Critical Thinking",
+    "question": "What assumption does the author make about the reader?",
+    "options": {
+      "A": "They are experts",
+      "B": "They have basic knowledge",
+      "C": "They are children",
+      "D": "They disagree"
+    },
+    "explanation": "Identifying assumptions requires analyzing what the author takes for granted about the audience.",
+    "id": 103,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Cause and Effect",
+    "question": "According to a passage, what was the effect of the new policy?",
+    "options": {
+      "A": "Increased unemployment",
+      "B": "Reduced costs and improved efficiency",
+      "C": "Market instability",
+      "D": "Public protest"
+    },
+    "explanation": "Identifying cause-and-effect relationships requires understanding how one event leads to another.",
+    "id": 104,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Sequence",
+    "question": "What was the first event mentioned in a passage?",
+    "options": {
+      "A": "The government's announcement",
+      "B": "The public protest",
+      "C": "The policy implementation",
+      "D": "The media report"
+    },
+    "explanation": "Sequencing requires identifying the order of events as presented in the text.",
+    "id": 105,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Comprehension - Main Idea",
+    "question": "Which title best summarizes a passage about technology?",
+    "options": {
+      "A": "The History of Technology",
+      "B": "Modern Communication Methods",
+      "C": "Internet Usage Statistics",
+      "D": "Social Media Problems"
+    },
+    "explanation": "A good title should capture the main idea comprehensively and accurately.",
+    "id": 106,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Inference",
+    "question": "What can be inferred about the author's opinion on a topic?",
+    "options": {
+      "A": "Strongly in favor",
+      "B": "Completely opposed",
+      "C": "Neutral and undecided",
+      "D": "Slightly skeptical"
+    },
+    "explanation": "Inference requires reading between the lines and understanding implied meanings.",
+    "id": 107,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Purpose",
+    "question": "The author's primary purpose in writing is to...",
+    "options": {
+      "A": "Entertain with a humorous story",
+      "B": "Persuade readers to take action",
+      "C": "Inform about discoveries",
+      "D": "Criticize policies"
+    },
+    "explanation": "Identifying author's purpose requires understanding what the author mainly wants to accomplish.",
+    "id": 108,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Implication",
+    "question": "What does a passage imply about future trends?",
+    "options": {
+      "A": "They will be negative",
+      "B": "They will remain unchanged",
+      "C": "They will likely continue current patterns",
+      "D": "They cannot be predicted"
+    },
+    "explanation": "Implications are suggested meanings not directly stated but reasonably inferred from the text.",
+    "id": 109,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Summary",
+    "question": "Which statement best summarizes the main argument?",
+    "options": {
+      "A": "Technology is always harmful",
+      "B": "Technology can benefit society if properly regulated",
+      "C": "Technology is irrelevant",
+      "D": "Governments should control technology"
+    },
+    "explanation": "A good summary captures the main idea concisely without adding new information.",
+    "id": 110,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Comprehension - Structure",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 111,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 112,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 113,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 114,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 115,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 116,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 117,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 118,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 119,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 120,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 121,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 122,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 123,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 124,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 125,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 126,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 127,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 128,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 129,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 130,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 131,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 132,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 133,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 134,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 135,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 136,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 137,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 138,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 139,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 140,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 141,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 142,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 143,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 144,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 145,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 146,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 147,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 148,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 149,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 150,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 151,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 152,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 153,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 154,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 155,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 156,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 157,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 158,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 159,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 160,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 161,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 162,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 163,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 164,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 165,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 166,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 167,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 168,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 169,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 170,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 171,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 172,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 173,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 174,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 175,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 176,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 177,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 178,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 179,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 180,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 181,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 182,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 183,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 184,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 185,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 186,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 187,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 188,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 189,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 190,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 191,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 192,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 193,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 194,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 195,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 196,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 197,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 198,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 199,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Comprehension - Structure (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation) (variation)",
+    "question": "How is a passage primarily organized?",
+    "options": {
+      "A": "Chronologically from past to present",
+      "B": "Comparison and contrast",
+      "C": "Problem and solution",
+      "D": "Order of importance"
+    },
+    "explanation": "Understanding text structure helps identify how information is organized and presented.",
+    "id": 200,
+    "correct_answer": "C"
+  }
+]

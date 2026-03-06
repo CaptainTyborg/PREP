@@ -1,0 +1,18 @@
+[
+  {
+    "id": "agri-001",
+    "subject": "Agriculture Science",
+    "topic": "Crop Production",
+    "year": "2021",
+    "difficulty": "medium",
+    "question": "Which of the following is a leguminous crop?",
+    "options": {
+      "A": "Maize",
+      "B": "Rice",
+      "C": "Cowpea",
+      "D": "Cassava"
+    },
+    "correct_answer": "C",
+    "explanation": "Cowpea belongs to the Fabaceae family, which are nitrogen-fixing leguminous plants."
+  }
+]

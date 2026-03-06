@@ -1,0 +1,18 @@
+[
+  {
+    "id": "crs-001",
+    "subject": "Christian Religious Studies",
+    "topic": "Biblical History",
+    "year": "2023",
+    "difficulty": "easy",
+    "question": "Who was the first king of Israel?",
+    "options": {
+      "A": "David",
+      "B": "Saul",
+      "C": "Solomon",
+      "D": "Samuel"
+    },
+    "correct_answer": "B",
+    "explanation": "Saul was anointed by Samuel as the first king of the united Kingdom of Israel."
+  }
+]

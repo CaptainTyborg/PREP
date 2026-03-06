@@ -41,9 +41,9 @@ export default function CBTExam() {
 
       if (["A", "B", "C", "D"].includes(key)) {
         exam.setAnswer(q.id, key);
-      } else if (e.key === "ArrowRight") {
+      } else if (e.key === "ArrowRight" || key === "N") {
         exam.nextQuestion();
-      } else if (e.key === "ArrowLeft") {
+      } else if (e.key === "ArrowLeft" || key === "P") {
         exam.prevQuestion();
       }
     };

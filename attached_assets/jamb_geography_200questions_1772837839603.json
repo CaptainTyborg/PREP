@@ -1,0 +1,2606 @@
+{
+  "subject": "Geography",
+  "total_questions": 200,
+  "questions": [
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 1,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Climate",
+      "question": "The average weather pattern over a long period is",
+      "options": {
+        "A": "Weather",
+        "B": "Season",
+        "C": "Climate",
+        "D": "Temperature"
+      },
+      "explanation": "Climate = average weather over 30+ years",
+      "id": 2,
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Biomes",
+      "question": "The tropical rainforest biome has",
+      "options": {
+        "A": "High rainfall and high temperature",
+        "B": "Low rainfall and high temperature",
+        "C": "High rainfall and low temperature",
+        "D": "Low rainfall and low temperature"
+      },
+      "explanation": "Rainforests = high rainfall and high temperature",
+      "id": 3,
+      "correct_answer": "A"
+    },
+    {
+      "topic": "Soil",
+      "question": "The top fertile layer of earth is called",
+      "options": {
+        "A": "Bedrock",
+        "B": "Subsoil",
+        "C": "Topsoil",
+        "D": "Regolith"
+      },
+      "explanation": "Topsoil = most fertile upper layer",
+      "id": 4,
+      "correct_answer": "C"
+    },
+    {
+      "topic": "Plate Tectonics",
+      "question": "The theory that continents move on moving plates is",
+      "options": {
+        "A": "Weathering",
+        "B": "Plate tectonics",
+        "C": "Erosion",
+        "D": "Sedimentation"
+      },
+      "explanation": "Plate tectonics explains continental movement",
+      "id": 5,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 6,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 7,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 8,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 9,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 10,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 11,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 12,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 13,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 14,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 15,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 16,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 17,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 18,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 19,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 20,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 21,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 22,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 23,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 24,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 25,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 26,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 27,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 28,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 29,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 30,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 31,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 32,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 33,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 34,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 35,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 36,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 37,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 38,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 39,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 40,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 41,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 42,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 43,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 44,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 45,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 46,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 47,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 48,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 49,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 50,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 51,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 52,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 53,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 54,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 55,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 56,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 57,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 58,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 59,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 60,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 61,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 62,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 63,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 64,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 65,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 66,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 67,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 68,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 69,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 70,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 71,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 72,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 73,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 74,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 75,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 76,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 77,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 78,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 79,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 80,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 81,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 82,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 83,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 84,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 85,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 86,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 87,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 88,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 89,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 90,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 91,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 92,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 93,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 94,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 95,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 96,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 97,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 98,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 99,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 100,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 101,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 102,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 103,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 104,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 105,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 106,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 107,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 108,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 109,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 110,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 111,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 112,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 113,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 114,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 115,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 116,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 117,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 118,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 119,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 120,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 121,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 122,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 123,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 124,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 125,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 126,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 127,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 128,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 129,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 130,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 131,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 132,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 133,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 134,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 135,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 136,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 137,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 138,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 139,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 140,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 141,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 142,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 143,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 144,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 145,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 146,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 147,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 148,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 149,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 150,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 151,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 152,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 153,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 154,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 155,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 156,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 157,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 158,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 159,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 160,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 161,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 162,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 163,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 164,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 165,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 166,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 167,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 168,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 169,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 170,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 171,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 172,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 173,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 174,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 175,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 176,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 177,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 178,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 179,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 180,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 181,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 182,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 183,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 184,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 185,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 186,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 187,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 188,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 189,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 190,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 191,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 192,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 193,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 194,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 195,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 196,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 197,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 198,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 199,
+      "correct_answer": "B"
+    },
+    {
+      "topic": "Physical Geography",
+      "question": "The process by which water changes to vapor is",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Sublimation"
+      },
+      "explanation": "Evaporation = liquid water → water vapor",
+      "id": 200,
+      "correct_answer": "B"
+    }
+  ]
+}

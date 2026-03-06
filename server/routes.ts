@@ -10,7 +10,29 @@ import path from "path";
 
 // Mock JSON database for questions
 function getMockQuestions(subject: string, count: number): Question[] {
-  // We'll generate a few mock questions on the fly for the selected subject
+  const normalizedSubject = subject.toLowerCase().replace(/ /g, "_");
+  const fileName = normalizedSubject === "literature_in_english" ? "literature_in_english.json" : 
+                   normalizedSubject === "christian_religious_studies" ? "christian_religious_studies.json" :
+                   normalizedSubject === "islamic_studies" ? "islamic_studies.json" :
+                   normalizedSubject === "use_of_english" ? "use_of_english.json" :
+                   `${normalizedSubject}.json`;
+
+  const filePath = path.join(process.cwd(), "data", "questions", fileName);
+  
+  if (fs.existsSync(filePath)) {
+    try {
+      const fileData = fs.readFileSync(filePath, "utf-8");
+      const allQuestions: Question[] = JSON.parse(fileData);
+      
+      // Shuffle and take 'count' questions
+      const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+      return shuffled.slice(0, Math.min(count, shuffled.length));
+    } catch (e) {
+      console.error(`Error reading questions for ${subject}:`, e);
+    }
+  }
+
+  // Fallback to generated questions if file doesn't exist or errors
   const questions: Question[] = [];
   for (let i = 1; i <= count; i++) {
     questions.push({

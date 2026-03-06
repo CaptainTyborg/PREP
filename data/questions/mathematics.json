@@ -1,0 +1,2602 @@
+[
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 1,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Logarithms",
+    "question": "If log₂(x) = 3, find x",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "explanation": "If log₂(x) = 3, then x = 2³ = 8",
+    "id": 2,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Quadratic Equations",
+    "question": "Solve: x² - 5x + 6 = 0",
+    "options": {
+      "A": "x = 2, 3",
+      "B": "x = 1, 6",
+      "C": "x = -2, -3",
+      "D": "x = 2, -3"
+    },
+    "explanation": "(x - 2)(x - 3) = 0, so x = 2 or x = 3",
+    "id": 3,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Surds",
+    "question": "Rationalize: 1/(√2)",
+    "options": {
+      "A": "√2/2",
+      "B": "2/√2",
+      "C": "√2",
+      "D": "1/2"
+    },
+    "explanation": "Multiply by √2/√2 to get √2/2",
+    "id": 4,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Variation",
+    "question": "If y ∝ x and y = 12 when x = 3, find y when x = 5",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30"
+    },
+    "explanation": "y = kx where k = 4, so y = 4(5) = 20",
+    "id": 5,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Equations",
+    "question": "Solve: 3(x - 2) = 2(x + 1)",
+    "options": {
+      "A": "x = 8",
+      "B": "x = 6",
+      "C": "x = 5",
+      "D": "x = 3"
+    },
+    "explanation": "3x - 6 = 2x + 2, so x = 8",
+    "id": 6,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Polynomials",
+    "question": "Factorize: x² - 9",
+    "options": {
+      "A": "(x - 3)²",
+      "B": "(x + 3)(x - 3)",
+      "C": "(x + 9)(x - 1)",
+      "D": "(x - 9)(x + 1)"
+    },
+    "explanation": "x² - 9 = (x + 3)(x - 3) using difference of squares",
+    "id": 7,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Simultaneous Equations",
+    "question": "Solve: x + y = 5 and x - y = 1",
+    "options": {
+      "A": "x = 3, y = 2",
+      "B": "x = 2, y = 3",
+      "C": "x = 4, y = 1",
+      "D": "x = 1, y = 4"
+    },
+    "explanation": "Adding equations: 2x = 6, x = 3; y = 2",
+    "id": 8,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Algebraic Fractions",
+    "question": "Simplify: (x² - 4)/(x + 2)",
+    "options": {
+      "A": "x - 2",
+      "B": "x + 2",
+      "C": "x - 4",
+      "D": "x + 4"
+    },
+    "explanation": "(x² - 4)/(x + 2) = (x - 2)(x + 2)/(x + 2) = x - 2",
+    "id": 9,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Exponents",
+    "question": "Evaluate: (2/3)⁻²",
+    "options": {
+      "A": "4/9",
+      "B": "9/4",
+      "C": "2/3",
+      "D": "3/2"
+    },
+    "explanation": "(2/3)⁻² = (3/2)² = 9/4",
+    "id": 10,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Linear Inequalities",
+    "question": "Solve: 2x + 3 > 7",
+    "options": {
+      "A": "x > 2",
+      "B": "x < 2",
+      "C": "x > 4",
+      "D": "x < 4"
+    },
+    "explanation": "2x > 4, so x > 2",
+    "id": 11,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Number Base",
+    "question": "Convert 25₁₀ to base 2",
+    "options": {
+      "A": "11001₂",
+      "B": "10011₂",
+      "C": "10101₂",
+      "D": "11010₂"
+    },
+    "explanation": "25 = 16 + 8 + 1 = 2⁴ + 2³ + 2⁰ = 11001₂",
+    "id": 12,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Modular Arithmetic",
+    "question": "Find 17 (mod 5)",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "explanation": "17 = 3(5) + 2, so 17 ≡ 2 (mod 5)",
+    "id": 13,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Algebra - Sequences",
+    "question": "Find the 5th term of 2, 5, 8, 11, ...",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17"
+    },
+    "explanation": "Arithmetic sequence with a = 2, d = 3; T₅ = 2 + 4(3) = 14",
+    "id": 14,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - AP and GP",
+    "question": "Find the sum of first 4 terms of GP 3, 6, 12, ...",
+    "options": {
+      "A": "45",
+      "B": "48",
+      "C": "50",
+      "D": "60"
+    },
+    "explanation": "S₄ = 3(2⁴ - 1)/(2 - 1) = 3(15) = 45",
+    "id": 15,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Binomial Expansion",
+    "question": "Expand (a + b)² completely",
+    "options": {
+      "A": "a² + 2ab + b²",
+      "B": "a² + ab + b²",
+      "C": "a² + b²",
+      "D": "2a² + 2ab + 2b²"
+    },
+    "explanation": "(a + b)² = a² + 2ab + b²",
+    "id": 16,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Partial Fractions",
+    "question": "Express 5/(2x - 1) + 3/(x + 2) as a single fraction",
+    "options": {
+      "A": "11x + 7",
+      "B": "11x + 9",
+      "C": "(11x + 9)/(2x - 1)(x + 2)",
+      "D": "(11x + 7)/(2x - 1)(x + 2)"
+    },
+    "explanation": "Common denominator gives (11x + 7)/(2x - 1)(x + 2)",
+    "id": 17,
+    "correct_answer": "D"
+  },
+  {
+    "topic": "Algebra - Absolute Value",
+    "question": "Solve |x - 3| = 5",
+    "options": {
+      "A": "x = 8 or x = -2",
+      "B": "x = 8 or x = 2",
+      "C": "x = 5 or x = -5",
+      "D": "x = 3 or x = 5"
+    },
+    "explanation": "x - 3 = 5 gives x = 8; x - 3 = -5 gives x = -2",
+    "id": 18,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Systems",
+    "question": "Solve: 2x + y = 3 and x - y = 0",
+    "options": {
+      "A": "x = 1, y = 1",
+      "B": "x = 2, y = 2",
+      "C": "x = 1, y = 2",
+      "D": "x = 2, y = 1"
+    },
+    "explanation": "From x - y = 0, x = y; then 3x = 3, x = 1, y = 1",
+    "id": 19,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Cubic Equations",
+    "question": "Find one root of x³ - 8 = 0",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "explanation": "x³ = 8, so x = 2",
+    "id": 20,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Rational Expressions",
+    "question": "Simplify: (3x - 6)/(x - 2)",
+    "options": {
+      "A": "3",
+      "B": "x - 2",
+      "C": "3(x - 2)",
+      "D": "x + 2"
+    },
+    "explanation": "(3x - 6)/(x - 2) = 3(x - 2)/(x - 2) = 3",
+    "id": 21,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Matrix Basics",
+    "question": "If A = [1 2; 3 4], find A + A",
+    "options": {
+      "A": "[2 4; 6 8]",
+      "B": "[1 2; 3 4]",
+      "C": "[2 2; 6 4]",
+      "D": "[1 3; 3 8]"
+    },
+    "explanation": "A + A = 2A = [2 4; 6 8]",
+    "id": 22,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Basic Ratios",
+    "question": "In a right triangle, sin(30°) =",
+    "options": {
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "1",
+      "D": "0"
+    },
+    "explanation": "sin(30°) = 1/2 (standard angle)",
+    "id": 23,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Angles",
+    "question": "Find cos(60°)",
+    "options": {
+      "A": "1/2",
+      "B": "√3/2",
+      "C": "√2/2",
+      "D": "1"
+    },
+    "explanation": "cos(60°) = 1/2 (standard angle)",
+    "id": 24,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Identities",
+    "question": "Simplify: sin²θ + cos²θ",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "-1"
+    },
+    "explanation": "Fundamental trigonometric identity: sin²θ + cos²θ = 1",
+    "id": 25,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Trigonometry - SOHCAHTOA",
+    "question": "In triangle ABC, if angle A = 30° and opposite side = 5, find hypotenuse",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "explanation": "sin(30°) = 5/h; 1/2 = 5/h; h = 10",
+    "id": 26,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Trigonometry - Unit Circle",
+    "question": "Find tan(45°)",
+    "options": {
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "√2"
+    },
+    "explanation": "tan(45°) = 1 (standard angle)",
+    "id": 27,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Sine Rule",
+    "question": "In triangle, a/sin(A) = b/sin(B) is the sine rule. If a = 10, A = 30°, B = 60°, find b",
+    "options": {
+      "A": "10",
+      "B": "10√2",
+      "C": "10√3",
+      "D": "20"
+    },
+    "explanation": "10/sin(30°) = b/sin(60°); b = 10√3",
+    "id": 28,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Cosine Rule",
+    "question": "In triangle ABC, a = 5, b = 7, C = 60°. Find c",
+    "options": {
+      "A": "7",
+      "B": "√39",
+      "C": "√109",
+      "D": "8"
+    },
+    "explanation": "c² = a² + b² - 2ab·cos(C) = 25 + 49 - 70(1/2) = 39",
+    "id": 29,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Trigonometry - Radians",
+    "question": "Convert 180° to radians",
+    "options": {
+      "A": "π",
+      "B": "π/2",
+      "C": "2π",
+      "D": "π/4"
+    },
+    "explanation": "180° = π radians",
+    "id": 30,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Graphs",
+    "question": "The amplitude of y = 3sin(x) is",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "π",
+      "D": "sin(1)"
+    },
+    "explanation": "Amplitude = |coefficient of sin| = 3",
+    "id": 31,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Trigonometry - Period",
+    "question": "The period of y = sin(2x) is",
+    "options": {
+      "A": "π",
+      "B": "2π",
+      "C": "π/2",
+      "D": "4π"
+    },
+    "explanation": "Period = 2π/2 = π",
+    "id": 32,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Equations",
+    "question": "Solve sin(x) = 1/2 for 0° ≤ x ≤ 360°",
+    "options": {
+      "A": "30°, 150°",
+      "B": "45°, 135°",
+      "C": "60°, 120°",
+      "D": "30°, 120°"
+    },
+    "explanation": "sin(x) = 1/2 at x = 30° and x = 150°",
+    "id": 33,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Inverse Functions",
+    "question": "Find sin⁻¹(1/2)",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "explanation": "sin⁻¹(1/2) = 30°",
+    "id": 34,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Complementary Angles",
+    "question": "sin(30°) = cos(___°)",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°"
+    },
+    "explanation": "sin(30°) = cos(60°) = 1/2 (complementary angles)",
+    "id": 35,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Bearing",
+    "question": "A bearing of 050° from north is",
+    "options": {
+      "A": "50° clockwise from north",
+      "B": "50° counterclockwise from north",
+      "C": "40° east of south",
+      "D": "50° south of east"
+    },
+    "explanation": "Bearing is measured clockwise from north",
+    "id": 36,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Trigonometry - Special Triangles",
+    "question": "In a 30-60-90 triangle, if shortest side = 1, longest side =",
+    "options": {
+      "A": "√2",
+      "B": "√3",
+      "C": "2",
+      "D": "2√3"
+    },
+    "explanation": "In 30-60-90 triangle, sides are 1 : √3 : 2",
+    "id": 37,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Cotangent",
+    "question": "Find cot(45°)",
+    "options": {
+      "A": "0",
+      "B": "1/2",
+      "C": "1",
+      "D": "√2"
+    },
+    "explanation": "cot(45°) = 1/tan(45°) = 1/1 = 1",
+    "id": 38,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Secant",
+    "question": "Find sec(60°)",
+    "options": {
+      "A": "1",
+      "B": "√2",
+      "C": "2",
+      "D": "√3"
+    },
+    "explanation": "sec(60°) = 1/cos(60°) = 1/(1/2) = 2",
+    "id": 39,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Cosecant",
+    "question": "Find cosec(30°)",
+    "options": {
+      "A": "1",
+      "B": "√2",
+      "C": "2",
+      "D": "√3"
+    },
+    "explanation": "cosec(30°) = 1/sin(30°) = 1/(1/2) = 2",
+    "id": 40,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Trigonometry - Double Angles",
+    "question": "sin(2A) =",
+    "options": {
+      "A": "2sin(A)",
+      "B": "2sin(A)cos(A)",
+      "C": "sin²(A) - cos²(A)",
+      "D": "sin²(A) + cos²(A)"
+    },
+    "explanation": "sin(2A) = 2sin(A)cos(A) (double angle formula)",
+    "id": 41,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Angles",
+    "question": "The sum of interior angles of a pentagon is",
+    "options": {
+      "A": "360°",
+      "B": "540°",
+      "C": "720°",
+      "D": "900°"
+    },
+    "explanation": "Sum = (n-2) × 180° = (5-2) × 180° = 540°",
+    "id": 42,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Triangles",
+    "question": "In triangle ABC, if AB = AC = 5 and angle A = 90°, find BC",
+    "options": {
+      "A": "5",
+      "B": "5√2",
+      "C": "10",
+      "D": "25"
+    },
+    "explanation": "BC² = 5² + 5² = 50; BC = 5√2",
+    "id": 43,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Circles",
+    "question": "The circumference of a circle with radius 7 is",
+    "options": {
+      "A": "14π",
+      "B": "49π",
+      "C": "7π",
+      "D": "28π"
+    },
+    "explanation": "C = 2πr = 2π(7) = 14π",
+    "id": 44,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Circle Area",
+    "question": "The area of a circle with radius 3 is",
+    "options": {
+      "A": "3π",
+      "B": "6π",
+      "C": "9π",
+      "D": "12π"
+    },
+    "explanation": "A = πr² = π(3)² = 9π",
+    "id": 45,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Geometry - Arc Length",
+    "question": "Arc length of a circle with radius 5 and angle 60° is",
+    "options": {
+      "A": "5π/3",
+      "B": "5π/6",
+      "C": "10π/3",
+      "D": "2.5π"
+    },
+    "explanation": "Arc = (θ/360°) × 2πr = (60°/360°) × 10π = 5π/3",
+    "id": 46,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Tangent",
+    "question": "A tangent to a circle is perpendicular to the radius at the point of contact. This statement is",
+    "options": {
+      "A": "False",
+      "B": "True",
+      "C": "Sometimes true",
+      "D": "Undefined"
+    },
+    "explanation": "This is a fundamental property of tangents to circles",
+    "id": 47,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Quadrilaterals",
+    "question": "The sum of interior angles of a quadrilateral is",
+    "options": {
+      "A": "180°",
+      "B": "270°",
+      "C": "360°",
+      "D": "450°"
+    },
+    "explanation": "Sum = (4-2) × 180° = 360°",
+    "id": 48,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Geometry - Rectangle",
+    "question": "A rectangle has length 8 and width 6. Its diagonal is",
+    "options": {
+      "A": "10",
+      "B": "14",
+      "C": "48",
+      "D": "28"
+    },
+    "explanation": "d² = 8² + 6² = 64 + 36 = 100; d = 10",
+    "id": 49,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Parallelogram",
+    "question": "In a parallelogram, opposite angles are",
+    "options": {
+      "A": "Equal",
+      "B": "Supplementary",
+      "C": "Complementary",
+      "D": "Different"
+    },
+    "explanation": "In a parallelogram, opposite angles are equal",
+    "id": 50,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Rhombus",
+    "question": "All sides of a rhombus are",
+    "options": {
+      "A": "Different",
+      "B": "Equal",
+      "C": "Right angles",
+      "D": "Parallel"
+    },
+    "explanation": "A rhombus has all sides equal",
+    "id": 51,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Trapezoid",
+    "question": "A trapezoid has exactly _____ parallel sides",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "explanation": "A trapezoid has exactly one pair (1 set) of parallel sides",
+    "id": 52,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Congruence",
+    "question": "Two triangles are congruent if their corresponding sides are",
+    "options": {
+      "A": "Equal",
+      "B": "Proportional",
+      "C": "Perpendicular",
+      "D": "Parallel"
+    },
+    "explanation": "Congruent triangles have equal corresponding sides",
+    "id": 53,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Similarity",
+    "question": "Two figures are similar if their corresponding angles are equal and sides are",
+    "options": {
+      "A": "Equal",
+      "B": "Perpendicular",
+      "C": "Proportional",
+      "D": "Parallel"
+    },
+    "explanation": "Similar figures have proportional corresponding sides",
+    "id": 54,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Geometry - Pythagoras",
+    "question": "In a right triangle, if a = 3 and b = 4, then c =",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "explanation": "c² = 3² + 4² = 9 + 16 = 25; c = 5",
+    "id": 55,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Geometry - Surface Area",
+    "question": "Surface area of a cube with side 2 is",
+    "options": {
+      "A": "8",
+      "B": "12",
+      "C": "24",
+      "D": "32"
+    },
+    "explanation": "SA = 6s² = 6(2)² = 24",
+    "id": 56,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Geometry - Volume",
+    "question": "Volume of a cube with side 3 is",
+    "options": {
+      "A": "9",
+      "B": "27",
+      "C": "81",
+      "D": "6"
+    },
+    "explanation": "V = s³ = 3³ = 27",
+    "id": 57,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Sphere",
+    "question": "Surface area of a sphere with radius 2 is",
+    "options": {
+      "A": "8π",
+      "B": "16π",
+      "C": "32π",
+      "D": "4π"
+    },
+    "explanation": "SA = 4πr² = 4π(2)² = 16π",
+    "id": 58,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Geometry - Cylinder",
+    "question": "Volume of a cylinder with radius 2 and height 5 is",
+    "options": {
+      "A": "20π",
+      "B": "40π",
+      "C": "60π",
+      "D": "80π"
+    },
+    "explanation": "V = πr²h = π(2)²(5) = 20π",
+    "id": 59,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Statistics - Mean",
+    "question": "Find the mean of 2, 4, 6, 8, 10",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "explanation": "Mean = (2+4+6+8+10)/5 = 30/5 = 6",
+    "id": 60,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Statistics - Median",
+    "question": "Find the median of 1, 3, 5, 7, 9",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "explanation": "Median = middle value = 5",
+    "id": 61,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Statistics - Mode",
+    "question": "Find the mode of 1, 2, 2, 3, 3, 3, 4",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "explanation": "Mode = most frequent value = 3 (appears 3 times)",
+    "id": 62,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Statistics - Range",
+    "question": "Find the range of 5, 10, 15, 20, 25",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30"
+    },
+    "explanation": "Range = max - min = 25 - 5 = 20",
+    "id": 63,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Statistics - Variance",
+    "question": "Find variance of 1, 2, 3",
+    "options": {
+      "A": "1/2",
+      "B": "2/3",
+      "C": "1",
+      "D": "2"
+    },
+    "explanation": "Mean = 2; Variance = [(1-2)² + (2-2)² + (3-2)²]/3 = 2/3",
+    "id": 64,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Statistics - Standard Deviation",
+    "question": "Standard deviation is the square root of",
+    "options": {
+      "A": "Mean",
+      "B": "Variance",
+      "C": "Range",
+      "D": "Mode"
+    },
+    "explanation": "SD = √Variance",
+    "id": 65,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Probability - Basic",
+    "question": "The probability of rolling a 3 on a fair die is",
+    "options": {
+      "A": "1/6",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "1"
+    },
+    "explanation": "P(3) = 1/6 (one favorable outcome out of 6)",
+    "id": 66,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Probability - Compound",
+    "question": "Probability of getting heads on a coin and 4 on a die is",
+    "options": {
+      "A": "1/2",
+      "B": "1/6",
+      "C": "1/12",
+      "D": "1/8"
+    },
+    "explanation": "P(H and 4) = P(H) × P(4) = 1/2 × 1/6 = 1/12",
+    "id": 67,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Probability - Combinations",
+    "question": "Number of ways to choose 2 from 5 is C(5,2) =",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "explanation": "C(5,2) = 5!/(2!×3!) = 10",
+    "id": 68,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Probability - Permutations",
+    "question": "Number of arrangements of 3 from 5 is P(5,3) =",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "30",
+      "D": "60"
+    },
+    "explanation": "P(5,3) = 5!/(5-3)! = 5×4×3 = 60",
+    "id": 69,
+    "correct_answer": "D"
+  },
+  {
+    "topic": "Statistics - Frequency",
+    "question": "In a frequency distribution, sum of all frequencies equals",
+    "options": {
+      "A": "Mean",
+      "B": "Median",
+      "C": "Total number of observations",
+      "D": "Mode"
+    },
+    "explanation": "Sum of frequencies = n (total observations)",
+    "id": 70,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Probability - Mutually Exclusive",
+    "question": "Events A and B are mutually exclusive if P(A and B) =",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "1/2",
+      "D": "0.5"
+    },
+    "explanation": "Mutually exclusive events cannot occur together, so P(A∩B) = 0",
+    "id": 71,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Probability - Independent Events",
+    "question": "Events A and B are independent if P(A and B) =",
+    "options": {
+      "A": "P(A) + P(B)",
+      "B": "P(A) × P(B)",
+      "C": "P(A) - P(B)",
+      "D": "P(A)/P(B)"
+    },
+    "explanation": "For independent events, P(A∩B) = P(A) × P(B)",
+    "id": 72,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Statistics - Quartiles",
+    "question": "The second quartile (Q2) is also called the",
+    "options": {
+      "A": "Mean",
+      "B": "Mode",
+      "C": "Median",
+      "D": "Range"
+    },
+    "explanation": "Q2 = Median (middle value)",
+    "id": 73,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Statistics - Interquartile Range",
+    "question": "Interquartile range = Q3 - Q1. This measures",
+    "options": {
+      "A": "Total spread",
+      "B": "Middle 50% spread",
+      "C": "Maximum spread",
+      "D": "Variance"
+    },
+    "explanation": "IQR measures the spread of the middle 50% of data",
+    "id": 74,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Limits",
+    "question": "Find lim(x→2) (x² + 3x)",
+    "options": {
+      "A": "4",
+      "B": "10",
+      "C": "14",
+      "D": "18"
+    },
+    "explanation": "lim = 2² + 3(2) = 4 + 6 = 10",
+    "id": 75,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Derivative",
+    "question": "Find derivative of f(x) = x²",
+    "options": {
+      "A": "x",
+      "B": "2x",
+      "C": "x²",
+      "D": "2"
+    },
+    "explanation": "d/dx(x²) = 2x",
+    "id": 76,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Derivative Rules",
+    "question": "Find derivative of f(x) = 3x³ - 2x",
+    "options": {
+      "A": "3x² - 2",
+      "B": "9x² - 2",
+      "C": "6x² - 1",
+      "D": "9x - 2"
+    },
+    "explanation": "d/dx(3x³ - 2x) = 9x² - 2",
+    "id": 77,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Integration",
+    "question": "Find ∫ 2x dx",
+    "options": {
+      "A": "2x²",
+      "B": "x² + C",
+      "C": "2x² + C",
+      "D": "x + C"
+    },
+    "explanation": "∫ 2x dx = x² + C",
+    "id": 78,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Maxima/Minima",
+    "question": "Find critical points of f(x) = x² - 4x",
+    "options": {
+      "A": "x = 0",
+      "B": "x = 2",
+      "C": "x = 4",
+      "D": "x = -2"
+    },
+    "explanation": "f'(x) = 2x - 4 = 0; x = 2",
+    "id": 79,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Calculus - Chain Rule",
+    "question": "Find derivative of f(x) = (3x + 1)²",
+    "options": {
+      "A": "2(3x + 1)",
+      "B": "6(3x + 1)",
+      "C": "9x²",
+      "D": "6x"
+    },
+    "explanation": "f'(x) = 2(3x + 1) × 3 = 6(3x + 1)",
+    "id": 80,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Number Theory - Primes",
+    "question": "Which is a prime number?",
+    "options": {
+      "A": "4",
+      "B": "9",
+      "C": "11",
+      "D": "15"
+    },
+    "explanation": "11 is only divisible by 1 and 11",
+    "id": 81,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Number Theory - HCF",
+    "question": "HCF of 12 and 18 is",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "12"
+    },
+    "explanation": "HCF(12, 18) = 6",
+    "id": 82,
+    "correct_answer": "C"
+  },
+  {
+    "topic": "Number Theory - LCM",
+    "question": "LCM of 4 and 6 is",
+    "options": {
+      "A": "2",
+      "B": "12",
+      "C": "24",
+      "D": "6"
+    },
+    "explanation": "LCM(4, 6) = 12",
+    "id": 83,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Decimals",
+    "question": "0.25 as a fraction is",
+    "options": {
+      "A": "1/4",
+      "B": "1/5",
+      "C": "1/3",
+      "D": "2/5"
+    },
+    "explanation": "0.25 = 25/100 = 1/4",
+    "id": 84,
+    "correct_answer": "A"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 85,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 86,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 87,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 88,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 89,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 90,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 91,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 92,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 93,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 94,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 95,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 96,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 97,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 98,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 99,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 100,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 101,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 102,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 103,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 104,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 105,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 106,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 107,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 108,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 109,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 110,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 111,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 112,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 113,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 114,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 115,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 116,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 117,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 118,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 119,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 120,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 121,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 122,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 123,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 124,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 125,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 126,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 127,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 128,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 129,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 130,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 131,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 132,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 133,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 134,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 135,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 136,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 137,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 138,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 139,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 140,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 141,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 142,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 143,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 144,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 145,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 146,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 147,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 148,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 149,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 150,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 151,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 152,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 153,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 154,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 155,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 156,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 157,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 158,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 159,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 160,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 161,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 162,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 163,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 164,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 165,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 166,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 167,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 168,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 169,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 170,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 171,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 172,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 173,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 174,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 175,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 176,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 177,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 178,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 179,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 180,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 181,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 182,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 183,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 184,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 185,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 186,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 187,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 188,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 189,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 190,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 191,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 192,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 193,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 194,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 195,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 196,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 197,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 198,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 199,
+    "correct_answer": "B"
+  },
+  {
+    "topic": "Algebra - Indices",
+    "question": "Simplify: 2³ × 2⁵ ÷ 2⁴",
+    "options": {
+      "A": "2²",
+      "B": "2⁴",
+      "C": "2⁶",
+      "D": "2⁸"
+    },
+    "explanation": "Using index rules: 2³⁺⁵⁻⁴ = 2⁴ = 16",
+    "id": 200,
+    "correct_answer": "B"
+  }
+]
