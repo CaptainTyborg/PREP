@@ -22,10 +22,23 @@ function getMockQuestions(subject: string, count: number): Question[] {
   if (fs.existsSync(filePath)) {
     try {
       const fileData = fs.readFileSync(filePath, "utf-8");
-      const allQuestions: Question[] = JSON.parse(fileData);
+      const allQuestions: any[] = JSON.parse(fileData);
+      
+      // Map to ensure all fields are present and types match QuestionResponseSchema
+      const mappedQuestions: Question[] = allQuestions.map((q, idx) => ({
+        id: String(q.id || `${normalizedSubject}-${idx}`),
+        subject: q.subject || subject,
+        topic: q.topic || "General",
+        year: String(q.year || "2024"),
+        difficulty: q.difficulty || "medium",
+        question: q.question,
+        options: q.options,
+        correct_answer: q.correct_answer,
+        explanation: q.explanation || `The correct answer is ${q.correct_answer}.`
+      }));
       
       // Shuffle and take 'count' questions
-      const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+      const shuffled = [...mappedQuestions].sort(() => 0.5 - Math.random());
       return shuffled.slice(0, Math.min(count, shuffled.length));
     } catch (e) {
       console.error(`Error reading questions for ${subject}:`, e);
@@ -36,12 +49,12 @@ function getMockQuestions(subject: string, count: number): Question[] {
   const questions: Question[] = [];
   for (let i = 1; i <= count; i++) {
     questions.push({
-      id: `${subject}-${i}`,
+      id: `${normalizedSubject}-mock-${i}-${Math.random().toString(36).substr(2, 9)}`,
       subject,
       topic: "General",
-      year: "2023",
+      year: "2024",
       difficulty: "medium",
-      question: `This is mock question ${i} for ${subject}. What is the correct answer?`,
+      question: `[Mock] This is question ${i} for ${subject}. What is the correct answer?`,
       options: {
         A: `Option A for Q${i}`,
         B: `Option B for Q${i}`,
