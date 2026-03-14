@@ -11,10 +11,14 @@ const AVAILABLE_SUBJECTS = [
   "Physics",
   "Chemistry",
   "Biology",
-  "Economics",
+  "Literature in English",
   "Government",
-  "Literature",
-  "CRK"
+  "Economics",
+  "Geography",
+  "Agricultural Science",
+  "Civic Education",
+  "Christian Religious Studies",
+  "Islamic Studies"
 ];
 
 export default function PracticeSetup() {
