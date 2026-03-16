@@ -1,10 +1,12 @@
 import { Link, useLocation } from "wouter";
 import { useUser } from "@/hooks/use-auth";
-import { BookOpen, Home, LayoutDashboard, LogOut, User as UserIcon, Trophy } from "lucide-react";
+import { useAdminStatus } from "@/hooks/use-admin";
+import { BookOpen, LogOut, User as UserIcon, Trophy, ShieldCheck } from "lucide-react";
 import { Button } from "./ui/button";
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const { data: user } = useUser();
+  const { data: adminStatus } = useAdminStatus();
   const [location] = useLocation();
 
   const isExamRoute = location === "/cbt";
@@ -40,6 +42,17 @@ export function Layout({ children }: { children: React.ReactNode }) {
               <Trophy className="h-3.5 w-3.5" />
               Leaderboard
             </Link>
+            {adminStatus?.isAdmin ? (
+              <Link href="/admin" className={`flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-destructive ${location.startsWith("/admin") ? "text-destructive" : "text-muted-foreground"}`}>
+                <ShieldCheck className="h-3.5 w-3.5" />
+                Admin
+              </Link>
+            ) : (
+              <Link href="/admin/login" className={`flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-destructive ${location.startsWith("/admin") ? "text-destructive" : "text-muted-foreground"}`}>
+                <ShieldCheck className="h-3.5 w-3.5" />
+                Admin
+              </Link>
+            )}
           </nav>
 
           <div className="flex items-center gap-4">

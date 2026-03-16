@@ -203,6 +203,55 @@ Explain why the correct answer is right, and why the student's selected answer i
     }
   });
 
+  // ── Admin ────────────────────────────────────────────────────────────────
+  const ADMIN_USERNAME = process.env.ADMIN_USERNAME || "admin";
+  const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "prep-admin-2024";
+  let isAdminLoggedIn = false;
+
+  const requireAdmin = (req: Request, res: Response, next: () => void) => {
+    if (!isAdminLoggedIn) {
+      return res.status(401).json({ message: "Unauthorized" });
+    }
+    next();
+  };
+
+  app.get(api.admin.me.path, (req, res) => {
+    res.json({ isAdmin: isAdminLoggedIn });
+  });
+
+  app.post(api.admin.login.path, (req, res) => {
+    const { username, password } = req.body;
+    if (username === ADMIN_USERNAME && password === ADMIN_PASSWORD) {
+      isAdminLoggedIn = true;
+      return res.json({ ok: true });
+    }
+    return res.status(401).json({ message: "Invalid admin credentials" });
+  });
+
+  app.post(api.admin.logout.path, (req, res) => {
+    isAdminLoggedIn = false;
+    res.json({ ok: true });
+  });
+
+  app.get(api.admin.students.path, requireAdmin, async (req, res) => {
+    try {
+      const progress = await storage.getAllStudentsProgress();
+      res.json(progress);
+    } catch (err) {
+      res.status(500).json({ message: "Failed to fetch student data" });
+    }
+  });
+
+  app.get(api.admin.studentAttempts.path, requireAdmin, async (req, res) => {
+    try {
+      const userId = Number(req.params.userId);
+      const attempts = await storage.getAttempts(userId);
+      res.json(attempts);
+    } catch (err) {
+      res.status(500).json({ message: "Failed to fetch student attempts" });
+    }
+  });
+
   app.get(api.leaderboard.get.path, async (req, res) => {
     try {
       const leaderboard = await storage.getLeaderboard(50);

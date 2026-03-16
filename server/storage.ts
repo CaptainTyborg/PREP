@@ -18,6 +18,17 @@ export interface LeaderboardEntry {
   totalAttempts: number;
 }
 
+export interface StudentProgress {
+  userId: number;
+  name: string;
+  email: string;
+  totalAttempts: number;
+  bestScore: number;
+  averageScore: number;
+  lastAttemptAt: string | null;
+  subjects: string[];
+}
+
 export interface IStorage {
   // Users
   getUser(id: number): Promise<User | undefined>;
@@ -32,6 +43,9 @@ export interface IStorage {
 
   // Leaderboard
   getLeaderboard(limit?: number): Promise<LeaderboardEntry[]>;
+
+  // Admin
+  getAllStudentsProgress(): Promise<StudentProgress[]>;
 }
 
 export class DatabaseStorage implements IStorage {
@@ -70,6 +84,33 @@ export class DatabaseStorage implements IStorage {
   async createAttempt(attempt: InsertAttempt): Promise<Attempt> {
     const [created] = await db.insert(attempts).values(attempt).returning();
     return created;
+  }
+
+  async getAllStudentsProgress(): Promise<StudentProgress[]> {
+    const allUsers = await db.select().from(users);
+    const allAttempts = await db.select().from(attempts);
+
+    return allUsers.map((user) => {
+      const userAttempts = allAttempts.filter((a) => a.userId === user.id);
+      const scores = userAttempts.map((a) => a.score);
+      const sorted = [...userAttempts].sort(
+        (a, b) => new Date(b.createdAt!).getTime() - new Date(a.createdAt!).getTime()
+      );
+      const subjectSets = new Set<string>();
+      userAttempts.forEach((a) => {
+        ((a.subjects as string[]) || []).forEach((s) => subjectSets.add(s));
+      });
+      return {
+        userId: user.id,
+        name: user.name,
+        email: user.email,
+        totalAttempts: userAttempts.length,
+        bestScore: scores.length ? Math.max(...scores) : 0,
+        averageScore: scores.length ? Math.round(scores.reduce((a, b) => a + b, 0) / scores.length) : 0,
+        lastAttemptAt: sorted[0]?.createdAt ? new Date(sorted[0].createdAt).toISOString() : null,
+        subjects: Array.from(subjectSets),
+      };
+    });
   }
 
   async getLeaderboard(limit = 50): Promise<LeaderboardEntry[]> {

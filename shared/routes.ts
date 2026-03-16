@@ -127,6 +127,56 @@ export const api = {
         })),
       }
     }
+  },
+  admin: {
+    login: {
+      method: "POST" as const,
+      path: "/api/admin/login" as const,
+      input: z.object({ username: z.string(), password: z.string() }),
+      responses: {
+        200: z.object({ ok: z.boolean() }),
+        401: errorSchemas.validation,
+      }
+    },
+    logout: {
+      method: "POST" as const,
+      path: "/api/admin/logout" as const,
+      responses: {
+        200: z.object({ ok: z.boolean() }),
+      }
+    },
+    me: {
+      method: "GET" as const,
+      path: "/api/admin/me" as const,
+      responses: {
+        200: z.object({ isAdmin: z.boolean() }),
+      }
+    },
+    students: {
+      method: "GET" as const,
+      path: "/api/admin/students" as const,
+      responses: {
+        200: z.array(z.object({
+          userId: z.number(),
+          name: z.string(),
+          email: z.string(),
+          totalAttempts: z.number(),
+          bestScore: z.number(),
+          averageScore: z.number(),
+          lastAttemptAt: z.string().nullable(),
+          subjects: z.array(z.string()),
+        })),
+        401: errorSchemas.validation,
+      }
+    },
+    studentAttempts: {
+      method: "GET" as const,
+      path: "/api/admin/students/:userId/attempts" as const,
+      responses: {
+        200: z.array(z.custom<typeof attempts.$inferSelect>()),
+        401: errorSchemas.validation,
+      }
+    }
   }
 };
 

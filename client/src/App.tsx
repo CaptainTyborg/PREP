@@ -13,6 +13,8 @@ import PracticeSetup from "@/pages/practice";
 import CBTExam from "@/pages/cbt-exam";
 import Review from "@/pages/review";
 import Leaderboard from "@/pages/leaderboard";
+import AdminLogin from "@/pages/admin-login";
+import AdminDashboard from "@/pages/admin-dashboard";
 
 function Router() {
   return (
@@ -24,6 +26,8 @@ function Router() {
       <Route path="/cbt" component={CBTExam} />
       <Route path="/review/:attemptId" component={Review} />
       <Route path="/leaderboard" component={Leaderboard} />
+      <Route path="/admin/login" component={AdminLogin} />
+      <Route path="/admin" component={AdminDashboard} />
       <Route component={NotFound} />
     </Switch>
   );
