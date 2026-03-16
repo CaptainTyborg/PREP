@@ -8,7 +8,15 @@ import {
   type Attempt,
   type InsertAttempt
 } from "@shared/schema";
-import { eq } from "drizzle-orm";
+import { eq, desc, max, count, sql } from "drizzle-orm";
+
+export interface LeaderboardEntry {
+  rank: number;
+  userId: number;
+  name: string;
+  bestScore: number;
+  totalAttempts: number;
+}
 
 export interface IStorage {
   // Users
@@ -21,6 +29,9 @@ export interface IStorage {
   getAttempts(userId: number): Promise<Attempt[]>;
   getAttempt(id: number): Promise<Attempt | undefined>;
   createAttempt(attempt: InsertAttempt): Promise<Attempt>;
+
+  // Leaderboard
+  getLeaderboard(limit?: number): Promise<LeaderboardEntry[]>;
 }
 
 export class DatabaseStorage implements IStorage {
@@ -59,6 +70,29 @@ export class DatabaseStorage implements IStorage {
   async createAttempt(attempt: InsertAttempt): Promise<Attempt> {
     const [created] = await db.insert(attempts).values(attempt).returning();
     return created;
+  }
+
+  async getLeaderboard(limit = 50): Promise<LeaderboardEntry[]> {
+    const rows = await db
+      .select({
+        userId: attempts.userId,
+        name: users.name,
+        bestScore: max(attempts.score),
+        totalAttempts: count(attempts.id),
+      })
+      .from(attempts)
+      .innerJoin(users, eq(attempts.userId, users.id))
+      .groupBy(attempts.userId, users.name)
+      .orderBy(desc(max(attempts.score)))
+      .limit(limit);
+
+    return rows.map((row, idx) => ({
+      rank: idx + 1,
+      userId: row.userId,
+      name: row.name,
+      bestScore: row.bestScore ?? 0,
+      totalAttempts: Number(row.totalAttempts),
+    }));
   }
 }
 

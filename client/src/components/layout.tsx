@@ -1,6 +1,6 @@
 import { Link, useLocation } from "wouter";
 import { useUser } from "@/hooks/use-auth";
-import { BookOpen, Home, LayoutDashboard, LogOut, User as UserIcon } from "lucide-react";
+import { BookOpen, Home, LayoutDashboard, LogOut, User as UserIcon, Trophy } from "lucide-react";
 import { Button } from "./ui/button";
 
 export function Layout({ children }: { children: React.ReactNode }) {
@@ -36,6 +36,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
                 </Link>
               </>
             )}
+            <Link href="/leaderboard" className={`flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-accent ${location === "/leaderboard" ? "text-accent" : "text-muted-foreground"}`}>
+              <Trophy className="h-3.5 w-3.5" />
+              Leaderboard
+            </Link>
           </nav>
 
           <div className="flex items-center gap-4">

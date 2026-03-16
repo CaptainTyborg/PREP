@@ -112,6 +112,21 @@ export const api = {
         }),
       }
     }
+  },
+  leaderboard: {
+    get: {
+      method: "GET" as const,
+      path: "/api/leaderboard" as const,
+      responses: {
+        200: z.array(z.object({
+          rank: z.number(),
+          userId: z.number(),
+          name: z.string(),
+          bestScore: z.number(),
+          totalAttempts: z.number(),
+        })),
+      }
+    }
   }
 };
 

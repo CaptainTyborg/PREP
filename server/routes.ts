@@ -203,5 +203,14 @@ Explain why the correct answer is right, and why the student's selected answer i
     }
   });
 
+  app.get(api.leaderboard.get.path, async (req, res) => {
+    try {
+      const leaderboard = await storage.getLeaderboard(50);
+      res.json(leaderboard);
+    } catch (err) {
+      res.status(500).json({ message: "Failed to fetch leaderboard" });
+    }
+  });
+
   return httpServer;
 }
