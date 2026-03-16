@@ -1,0 +1,2806 @@
+{
+  "subject": "Biology",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "Which organelle is known as the 'powerhouse of the cell' because it produces ATP through cellular respiration?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Mitochondrion",
+        "C": "Golgi apparatus",
+        "D": "Lysosome"
+      },
+      "correct_answer": "B",
+      "explanation": "The mitochondrion is called the powerhouse of the cell because it is the site of aerobic respiration, producing ATP (adenosine triphosphate) used for cellular energy."
+    },
+    {
+      "id": 2,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "Which of the following structures is found in plant cells but NOT in animal cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Cell membrane",
+        "C": "Cell wall",
+        "D": "Nucleus"
+      },
+      "correct_answer": "C",
+      "explanation": "Plant cells have a rigid cell wall made of cellulose, which animal cells lack. Both cell types have mitochondria, cell membranes, and nuclei."
+    },
+    {
+      "id": 3,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The organelle responsible for protein synthesis in a cell is the:",
+      "options": {
+        "A": "Golgi apparatus",
+        "B": "Ribosome",
+        "C": "Lysosome",
+        "D": "Vacuole"
+      },
+      "correct_answer": "B",
+      "explanation": "Ribosomes are the sites of protein synthesis (translation). They read mRNA and assemble amino acids into polypeptide chains."
+    },
+    {
+      "id": 4,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The fluid-filled sac that maintains turgor pressure in plant cells is the:",
+      "options": {
+        "A": "Mitochondrion",
+        "B": "Chloroplast",
+        "C": "Central vacuole",
+        "D": "Endoplasmic reticulum"
+      },
+      "correct_answer": "C",
+      "explanation": "The central vacuole in plant cells stores water and maintains turgor pressure, which keeps plant cells firm and supports the plant structure."
+    },
+    {
+      "id": 5,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "Which organelle contains chlorophyll and is responsible for photosynthesis?",
+      "options": {
+        "A": "Mitochondrion",
+        "B": "Chloroplast",
+        "C": "Ribosome",
+        "D": "Golgi apparatus"
+      },
+      "correct_answer": "B",
+      "explanation": "Chloroplasts contain chlorophyll, the green pigment that captures light energy for photosynthesis. They are found only in plant cells and algae."
+    },
+    {
+      "id": 6,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The control centre of the cell that contains genetic information (DNA) is the:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Cell membrane",
+        "C": "Nucleus",
+        "D": "Ribosome"
+      },
+      "correct_answer": "C",
+      "explanation": "The nucleus is the control centre of eukaryotic cells, containing the cell's DNA organized into chromosomes. It controls cell activities and heredity."
+    },
+    {
+      "id": 7,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "Prokaryotic cells differ from eukaryotic cells in that prokaryotic cells:",
+      "options": {
+        "A": "have a cell membrane",
+        "B": "have ribosomes",
+        "C": "lack a membrane-bound nucleus",
+        "D": "have cytoplasm"
+      },
+      "correct_answer": "C",
+      "explanation": "Prokaryotic cells (bacteria and archaea) lack a membrane-bound nucleus. Their DNA is found in the cytoplasm as a circular chromosome."
+    },
+    {
+      "id": 8,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The Golgi apparatus is responsible for:",
+      "options": {
+        "A": "DNA replication",
+        "B": "cellular respiration",
+        "C": "modifying, packaging, and transporting proteins",
+        "D": "photosynthesis"
+      },
+      "correct_answer": "C",
+      "explanation": "The Golgi apparatus (Golgi body) receives proteins from the endoplasmic reticulum, modifies them, and packages them for secretion or intracellular use."
+    },
+    {
+      "id": 9,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "Lysosomes are organelles that contain digestive enzymes used to:",
+      "options": {
+        "A": "synthesize proteins",
+        "B": "produce energy",
+        "C": "break down waste materials and cellular debris",
+        "D": "store genetic information"
+      },
+      "correct_answer": "C",
+      "explanation": "Lysosomes contain hydrolytic enzymes that digest worn-out organelles, food particles, and foreign invaders through a process called autolysis."
+    },
+    {
+      "id": 10,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The semi-permeable membrane that controls what enters and leaves the cell is the:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Nuclear envelope",
+        "C": "Cell membrane (plasma membrane)",
+        "D": "Tonoplast"
+      },
+      "correct_answer": "C",
+      "explanation": "The cell (plasma) membrane is selectively permeable, controlling the movement of substances in and out of the cell. It is made of a phospholipid bilayer."
+    },
+    {
+      "id": 11,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "The type of cell division that produces genetically identical daughter cells is called:",
+      "options": {
+        "A": "Meiosis",
+        "B": "Mitosis",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitosis produces two genetically identical diploid daughter cells. It is used for growth, repair, and asexual reproduction."
+    },
+    {
+      "id": 12,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "Meiosis results in the production of:",
+      "options": {
+        "A": "2 diploid cells",
+        "B": "4 diploid cells",
+        "C": "2 haploid cells",
+        "D": "4 haploid cells"
+      },
+      "correct_answer": "D",
+      "explanation": "Meiosis produces 4 haploid (n) daughter cells (gametes) with half the chromosome number of the parent cell. This maintains chromosome number across generations."
+    },
+    {
+      "id": 13,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "The stage of mitosis during which chromosomes line up along the cell's equator (metaphase plate) is called:",
+      "options": {
+        "A": "Prophase",
+        "B": "Anaphase",
+        "C": "Metaphase",
+        "D": "Telophase"
+      },
+      "correct_answer": "C",
+      "explanation": "During metaphase, chromosomes align along the cell's equatorial plate (metaphase plate), attached to spindle fibres from both poles."
+    },
+    {
+      "id": 14,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "During which phase of meiosis does crossing over (exchange of genetic material between homologous chromosomes) occur?",
+      "options": {
+        "A": "Metaphase I",
+        "B": "Prophase I",
+        "C": "Anaphase II",
+        "D": "Telophase II"
+      },
+      "correct_answer": "B",
+      "explanation": "Crossing over occurs during Prophase I of meiosis, when homologous chromosomes pair up (synapsis) and exchange segments at chiasmata, increasing genetic variation."
+    },
+    {
+      "id": 15,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "A human body cell contains 46 chromosomes. After meiosis, each gamete would contain:",
+      "options": {
+        "A": "46 chromosomes",
+        "B": "92 chromosomes",
+        "C": "23 chromosomes",
+        "D": "12 chromosomes"
+      },
+      "correct_answer": "C",
+      "explanation": "Meiosis halves the chromosome number. Human body cells are diploid (2n=46), so gametes are haploid (n=23)."
+    },
+    {
+      "id": 16,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Gregor Mendel's Law of Segregation states that:",
+      "options": {
+        "A": "genes for different traits assort independently",
+        "B": "two alleles for each trait separate during gamete formation",
+        "C": "dominant alleles always mask recessive ones",
+        "D": "offspring always resemble their parents"
+      },
+      "correct_answer": "B",
+      "explanation": "The Law of Segregation states that the two alleles for a trait separate (segregate) during gamete formation, so each gamete carries only one allele for each gene."
+    },
+    {
+      "id": 17,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "In a cross between two heterozygous tall plants (Tt × Tt), what is the expected ratio of tall to short offspring?",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "4:0"
+      },
+      "correct_answer": "C",
+      "explanation": "Tt × Tt gives TT:Tt:tt = 1:2:1, so 3 tall (TT + 2Tt) : 1 short (tt). The phenotypic ratio is 3:1."
+    },
+    {
+      "id": 18,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "An organism with two identical alleles for a trait (e.g., TT or tt) is said to be:",
+      "options": {
+        "A": "Heterozygous",
+        "B": "Homozygous",
+        "C": "Codominant",
+        "D": "Hybrid"
+      },
+      "correct_answer": "B",
+      "explanation": "A homozygous organism has two identical alleles for a gene (TT or tt). A heterozygous organism has two different alleles (Tt)."
+    },
+    {
+      "id": 19,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "The physical appearance of an organism resulting from its genetic makeup is called its:",
+      "options": {
+        "A": "Genotype",
+        "B": "Phenotype",
+        "C": "Allele",
+        "D": "Karyotype"
+      },
+      "correct_answer": "B",
+      "explanation": "Phenotype is the observable physical characteristics of an organism (e.g., tall, blue eyes). Genotype is the genetic makeup (e.g., Tt, BB)."
+    },
+    {
+      "id": 20,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Haemophilia is a sex-linked disorder. If a carrier female (X^H X^h) mates with a normal male (X^H Y), what percentage of their sons will have haemophilia?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Sons get Y from father and either X^H or X^h from mother. 50% of sons get X^h Y (haemophiliac) and 50% get X^H Y (normal)."
+    },
+    {
+      "id": 21,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "The ABO blood group system in humans is an example of:",
+      "options": {
+        "A": "simple dominance",
+        "B": "sex linkage",
+        "C": "multiple alleles and codominance",
+        "D": "incomplete dominance"
+      },
+      "correct_answer": "C",
+      "explanation": "ABO blood groups involve three alleles (I^A, I^B, i), with I^A and I^B being codominant (both expressed in AB blood type) and i being recessive."
+    },
+    {
+      "id": 22,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Which of the following blood groups is the universal donor?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "AB",
+        "D": "O"
+      },
+      "correct_answer": "D",
+      "explanation": "Blood group O is the universal donor because it has no A or B antigens on red blood cells, so it won't trigger an immune response in any recipient."
+    },
+    {
+      "id": 23,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Sickle cell anaemia is caused by a mutation in which gene?",
+      "options": {
+        "A": "Insulin gene",
+        "B": "Haemoglobin gene",
+        "C": "Factor VIII gene",
+        "D": "CFTR gene"
+      },
+      "correct_answer": "B",
+      "explanation": "Sickle cell anaemia is caused by a point mutation in the haemoglobin gene, substituting valine for glutamic acid at position 6 of the beta-globin chain."
+    },
+    {
+      "id": 24,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Mendel's Law of Independent Assortment states that:",
+      "options": {
+        "A": "dominant alleles mask recessive ones",
+        "B": "alleles for different genes assort independently during gamete formation",
+        "C": "like always breeds like",
+        "D": "recessive traits skip generations"
+      },
+      "correct_answer": "B",
+      "explanation": "The Law of Independent Assortment states that alleles for different genes segregate independently of one another during gamete formation (applies to genes on different chromosomes)."
+    },
+    {
+      "id": 25,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "A mutation is defined as:",
+      "options": {
+        "A": "the normal variation within a species",
+        "B": "a permanent change in the DNA sequence of a gene or chromosome",
+        "C": "the process of natural selection",
+        "D": "the exchange of genetic material between homologous chromosomes"
+      },
+      "correct_answer": "B",
+      "explanation": "A mutation is a heritable change in the nucleotide sequence of DNA. Mutations can be beneficial, harmful, or neutral."
+    },
+    {
+      "id": 26,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Darwin's theory of evolution is based on the concept of:",
+      "options": {
+        "A": "inheritance of acquired characteristics",
+        "B": "natural selection",
+        "C": "spontaneous generation",
+        "D": "panspermia"
+      },
+      "correct_answer": "B",
+      "explanation": "Darwin proposed that evolution occurs through natural selection — organisms with traits better suited to their environment survive and reproduce more successfully."
+    },
+    {
+      "id": 27,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "The concept that organisms that are better adapted to their environment survive and reproduce is called:",
+      "options": {
+        "A": "Genetic drift",
+        "B": "Natural selection",
+        "C": "Mutation",
+        "D": "Artificial selection"
+      },
+      "correct_answer": "B",
+      "explanation": "Natural selection is the process by which individuals with favourable heritable traits have better reproductive success, leading to those traits becoming more common in populations."
+    },
+    {
+      "id": 28,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Evidence for evolution includes all of the following EXCEPT:",
+      "options": {
+        "A": "fossil records",
+        "B": "comparative anatomy",
+        "C": "molecular biology",
+        "D": "the complexity of living things"
+      },
+      "correct_answer": "D",
+      "explanation": "Fossil records, comparative anatomy (homologous structures), and molecular biology (DNA similarities) are direct evidence for evolution. Complexity alone is not evidence for evolution."
+    },
+    {
+      "id": 29,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Structures that have the same basic structural plan but are adapted for different functions are called:",
+      "options": {
+        "A": "Analogous structures",
+        "B": "Homologous structures",
+        "C": "Vestigial structures",
+        "D": "Convergent structures"
+      },
+      "correct_answer": "B",
+      "explanation": "Homologous structures share a common ancestry and basic structural plan (e.g., human arm, whale flipper, bat wing) but may serve different functions."
+    },
+    {
+      "id": 30,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Vestigial organs are structures that:",
+      "options": {
+        "A": "are fully functional and important for survival",
+        "B": "appear only in embryos",
+        "C": "are reduced and functionless remnants of structures that were useful in ancestors",
+        "D": "evolved independently in unrelated organisms"
+      },
+      "correct_answer": "C",
+      "explanation": "Vestigial organs are reduced, functionless remnants of structures that served a purpose in ancestral organisms. Examples include the human appendix and tailbone (coccyx)."
+    },
+    {
+      "id": 31,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "The theory that proposed that acquired characteristics gained during an organism's lifetime could be inherited by offspring was proposed by:",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Alfred Wallace"
+      },
+      "correct_answer": "C",
+      "explanation": "Lamarck proposed the inheritance of acquired characteristics — for example, that giraffes stretched their necks during their lifetime and passed longer necks to offspring. This theory was later disproved."
+    },
+    {
+      "id": 32,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The total number of organisms of the same species living in a given area at a given time is called a:",
+      "options": {
+        "A": "Community",
+        "B": "Ecosystem",
+        "C": "Population",
+        "D": "Biome"
+      },
+      "correct_answer": "C",
+      "explanation": "A population is a group of individuals of the same species living in the same area at the same time and capable of interbreeding."
+    },
+    {
+      "id": 33,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "All the populations of different species living and interacting in a given area constitute a:",
+      "options": {
+        "A": "Population",
+        "B": "Community",
+        "C": "Ecosystem",
+        "D": "Biosphere"
+      },
+      "correct_answer": "B",
+      "explanation": "A community includes all the populations of different species (plants, animals, fungi, microorganisms) that live and interact in a given area."
+    },
+    {
+      "id": 34,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "A food chain always begins with a:",
+      "options": {
+        "A": "Primary consumer",
+        "B": "Secondary consumer",
+        "C": "Producer (autotroph)",
+        "D": "Decomposer"
+      },
+      "correct_answer": "C",
+      "explanation": "A food chain always starts with a producer (autotroph/plant) that fixes energy from the sun through photosynthesis."
+    },
+    {
+      "id": 35,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "In a food chain: Grass → Grasshopper → Frog → Snake → Eagle, the frog is a:",
+      "options": {
+        "A": "Producer",
+        "B": "Primary consumer",
+        "C": "Secondary consumer",
+        "D": "Tertiary consumer"
+      },
+      "correct_answer": "C",
+      "explanation": "The frog eats the grasshopper (primary consumer), making the frog a secondary consumer (second-level consumer)."
+    },
+    {
+      "id": 36,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Organisms that break down dead organic matter into simpler inorganic substances are called:",
+      "options": {
+        "A": "Producers",
+        "B": "Consumers",
+        "C": "Decomposers",
+        "D": "Scavengers"
+      },
+      "correct_answer": "C",
+      "explanation": "Decomposers (bacteria and fungi) break down dead organisms and waste products, recycling nutrients back into the ecosystem."
+    },
+    {
+      "id": 37,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The relationship between a clownfish and a sea anemone, where the fish gets protection and the anemone gets cleaned, is an example of:",
+      "options": {
+        "A": "Parasitism",
+        "B": "Commensalism",
+        "C": "Mutualism",
+        "D": "Predation"
+      },
+      "correct_answer": "C",
+      "explanation": "Mutualism is a symbiotic relationship where both organisms benefit. The clownfish is protected by the anemone's tentacles and the clownfish cleans the anemone."
+    },
+    {
+      "id": 38,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Parasitism is a relationship in which:",
+      "options": {
+        "A": "both organisms benefit",
+        "B": "one organism benefits while the other is harmed",
+        "C": "one organism benefits while the other is unaffected",
+        "D": "both organisms are harmed"
+      },
+      "correct_answer": "B",
+      "explanation": "In parasitism, the parasite benefits while the host is harmed. Examples include tapeworms in humans and mistletoe on trees."
+    },
+    {
+      "id": 39,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The nitrogen cycle involves the conversion of atmospheric nitrogen (N₂) into usable forms by:",
+      "options": {
+        "A": "photosynthesis",
+        "B": "nitrogen-fixing bacteria such as Rhizobium",
+        "C": "decomposition only",
+        "D": "respiration"
+      },
+      "correct_answer": "B",
+      "explanation": "Nitrogen-fixing bacteria (e.g., Rhizobium in legume root nodules and Azotobacter in soil) convert atmospheric N₂ into ammonia (NH₃) that plants can use."
+    },
+    {
+      "id": 40,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The process by which energy flows through an ecosystem from producers to consumers shows that approximately what percentage of energy is transferred between each trophic level?",
+      "options": {
+        "A": "1%",
+        "B": "10%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correct_answer": "B",
+      "explanation": "The 10% rule states that approximately 10% of energy stored in one trophic level is transferred to the next. The rest is lost as heat through respiration."
+    },
+    {
+      "id": 41,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The role or function of an organism in its community, including its feeding habits and interactions with other organisms, is called its:",
+      "options": {
+        "A": "Habitat",
+        "B": "Niche",
+        "C": "Territory",
+        "D": "Range"
+      },
+      "correct_answer": "B",
+      "explanation": "An ecological niche is the role an organism plays in its ecosystem, including its position in the food web, habitat, and interactions with other species."
+    },
+    {
+      "id": 42,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Eutrophication of water bodies is caused by excess:",
+      "options": {
+        "A": "carbon dioxide",
+        "B": "salt",
+        "C": "nutrients (nitrates and phosphates) from agricultural runoff",
+        "D": "sediment and turbidity"
+      },
+      "correct_answer": "C",
+      "explanation": "Eutrophication occurs when excess nitrates and phosphates (from fertilizers) enter water bodies, causing algal blooms that deplete oxygen and kill aquatic life."
+    },
+    {
+      "id": 43,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Photosynthesis occurs in which part of the plant?",
+      "options": {
+        "A": "Root",
+        "B": "Stem",
+        "C": "Leaf (chloroplast)",
+        "D": "Flower"
+      },
+      "correct_answer": "C",
+      "explanation": "Photosynthesis primarily occurs in the leaves, specifically in the chloroplasts of mesophyll cells, where chlorophyll captures light energy."
+    },
+    {
+      "id": 44,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "The overall equation for photosynthesis is:",
+      "options": {
+        "A": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy",
+        "B": "6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂",
+        "C": "6O₂ + C₆H₁₂O₆ → 6CO₂ + 6H₂O",
+        "D": "CO₂ + H₂O → glucose + O₂"
+      },
+      "correct_answer": "B",
+      "explanation": "The equation for photosynthesis: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ (glucose) + 6O₂. Plants use CO₂, water, and light to produce glucose and oxygen."
+    },
+    {
+      "id": 45,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a product of photosynthesis?",
+      "options": {
+        "A": "Glucose",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Starch"
+      },
+      "correct_answer": "C",
+      "explanation": "Carbon dioxide is a reactant (raw material) in photosynthesis, not a product. Products include glucose and oxygen."
+    },
+    {
+      "id": 46,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "The test for starch in a leaf involves using:",
+      "options": {
+        "A": "Fehling's solution",
+        "B": "Benedict's reagent",
+        "C": "Iodine solution",
+        "D": "Biuret reagent"
+      },
+      "correct_answer": "C",
+      "explanation": "Iodine solution turns blue-black in the presence of starch. This is used in the standard test for photosynthesis in leaves."
+    },
+    {
+      "id": 47,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Which nutrient is tested for using Benedict's reagent, which turns brick-red when positive?",
+      "options": {
+        "A": "Protein",
+        "B": "Fat",
+        "C": "Starch",
+        "D": "Reducing sugars"
+      },
+      "correct_answer": "D",
+      "explanation": "Benedict's reagent tests for reducing sugars (glucose, maltose, lactose). A positive result gives a brick-red precipitate after heating."
+    },
+    {
+      "id": 48,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "The Biuret test is used to detect the presence of:",
+      "options": {
+        "A": "Starch",
+        "B": "Reducing sugars",
+        "C": "Lipids",
+        "D": "Proteins"
+      },
+      "correct_answer": "D",
+      "explanation": "The Biuret test detects proteins. A positive result gives a violet/purple colour when NaOH and dilute CuSO₄ are added to a protein solution."
+    },
+    {
+      "id": 49,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "The emulsion test is used to detect the presence of:",
+      "options": {
+        "A": "Proteins",
+        "B": "Reducing sugars",
+        "C": "Lipids (fats and oils)",
+        "D": "Starch"
+      },
+      "correct_answer": "C",
+      "explanation": "The emulsion test detects lipids. When ethanol is added to a substance containing fat and then water is added, a milky-white emulsion forms."
+    },
+    {
+      "id": 50,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Vitamins are classified as essential nutrients because the human body:",
+      "options": {
+        "A": "uses them as a major energy source",
+        "B": "can manufacture them in large quantities",
+        "C": "cannot synthesize sufficient amounts and must obtain them from diet",
+        "D": "uses them to build cell membranes"
+      },
+      "correct_answer": "C",
+      "explanation": "Vitamins are essential micronutrients that the body cannot produce in adequate amounts and must be obtained from food. They regulate metabolic processes."
+    },
+    {
+      "id": 51,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Deficiency of Vitamin C causes:",
+      "options": {
+        "A": "Rickets",
+        "B": "Night blindness",
+        "C": "Scurvy",
+        "D": "Anaemia"
+      },
+      "correct_answer": "C",
+      "explanation": "Vitamin C (ascorbic acid) deficiency causes scurvy, characterized by bleeding gums, slow wound healing, and skin problems."
+    },
+    {
+      "id": 52,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Deficiency of Vitamin D causes:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets (in children) and osteomalacia (in adults)",
+        "C": "Night blindness",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B",
+      "explanation": "Vitamin D deficiency impairs calcium absorption, causing rickets (soft, deformed bones) in children and osteomalacia (weak bones) in adults."
+    },
+    {
+      "id": 53,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Night blindness is caused by deficiency of:",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B",
+        "C": "Vitamin C",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "A",
+      "explanation": "Vitamin A (retinol) is needed to produce rhodopsin (visual purple) in rod cells. Deficiency leads to night blindness and eventually total blindness (xerophthalmia)."
+    },
+    {
+      "id": 54,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The main function of red blood cells (erythrocytes) is to:",
+      "options": {
+        "A": "produce antibodies",
+        "B": "transport oxygen throughout the body",
+        "C": "fight infections",
+        "D": "produce hormones"
+      },
+      "correct_answer": "B",
+      "explanation": "Red blood cells contain haemoglobin, which binds oxygen in the lungs and releases it to body tissues. They lack a nucleus to maximize space for haemoglobin."
+    },
+    {
+      "id": 55,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The liquid component of blood in which blood cells are suspended is called:",
+      "options": {
+        "A": "Serum",
+        "B": "Lymph",
+        "C": "Plasma",
+        "D": "Cytoplasm"
+      },
+      "correct_answer": "C",
+      "explanation": "Blood plasma is the straw-coloured liquid (about 55% of blood volume) that carries blood cells, proteins, nutrients, hormones, and waste products."
+    },
+    {
+      "id": 56,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The blood vessels that carry oxygenated blood away from the heart are called:",
+      "options": {
+        "A": "Veins",
+        "B": "Capillaries",
+        "C": "Arteries",
+        "D": "Venules"
+      },
+      "correct_answer": "C",
+      "explanation": "Arteries carry blood away from the heart. Most arteries carry oxygenated blood (except the pulmonary artery, which carries deoxygenated blood to the lungs)."
+    },
+    {
+      "id": 57,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "In plants, water and mineral salts are transported from the roots to the leaves through:",
+      "options": {
+        "A": "Phloem",
+        "B": "Xylem",
+        "C": "Cortex",
+        "D": "Epidermis"
+      },
+      "correct_answer": "B",
+      "explanation": "Xylem vessels transport water and dissolved mineral salts upward from roots to leaves through a process driven by transpiration pull."
+    },
+    {
+      "id": 58,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "In plants, manufactured food (sucrose and amino acids) is transported from leaves to other parts through:",
+      "options": {
+        "A": "Xylem",
+        "B": "Phloem",
+        "C": "Cortex",
+        "D": "Root hair cells"
+      },
+      "correct_answer": "B",
+      "explanation": "Phloem sieve tubes transport organic solutes (mainly sucrose) from leaves (source) to other parts of the plant (sink) through translocation."
+    },
+    {
+      "id": 59,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The process by which water is lost from plant leaves through stomata is called:",
+      "options": {
+        "A": "Transpiration",
+        "B": "Translocation",
+        "C": "Guttation",
+        "D": "Plasmolysis"
+      },
+      "correct_answer": "A",
+      "explanation": "Transpiration is the loss of water vapour from plant surfaces (mainly through leaf stomata). It creates the 'transpiration pull' that draws water up the xylem."
+    },
+    {
+      "id": 60,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "Osmosis is defined as the movement of water molecules from a region of:",
+      "options": {
+        "A": "low water concentration to high water concentration through a selectively permeable membrane",
+        "B": "high water concentration to low water concentration through a selectively permeable membrane",
+        "C": "high solute concentration to low solute concentration",
+        "D": "low temperature to high temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Osmosis is the movement of water molecules from a region of high water concentration (dilute solution) to low water concentration (concentrated solution) through a selectively permeable membrane."
+    },
+    {
+      "id": 61,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "A plant cell placed in a hypertonic solution will:",
+      "options": {
+        "A": "swell and burst (lyse)",
+        "B": "remain unchanged",
+        "C": "lose water and undergo plasmolysis",
+        "D": "absorb solutes and become turgid"
+      },
+      "correct_answer": "C",
+      "explanation": "In a hypertonic solution (more concentrated than cell sap), water leaves the cell by osmosis, causing the cell to shrink and the membrane to pull away from the wall (plasmolysis)."
+    },
+    {
+      "id": 62,
+      "topic": "Respiration",
+      "difficulty": "medium",
+      "question": "The overall equation for aerobic respiration is:",
+      "options": {
+        "A": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+        "B": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP",
+        "C": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂",
+        "D": "C₆H₁₂O₆ → 2 lactic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "Aerobic respiration: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP (energy). Glucose is completely oxidized using oxygen to produce CO₂, water, and energy."
+    },
+    {
+      "id": 63,
+      "topic": "Respiration",
+      "difficulty": "medium",
+      "question": "Anaerobic respiration in yeast produces:",
+      "options": {
+        "A": "lactic acid and water",
+        "B": "ethanol (alcohol) and carbon dioxide",
+        "C": "carbon dioxide and water",
+        "D": "acetic acid and oxygen"
+      },
+      "correct_answer": "B",
+      "explanation": "Anaerobic respiration in yeast (fermentation): C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Ethanol and carbon dioxide are produced without using oxygen."
+    },
+    {
+      "id": 64,
+      "topic": "Respiration",
+      "difficulty": "medium",
+      "question": "Anaerobic respiration in mammalian muscle cells produces:",
+      "options": {
+        "A": "ethanol and CO₂",
+        "B": "lactic acid",
+        "C": "acetic acid",
+        "D": "pyruvic acid and water"
+      },
+      "correct_answer": "B",
+      "explanation": "During intense exercise when oxygen is insufficient, mammalian muscle cells produce lactic acid through anaerobic respiration, causing muscle fatigue."
+    },
+    {
+      "id": 65,
+      "topic": "Respiration",
+      "difficulty": "medium",
+      "question": "The first stage of cellular respiration that takes place in the cytoplasm is called:",
+      "options": {
+        "A": "Krebs cycle",
+        "B": "Oxidative phosphorylation",
+        "C": "Glycolysis",
+        "D": "Electron transport chain"
+      },
+      "correct_answer": "C",
+      "explanation": "Glycolysis is the first stage of cellular respiration, occurring in the cytoplasm. Glucose (6C) is broken down into two pyruvate molecules (3C), producing small amounts of ATP."
+    },
+    {
+      "id": 66,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "The main nitrogenous waste product excreted by humans is:",
+      "options": {
+        "A": "Ammonia",
+        "B": "Uric acid",
+        "C": "Urea",
+        "D": "Creatinine"
+      },
+      "correct_answer": "C",
+      "explanation": "Humans excrete urea as the main nitrogenous waste. Urea is produced in the liver from the breakdown of excess amino acids (deamination) and excreted by the kidneys."
+    },
+    {
+      "id": 67,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "The functional unit of the kidney is called the:",
+      "options": {
+        "A": "Nephron",
+        "B": "Glomerulus",
+        "C": "Loop of Henle",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "A",
+      "explanation": "The nephron is the structural and functional unit of the kidney. Each kidney contains about 1 million nephrons that filter blood and form urine."
+    },
+    {
+      "id": 68,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "The process by which small molecules are forced from the blood into the Bowman's capsule of the kidney is called:",
+      "options": {
+        "A": "Secretion",
+        "B": "Reabsorption",
+        "C": "Ultrafiltration",
+        "D": "Osmoregulation"
+      },
+      "correct_answer": "C",
+      "explanation": "Ultrafiltration occurs at the glomerulus (Bowman's capsule). Blood pressure forces small molecules (water, glucose, urea, salts) out of the blood into the capsule."
+    },
+    {
+      "id": 69,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "In the kidney, glucose is normally reabsorbed in the:",
+      "options": {
+        "A": "Glomerulus",
+        "B": "Proximal convoluted tubule",
+        "C": "Loop of Henle",
+        "D": "Collecting duct"
+      },
+      "correct_answer": "B",
+      "explanation": "All glucose filtered by the glomerulus is normally reabsorbed in the proximal convoluted tubule through active transport. Glucose in urine (glycosuria) indicates diabetes mellitus."
+    },
+    {
+      "id": 70,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "The organ that performs excretion of urea in humans is the:",
+      "options": {
+        "A": "Liver",
+        "B": "Kidney",
+        "C": "Lung",
+        "D": "Skin"
+      },
+      "correct_answer": "B",
+      "explanation": "The kidney excretes urea (produced in the liver), excess water, and salts as urine. The liver produces urea but the kidney excretes it."
+    },
+    {
+      "id": 71,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "Carbon dioxide is mainly excreted from the human body through the:",
+      "options": {
+        "A": "Kidney",
+        "B": "Skin",
+        "C": "Lungs",
+        "D": "Liver"
+      },
+      "correct_answer": "C",
+      "explanation": "CO₂, a waste product of cellular respiration, is transported in blood to the lungs and exhaled. The lungs are the main organs of CO₂ excretion."
+    },
+    {
+      "id": 72,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "In flowering plants, pollination is the transfer of pollen from the:",
+      "options": {
+        "A": "stigma to the anther",
+        "B": "anther to the stigma",
+        "C": "ovary to the seed",
+        "D": "petal to the sepal"
+      },
+      "correct_answer": "B",
+      "explanation": "Pollination is the transfer of pollen grains from the anther (male part) to the stigma (female part) of a flower, either of the same or different flower."
+    },
+    {
+      "id": 73,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "In humans, fertilization normally takes place in the:",
+      "options": {
+        "A": "Ovary",
+        "B": "Uterus",
+        "C": "Fallopian tube (oviduct)",
+        "D": "Cervix"
+      },
+      "correct_answer": "C",
+      "explanation": "Fertilization (fusion of sperm and egg) normally occurs in the Fallopian tube (oviduct). The fertilized egg (zygote) then travels to the uterus for implantation."
+    },
+    {
+      "id": 74,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The hormone responsible for stimulating egg release (ovulation) in females is:",
+      "options": {
+        "A": "Oestrogen",
+        "B": "Progesterone",
+        "C": "Luteinizing hormone (LH)",
+        "D": "Follicle stimulating hormone (FSH)"
+      },
+      "correct_answer": "C",
+      "explanation": "A surge in LH (Luteinizing Hormone) triggers ovulation — the release of a mature egg from the Graafian follicle around day 14 of the menstrual cycle."
+    },
+    {
+      "id": 75,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The function of the placenta in mammals is to:",
+      "options": {
+        "A": "produce the baby's blood",
+        "B": "allow exchange of materials between mother and foetus",
+        "C": "produce sperm cells",
+        "D": "store food for the embryo"
+      },
+      "correct_answer": "B",
+      "explanation": "The placenta allows oxygen, nutrients, and antibodies to pass from mother to foetus, while CO₂ and metabolic wastes pass from foetus to mother."
+    },
+    {
+      "id": 76,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "Asexual reproduction in Amoeba occurs by:",
+      "options": {
+        "A": "Budding",
+        "B": "Fragmentation",
+        "C": "Binary fission",
+        "D": "Sporulation"
+      },
+      "correct_answer": "C",
+      "explanation": "Amoeba reproduces asexually by binary fission — the cell divides into two equal daughter cells, each genetically identical to the parent."
+    },
+    {
+      "id": 77,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of vegetative reproduction in plants?",
+      "options": {
+        "A": "Seed germination",
+        "B": "Pollination",
+        "C": "Bulb formation in onions",
+        "D": "Spore formation"
+      },
+      "correct_answer": "C",
+      "explanation": "Vegetative reproduction is asexual reproduction in plants. Bulbs (onion), tubers (potato), runners (strawberry), and rhizomes (ginger) are all examples."
+    },
+    {
+      "id": 78,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The male sex hormone produced by the testes is:",
+      "options": {
+        "A": "Oestrogen",
+        "B": "Progesterone",
+        "C": "Testosterone",
+        "D": "Prolactin"
+      },
+      "correct_answer": "C",
+      "explanation": "Testosterone is the primary male sex hormone produced by the Leydig cells of the testes. It controls development of male secondary sexual characteristics."
+    },
+    {
+      "id": 79,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "In flowering plants, the part that develops into the seed after fertilization is the:",
+      "options": {
+        "A": "Ovary",
+        "B": "Ovule",
+        "C": "Petal",
+        "D": "Stigma"
+      },
+      "correct_answer": "B",
+      "explanation": "After fertilization, the ovule develops into the seed while the ovary wall develops into the fruit. The seed contains the embryo."
+    },
+    {
+      "id": 80,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "Double fertilization in flowering plants involves the fusion of:",
+      "options": {
+        "A": "two sperm cells with two eggs",
+        "B": "one sperm with the egg to form a zygote, and another sperm with the polar nuclei to form the endosperm",
+        "C": "pollen grain with the ovary",
+        "D": "two polar nuclei with the ovule"
+      },
+      "correct_answer": "B",
+      "explanation": "In double fertilization (unique to angiosperms), one sperm fertilizes the egg (forming the diploid zygote) and the other fuses with the two polar nuclei (forming the triploid endosperm)."
+    },
+    {
+      "id": 81,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The basic structural and functional unit of the nervous system is the:",
+      "options": {
+        "A": "Axon",
+        "B": "Neuron",
+        "C": "Synapse",
+        "D": "Dendrite"
+      },
+      "correct_answer": "B",
+      "explanation": "The neuron (nerve cell) is the basic unit of the nervous system. It consists of a cell body, dendrites (receiving signals), and an axon (transmitting signals)."
+    },
+    {
+      "id": 82,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "A reflex action is best described as a:",
+      "options": {
+        "A": "voluntary, conscious response to a stimulus",
+        "B": "rapid, automatic, involuntary response to a stimulus",
+        "C": "learned behavior",
+        "D": "slow hormonal response"
+      },
+      "correct_answer": "B",
+      "explanation": "A reflex action is a rapid, automatic, involuntary response to a stimulus that does not involve conscious thought (e.g., knee-jerk reflex, withdrawal from pain)."
+    },
+    {
+      "id": 83,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The junction between two neurons where nerve impulses are transmitted is called a:",
+      "options": {
+        "A": "Axon",
+        "B": "Dendrite",
+        "C": "Synapse",
+        "D": "Node of Ranvier"
+      },
+      "correct_answer": "C",
+      "explanation": "A synapse is the junction between two neurons. Nerve impulses are transmitted across the synapse by chemical messengers called neurotransmitters (e.g., acetylcholine)."
+    },
+    {
+      "id": 84,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The part of the brain responsible for coordination of movement and balance is the:",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Medulla oblongata",
+        "D": "Hypothalamus"
+      },
+      "correct_answer": "B",
+      "explanation": "The cerebellum coordinates voluntary movements, balance, and posture. Damage to the cerebellum causes ataxia (loss of coordination)."
+    },
+    {
+      "id": 85,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The part of the nervous system that controls involuntary functions such as heartbeat, breathing, and digestion is the:",
+      "options": {
+        "A": "Somatic nervous system",
+        "B": "Central nervous system",
+        "C": "Autonomic nervous system",
+        "D": "Peripheral nervous system"
+      },
+      "correct_answer": "C",
+      "explanation": "The autonomic nervous system controls involuntary functions (heartbeat, breathing, digestion, glandular secretion). It has two divisions: sympathetic and parasympathetic."
+    },
+    {
+      "id": 86,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "The hormone that regulates blood glucose levels by promoting glucose uptake into cells is:",
+      "options": {
+        "A": "Glucagon",
+        "B": "Adrenaline",
+        "C": "Insulin",
+        "D": "Cortisol"
+      },
+      "correct_answer": "C",
+      "explanation": "Insulin (produced by beta cells of the pancreatic islets) lowers blood glucose by promoting glucose uptake by cells and converting glucose to glycogen (glycogenesis)."
+    },
+    {
+      "id": 87,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "Diabetes mellitus is caused by:",
+      "options": {
+        "A": "excess insulin production",
+        "B": "insufficient insulin production or response",
+        "C": "excess glucagon",
+        "D": "liver failure"
+      },
+      "correct_answer": "B",
+      "explanation": "Diabetes mellitus results from insufficient insulin production (Type 1) or insulin resistance (Type 2), leading to persistently high blood glucose levels (hyperglycaemia)."
+    },
+    {
+      "id": 88,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "The 'fight or flight' hormone produced by the adrenal medulla is:",
+      "options": {
+        "A": "Cortisol",
+        "B": "Aldosterone",
+        "C": "Thyroxine",
+        "D": "Adrenaline (epinephrine)"
+      },
+      "correct_answer": "D",
+      "explanation": "Adrenaline (epinephrine) is released by the adrenal medulla in response to stress or fear, preparing the body for 'fight or flight' by increasing heart rate, blood sugar, and alertness."
+    },
+    {
+      "id": 89,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "Thyroxine, produced by the thyroid gland, primarily controls:",
+      "options": {
+        "A": "blood glucose levels",
+        "B": "the body's metabolic rate",
+        "C": "blood calcium levels",
+        "D": "water balance"
+      },
+      "correct_answer": "B",
+      "explanation": "Thyroxine regulates the metabolic rate — the rate at which the body uses energy. Too little causes hypothyroidism (goitre); too much causes hyperthyroidism."
+    },
+    {
+      "id": 90,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "Auxins are plant hormones that primarily promote:",
+      "options": {
+        "A": "seed germination",
+        "B": "fruit ripening",
+        "C": "cell elongation and growth",
+        "D": "leaf abscission"
+      },
+      "correct_answer": "C",
+      "explanation": "Auxins (e.g., indoleacetic acid, IAA) promote cell elongation, particularly in shoots. They cause phototropism (bending toward light) and gravitropism."
+    },
+    {
+      "id": 91,
+      "topic": "Hormonal System",
+      "difficulty": "medium",
+      "question": "The plant hormone that promotes ripening of fruits is:",
+      "options": {
+        "A": "Auxin",
+        "B": "Cytokinin",
+        "C": "Gibberellin",
+        "D": "Ethylene"
+      },
+      "correct_answer": "D",
+      "explanation": "Ethylene (ethene) is a gaseous plant hormone that promotes fruit ripening. This is why placing ripe and unripe fruits together speeds up ripening."
+    },
+    {
+      "id": 92,
+      "topic": "Support and Movement",
+      "difficulty": "medium",
+      "question": "The type of joint that allows movement in all directions (e.g., shoulder joint) is called a:",
+      "options": {
+        "A": "Hinge joint",
+        "B": "Ball and socket joint",
+        "C": "Pivot joint",
+        "D": "Gliding joint"
+      },
+      "correct_answer": "B",
+      "explanation": "A ball and socket joint (e.g., shoulder, hip) allows movement in all planes and directions, giving the greatest range of motion."
+    },
+    {
+      "id": 93,
+      "topic": "Support and Movement",
+      "difficulty": "medium",
+      "question": "Muscles are connected to bones by:",
+      "options": {
+        "A": "Ligaments",
+        "B": "Cartilage",
+        "C": "Tendons",
+        "D": "Synovial fluid"
+      },
+      "correct_answer": "C",
+      "explanation": "Tendons are tough bands of fibrous connective tissue that connect muscles to bones. Ligaments connect bone to bone."
+    },
+    {
+      "id": 94,
+      "topic": "Support and Movement",
+      "difficulty": "medium",
+      "question": "Bones are connected to other bones by:",
+      "options": {
+        "A": "Tendons",
+        "B": "Cartilage",
+        "C": "Ligaments",
+        "D": "Fascia"
+      },
+      "correct_answer": "C",
+      "explanation": "Ligaments are fibrous connective tissues that connect bones to other bones at joints, providing stability while allowing movement."
+    },
+    {
+      "id": 95,
+      "topic": "Support and Movement",
+      "difficulty": "medium",
+      "question": "The protein found in muscles that is responsible for contraction is:",
+      "options": {
+        "A": "Collagen",
+        "B": "Keratin",
+        "C": "Actin and myosin",
+        "D": "Fibrin"
+      },
+      "correct_answer": "C",
+      "explanation": "Muscle contraction occurs through the sliding filament mechanism involving actin (thin filaments) and myosin (thick filaments) proteins."
+    },
+    {
+      "id": 96,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "The hierarchy of biological classification from largest to smallest grouping is:",
+      "options": {
+        "A": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "B": "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "C": "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "D": "Domain, Species, Genus, Family, Order, Class, Phylum"
+      },
+      "correct_answer": "A",
+      "explanation": "Biological classification hierarchy (largest to smallest): Kingdom → Phylum → Class → Order → Family → Genus → Species. Mnemonic: 'King Philip Came Over For Good Spaghetti.'"
+    },
+    {
+      "id": 97,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "The scientific name of an organism consists of its:",
+      "options": {
+        "A": "Kingdom and phylum",
+        "B": "Class and order",
+        "C": "Genus and species (binomial nomenclature)",
+        "D": "Family and genus"
+      },
+      "correct_answer": "C",
+      "explanation": "Binomial nomenclature (Linnaeus) gives each organism a two-part scientific name: Genus (capitalized) + species (lowercase), e.g., Homo sapiens."
+    },
+    {
+      "id": 98,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "Fungi differ from plants in that fungi:",
+      "options": {
+        "A": "have cell walls",
+        "B": "are multicellular",
+        "C": "cannot photosynthesize and are heterotrophic",
+        "D": "have nuclei"
+      },
+      "correct_answer": "C",
+      "explanation": "Fungi lack chlorophyll and cannot photosynthesize. They are heterotrophs that obtain nutrients by decomposing organic matter (saprophytes) or living on hosts (parasites)."
+    },
+    {
+      "id": 99,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "Viruses are not considered living organisms because they:",
+      "options": {
+        "A": "have no protein coat",
+        "B": "cannot reproduce outside a host cell and lack cellular organization",
+        "C": "do not contain nucleic acids",
+        "D": "are too small to be seen"
+      },
+      "correct_answer": "B",
+      "explanation": "Viruses are acellular (have no cell structure) and can only replicate inside living host cells. They lack organelles, metabolism, and independent reproduction."
+    },
+    {
+      "id": 100,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "The kingdom that includes organisms such as Amoeba, Paramecium, and Euglena is:",
+      "options": {
+        "A": "Fungi",
+        "B": "Monera",
+        "C": "Protista",
+        "D": "Plantae"
+      },
+      "correct_answer": "C",
+      "explanation": "Kingdom Protista (Protoctista) includes unicellular eukaryotes such as Amoeba (Rhizopoda), Paramecium (Ciliophora), and Euglena (Euglenophyta)."
+    },
+    {
+      "id": 101,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Malaria in humans is caused by a protozoan called:",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Plasmodium",
+        "C": "Salmonella typhi",
+        "D": "Trypanosoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Malaria is caused by Plasmodium species (P. falciparum, P. vivax, etc.) transmitted by the bite of infected female Anopheles mosquitoes."
+    },
+    {
+      "id": 102,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "The vector (carrier) of malaria is the:",
+      "options": {
+        "A": "Male Aedes mosquito",
+        "B": "Female Anopheles mosquito",
+        "C": "Tsetse fly",
+        "D": "Body louse"
+      },
+      "correct_answer": "B",
+      "explanation": "The female Anopheles mosquito is the vector of malaria. It transmits Plasmodium parasites when it bites a human to feed on blood."
+    },
+    {
+      "id": 103,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Tuberculosis (TB) is caused by which bacterium?",
+      "options": {
+        "A": "Vibrio cholerae",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Salmonella typhi",
+        "D": "Staphylococcus aureus"
+      },
+      "correct_answer": "B",
+      "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterium that primarily affects the lungs. It is spread by airborne droplets from infected individuals."
+    },
+    {
+      "id": 104,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Which disease is caused by the Plasmodium falciparum and is particularly deadly?",
+      "options": {
+        "A": "Cholera",
+        "B": "Yellow fever",
+        "C": "Malaria",
+        "D": "Typhoid"
+      },
+      "correct_answer": "C",
+      "explanation": "Plasmodium falciparum causes the most severe and often fatal form of malaria (cerebral malaria), responsible for most malaria deaths worldwide."
+    },
+    {
+      "id": 105,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Cholera is caused by which bacterium?",
+      "options": {
+        "A": "Salmonella typhi",
+        "B": "Vibrio cholerae",
+        "C": "Clostridium tetani",
+        "D": "Escherichia coli"
+      },
+      "correct_answer": "B",
+      "explanation": "Cholera is caused by Vibrio cholerae, transmitted through contaminated water and food. It causes severe watery diarrhoea and can lead to fatal dehydration."
+    },
+    {
+      "id": 106,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "The HIV virus attacks which specific type of immune cell?",
+      "options": {
+        "A": "Red blood cells",
+        "B": "B lymphocytes",
+        "C": "CD4+ T helper cells",
+        "D": "Platelets"
+      },
+      "correct_answer": "C",
+      "explanation": "HIV (Human Immunodeficiency Virus) specifically targets and destroys CD4+ T helper cells, progressively weakening the immune system and leading to AIDS."
+    },
+    {
+      "id": 107,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Antibiotics are effective against:",
+      "options": {
+        "A": "viruses",
+        "B": "bacteria",
+        "C": "prions",
+        "D": "all pathogens"
+      },
+      "correct_answer": "B",
+      "explanation": "Antibiotics kill or inhibit the growth of bacteria. They are NOT effective against viral infections. Misuse of antibiotics leads to antibiotic resistance."
+    },
+    {
+      "id": 108,
+      "topic": "Immunity",
+      "difficulty": "medium",
+      "question": "Vaccination provides immunity by:",
+      "options": {
+        "A": "introducing fully active pathogens into the body",
+        "B": "stimulating the immune system to produce antibodies without causing disease",
+        "C": "directly killing pathogens in the body",
+        "D": "replacing damaged immune cells"
+      },
+      "correct_answer": "B",
+      "explanation": "Vaccines contain weakened, killed, or parts of pathogens that stimulate the immune system to produce memory cells and antibodies without causing the disease."
+    },
+    {
+      "id": 109,
+      "topic": "Immunity",
+      "difficulty": "medium",
+      "question": "Antibodies are produced by which type of white blood cell?",
+      "options": {
+        "A": "Phagocytes (neutrophils)",
+        "B": "T lymphocytes",
+        "C": "B lymphocytes (plasma cells)",
+        "D": "Monocytes"
+      },
+      "correct_answer": "C",
+      "explanation": "B lymphocytes (B cells) differentiate into plasma cells that produce specific antibodies against antigens. T lymphocytes coordinate and carry out cell-mediated immunity."
+    },
+    {
+      "id": 110,
+      "topic": "Immunity",
+      "difficulty": "medium",
+      "question": "Passive immunity involves:",
+      "options": {
+        "A": "the body producing its own antibodies after vaccination",
+        "B": "receiving ready-made antibodies from another source",
+        "C": "natural infection and recovery",
+        "D": "production of T cells"
+      },
+      "correct_answer": "B",
+      "explanation": "Passive immunity involves receiving ready-made antibodies (e.g., maternal antibodies through breast milk, or antitoxin injections). It gives immediate but short-lived protection."
+    },
+    {
+      "id": 111,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The place where an organism lives is called its:",
+      "options": {
+        "A": "Niche",
+        "B": "Habitat",
+        "C": "Ecosystem",
+        "D": "Biome"
+      },
+      "correct_answer": "B",
+      "explanation": "A habitat is the natural environment where an organism lives, including all physical and biological conditions. The niche is the role the organism plays."
+    },
+    {
+      "id": 112,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The water cycle involves which of the following processes?",
+      "options": {
+        "A": "Evaporation, condensation, precipitation, and runoff",
+        "B": "Photosynthesis, respiration, and transpiration only",
+        "C": "Nitrogen fixation and denitrification",
+        "D": "Decomposition and mineralization"
+      },
+      "correct_answer": "A",
+      "explanation": "The water cycle involves evaporation (water → vapour), condensation (vapour → clouds), precipitation (rain/snow), and runoff/infiltration back into water bodies."
+    },
+    {
+      "id": 113,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "An ecological pyramid of numbers shows:",
+      "options": {
+        "A": "the total biomass at each trophic level",
+        "B": "the number of organisms at each trophic level",
+        "C": "the amount of energy at each trophic level",
+        "D": "the types of organisms in an ecosystem"
+      },
+      "correct_answer": "B",
+      "explanation": "A pyramid of numbers shows the number of organisms at each trophic level. It can be inverted (e.g., one tree supporting many insects)."
+    },
+    {
+      "id": 114,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Competition between organisms of the same species for resources is called:",
+      "options": {
+        "A": "Interspecific competition",
+        "B": "Intraspecific competition",
+        "C": "Predation",
+        "D": "Mutualism"
+      },
+      "correct_answer": "B",
+      "explanation": "Intraspecific competition is competition between individuals of the same species. Interspecific competition occurs between different species."
+    },
+    {
+      "id": 115,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The gradual change in the composition of species in an ecosystem over time is called:",
+      "options": {
+        "A": "Evolution",
+        "B": "Adaptation",
+        "C": "Ecological succession",
+        "D": "Population growth"
+      },
+      "correct_answer": "C",
+      "explanation": "Ecological succession is the process of gradual change in the composition of species in a community over time, from pioneer species to a stable climax community."
+    },
+    {
+      "id": 116,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "In genetics, if a man with blood group AB marries a woman with blood group O, what blood groups are possible in their children?",
+      "options": {
+        "A": "AB only",
+        "B": "A and B only",
+        "C": "O only",
+        "D": "A, B, and O"
+      },
+      "correct_answer": "B",
+      "explanation": "AB (I^A I^B) × OO (ii): possible offspring genotypes are I^A i (blood group A) and I^B i (blood group B). Only A and B are possible."
+    },
+    {
+      "id": 117,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Down syndrome is caused by the presence of an extra chromosome 21, a condition called:",
+      "options": {
+        "A": "Monosomy",
+        "B": "Polyploidy",
+        "C": "Trisomy 21",
+        "D": "Deletion"
+      },
+      "correct_answer": "C",
+      "explanation": "Down syndrome (Trisomy 21) results from the presence of three copies of chromosome 21 instead of two, usually due to non-disjunction during meiosis."
+    },
+    {
+      "id": 118,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "The region of a chromosome where crossing over occurs and chromosomes exchange segments during meiosis I is called a:",
+      "options": {
+        "A": "Centromere",
+        "B": "Telomere",
+        "C": "Chiasma",
+        "D": "Chromatid"
+      },
+      "correct_answer": "C",
+      "explanation": "A chiasma (plural: chiasmata) is the point of exchange between non-sister chromatids of homologous chromosomes during crossing over in Prophase I of meiosis."
+    },
+    {
+      "id": 119,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Incomplete dominance produces a blending of traits. A cross between a red flower (RR) and white flower (rr) will produce offspring that are:",
+      "options": {
+        "A": "All red",
+        "B": "All white",
+        "C": "All pink (Rr)",
+        "D": "Half red and half white"
+      },
+      "correct_answer": "C",
+      "explanation": "In incomplete dominance, the heterozygous offspring (Rr) show an intermediate phenotype (pink) — a blend of both parent phenotypes, rather than one masking the other."
+    },
+    {
+      "id": 120,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "The substance that makes up chromosomes and stores genetic information is:",
+      "options": {
+        "A": "RNA",
+        "B": "Protein",
+        "C": "DNA",
+        "D": "ATP"
+      },
+      "correct_answer": "C",
+      "explanation": "DNA (deoxyribonucleic acid) is the hereditary material that makes up chromosomes and stores genetic information as a sequence of nucleotide bases."
+    },
+    {
+      "id": 121,
+      "topic": "Molecular Biology",
+      "difficulty": "medium",
+      "question": "DNA replication is described as 'semi-conservative' because:",
+      "options": {
+        "A": "only half the DNA is copied each time",
+        "B": "each new DNA molecule consists of one original and one new strand",
+        "C": "DNA replication is only half completed before cell division",
+        "D": "half of the bases are conserved"
+      },
+      "correct_answer": "B",
+      "explanation": "Semi-conservative replication means each daughter DNA molecule retains one original (parental) strand and has one newly synthesized strand."
+    },
+    {
+      "id": 122,
+      "topic": "Molecular Biology",
+      "difficulty": "medium",
+      "question": "The process by which information in DNA is used to make mRNA is called:",
+      "options": {
+        "A": "Translation",
+        "B": "Transcription",
+        "C": "Replication",
+        "D": "Transduction"
+      },
+      "correct_answer": "B",
+      "explanation": "Transcription is the process of copying the DNA code into mRNA (messenger RNA) in the nucleus, carried out by RNA polymerase."
+    },
+    {
+      "id": 123,
+      "topic": "Molecular Biology",
+      "difficulty": "medium",
+      "question": "The process by which mRNA is used to synthesize a protein at the ribosome is called:",
+      "options": {
+        "A": "Transcription",
+        "B": "Replication",
+        "C": "Translation",
+        "D": "Transduction"
+      },
+      "correct_answer": "C",
+      "explanation": "Translation is the process of decoding mRNA to build a polypeptide (protein) at the ribosome, with tRNA bringing amino acids in the correct sequence."
+    },
+    {
+      "id": 124,
+      "topic": "Molecular Biology",
+      "difficulty": "medium",
+      "question": "In DNA, adenine (A) always pairs with:",
+      "options": {
+        "A": "Guanine (G)",
+        "B": "Cytosine (C)",
+        "C": "Thymine (T)",
+        "D": "Uracil (U)"
+      },
+      "correct_answer": "C",
+      "explanation": "Chargaff's rules: in DNA, A pairs with T (adenine-thymine) and G pairs with C (guanine-cytosine). In RNA, U (uracil) replaces T."
+    },
+    {
+      "id": 125,
+      "topic": "Molecular Biology",
+      "difficulty": "medium",
+      "question": "A codon is a sequence of how many nucleotide bases in mRNA that codes for one amino acid?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "A codon is a triplet of three mRNA nucleotide bases (e.g., AUG, UUU) that codes for a specific amino acid. There are 64 possible codons for 20 amino acids."
+    },
+    {
+      "id": 126,
+      "topic": "Homeostasis",
+      "difficulty": "medium",
+      "question": "Homeostasis refers to the ability of an organism to:",
+      "options": {
+        "A": "grow and develop",
+        "B": "maintain a stable internal environment despite external changes",
+        "C": "reproduce successfully",
+        "D": "respond to environmental changes only"
+      },
+      "correct_answer": "B",
+      "explanation": "Homeostasis is the maintenance of a relatively stable internal environment (temperature, pH, blood glucose, water balance) despite changes in the external environment."
+    },
+    {
+      "id": 127,
+      "topic": "Homeostasis",
+      "difficulty": "medium",
+      "question": "The maintenance of constant body temperature in mammals is called:",
+      "options": {
+        "A": "Osmoregulation",
+        "B": "Thermoregulation",
+        "C": "Glucoregulation",
+        "D": "Photoperiodism"
+      },
+      "correct_answer": "B",
+      "explanation": "Thermoregulation is the process by which warm-blooded (endothermic) animals maintain a constant body temperature through mechanisms like sweating, shivering, and vasodilation/vasoconstriction."
+    },
+    {
+      "id": 128,
+      "topic": "Homeostasis",
+      "difficulty": "medium",
+      "question": "When body temperature rises above normal, which mechanism helps to cool the body?",
+      "options": {
+        "A": "Shivering",
+        "B": "Vasoconstriction",
+        "C": "Sweating and vasodilation",
+        "D": "Increased metabolic rate"
+      },
+      "correct_answer": "C",
+      "explanation": "When body temperature rises, sweat glands produce sweat (evaporation cools skin) and blood vessels near the skin dilate (vasodilation) to release more heat."
+    },
+    {
+      "id": 129,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "Digestion of starch begins in the:",
+      "options": {
+        "A": "Stomach",
+        "B": "Small intestine",
+        "C": "Mouth",
+        "D": "Large intestine"
+      },
+      "correct_answer": "C",
+      "explanation": "Starch digestion begins in the mouth where salivary amylase (ptyalin) breaks starch into maltose. It continues in the small intestine with pancreatic amylase."
+    },
+    {
+      "id": 130,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "Proteins are digested mainly in the:",
+      "options": {
+        "A": "Mouth",
+        "B": "Stomach and small intestine",
+        "C": "Large intestine",
+        "D": "Liver"
+      },
+      "correct_answer": "B",
+      "explanation": "Protein digestion begins in the stomach (pepsin in acidic conditions) and continues in the small intestine (trypsin, chymotrypsin from pancreas). End products are amino acids."
+    },
+    {
+      "id": 131,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "The enzyme that breaks down fats (lipids) into fatty acids and glycerol is called:",
+      "options": {
+        "A": "Amylase",
+        "B": "Protease",
+        "C": "Lipase",
+        "D": "Maltase"
+      },
+      "correct_answer": "C",
+      "explanation": "Lipase enzymes (e.g., pancreatic lipase) catalyze the hydrolysis of fats (triglycerides) into fatty acids and glycerol."
+    },
+    {
+      "id": 132,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "Absorption of digested food mainly occurs in the:",
+      "options": {
+        "A": "Stomach",
+        "B": "Large intestine",
+        "C": "Small intestine",
+        "D": "Oesophagus"
+      },
+      "correct_answer": "C",
+      "explanation": "The small intestine is the main site of absorption of digested nutrients (amino acids, glucose, fatty acids) into the bloodstream and lymphatic system through villi."
+    },
+    {
+      "id": 133,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "The finger-like projections in the small intestine that increase the surface area for absorption are called:",
+      "options": {
+        "A": "Microvilli",
+        "B": "Cilia",
+        "C": "Villi",
+        "D": "Flagella"
+      },
+      "correct_answer": "C",
+      "explanation": "Villi (singular: villus) are finger-like projections of the small intestinal wall that greatly increase the surface area for nutrient absorption. Microvilli are smaller projections on villi cells."
+    },
+    {
+      "id": 134,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "Bile is produced by the liver and is important in digestion because it:",
+      "options": {
+        "A": "contains enzymes that digest proteins",
+        "B": "emulsifies fats to increase surface area for lipase action",
+        "C": "activates pepsin in the stomach",
+        "D": "neutralizes alkaline pancreatic juice"
+      },
+      "correct_answer": "B",
+      "explanation": "Bile (produced by the liver, stored in the gallbladder) emulsifies large fat droplets into smaller ones, increasing the surface area for lipase enzymes to act on."
+    },
+    {
+      "id": 135,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The carbon cycle involves which of the following processes?",
+      "options": {
+        "A": "Photosynthesis and respiration only",
+        "B": "Photosynthesis, respiration, decomposition, combustion, and fossilization",
+        "C": "Nitrogen fixation and denitrification",
+        "D": "Transpiration and precipitation"
+      },
+      "correct_answer": "B",
+      "explanation": "The carbon cycle involves photosynthesis (fixing CO₂), respiration (releasing CO₂), decomposition, combustion of fossil fuels, and fossilization of organic matter."
+    },
+    {
+      "id": 136,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Industrial melanism, observed in the peppered moth (Biston betularia) in England, is an example of:",
+      "options": {
+        "A": "Lamarckian evolution",
+        "B": "Natural selection leading to a change in allele frequency",
+        "C": "Genetic drift",
+        "D": "Artificial selection"
+      },
+      "correct_answer": "B",
+      "explanation": "Industrial melanism shows natural selection in action: dark moths became more common on soot-darkened trees because pale moths were more easily seen and eaten by predators."
+    },
+    {
+      "id": 137,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Analogous structures (e.g., wings of birds and insects) are evidence for:",
+      "options": {
+        "A": "common ancestry",
+        "B": "convergent evolution",
+        "C": "divergent evolution",
+        "D": "genetic drift"
+      },
+      "correct_answer": "B",
+      "explanation": "Analogous structures perform similar functions but have different evolutionary origins, demonstrating convergent evolution where different lineages independently evolve similar solutions."
+    },
+    {
+      "id": 138,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The corpus luteum forms from the Graafian follicle after ovulation and secretes:",
+      "options": {
+        "A": "Oestrogen only",
+        "B": "FSH and LH",
+        "C": "Progesterone (and some oestrogen)",
+        "D": "Testosterone"
+      },
+      "correct_answer": "C",
+      "explanation": "After ovulation, the empty Graafian follicle develops into the corpus luteum (yellow body), which secretes progesterone (and some oestrogen) to maintain the uterine lining for possible implantation."
+    },
+    {
+      "id": 139,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The fluid-filled sac that surrounds and protects the foetus in the uterus is the:",
+      "options": {
+        "A": "Placenta",
+        "B": "Amnion",
+        "C": "Chorion",
+        "D": "Allantois"
+      },
+      "correct_answer": "B",
+      "explanation": "The amnion is a membrane that forms the amniotic sac, filled with amniotic fluid that cushions and protects the developing embryo/foetus."
+    },
+    {
+      "id": 140,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "The growth of a plant shoot toward light is called:",
+      "options": {
+        "A": "Geotropism",
+        "B": "Hydrotropism",
+        "C": "Phototropism",
+        "D": "Thigmotropism"
+      },
+      "correct_answer": "C",
+      "explanation": "Phototropism is the growth response of a plant to light. Shoots show positive phototropism (grow toward light), while roots show negative phototropism."
+    },
+    {
+      "id": 141,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "The growth of roots downward in response to gravity is called:",
+      "options": {
+        "A": "Positive phototropism",
+        "B": "Positive geotropism (gravitropism)",
+        "C": "Negative phototropism",
+        "D": "Hydrotropism"
+      },
+      "correct_answer": "B",
+      "explanation": "Roots show positive geotropism (gravitropism) — they grow toward the pull of gravity. Shoots show negative geotropism — they grow away from gravity."
+    },
+    {
+      "id": 142,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "The small pores on the underside of leaves through which gaseous exchange and water vapour loss occur are called:",
+      "options": {
+        "A": "Lenticels",
+        "B": "Guard cells",
+        "C": "Stomata",
+        "D": "Trichomes"
+      },
+      "correct_answer": "C",
+      "explanation": "Stomata (singular: stoma) are pores on leaves (mainly the lower surface) surrounded by guard cells that regulate their opening and closing for gaseous exchange and transpiration."
+    },
+    {
+      "id": 143,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "The opening and closing of stomata is controlled by:",
+      "options": {
+        "A": "Mesophyll cells",
+        "B": "Guard cells",
+        "C": "Epidermal cells",
+        "D": "Palisade cells"
+      },
+      "correct_answer": "B",
+      "explanation": "Guard cells surround each stoma and control its opening (during the day when photosynthesis occurs) and closing (at night or during drought) through changes in turgor pressure."
+    },
+    {
+      "id": 144,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "Germination of a seed requires all of the following EXCEPT:",
+      "options": {
+        "A": "Water",
+        "B": "Suitable temperature",
+        "C": "Oxygen",
+        "D": "Light"
+      },
+      "correct_answer": "D",
+      "explanation": "Seeds need water, oxygen (for aerobic respiration), and suitable temperature for germination. Light is NOT required for germination (though it may be needed later for growth)."
+    },
+    {
+      "id": 145,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "Which of the following plant hormones inhibits growth and promotes dormancy and leaf fall?",
+      "options": {
+        "A": "Auxin",
+        "B": "Gibberellin",
+        "C": "Abscisic acid (ABA)",
+        "D": "Cytokinin"
+      },
+      "correct_answer": "C",
+      "explanation": "Abscisic acid (ABA) is a growth inhibitor that promotes seed and bud dormancy, stomatal closure during drought, and leaf abscission (leaf fall)."
+    },
+    {
+      "id": 146,
+      "topic": "Gaseous Exchange",
+      "difficulty": "medium",
+      "question": "In humans, gaseous exchange occurs in the:",
+      "options": {
+        "A": "Trachea",
+        "B": "Bronchi",
+        "C": "Alveoli",
+        "D": "Diaphragm"
+      },
+      "correct_answer": "C",
+      "explanation": "Gaseous exchange (O₂ in, CO₂ out) occurs in the alveoli — tiny air sacs in the lungs with thin walls, large surface area, and rich blood supply."
+    },
+    {
+      "id": 147,
+      "topic": "Gaseous Exchange",
+      "difficulty": "medium",
+      "question": "In fish, gaseous exchange occurs through:",
+      "options": {
+        "A": "Lungs",
+        "B": "Skin",
+        "C": "Gills",
+        "D": "Trachea"
+      },
+      "correct_answer": "C",
+      "explanation": "Fish use gills for gaseous exchange. Water passes over the gill lamellae where oxygen is absorbed and CO₂ is released through diffusion."
+    },
+    {
+      "id": 148,
+      "topic": "Gaseous Exchange",
+      "difficulty": "medium",
+      "question": "Insects breathe through a system of tubes called:",
+      "options": {
+        "A": "Gills",
+        "B": "Lungs",
+        "C": "Tracheae",
+        "D": "Book lungs"
+      },
+      "correct_answer": "C",
+      "explanation": "Insects have a tracheal system — a network of air tubes (tracheae) that open to the outside through spiracles and carry oxygen directly to body tissues."
+    },
+    {
+      "id": 149,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "Which of the following is a characteristic of all mammals?",
+      "options": {
+        "A": "They all lay eggs",
+        "B": "They all have scales",
+        "C": "They are warm-blooded and have mammary glands",
+        "D": "They all have four limbs"
+      },
+      "correct_answer": "C",
+      "explanation": "All mammals are endothermic (warm-blooded), have mammary glands for feeding young with milk, and have hair/fur. Not all have four limbs (e.g., snakes, whales)."
+    },
+    {
+      "id": 150,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "Amphibians are characterized by the ability to live:",
+      "options": {
+        "A": "only on land",
+        "B": "only in water",
+        "C": "both on land and in water, with aquatic larvae and terrestrial adults",
+        "D": "in extreme temperatures"
+      },
+      "correct_answer": "C",
+      "explanation": "Amphibians (frogs, toads, salamanders) have aquatic larvae (tadpoles) and terrestrial adults. They need moisture because they breathe partly through their skin."
+    },
+    {
+      "id": 151,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Deforestation leads to all of the following EXCEPT:",
+      "options": {
+        "A": "increased soil erosion",
+        "B": "loss of biodiversity",
+        "C": "increased rainfall",
+        "D": "increased carbon dioxide in the atmosphere"
+      },
+      "correct_answer": "C",
+      "explanation": "Deforestation leads to reduced rainfall (less transpiration), soil erosion, biodiversity loss, and increased CO₂ as trees that absorb CO₂ are removed."
+    },
+    {
+      "id": 152,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Biodiversity refers to:",
+      "options": {
+        "A": "the number of individuals in a population",
+        "B": "the variety of living organisms, genes, and ecosystems in an area",
+        "C": "the total biomass in an ecosystem",
+        "D": "the rate of energy flow in a food web"
+      },
+      "correct_answer": "B",
+      "explanation": "Biodiversity encompasses the variety of life at all levels: genetic diversity within species, species diversity, and ecosystem diversity."
+    },
+    {
+      "id": 153,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "If a woman who is a carrier of colour blindness (X^N X^n) marries a colour-blind man (X^n Y), what is the probability of their daughters being colour-blind?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Daughters receive X from father (X^n) and X from mother (X^N or X^n with 50% probability each). So 50% of daughters will be X^n X^n (colour-blind)."
+    },
+    {
+      "id": 154,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The endoplasmic reticulum (ER) exists in two forms. The rough ER is covered with:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosomes",
+        "C": "Chloroplasts",
+        "D": "Lysosomes"
+      },
+      "correct_answer": "B",
+      "explanation": "The rough endoplasmic reticulum (RER) is studded with ribosomes that synthesize proteins destined for secretion or for use in membranes. The smooth ER lacks ribosomes."
+    },
+    {
+      "id": 155,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "The microorganism responsible for causing typhoid fever is:",
+      "options": {
+        "A": "Plasmodium vivax",
+        "B": "Salmonella typhi",
+        "C": "Treponema pallidum",
+        "D": "Vibrio cholerae"
+      },
+      "correct_answer": "B",
+      "explanation": "Typhoid fever is caused by the bacterium Salmonella typhi, transmitted through contaminated food and water. Symptoms include high fever, abdominal pain, and rash."
+    },
+    {
+      "id": 156,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Ringworm is caused by:",
+      "options": {
+        "A": "a worm parasite",
+        "B": "a virus",
+        "C": "a fungus",
+        "D": "a bacterium"
+      },
+      "correct_answer": "C",
+      "explanation": "Despite its name, ringworm is not caused by a worm but by a group of fungi (dermatophytes) such as Trichophyton that infect skin, hair, and nails."
+    },
+    {
+      "id": 157,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The oxygen cycle is closely linked to which two biological processes?",
+      "options": {
+        "A": "Transpiration and respiration",
+        "B": "Photosynthesis and respiration",
+        "C": "Photosynthesis and transpiration",
+        "D": "Decomposition and nitrogen fixation"
+      },
+      "correct_answer": "B",
+      "explanation": "Photosynthesis produces O₂ while respiration consumes O₂ and produces CO₂. These two processes maintain the balance of oxygen in the atmosphere."
+    },
+    {
+      "id": 158,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Kwashiorkor is a nutritional disorder caused by deficiency of:",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Proteins",
+        "C": "Vitamins",
+        "D": "Minerals"
+      },
+      "correct_answer": "B",
+      "explanation": "Kwashiorkor is severe protein deficiency, common in children after weaning. It causes oedema (fluid swelling), wasted muscles, and an enlarged abdomen."
+    },
+    {
+      "id": 159,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Marasmus is a condition caused by deficiency of:",
+      "options": {
+        "A": "Vitamins only",
+        "B": "Protein only",
+        "C": "Overall caloric/energy malnutrition",
+        "D": "Minerals only"
+      },
+      "correct_answer": "C",
+      "explanation": "Marasmus is caused by severe deficiency of total calories (energy and protein), resulting in extreme wasting of muscles and fat. The child appears very thin and weak."
+    },
+    {
+      "id": 160,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "In a dihybrid cross, two genes that are on different chromosomes assort independently. A cross AaBb × AaBb will give a phenotypic ratio of:",
+      "options": {
+        "A": "1:1:1:1",
+        "B": "9:3:3:1",
+        "C": "3:1",
+        "D": "1:2:1"
+      },
+      "correct_answer": "B",
+      "explanation": "A dihybrid cross AaBb × AaBb produces a 9:3:3:1 phenotypic ratio (9 A_B_ : 3 A_bb : 3 aaB_ : 1 aabb) when the genes assort independently."
+    },
+    {
+      "id": 161,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "Speciation is defined as the process by which:",
+      "options": {
+        "A": "individual organisms adapt to their environment",
+        "B": "a new species arises from an existing species, usually through reproductive isolation",
+        "C": "genetic drift changes allele frequencies",
+        "D": "artificial selection creates new varieties"
+      },
+      "correct_answer": "B",
+      "explanation": "Speciation is the evolutionary process by which populations diverge and develop reproductive isolation from each other, eventually forming distinct species."
+    },
+    {
+      "id": 162,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The cardiac cycle refers to the sequence of events in one complete heartbeat. The contraction phase of the heart is called:",
+      "options": {
+        "A": "Diastole",
+        "B": "Systole",
+        "C": "Arrhythmia",
+        "D": "Tachycardia"
+      },
+      "correct_answer": "B",
+      "explanation": "Systole is the contraction phase of the heartbeat when blood is pumped out of the heart. Diastole is the relaxation phase when the heart fills with blood."
+    },
+    {
+      "id": 163,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "Diffusion is the movement of molecules from a region of:",
+      "options": {
+        "A": "low concentration to high concentration",
+        "B": "high concentration to low concentration",
+        "C": "high temperature to low temperature",
+        "D": "low pressure to high pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "Diffusion is the passive movement of molecules from an area of high concentration to an area of low concentration (down a concentration gradient), requiring no energy."
+    },
+    {
+      "id": 164,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "Active transport differs from diffusion in that active transport:",
+      "options": {
+        "A": "moves molecules from high to low concentration",
+        "B": "requires no energy (ATP)",
+        "C": "moves molecules against the concentration gradient and requires energy (ATP)",
+        "D": "occurs only across non-living membranes"
+      },
+      "correct_answer": "C",
+      "explanation": "Active transport moves molecules against the concentration gradient (from low to high concentration) using energy from ATP. It requires carrier proteins."
+    },
+    {
+      "id": 165,
+      "topic": "Gaseous Exchange",
+      "difficulty": "medium",
+      "question": "The muscle that plays the major role in breathing (ventilation) is the:",
+      "options": {
+        "A": "Intercostal muscle",
+        "B": "Diaphragm",
+        "C": "Abdominal muscle",
+        "D": "Pectoralis muscle"
+      },
+      "correct_answer": "B",
+      "explanation": "The diaphragm is the primary muscle of respiration. When it contracts and flattens, it increases thoracic volume and air is drawn into the lungs (inhalation)."
+    },
+    {
+      "id": 166,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "The scientific name of humans is:",
+      "options": {
+        "A": "Homo habilis",
+        "B": "Homo erectus",
+        "C": "Homo sapiens",
+        "D": "Homo neanderthalensis"
+      },
+      "correct_answer": "C",
+      "explanation": "The scientific name of modern humans is Homo sapiens (Latin: 'wise man'). We belong to the genus Homo and the species sapiens."
+    },
+    {
+      "id": 167,
+      "topic": "Classification of Living Things",
+      "difficulty": "medium",
+      "question": "Which of the following correctly describes a dicotyledonous plant?",
+      "options": {
+        "A": "Has one seed leaf (cotyledon) and parallel leaf veins",
+        "B": "Has two seed leaves (cotyledons), net-veined leaves, and flower parts in fours or fives",
+        "C": "Has fibrous roots and scattered vascular bundles",
+        "D": "Includes grasses, palms, and lilies"
+      },
+      "correct_answer": "B",
+      "explanation": "Dicotyledons (dicots) have two cotyledons, net-veined leaves, flower parts in multiples of 4 or 5, and a ring of vascular bundles. Examples: beans, sunflower, mango."
+    },
+    {
+      "id": 168,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "A test cross is performed to determine whether an organism showing a dominant phenotype is:",
+      "options": {
+        "A": "homozygous dominant or homozygous recessive",
+        "B": "homozygous dominant or heterozygous",
+        "C": "haploid or diploid",
+        "D": "fertile or sterile"
+      },
+      "correct_answer": "B",
+      "explanation": "A test cross crosses an organism with the dominant phenotype with a homozygous recessive individual. If any offspring show the recessive trait, the dominant-phenotype parent is heterozygous."
+    },
+    {
+      "id": 169,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "Gibberellins promote which of the following in plants?",
+      "options": {
+        "A": "Root elongation only",
+        "B": "Stem elongation, seed germination, and flowering",
+        "C": "Leaf senescence and abscission",
+        "D": "Stomatal closure"
+      },
+      "correct_answer": "B",
+      "explanation": "Gibberellins are plant hormones that promote stem elongation (internode elongation), seed germination, fruit development, and in some plants, flowering."
+    },
+    {
+      "id": 170,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "The role of the large intestine in digestion is mainly to:",
+      "options": {
+        "A": "digest proteins",
+        "B": "absorb most nutrients",
+        "C": "absorb water and form faeces",
+        "D": "produce digestive enzymes"
+      },
+      "correct_answer": "C",
+      "explanation": "The large intestine (colon) primarily absorbs water, mineral salts, and vitamins from undigested material, forming solid faeces for excretion."
+    },
+    {
+      "id": 171,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "The organism that causes sleeping sickness (African trypanosomiasis) is transmitted by the:",
+      "options": {
+        "A": "Female Anopheles mosquito",
+        "B": "Aedes mosquito",
+        "C": "Tsetse fly",
+        "D": "Sand fly"
+      },
+      "correct_answer": "C",
+      "explanation": "African sleeping sickness is caused by Trypanosoma brucei and transmitted by the tsetse fly (Glossina species). It affects the central nervous system."
+    },
+    {
+      "id": 172,
+      "topic": "Micro-organisms and Disease",
+      "difficulty": "medium",
+      "question": "Penicillin was discovered by:",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Robert Koch",
+        "C": "Alexander Fleming",
+        "D": "Edward Jenner"
+      },
+      "correct_answer": "C",
+      "explanation": "Alexander Fleming discovered penicillin in 1928 when he observed that the mould Penicillium notatum inhibited bacterial growth on his culture plates."
+    },
+    {
+      "id": 173,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Which of the following is a biotic factor in an ecosystem?",
+      "options": {
+        "A": "Temperature",
+        "B": "Humidity",
+        "C": "Predation",
+        "D": "Soil pH"
+      },
+      "correct_answer": "C",
+      "explanation": "Biotic factors are living components of an ecosystem (organisms and their interactions): predation, competition, disease, parasitism. Abiotic factors are non-living (temperature, pH, light, humidity)."
+    },
+    {
+      "id": 174,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The permanent removal of forests to convert land for other uses is called:",
+      "options": {
+        "A": "Afforestation",
+        "B": "Reforestation",
+        "C": "Deforestation",
+        "D": "Desertification"
+      },
+      "correct_answer": "C",
+      "explanation": "Deforestation is the large-scale removal of forests. It leads to soil erosion, loss of biodiversity, disruption of water cycles, and increased CO₂ levels."
+    },
+    {
+      "id": 175,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "The genotype for sickle cell trait (carrier) in humans is:",
+      "options": {
+        "A": "HbA HbA (normal)",
+        "B": "HbS HbS (sickle cell disease)",
+        "C": "HbA HbS (sickle cell trait/carrier)",
+        "D": "HbA HbC"
+      },
+      "correct_answer": "C",
+      "explanation": "HbA HbS is the sickle cell trait. These individuals are carriers — they have one normal (HbA) and one sickle cell (HbS) allele, and are largely symptom-free."
+    },
+    {
+      "id": 176,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of the root in a plant?",
+      "options": {
+        "A": "Absorption of water and minerals",
+        "B": "Anchorage of the plant in the soil",
+        "C": "Photosynthesis",
+        "D": "Storage of food in some plants"
+      },
+      "correct_answer": "C",
+      "explanation": "Roots do not carry out photosynthesis because they lack chlorophyll and are usually underground (away from light). Roots absorb water/minerals, anchor the plant, and some store food."
+    },
+    {
+      "id": 177,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "Self-pollination occurs when pollen is transferred to the stigma of:",
+      "options": {
+        "A": "a different species of plant",
+        "B": "the same flower or another flower on the same plant",
+        "C": "a flower on a different plant of the same species",
+        "D": "any flower regardless of species"
+      },
+      "correct_answer": "B",
+      "explanation": "Self-pollination occurs when pollen transfers to the stigma of the same flower (autogamy) or another flower on the same plant (geitonogamy)."
+    },
+    {
+      "id": 178,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "The process by which seeds are transported away from the parent plant to prevent overcrowding is called:",
+      "options": {
+        "A": "Germination",
+        "B": "Pollination",
+        "C": "Seed dispersal",
+        "D": "Fertilization"
+      },
+      "correct_answer": "C",
+      "explanation": "Seed dispersal is the movement of seeds away from the parent plant by wind, water, animals, or explosive mechanisms, reducing competition and aiding colonization of new areas."
+    },
+    {
+      "id": 179,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "The maximum number of individuals of a species that an environment can sustainably support is called the:",
+      "options": {
+        "A": "Population density",
+        "B": "Carrying capacity",
+        "C": "Biotic potential",
+        "D": "Growth rate"
+      },
+      "correct_answer": "B",
+      "explanation": "Carrying capacity (K) is the maximum population size that an environment can support given available resources (food, water, space, shelter)."
+    },
+    {
+      "id": 180,
+      "topic": "Immune System",
+      "difficulty": "medium",
+      "question": "The first line of defence against pathogens in the human body includes:",
+      "options": {
+        "A": "Antibodies produced by B cells",
+        "B": "T lymphocytes",
+        "C": "Skin and mucous membranes",
+        "D": "Phagocytes"
+      },
+      "correct_answer": "C",
+      "explanation": "The first line of defence includes physical and chemical barriers: skin, mucous membranes, tears, saliva, and stomach acid that prevent pathogens from entering the body."
+    },
+    {
+      "id": 181,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Mineral deficiency of iron in the diet leads to:",
+      "options": {
+        "A": "Goitre",
+        "B": "Rickets",
+        "C": "Anaemia",
+        "D": "Scurvy"
+      },
+      "correct_answer": "C",
+      "explanation": "Iron deficiency causes anaemia — insufficient haemoglobin in red blood cells, resulting in reduced oxygen-carrying capacity, fatigue, and pallor."
+    },
+    {
+      "id": 182,
+      "topic": "Nutrition",
+      "difficulty": "medium",
+      "question": "Iodine deficiency in the diet causes:",
+      "options": {
+        "A": "Anaemia",
+        "B": "Rickets",
+        "C": "Goitre (enlarged thyroid gland)",
+        "D": "Scurvy"
+      },
+      "correct_answer": "C",
+      "explanation": "Iodine is needed for thyroid hormone (thyroxine) production. Deficiency causes the thyroid gland to enlarge (goitre) as it tries to produce more hormone."
+    },
+    {
+      "id": 183,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "The process by which the liver converts excess amino acids into urea is called:",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Deamination",
+        "C": "Gluconeogenesis",
+        "D": "Glycogenesis"
+      },
+      "correct_answer": "B",
+      "explanation": "Deamination is the process in the liver where excess amino acids have their amino group (-NH₂) removed, forming ammonia, which is then converted to urea via the ornithine cycle."
+    },
+    {
+      "id": 184,
+      "topic": "Transport Systems",
+      "difficulty": "medium",
+      "question": "The protein responsible for carrying oxygen in red blood cells is:",
+      "options": {
+        "A": "Myoglobin",
+        "B": "Haemoglobin",
+        "C": "Albumin",
+        "D": "Fibrinogen"
+      },
+      "correct_answer": "B",
+      "explanation": "Haemoglobin (Hb) is the iron-containing protein in red blood cells that binds oxygen in the lungs (forming oxyhaemoglobin) and releases it to body tissues."
+    },
+    {
+      "id": 185,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The cerebrum is primarily responsible for:",
+      "options": {
+        "A": "balance and coordination",
+        "B": "controlling heartbeat and breathing",
+        "C": "consciousness, intelligence, memory, and voluntary movement",
+        "D": "hormone secretion"
+      },
+      "correct_answer": "C",
+      "explanation": "The cerebrum (cerebral cortex) is the largest part of the brain, responsible for higher functions: consciousness, intelligence, memory, personality, and voluntary muscle movement."
+    },
+    {
+      "id": 186,
+      "topic": "Nervous System",
+      "difficulty": "medium",
+      "question": "The neurotransmitter released at the neuromuscular junction that causes muscle contraction is:",
+      "options": {
+        "A": "Dopamine",
+        "B": "Serotonin",
+        "C": "Acetylcholine",
+        "D": "Adrenaline"
+      },
+      "correct_answer": "C",
+      "explanation": "Acetylcholine (ACh) is the neurotransmitter released at the neuromuscular junction (where motor neurons meet muscle fibers), triggering muscle contraction."
+    },
+    {
+      "id": 187,
+      "topic": "Evolution",
+      "difficulty": "medium",
+      "question": "The geographical isolation of populations that leads to speciation is an example of:",
+      "options": {
+        "A": "Sympatric speciation",
+        "B": "Allopatric speciation",
+        "C": "Artificial selection",
+        "D": "Genetic drift only"
+      },
+      "correct_answer": "B",
+      "explanation": "Allopatric speciation occurs when populations are geographically separated (by mountains, oceans, etc.), preventing gene flow, and diverge into separate species over time."
+    },
+    {
+      "id": 188,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "The part of a flower that produces pollen grains (male gametes) is the:",
+      "options": {
+        "A": "Stigma",
+        "B": "Style",
+        "C": "Anther",
+        "D": "Ovary"
+      },
+      "correct_answer": "C",
+      "explanation": "The anther is the male reproductive part of the flower that produces and releases pollen grains containing the male gametes. The anther sits on a stalk called the filament."
+    },
+    {
+      "id": 189,
+      "topic": "Cell Division",
+      "difficulty": "medium",
+      "question": "Cancer is characterized by uncontrolled cell division. This occurs due to mutations in genes that normally:",
+      "options": {
+        "A": "produce antibodies",
+        "B": "regulate the cell cycle (oncogenes and tumour suppressor genes)",
+        "C": "control digestion",
+        "D": "carry oxygen in the blood"
+      },
+      "correct_answer": "B",
+      "explanation": "Cancer arises when mutations affect genes that regulate the cell cycle: oncogenes (normally promote growth) or tumour suppressor genes (normally inhibit growth) like p53."
+    },
+    {
+      "id": 190,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Commensalism is a relationship in which:",
+      "options": {
+        "A": "both organisms benefit",
+        "B": "one organism benefits while the other is harmed",
+        "C": "one organism benefits while the other is neither harmed nor helped",
+        "D": "both organisms are harmed"
+      },
+      "correct_answer": "C",
+      "explanation": "Commensalism benefits one organism while the other is unaffected. Example: barnacles on whales benefit from transport; whales are unaffected."
+    },
+    {
+      "id": 191,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Polyploidy refers to organisms that have:",
+      "options": {
+        "A": "fewer chromosomes than normal",
+        "B": "more than two complete sets of chromosomes",
+        "C": "chromosomes with mutations",
+        "D": "one set of chromosomes (haploid)"
+      },
+      "correct_answer": "B",
+      "explanation": "Polyploidy is the condition of having more than two complete sets of chromosomes (e.g., triploid 3n, tetraploid 4n). It is common in plants and important in crop breeding."
+    },
+    {
+      "id": 192,
+      "topic": "Plant Biology",
+      "difficulty": "medium",
+      "question": "Which of the following plants is an example of a monocotyledon?",
+      "options": {
+        "A": "Bean",
+        "B": "Mango",
+        "C": "Maize (corn)",
+        "D": "Tomato"
+      },
+      "correct_answer": "C",
+      "explanation": "Maize is a monocotyledon — it has one seed leaf, parallel leaf veins, fibrous roots, and flower parts in multiples of three. Bean, mango, and tomato are dicotyledons."
+    },
+    {
+      "id": 193,
+      "topic": "Nutrition in Animals",
+      "difficulty": "medium",
+      "question": "Which organ produces digestive enzymes including amylase, lipase, and proteases, and also produces insulin?",
+      "options": {
+        "A": "Liver",
+        "B": "Stomach",
+        "C": "Pancreas",
+        "D": "Small intestine"
+      },
+      "correct_answer": "C",
+      "explanation": "The pancreas has two functions: exocrine (producing digestive enzymes: amylase, lipase, trypsin) and endocrine (producing hormones: insulin and glucagon from islets of Langerhans)."
+    },
+    {
+      "id": 194,
+      "topic": "Excretion",
+      "difficulty": "medium",
+      "question": "Antidiuretic hormone (ADH) regulates water balance by:",
+      "options": {
+        "A": "increasing urine production",
+        "B": "causing the kidney tubules to reabsorb more water, producing concentrated urine",
+        "C": "stimulating the liver to produce more urea",
+        "D": "increasing blood pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "ADH (vasopressin) is produced by the hypothalamus and stored in the pituitary. It increases the permeability of kidney collecting ducts to water, increasing reabsorption and producing concentrated urine."
+    },
+    {
+      "id": 195,
+      "topic": "Support and Movement",
+      "difficulty": "medium",
+      "question": "Which of the following types of connective tissue forms the skeleton of the ear and nose (flexible), and covers joint surfaces (articular)?",
+      "options": {
+        "A": "Bone",
+        "B": "Tendon",
+        "C": "Cartilage",
+        "D": "Ligament"
+      },
+      "correct_answer": "C",
+      "explanation": "Cartilage is a flexible connective tissue found in the ear, nose, trachea, and covering joint surfaces (articular cartilage). It is avascular (no blood vessels)."
+    },
+    {
+      "id": 196,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Global warming is primarily caused by the increase of which gas in the atmosphere?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "Rising levels of CO₂ (mainly from burning fossil fuels and deforestation) enhance the greenhouse effect, trapping heat in the atmosphere and causing global warming."
+    },
+    {
+      "id": 197,
+      "topic": "Genetics",
+      "difficulty": "medium",
+      "question": "Linked genes are genes that are located on the same chromosome and tend to:",
+      "options": {
+        "A": "assort independently during meiosis",
+        "B": "be inherited together and not assort independently",
+        "C": "cause dominant traits only",
+        "D": "always be expressed in the phenotype"
+      },
+      "correct_answer": "B",
+      "explanation": "Linked genes are on the same chromosome and tend to be inherited together, violating Mendel's law of independent assortment (unless separated by crossing over)."
+    },
+    {
+      "id": 198,
+      "topic": "Reproduction",
+      "difficulty": "medium",
+      "question": "In humans, the sex of the offspring is determined by:",
+      "options": {
+        "A": "the mother's chromosomes",
+        "B": "the father's sex chromosome in the sperm (X or Y)",
+        "C": "environmental temperature during pregnancy",
+        "D": "the number of eggs fertilized"
+      },
+      "correct_answer": "B",
+      "explanation": "Human sex is determined by the father's sperm: sperm carrying Y chromosome → male (XY); sperm carrying X chromosome → female (XX). Females are XX; males are XY."
+    },
+    {
+      "id": 199,
+      "topic": "Cell Structure and Organisation",
+      "difficulty": "medium",
+      "question": "The cell theory states that:",
+      "options": {
+        "A": "all cells have the same structure and function",
+        "B": "all living organisms are composed of cells, and cells arise only from pre-existing cells",
+        "C": "only animal cells have nuclei",
+        "D": "plant cells are larger than animal cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The cell theory (Schleiden, Schwann, Virchow) states: (1) all living things are made of cells, (2) cells are the basic unit of life, (3) all cells come from pre-existing cells."
+    },
+    {
+      "id": 200,
+      "topic": "Ecology",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a renewable natural resource?",
+      "options": {
+        "A": "Coal",
+        "B": "Natural gas",
+        "C": "Petroleum",
+        "D": "Solar energy"
+      },
+      "correct_answer": "D",
+      "explanation": "Solar energy is a renewable resource because it is continuously replenished by the sun. Coal, natural gas, and petroleum are non-renewable fossil fuels."
+    }
+  ]
+}

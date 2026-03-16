@@ -1,0 +1,2806 @@
+{
+  "subject": "Agricultural Science",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to Agriculture",
+      "difficulty": "medium",
+      "question": "Agriculture is best defined as:",
+      "options": {
+        "A": "the study of plants only",
+        "B": "the art and science of cultivating the soil, raising crops, and rearing livestock for human benefit",
+        "C": "the management of forests and wildlife",
+        "D": "the processing and distribution of food products"
+      },
+      "correct_answer": "B",
+      "explanation": "Agriculture encompasses all activities involved in cultivating land, growing crops, and raising animals for food, fibre, and other products for human use."
+    },
+    {
+      "id": 2,
+      "topic": "Introduction to Agriculture",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a branch of agriculture?",
+      "options": {
+        "A": "Crop production",
+        "B": "Animal husbandry",
+        "C": "Geology",
+        "D": "Aquaculture"
+      },
+      "correct_answer": "C",
+      "explanation": "Geology is the study of rocks and the Earth's structure — it is not a branch of agriculture. Branches of agriculture include crop production, animal husbandry, aquaculture, forestry, and agricultural engineering."
+    },
+    {
+      "id": 3,
+      "topic": "Introduction to Agriculture",
+      "difficulty": "medium",
+      "question": "Subsistence farming is a system where:",
+      "options": {
+        "A": "large quantities of food are produced for export",
+        "B": "food is produced mainly for the farmer's own consumption with little surplus",
+        "C": "only cash crops are cultivated",
+        "D": "farming is done entirely by machines"
+      },
+      "correct_answer": "B",
+      "explanation": "Subsistence farming produces just enough food for the farmer's household with little or no surplus for sale. It is the dominant form of farming in rural Nigeria."
+    },
+    {
+      "id": 4,
+      "topic": "Introduction to Agriculture",
+      "difficulty": "medium",
+      "question": "Commercial farming differs from subsistence farming in that commercial farming:",
+      "options": {
+        "A": "uses only traditional tools",
+        "B": "produces crops and animals primarily for sale in the market",
+        "C": "does not use fertilizers",
+        "D": "is practiced only in small plots"
+      },
+      "correct_answer": "B",
+      "explanation": "Commercial farming is large-scale, profit-oriented agriculture where crops and livestock are produced primarily for sale, using modern inputs, machinery, and improved varieties."
+    },
+    {
+      "id": 5,
+      "topic": "Introduction to Agriculture",
+      "difficulty": "medium",
+      "question": "Mixed farming involves:",
+      "options": {
+        "A": "growing only food crops",
+        "B": "combining crop cultivation with livestock rearing on the same farm",
+        "C": "farming on both wet and dry land",
+        "D": "using both organic and inorganic fertilizers"
+      },
+      "correct_answer": "B",
+      "explanation": "Mixed farming integrates crop production and animal husbandry. Crop residues feed animals; animal manure fertilizes crops, creating a beneficial cycle."
+    },
+    {
+      "id": 6,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Soil is formed through the process of:",
+      "options": {
+        "A": "sedimentation of rocks in water",
+        "B": "weathering of parent rock material and decomposition of organic matter over time",
+        "C": "volcanic eruption",
+        "D": "evaporation of water from the ground"
+      },
+      "correct_answer": "B",
+      "explanation": "Soil formation (pedogenesis) involves the physical and chemical weathering of parent rock material, decomposition of organic matter, and the activity of living organisms over thousands of years."
+    },
+    {
+      "id": 7,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "The three main soil particles in order of decreasing size are:",
+      "options": {
+        "A": "Clay, Silt, Sand",
+        "B": "Sand, Silt, Clay",
+        "C": "Silt, Sand, Clay",
+        "D": "Gravel, Clay, Sand"
+      },
+      "correct_answer": "B",
+      "explanation": "Soil particle sizes: Sand (0.05-2mm) > Silt (0.002-0.05mm) > Clay (<0.002mm). Sandy soils drain fast; clay soils retain water and nutrients but may become waterlogged."
+    },
+    {
+      "id": 8,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Loam soil is considered the best agricultural soil because it:",
+      "options": {
+        "A": "contains only sand particles",
+        "B": "is a mixture of sand, silt, and clay with good water retention and drainage",
+        "C": "is extremely fine and compact",
+        "D": "has the highest pH"
+      },
+      "correct_answer": "B",
+      "explanation": "Loam soil combines sand (drainage), silt (nutrient retention), and clay (water and nutrient retention) in balanced proportions, making it ideal for most crops."
+    },
+    {
+      "id": 9,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Soil pH measures the:",
+      "options": {
+        "A": "nitrogen content of the soil",
+        "B": "acidity or alkalinity of the soil on a scale of 1-14",
+        "C": "water content of the soil",
+        "D": "organic matter percentage"
+      },
+      "correct_answer": "B",
+      "explanation": "Soil pH measures acidity (pH below 7) or alkalinity (pH above 7). Most crops grow best in slightly acidic to neutral soil (pH 6.0–7.0). pH affects nutrient availability and microbial activity."
+    },
+    {
+      "id": 10,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Liming of acidic soil is done to:",
+      "options": {
+        "A": "increase soil acidity",
+        "B": "raise soil pH and improve nutrient availability",
+        "C": "add nitrogen to the soil",
+        "D": "improve soil texture"
+      },
+      "correct_answer": "B",
+      "explanation": "Liming (applying calcium carbonate/limestone) neutralizes soil acidity, raising the pH. This improves nutrient availability (especially phosphorus) and creates better conditions for soil bacteria."
+    },
+    {
+      "id": 11,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Humus is important in soil because it:",
+      "options": {
+        "A": "makes the soil hard and compact",
+        "B": "improves soil structure, water retention, and nutrient supply",
+        "C": "acidifies the soil excessively",
+        "D": "prevents plant roots from penetrating"
+      },
+      "correct_answer": "B",
+      "explanation": "Humus (decomposed organic matter) improves soil structure by binding particles, increases water-holding capacity, provides nutrients, and supports beneficial soil organisms."
+    },
+    {
+      "id": 12,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "The main agents of soil erosion are:",
+      "options": {
+        "A": "Temperature and humidity",
+        "B": "Water (rainfall and runoff) and wind",
+        "C": "Plants and animals",
+        "D": "Fertilizers and pesticides"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary agents of soil erosion are water (raindrop impact, surface runoff) and wind. Erosion removes the fertile topsoil, reducing agricultural productivity."
+    },
+    {
+      "id": 13,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Contour farming as a method of soil conservation involves:",
+      "options": {
+        "A": "growing crops in rows running up and down the slope",
+        "B": "ploughing and planting across the slope along contour lines",
+        "C": "burning crop residues to prevent erosion",
+        "D": "applying chemical pesticides to stabilize soil"
+      },
+      "correct_answer": "B",
+      "explanation": "Contour farming involves ploughing and planting along the contour (across the slope) rather than up and down. This creates ridges that slow water runoff and trap soil."
+    },
+    {
+      "id": 14,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "Terracing as a soil conservation method is most effective on:",
+      "options": {
+        "A": "flat plains",
+        "B": "steep slopes where it creates level platforms for cultivation",
+        "C": "coastal areas",
+        "D": "sandy desert soils"
+      },
+      "correct_answer": "B",
+      "explanation": "Terracing cuts a series of level steps (terraces) into steep hillsides, reducing runoff speed and erosion. It is widely used in Nigeria's southeastern states and other hilly areas."
+    },
+    {
+      "id": 15,
+      "topic": "Soil Nutrients",
+      "difficulty": "medium",
+      "question": "The three primary (major) macronutrients essential for plant growth are:",
+      "options": {
+        "A": "Nitrogen (N), Phosphorus (P), Potassium (K)",
+        "B": "Calcium (Ca), Magnesium (Mg), Sulfur (S)",
+        "C": "Iron (Fe), Zinc (Zn), Copper (Cu)",
+        "D": "Carbon (C), Hydrogen (H), Oxygen (O)"
+      },
+      "correct_answer": "A",
+      "explanation": "NPK — Nitrogen (promotes leafy growth), Phosphorus (root and flower development), and Potassium (disease resistance, fruit quality) are the three primary macronutrients in fertilizers."
+    },
+    {
+      "id": 16,
+      "topic": "Soil Nutrients",
+      "difficulty": "medium",
+      "question": "Nitrogen deficiency in plants causes:",
+      "options": {
+        "A": "purple coloration of leaves",
+        "B": "yellowing of older leaves (chlorosis) and stunted growth",
+        "C": "browning of leaf tips",
+        "D": "wilting and poor root development"
+      },
+      "correct_answer": "B",
+      "explanation": "Nitrogen deficiency causes yellowing (chlorosis) of older leaves first (nitrogen is mobile and moves from old to new leaves), stunted growth, and pale green coloration."
+    },
+    {
+      "id": 17,
+      "topic": "Soil Nutrients",
+      "difficulty": "medium",
+      "question": "Phosphorus deficiency in plants typically causes:",
+      "options": {
+        "A": "yellowing of leaves",
+        "B": "purple or reddish coloration of leaves and poor root development",
+        "C": "wilting in hot weather",
+        "D": "excessive vegetative growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Phosphorus deficiency causes a characteristic purple or reddish discoloration of leaves (due to anthocyanin accumulation), poor root development, and delayed maturity."
+    },
+    {
+      "id": 18,
+      "topic": "Fertilizers",
+      "difficulty": "medium",
+      "question": "Organic fertilizers differ from inorganic (chemical) fertilizers in that organic fertilizers:",
+      "options": {
+        "A": "provide nutrients more quickly",
+        "B": "are derived from living or once-living material and improve soil structure",
+        "C": "have higher concentrations of NPK",
+        "D": "are more expensive"
+      },
+      "correct_answer": "B",
+      "explanation": "Organic fertilizers (manure, compost, bone meal) are derived from organic matter, release nutrients slowly, improve soil structure, and support soil microbial life."
+    },
+    {
+      "id": 19,
+      "topic": "Fertilizers",
+      "difficulty": "medium",
+      "question": "Urea is a nitrogenous fertilizer that contains approximately:",
+      "options": {
+        "A": "15% nitrogen",
+        "B": "46% nitrogen",
+        "C": "100% nitrogen",
+        "D": "25% nitrogen"
+      },
+      "correct_answer": "B",
+      "explanation": "Urea (CO(NH₂)₂) contains approximately 46% nitrogen, making it the most concentrated and widely used solid nitrogen fertilizer."
+    },
+    {
+      "id": 20,
+      "topic": "Fertilizers",
+      "difficulty": "medium",
+      "question": "Green manuring involves:",
+      "options": {
+        "A": "applying chemical fertilizers in liquid form",
+        "B": "growing leguminous plants and ploughing them into the soil while still green to add organic matter",
+        "C": "painting plants with nutrients",
+        "D": "composting leaves in a pit"
+      },
+      "correct_answer": "B",
+      "explanation": "Green manuring involves growing nitrogen-fixing crops (legumes like cowpea, mucuna) and incorporating them into the soil while still green, adding organic matter and nitrogen."
+    },
+    {
+      "id": 21,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Crop rotation is the practice of:",
+      "options": {
+        "A": "rotating the direction of ploughing each year",
+        "B": "growing different crops on the same land in successive seasons to maintain soil fertility",
+        "C": "transplanting crops from one field to another",
+        "D": "growing the same crop every year"
+      },
+      "correct_answer": "B",
+      "explanation": "Crop rotation alternates different crops (e.g., cereals, legumes, roots) in sequence on the same land. It prevents nutrient depletion, breaks pest/disease cycles, and improves soil structure."
+    },
+    {
+      "id": 22,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Intercropping is the agricultural practice of:",
+      "options": {
+        "A": "growing one crop at a time",
+        "B": "growing two or more crops simultaneously on the same land",
+        "C": "planting crops in between crop rows of a perennial crop",
+        "D": "growing crops under irrigation"
+      },
+      "correct_answer": "B",
+      "explanation": "Intercropping grows two or more crops together at the same time on the same land, maximizing land use, reducing erosion, and providing multiple harvests."
+    },
+    {
+      "id": 23,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The main advantage of shifting cultivation is:",
+      "options": {
+        "A": "high productivity per unit area",
+        "B": "it allows soil to recover its fertility naturally during the fallow period",
+        "C": "it uses modern machinery",
+        "D": "it produces large surpluses for export"
+      },
+      "correct_answer": "B",
+      "explanation": "Shifting cultivation allows farmers to move to fresh land when old plots lose fertility, letting them regenerate naturally. The major disadvantages are low productivity and contribution to deforestation."
+    },
+    {
+      "id": 24,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The process of seed germination requires:",
+      "options": {
+        "A": "light, soil, and fertilizer",
+        "B": "water, oxygen, and suitable temperature",
+        "C": "direct sunlight throughout germination",
+        "D": "rich organic soil"
+      },
+      "correct_answer": "B",
+      "explanation": "Seed germination requires: (1) water (to activate enzymes and soften the seed coat), (2) oxygen (for aerobic respiration), and (3) suitable temperature (warmth to activate biochemical processes). Light is not required."
+    },
+    {
+      "id": 25,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Transplanting of seedlings is done in crop production to:",
+      "options": {
+        "A": "eliminate weeds around the crops",
+        "B": "allow seedlings to develop under controlled conditions before being moved to the field",
+        "C": "increase the spacing between plants",
+        "D": "apply fertilizers more efficiently"
+      },
+      "correct_answer": "B",
+      "explanation": "Transplanting involves raising seedlings in a nursery under controlled conditions, then moving them to the main field. It saves land, ensures uniform plant stands, and protects early stages."
+    },
+    {
+      "id": 26,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The process of removing extra seedlings from a stand to achieve the desired plant population is called:",
+      "options": {
+        "A": "Weeding",
+        "B": "Thinning",
+        "C": "Pruning",
+        "D": "Topping"
+      },
+      "correct_answer": "B",
+      "explanation": "Thinning removes excess seedlings from an overcrowded stand, leaving the desired number of plants at the correct spacing to reduce competition and optimize yields."
+    },
+    {
+      "id": 27,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Mulching in crop production involves:",
+      "options": {
+        "A": "applying chemicals to kill weeds",
+        "B": "covering the soil surface with organic or inorganic materials to conserve moisture and reduce weeds",
+        "C": "deep ploughing of the soil",
+        "D": "applying irrigation water"
+      },
+      "correct_answer": "B",
+      "explanation": "Mulching covers the soil around plants with organic materials (straw, leaves, wood chips) or plastic to conserve moisture, moderate soil temperature, suppress weeds, and add organic matter."
+    },
+    {
+      "id": 28,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Ridging in crop production is primarily done to:",
+      "options": {
+        "A": "compact the soil for better water retention",
+        "B": "create mounds that improve drainage, aeration, and ease of harvesting root crops",
+        "C": "prevent animals from entering the farm",
+        "D": "reduce soil temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Ridging creates raised mounds or furrows, improving soil drainage, aeration, and ease of harvesting root and tuber crops like yam and cassava. It also helps with hilling up plants."
+    },
+    {
+      "id": 29,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Staking in crop production is important for:",
+      "options": {
+        "A": "marking field boundaries",
+        "B": "providing support for climbing or tall plants to prevent lodging",
+        "C": "measuring crop spacing",
+        "D": "protecting crops from pests"
+      },
+      "correct_answer": "B",
+      "explanation": "Staking provides physical support (bamboo sticks, poles) for climbing plants (yam, tomato, beans) or tall crops prone to lodging (falling over), improving air circulation and yields."
+    },
+    {
+      "id": 30,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The term 'lodging' in crop production refers to:",
+      "options": {
+        "A": "the provision of housing for farm workers",
+        "B": "the bending or falling over of crop stems due to wind, rain, or weak stems",
+        "C": "the storage of harvested crops",
+        "D": "planting crops too deeply in the soil"
+      },
+      "correct_answer": "B",
+      "explanation": "Lodging occurs when crop stems bend or collapse (especially cereals like maize and sorghum) due to strong winds, heavy rain, excessive nitrogen, or weak stems, reducing yields significantly."
+    },
+    {
+      "id": 31,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "A cutlass (machete) is primarily used in farm operations for:",
+      "options": {
+        "A": "deep ploughing",
+        "B": "clearing bush, cutting weeds, and harvesting",
+        "C": "seed planting",
+        "D": "applying fertilizer"
+      },
+      "correct_answer": "B",
+      "explanation": "The cutlass/machete is the most widely used farm tool in West Africa for clearing bush, cutting weeds, harvesting crops, and general farm clearing."
+    },
+    {
+      "id": 32,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "A hoe is mainly used for:",
+      "options": {
+        "A": "harvesting grains",
+        "B": "loosening and turning soil, weeding, and making ridges",
+        "C": "applying chemical sprays",
+        "D": "measuring farm areas"
+      },
+      "correct_answer": "B",
+      "explanation": "The hoe is a fundamental hand tool used for soil cultivation, making ridges/mounds, weeding, and breaking the soil surface. It is the most common planting tool in subsistence farming."
+    },
+    {
+      "id": 33,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "A tractor is classified as:",
+      "options": {
+        "A": "a simple hand tool",
+        "B": "a complex/power-driven farm machinery",
+        "C": "a measuring instrument",
+        "D": "a storage equipment"
+      },
+      "correct_answer": "B",
+      "explanation": "Tractors are complex, power-driven machines that provide power for various farm operations (ploughing, harrowing, planting, harvesting) by attaching different implements."
+    },
+    {
+      "id": 34,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "A plough is used in farm operations to:",
+      "options": {
+        "A": "harvest grain crops",
+        "B": "turn over and break up the soil to prepare a seedbed",
+        "C": "spray pesticides on crops",
+        "D": "measure soil acidity"
+      },
+      "correct_answer": "B",
+      "explanation": "A plough (moldboard, disc, or chisel) is the primary tillage implement used to turn over the upper layer of soil, preparing it for planting by burying weeds and crop residues."
+    },
+    {
+      "id": 35,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "A harrow is a farm implement used to:",
+      "options": {
+        "A": "plant seeds in rows",
+        "B": "break up clods and smooth the soil surface after ploughing",
+        "C": "irrigate the farm",
+        "D": "measure field dimensions"
+      },
+      "correct_answer": "B",
+      "explanation": "Harrowing is secondary tillage that breaks up clods left after ploughing, levels the soil surface, and creates a fine, firm seedbed suitable for planting."
+    },
+    {
+      "id": 36,
+      "topic": "Farm Tools and Equipment",
+      "difficulty": "medium",
+      "question": "Proper maintenance of farm tools includes all of the following EXCEPT:",
+      "options": {
+        "A": "cleaning tools after use",
+        "B": "sharpening cutting edges",
+        "C": "oiling metal parts to prevent rust",
+        "D": "leaving tools in the rain after use"
+      },
+      "correct_answer": "D",
+      "explanation": "Proper tool maintenance includes: cleaning after use, sharpening blades, oiling metal parts, storing in dry places, and repairing handles. Leaving tools in rain causes rust and deterioration."
+    },
+    {
+      "id": 37,
+      "topic": "Land Preparation",
+      "difficulty": "medium",
+      "question": "Primary tillage refers to the:",
+      "options": {
+        "A": "final levelling of soil before planting",
+        "B": "initial deep turning or breaking of soil using a plough",
+        "C": "application of herbicides before planting",
+        "D": "construction of drainage channels"
+      },
+      "correct_answer": "B",
+      "explanation": "Primary tillage (ploughing) is the first and deepest soil cultivation operation that turns over and loosens the soil. Secondary tillage (harrowing) refines the seedbed."
+    },
+    {
+      "id": 38,
+      "topic": "Land Preparation",
+      "difficulty": "medium",
+      "question": "The slash and burn method of land clearing involves:",
+      "options": {
+        "A": "using machinery to remove trees",
+        "B": "cutting down vegetation and burning it to clear land and add ash as fertilizer",
+        "C": "chemical spraying to kill vegetation",
+        "D": "flooding the land to kill weeds"
+      },
+      "correct_answer": "B",
+      "explanation": "Slash and burn (swidden agriculture) involves cutting vegetation and burning it. The ash adds potassium and other nutrients, temporarily improving fertility. It is associated with shifting cultivation."
+    },
+    {
+      "id": 39,
+      "topic": "Crop Improvement",
+      "difficulty": "medium",
+      "question": "Plant breeding aims to develop varieties with:",
+      "options": {
+        "A": "lower yields but more colorful flowers",
+        "B": "improved characteristics such as higher yield, disease resistance, and drought tolerance",
+        "C": "longer growing periods",
+        "D": "higher moisture requirements"
+      },
+      "correct_answer": "B",
+      "explanation": "Plant breeding develops new crop varieties with improved traits: higher yields, disease and pest resistance, drought tolerance, improved nutritional quality, and better adaptability."
+    },
+    {
+      "id": 40,
+      "topic": "Crop Improvement",
+      "difficulty": "medium",
+      "question": "Hybridization in plant breeding involves:",
+      "options": {
+        "A": "cloning identical plants",
+        "B": "crossing two different varieties or species to produce offspring with desired traits",
+        "C": "selecting the best individual plants for seed",
+        "D": "exposing plants to radiation to induce mutations"
+      },
+      "correct_answer": "B",
+      "explanation": "Hybridization is the crossing of genetically different parents (varieties or species) to produce hybrids that combine desirable traits from both parents, often showing hybrid vigor (heterosis)."
+    },
+    {
+      "id": 41,
+      "topic": "Crop Improvement",
+      "difficulty": "medium",
+      "question": "The International Institute of Tropical Agriculture (IITA) located in Ibadan, Nigeria, is known for:",
+      "options": {
+        "A": "producing chemical fertilizers",
+        "B": "conducting agricultural research and developing improved crop varieties for tropical Africa",
+        "C": "training veterinary doctors",
+        "D": "managing Nigeria's oil resources"
+      },
+      "correct_answer": "B",
+      "explanation": "IITA (International Institute of Tropical Agriculture) based in Ibadan is a leading international agricultural research center developing improved varieties of cassava, maize, soybean, and other tropical crops."
+    },
+    {
+      "id": 42,
+      "topic": "Irrigation",
+      "difficulty": "medium",
+      "question": "Drip irrigation is the most efficient method because:",
+      "options": {
+        "A": "it applies large amounts of water quickly",
+        "B": "it delivers water slowly and directly to plant roots, minimizing water loss through evaporation",
+        "C": "it is the cheapest method",
+        "D": "it requires no technical skill"
+      },
+      "correct_answer": "B",
+      "explanation": "Drip (trickle) irrigation delivers water drop by drop directly to the plant root zone through emitters. It has up to 95% water use efficiency, far better than flood (50%) or sprinkler (75%) irrigation."
+    },
+    {
+      "id": 43,
+      "topic": "Irrigation",
+      "difficulty": "medium",
+      "question": "Flood (furrow) irrigation is the most common method in Nigeria mainly because:",
+      "options": {
+        "A": "it wastes the least water",
+        "B": "it is simple, cheap, and requires little technology",
+        "C": "it is the most efficient",
+        "D": "it prevents waterlogging"
+      },
+      "correct_answer": "B",
+      "explanation": "Flood/furrow irrigation is widely used in Nigeria despite lower efficiency because it is simple to implement, requires no expensive equipment, and uses gravity to distribute water."
+    },
+    {
+      "id": 44,
+      "topic": "Weeds",
+      "difficulty": "medium",
+      "question": "Weeds are harmful to crops because they:",
+      "options": {
+        "A": "improve soil fertility",
+        "B": "compete with crops for nutrients, water, light, and space, reducing yields",
+        "C": "attract beneficial insects",
+        "D": "improve air circulation"
+      },
+      "correct_answer": "B",
+      "explanation": "Weeds compete with crops for water, nutrients, light, and space, reducing crop yields. They also harbor pests and diseases, and may release allelopathic chemicals that inhibit crop growth."
+    },
+    {
+      "id": 45,
+      "topic": "Weeds",
+      "difficulty": "medium",
+      "question": "Striga (witch weed) is a particularly harmful weed because:",
+      "options": {
+        "A": "it is toxic to soil organisms",
+        "B": "it is a parasitic weed that attaches to the roots of cereals (maize, sorghum, millet) and extracts nutrients",
+        "C": "it produces thorns that injure farmers",
+        "D": "it blocks drainage channels"
+      },
+      "correct_answer": "B",
+      "explanation": "Striga (witchweed) is a parasitic weed that attaches to cereal roots, extracting water and nutrients. It is a major constraint to cereal production in sub-Saharan Africa."
+    },
+    {
+      "id": 46,
+      "topic": "Weeds",
+      "difficulty": "medium",
+      "question": "Herbicides are chemicals used for:",
+      "options": {
+        "A": "controlling insect pests",
+        "B": "killing or suppressing weeds",
+        "C": "preventing fungal diseases",
+        "D": "attracting beneficial insects"
+      },
+      "correct_answer": "B",
+      "explanation": "Herbicides are chemical weed killers. They can be selective (killing specific weeds without harming crops) or non-selective (killing all vegetation). Examples: atrazine, glyphosate, 2,4-D."
+    },
+    {
+      "id": 47,
+      "topic": "Weeds",
+      "difficulty": "medium",
+      "question": "The most reliable method of weed control on small farms in Nigeria is:",
+      "options": {
+        "A": "chemical herbicides",
+        "B": "manual weeding with hoe or hand",
+        "C": "biological control",
+        "D": "covering the soil with plastic"
+      },
+      "correct_answer": "B",
+      "explanation": "Manual weeding (hand-hoeing) is the most widely practiced weed control method on smallholder farms in Nigeria due to low cost, accessibility, and no risk of chemical contamination."
+    },
+    {
+      "id": 48,
+      "topic": "Pest and Disease Control",
+      "difficulty": "medium",
+      "question": "Integrated Pest Management (IPM) is:",
+      "options": {
+        "A": "exclusive use of chemical pesticides",
+        "B": "a combined approach using biological, cultural, physical, and chemical methods to manage pests economically",
+        "C": "total elimination of all insects on the farm",
+        "D": "using only biological methods to control pests"
+      },
+      "correct_answer": "B",
+      "explanation": "IPM uses a combination of pest control strategies (biological, cultural, physical, chemical) to reduce pest populations below economically damaging levels while minimizing environmental impact."
+    },
+    {
+      "id": 49,
+      "topic": "Pest and Disease Control",
+      "difficulty": "medium",
+      "question": "Biological control of pests involves:",
+      "options": {
+        "A": "applying chemical pesticides",
+        "B": "using natural enemies (predators, parasites, pathogens) to control pest populations",
+        "C": "burning infected crops",
+        "D": "rotating crops"
+      },
+      "correct_answer": "B",
+      "explanation": "Biological control uses natural enemies — predatory insects, parasitic wasps, bacteria (Bt), fungi, or viruses — to reduce pest populations. It is environmentally friendly and sustainable."
+    },
+    {
+      "id": 50,
+      "topic": "Pest and Disease Control",
+      "difficulty": "medium",
+      "question": "Cassava mosaic disease is caused by a:",
+      "options": {
+        "A": "fungus",
+        "B": "bacterium",
+        "C": "virus transmitted by whiteflies",
+        "D": "nematode"
+      },
+      "correct_answer": "C",
+      "explanation": "Cassava Mosaic Disease (CMD) is caused by a geminivirus transmitted by the whitefly (Bemisia tabaci). It causes mottled, distorted leaves and can cause severe yield losses."
+    },
+    {
+      "id": 51,
+      "topic": "Pest and Disease Control",
+      "difficulty": "medium",
+      "question": "Maize stalk borer (Busseola fusca) is a major pest of maize that damages the crop by:",
+      "options": {
+        "A": "sucking sap from leaves",
+        "B": "boring into the stem and causing deadheart in young plants and broken cobs in older ones",
+        "C": "feeding on roots",
+        "D": "destroying seeds in storage"
+      },
+      "correct_answer": "B",
+      "explanation": "The stalk borer larva bores into the maize stem, causing 'deadheart' (death of the central shoot) in young plants and 'tassel damage' and broken stems in older plants."
+    },
+    {
+      "id": 52,
+      "topic": "Pest and Disease Control",
+      "difficulty": "medium",
+      "question": "The best way to control soil-borne diseases is through:",
+      "options": {
+        "A": "foliar spraying with fungicides",
+        "B": "crop rotation with non-host crops to break the disease cycle",
+        "C": "increasing irrigation",
+        "D": "applying more nitrogen fertilizer"
+      },
+      "correct_answer": "B",
+      "explanation": "Crop rotation with non-host crops effectively controls soil-borne pathogens (fungi, bacteria, nematodes) by breaking their life cycle, as they cannot survive without their specific host plant."
+    },
+    {
+      "id": 53,
+      "topic": "Crop Storage",
+      "difficulty": "medium",
+      "question": "Post-harvest losses in crop storage are caused by:",
+      "options": {
+        "A": "excessive rainfall after harvest",
+        "B": "insects, fungi, rodents, moisture, and improper storage conditions",
+        "C": "poor soil fertility during growing",
+        "D": "lack of irrigation during growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-harvest losses are caused by insects (weevils, borers), moulds/fungi, rodents, excessive moisture, improper temperature, and lack of proper storage facilities — causing 25-40% losses in Nigeria."
+    },
+    {
+      "id": 54,
+      "topic": "Crop Storage",
+      "difficulty": "medium",
+      "question": "Grain weevils (Sitophilus species) are major pests of stored grains. The best method to control them in small-scale storage is:",
+      "options": {
+        "A": "adding water to grain",
+        "B": "mixing dry ash, neem leaves, or approved grain protectant chemicals with stored grain",
+        "C": "storing grain in open bags",
+        "D": "harvesting before grains are mature"
+      },
+      "correct_answer": "B",
+      "explanation": "Traditional methods like mixing dry wood ash or neem powder, or modern grain protectants (insecticides), effectively control grain weevils in storage. Airtight containers also prevent infestation."
+    },
+    {
+      "id": 55,
+      "topic": "Crop Storage",
+      "difficulty": "medium",
+      "question": "Aflatoxin contamination of groundnuts and maize in storage is caused by:",
+      "options": {
+        "A": "insect pests",
+        "B": "the fungus Aspergillus flavus growing in humid storage conditions",
+        "C": "rodent droppings",
+        "D": "excessive dryness"
+      },
+      "correct_answer": "B",
+      "explanation": "Aflatoxins are toxic compounds produced by the fungi Aspergillus flavus and A. parasiticus, which grow on groundnuts, maize, and other crops stored in warm, humid conditions. They are highly carcinogenic."
+    },
+    {
+      "id": 56,
+      "topic": "Animal Husbandry - Cattle",
+      "difficulty": "medium",
+      "question": "Cattle in Nigeria are reared mainly for:",
+      "options": {
+        "A": "wool production",
+        "B": "meat, milk, draught power, and hides",
+        "C": "silk production",
+        "D": "honey production"
+      },
+      "correct_answer": "B",
+      "explanation": "Cattle are multipurpose animals providing beef, milk (dairy), draught power for farming, and hides and skins for leather. They also serve cultural and ceremonial purposes."
+    },
+    {
+      "id": 57,
+      "topic": "Animal Husbandry - Cattle",
+      "difficulty": "medium",
+      "question": "The White Fulani (Bunaji) is the most common indigenous cattle breed in Nigeria and is known for:",
+      "options": {
+        "A": "high milk production",
+        "B": "adaptability to tropical conditions, disease resistance, and dual purpose (meat and milk)",
+        "C": "rapid weight gain",
+        "D": "fine wool production"
+      },
+      "correct_answer": "B",
+      "explanation": "The White Fulani (Bunaji) is the most numerically dominant cattle breed in Nigeria, valued for its adaptability to tropical heat, disease resistance (especially trypanosomiasis), and dual meat-milk purpose."
+    },
+    {
+      "id": 58,
+      "topic": "Animal Husbandry - Cattle",
+      "difficulty": "medium",
+      "question": "Ruminant animals like cattle, goats, and sheep have a special stomach called the rumen that enables them to:",
+      "options": {
+        "A": "produce milk",
+        "B": "digest fibrous plant material (cellulose) with the help of microorganisms",
+        "C": "store large amounts of fat",
+        "D": "absorb minerals from soil"
+      },
+      "correct_answer": "B",
+      "explanation": "Ruminants have a four-chambered stomach (rumen, reticulum, omasum, abomasum). Microorganisms in the rumen ferment and break down cellulose in plant material through a process of chewing the cud (rumination)."
+    },
+    {
+      "id": 59,
+      "topic": "Animal Husbandry - Cattle",
+      "difficulty": "medium",
+      "question": "Mastitis is a disease of cattle that affects the:",
+      "options": {
+        "A": "lungs",
+        "B": "digestive system",
+        "C": "udder (mammary gland)",
+        "D": "reproductive system"
+      },
+      "correct_answer": "C",
+      "explanation": "Mastitis is the inflammation of the udder (mammary gland) in dairy cows, usually caused by bacterial infection (Staphylococcus, Streptococcus). It causes reduced milk production and poor milk quality."
+    },
+    {
+      "id": 60,
+      "topic": "Animal Husbandry - Poultry",
+      "difficulty": "medium",
+      "question": "The two main systems of poultry production are:",
+      "options": {
+        "A": "organic and inorganic",
+        "B": "intensive (battery cage, deep litter) and extensive (free range)",
+        "C": "subsistence and commercial",
+        "D": "traditional and modern"
+      },
+      "correct_answer": "B",
+      "explanation": "Poultry systems include intensive (battery cages for layers, deep litter for broilers and layers) and extensive/semi-intensive (free-range, backyard) systems, each with different management requirements."
+    },
+    {
+      "id": 61,
+      "topic": "Animal Husbandry - Poultry",
+      "difficulty": "medium",
+      "question": "Newcastle disease in poultry is caused by a:",
+      "options": {
+        "A": "bacterium",
+        "B": "fungus",
+        "C": "protozoan",
+        "D": "virus"
+      },
+      "correct_answer": "D",
+      "explanation": "Newcastle Disease (ND) is a highly contagious viral disease of poultry caused by the Newcastle disease virus (NDV/avian paramyxovirus type 1). It causes respiratory, nervous, and digestive signs and high mortality."
+    },
+    {
+      "id": 62,
+      "topic": "Animal Husbandry - Poultry",
+      "difficulty": "medium",
+      "question": "Fowl pox in poultry is characterized by:",
+      "options": {
+        "A": "greenish diarrhoea",
+        "B": "wart-like lesions on the comb, wattles, and face (dry form) or lesions in the mouth/throat (wet form)",
+        "C": "respiratory distress only",
+        "D": "paralysis of the legs"
+      },
+      "correct_answer": "B",
+      "explanation": "Fowl pox (dry/cutaneous form) causes warty scab lesions on featherless skin (comb, wattles). The wet/diphtheritic form causes lesions in the mouth and throat, making breathing difficult."
+    },
+    {
+      "id": 63,
+      "topic": "Animal Husbandry - Poultry",
+      "difficulty": "medium",
+      "question": "The incubation period for domestic chicken eggs is approximately:",
+      "options": {
+        "A": "14 days",
+        "B": "21 days",
+        "C": "28 days",
+        "D": "7 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Domestic chicken eggs hatch after approximately 21 days of incubation at 37-38°C with proper humidity and turning. Duck eggs take 28 days; quail eggs take 17-18 days."
+    },
+    {
+      "id": 64,
+      "topic": "Animal Husbandry - Pigs",
+      "difficulty": "medium",
+      "question": "Pigs are monogastric animals, which means they:",
+      "options": {
+        "A": "have a four-chambered stomach like cattle",
+        "B": "have a single-chambered (simple) stomach similar to humans",
+        "C": "do not have a stomach",
+        "D": "chew the cud"
+      },
+      "correct_answer": "B",
+      "explanation": "Pigs are monogastric (single-stomached) animals that cannot digest cellulose. They require a diet high in digestible carbohydrates, proteins, and fat — unlike ruminants."
+    },
+    {
+      "id": 65,
+      "topic": "Animal Husbandry - Pigs",
+      "difficulty": "medium",
+      "question": "African Swine Fever (ASF) is a highly contagious disease of pigs that:",
+      "options": {
+        "A": "causes respiratory infections",
+        "B": "has no vaccine and causes up to 100% mortality — the only control is culling",
+        "C": "affects only piglets",
+        "D": "is transmitted by mosquitoes"
+      },
+      "correct_answer": "B",
+      "explanation": "African Swine Fever (ASF) is a highly lethal viral haemorrhagic disease of pigs with up to 100% mortality. There is currently no effective vaccine; control relies on strict quarantine and culling of infected herds."
+    },
+    {
+      "id": 66,
+      "topic": "Animal Husbandry - Goats and Sheep",
+      "difficulty": "medium",
+      "question": "The West African Dwarf (WAD) goat is significant because:",
+      "options": {
+        "A": "it produces the most milk of all African breeds",
+        "B": "it is trypanotolerant, disease resistant, and well adapted to humid tropical conditions",
+        "C": "it has the highest body weight",
+        "D": "it produces fine wool"
+      },
+      "correct_answer": "B",
+      "explanation": "The West African Dwarf (WAD) goat is valued for its trypanotolerance, adaptability to the humid tropics, disease resistance, and hardiness on poor-quality feeds."
+    },
+    {
+      "id": 67,
+      "topic": "Animal Husbandry - Goats and Sheep",
+      "difficulty": "medium",
+      "question": "Peste des Petits Ruminants (PPR) is a highly contagious viral disease that primarily affects:",
+      "options": {
+        "A": "cattle and horses",
+        "B": "goats and sheep",
+        "C": "pigs only",
+        "D": "poultry"
+      },
+      "correct_answer": "B",
+      "explanation": "PPR (goat and sheep plague) is a highly contagious viral disease of small ruminants (goats and sheep) causing fever, nasal discharge, pneumonia, diarrhoea, and high mortality. Vaccination is the primary control."
+    },
+    {
+      "id": 68,
+      "topic": "Animal Husbandry - Fish",
+      "difficulty": "medium",
+      "question": "Aquaculture is the practice of:",
+      "options": {
+        "A": "water conservation",
+        "B": "the controlled cultivation of aquatic organisms (fish, shellfish, algae) in fresh or salt water",
+        "C": "deep-sea fishing",
+        "D": "water treatment"
+      },
+      "correct_answer": "B",
+      "explanation": "Aquaculture is the farming of fish, shellfish, seaweed, and other aquatic organisms under controlled conditions. Catfish and tilapia farming are the most popular in Nigeria."
+    },
+    {
+      "id": 69,
+      "topic": "Animal Husbandry - Fish",
+      "difficulty": "medium",
+      "question": "The most commonly farmed fish species in Nigeria is:",
+      "options": {
+        "A": "Tilapia and Catfish (Clarias and Heterobranchus species)",
+        "B": "Salmon",
+        "C": "Tuna",
+        "D": "Carp"
+      },
+      "correct_answer": "A",
+      "explanation": "Catfish (Clarias gariepinus, Heterobranchus species) and tilapia are the most widely farmed fish in Nigeria due to their rapid growth rate, tolerance of poor water quality, and market demand."
+    },
+    {
+      "id": 70,
+      "topic": "Animal Nutrition",
+      "difficulty": "medium",
+      "question": "The energy source in animal feeds is primarily provided by:",
+      "options": {
+        "A": "Proteins",
+        "B": "Vitamins",
+        "C": "Carbohydrates and fats",
+        "D": "Minerals"
+      },
+      "correct_answer": "C",
+      "explanation": "Carbohydrates (grains: maize, sorghum) and fats are the primary energy sources in animal feeds. Proteins are for growth and tissue repair; vitamins and minerals are for metabolic functions."
+    },
+    {
+      "id": 71,
+      "topic": "Animal Nutrition",
+      "difficulty": "medium",
+      "question": "Protein deficiency in farm animals causes:",
+      "options": {
+        "A": "vitamin A deficiency",
+        "B": "poor growth, reduced milk/egg production, and weakened immune system",
+        "C": "excessive weight gain",
+        "D": "bone fractures"
+      },
+      "correct_answer": "B",
+      "explanation": "Protein deficiency causes poor growth and weight gain, reduced milk and egg production, impaired reproduction, poor immune response, and edema (fluid swelling) in severe cases."
+    },
+    {
+      "id": 72,
+      "topic": "Animal Nutrition",
+      "difficulty": "medium",
+      "question": "A concentrate feed in animal nutrition is:",
+      "options": {
+        "A": "low in energy and high in fiber",
+        "B": "high in energy and/or protein with low fiber content",
+        "C": "a mixture of grasses",
+        "D": "a vitamin and mineral supplement only"
+      },
+      "correct_answer": "B",
+      "explanation": "Concentrates are feeds high in energy (grain: maize, wheat bran) or protein (soybean meal, groundnut cake) with low fibre content, used to supplement roughages (forages/grasses)."
+    },
+    {
+      "id": 73,
+      "topic": "Animal Diseases",
+      "difficulty": "medium",
+      "question": "Rinderpest (cattle plague) was a major viral disease of cattle that has been:",
+      "options": {
+        "A": "still a major problem in Nigeria",
+        "B": "globally eradicated through vaccination campaigns (declared eradicated in 2011)",
+        "C": "replaced by a more dangerous disease",
+        "D": "controlled only in Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "Rinderpest was declared globally eradicated in 2011 by the FAO and OIE — only the second disease ever eradicated (after human smallpox). Global vaccination campaigns achieved this historic victory."
+    },
+    {
+      "id": 74,
+      "topic": "Animal Diseases",
+      "difficulty": "medium",
+      "question": "Foot and Mouth Disease (FMD) in cattle is characterized by:",
+      "options": {
+        "A": "respiratory distress and coughing",
+        "B": "fever, blisters on the mouth, tongue, and feet, causing lameness",
+        "C": "weight loss and diarrhoea only",
+        "D": "skin lesions on the back"
+      },
+      "correct_answer": "B",
+      "explanation": "FMD (Foot-and-Mouth Disease) is a highly contagious viral disease causing fever, vesicles (blisters) on the mouth/tongue/feet/teats, excessive salivation, and lameness. It spreads rapidly and causes severe economic losses."
+    },
+    {
+      "id": 75,
+      "topic": "Animal Diseases",
+      "difficulty": "medium",
+      "question": "Trypanosomiasis (sleeping sickness in cattle, nagana) is transmitted by the:",
+      "options": {
+        "A": "mosquito",
+        "B": "tick",
+        "C": "tsetse fly",
+        "D": "mite"
+      },
+      "correct_answer": "C",
+      "explanation": "Trypanosomiasis (nagana in livestock, sleeping sickness in humans) is caused by Trypanosoma species transmitted by the bite of infected tsetse flies (Glossina species). It is a major constraint to livestock production in the tsetse belt."
+    },
+    {
+      "id": 76,
+      "topic": "Animal Diseases",
+      "difficulty": "medium",
+      "question": "Anthrax is a bacterial disease caused by Bacillus anthracis and is characterized by:",
+      "options": {
+        "A": "chronic wasting and gradual weight loss",
+        "B": "sudden death in animals with bloody discharge from body openings",
+        "C": "skin rashes in humans only",
+        "D": "reduced egg production in poultry"
+      },
+      "correct_answer": "B",
+      "explanation": "Anthrax causes sudden death (peracute form) in cattle and horses with bloating, bloody discharge from body orifices, and failure of blood to clot. Carcasses must NOT be opened due to contamination risk."
+    },
+    {
+      "id": 77,
+      "topic": "Animal Diseases",
+      "difficulty": "medium",
+      "question": "Coccidiosis in poultry is caused by a:",
+      "options": {
+        "A": "virus",
+        "B": "bacterium",
+        "C": "protozoan (Eimeria species)",
+        "D": "fungus"
+      },
+      "correct_answer": "C",
+      "explanation": "Coccidiosis is caused by Eimeria protozoa that invade intestinal cells of poultry. It causes bloody diarrhea, weight loss, and high mortality in young chicks. Anticoccidials in feed are used for prevention."
+    },
+    {
+      "id": 78,
+      "topic": "Animal Parasites",
+      "difficulty": "medium",
+      "question": "Ticks are ectoparasites (external parasites) of cattle that cause harm by:",
+      "options": {
+        "A": "blocking the nose and breathing passages",
+        "B": "sucking blood, transmitting diseases, and causing tick worry and weight loss",
+        "C": "destroying the digestive lining",
+        "D": "depositing eggs in the udder"
+      },
+      "correct_answer": "B",
+      "explanation": "Ticks suck large amounts of blood (causing anaemia), transmit diseases (East Coast Fever, babesiosis, anaplasmosis), cause skin damage, and induce restlessness (tick worry), all reducing livestock productivity."
+    },
+    {
+      "id": 79,
+      "topic": "Animal Parasites",
+      "difficulty": "medium",
+      "question": "Liver fluke (Fasciola hepatica) in cattle and sheep is an endoparasite (internal parasite) that:",
+      "options": {
+        "A": "infects the lungs",
+        "B": "damages the liver and bile ducts, causing bottle jaw and wasting",
+        "C": "attacks the skin",
+        "D": "colonises the nervous system"
+      },
+      "correct_answer": "B",
+      "explanation": "Liver fluke (Fasciola hepatica) is a parasitic flatworm that damages the liver and bile ducts of cattle, sheep, and goats, causing fasciolosis characterized by anaemia, bottle jaw (oedema), and emaciation."
+    },
+    {
+      "id": 80,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "The law of diminishing returns in farming states that:",
+      "options": {
+        "A": "increasing all inputs equally always increases output",
+        "B": "as more units of a variable input are added to fixed inputs, the additional output eventually decreases",
+        "C": "output always decreases as farm size increases",
+        "D": "profits always fall as production increases"
+      },
+      "correct_answer": "B",
+      "explanation": "The law of diminishing returns: adding successive units of a variable input (e.g., fertilizer) to fixed inputs (land) will initially increase output, but each additional unit eventually produces less additional output."
+    },
+    {
+      "id": 81,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "Farm record keeping is important because it helps the farmer to:",
+      "options": {
+        "A": "reduce the number of workers needed",
+        "B": "track income and expenses, plan production, and determine profitability",
+        "C": "avoid paying taxes",
+        "D": "reduce soil erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Farm records (input records, output records, financial records) help farmers track costs and revenues, plan future production, obtain loans, pay taxes, and determine whether the farm is profitable."
+    },
+    {
+      "id": 82,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "A farm budget is a:",
+      "options": {
+        "A": "record of past farm activities",
+        "B": "plan showing expected income and expenditure for a farming season",
+        "C": "list of farm equipment",
+        "D": "soil test result"
+      },
+      "correct_answer": "B",
+      "explanation": "A farm budget is a financial plan that estimates income (from crop/livestock sales) and expenditure (seeds, fertilizers, labor, etc.) for a farming period, helping in decision-making."
+    },
+    {
+      "id": 83,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "Agricultural cooperative societies help farmers by:",
+      "options": {
+        "A": "giving government grants",
+        "B": "pooling resources to buy inputs cheaply, access credit, and market produce collectively",
+        "C": "managing government agricultural programs",
+        "D": "providing land to farmers for free"
+      },
+      "correct_answer": "B",
+      "explanation": "Agricultural cooperatives allow small farmers to pool resources for bulk purchasing of inputs at lower prices, access credit facilities, collectively market their produce, and share technical knowledge."
+    },
+    {
+      "id": 84,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "Agricultural extension services are provided to farmers to:",
+      "options": {
+        "A": "manage government farms",
+        "B": "educate and assist farmers in adopting improved agricultural technologies and practices",
+        "C": "control agricultural exports",
+        "D": "collect taxes from farmers"
+      },
+      "correct_answer": "B",
+      "explanation": "Agricultural extension services link research institutions to farmers, transferring improved technologies (varieties, practices, management) through demonstrations, farm visits, and training."
+    },
+    {
+      "id": 85,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "The main problems of agricultural marketing in Nigeria include all of the following EXCEPT:",
+      "options": {
+        "A": "poor roads and transportation",
+        "B": "lack of storage facilities",
+        "C": "too many buyers competing for produce",
+        "D": "exploitation by middlemen and price fluctuations"
+      },
+      "correct_answer": "C",
+      "explanation": "Agricultural marketing in Nigeria is hampered by poor roads, inadequate storage, perishability of produce, price exploitation by middlemen, and lack of market information. Too many buyers would actually benefit farmers."
+    },
+    {
+      "id": 86,
+      "topic": "Farm Management",
+      "difficulty": "medium",
+      "question": "Farm management is the process of:",
+      "options": {
+        "A": "growing crops without planning",
+        "B": "making and implementing decisions to organize and operate a farm profitably",
+        "C": "managing only the financial aspects of farming",
+        "D": "managing only animal production"
+      },
+      "correct_answer": "B",
+      "explanation": "Farm management involves planning, organizing, directing, and controlling all farm resources (land, labour, capital, management) to achieve maximum profit and efficiency."
+    },
+    {
+      "id": 87,
+      "topic": "Farm Management",
+      "difficulty": "medium",
+      "question": "Opportunity cost in farm management refers to:",
+      "options": {
+        "A": "the cost of labor on the farm",
+        "B": "the value of the next best alternative foregone when making a resource allocation decision",
+        "C": "the cost of farm inputs",
+        "D": "profit from crop sales"
+      },
+      "correct_answer": "B",
+      "explanation": "Opportunity cost is the forgone benefit of the next best alternative when resources are allocated to one use. For example, land used for maize cannot simultaneously be used for cassava."
+    },
+    {
+      "id": 88,
+      "topic": "Farm Survey and Planning",
+      "difficulty": "medium",
+      "question": "A farm map shows:",
+      "options": {
+        "A": "only the crops grown on the farm",
+        "B": "the layout of the farm including fields, buildings, roads, and natural features",
+        "C": "the financial records of the farm",
+        "D": "the soil types of the farm"
+      },
+      "correct_answer": "B",
+      "explanation": "A farm map is a scaled diagram showing the physical layout of the farm: field boundaries, farm buildings, roads, water bodies, drainage, and other features essential for farm planning."
+    },
+    {
+      "id": 89,
+      "topic": "Crop Physiology",
+      "difficulty": "medium",
+      "question": "Photosynthesis is the process by which green plants:",
+      "options": {
+        "A": "break down food to release energy",
+        "B": "convert light energy, water, and CO₂ into glucose and oxygen",
+        "C": "absorb minerals from the soil",
+        "D": "produce seeds for reproduction"
+      },
+      "correct_answer": "B",
+      "explanation": "Photosynthesis: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ (glucose) + 6O₂. It occurs in chloroplasts using chlorophyll to capture light energy."
+    },
+    {
+      "id": 90,
+      "topic": "Crop Physiology",
+      "difficulty": "medium",
+      "question": "Transpiration in plants is the loss of water vapour mainly through:",
+      "options": {
+        "A": "the roots",
+        "B": "stomata (pores) on the leaves",
+        "C": "the stem",
+        "D": "the flowers"
+      },
+      "correct_answer": "B",
+      "explanation": "Transpiration is the evaporation of water from plant surfaces, mainly through stomata on leaves. It drives the upward movement of water and minerals through the xylem (transpiration pull)."
+    },
+    {
+      "id": 91,
+      "topic": "Crop Physiology",
+      "difficulty": "medium",
+      "question": "The function of roots in a plant includes all of the following EXCEPT:",
+      "options": {
+        "A": "anchoring the plant in the soil",
+        "B": "absorbing water and minerals",
+        "C": "photosynthesis",
+        "D": "storage of food in some plants"
+      },
+      "correct_answer": "C",
+      "explanation": "Roots do not carry out photosynthesis (they lack chlorophyll and are underground). Root functions: anchorage, absorption of water/minerals, storage (cassava, carrot), and sometimes vegetative reproduction."
+    },
+    {
+      "id": 92,
+      "topic": "Crop Physiology",
+      "difficulty": "medium",
+      "question": "The main function of flowers in plants is:",
+      "options": {
+        "A": "food storage",
+        "B": "sexual reproduction — producing seeds through pollination and fertilization",
+        "C": "photosynthesis",
+        "D": "water absorption"
+      },
+      "correct_answer": "B",
+      "explanation": "Flowers are the reproductive organs of angiosperms (flowering plants). They facilitate sexual reproduction through pollination, fertilization, and seed/fruit production."
+    },
+    {
+      "id": 93,
+      "topic": "Crop Classification",
+      "difficulty": "medium",
+      "question": "Cereal crops are:",
+      "options": {
+        "A": "members of the grass family grown for their edible grains",
+        "B": "leguminous crops grown for their seeds",
+        "C": "crops grown for their underground tubers",
+        "D": "crops grown for their edible leaves"
+      },
+      "correct_answer": "A",
+      "explanation": "Cereals are grass-family (Gramineae/Poaceae) crops cultivated for their starchy, edible seeds (grains). Examples in Nigeria: maize, sorghum, millet, rice, wheat."
+    },
+    {
+      "id": 94,
+      "topic": "Crop Classification",
+      "difficulty": "medium",
+      "question": "Leguminous crops are important in agriculture primarily because:",
+      "options": {
+        "A": "they provide starchy food",
+        "B": "they fix atmospheric nitrogen through root nodule bacteria (Rhizobium)",
+        "C": "they grow faster than other crops",
+        "D": "they have no pest problems"
+      },
+      "correct_answer": "B",
+      "explanation": "Legumes (cowpea, soybean, groundnut) host Rhizobium bacteria in root nodules that fix atmospheric nitrogen into plant-available forms, enriching soil nitrogen and reducing need for nitrogen fertilizers."
+    },
+    {
+      "id": 95,
+      "topic": "Crop Classification",
+      "difficulty": "medium",
+      "question": "Tuber crops store food (starch) in their:",
+      "options": {
+        "A": "leaves",
+        "B": "stems",
+        "C": "swollen underground stems or roots",
+        "D": "seeds"
+      },
+      "correct_answer": "C",
+      "explanation": "Tuber crops store starch in swollen underground structures: true tubers (yam, potato — swollen stems), root tubers (cassava, sweet potato — swollen roots), and corms (cocoyam)."
+    },
+    {
+      "id": 96,
+      "topic": "Specific Crops - Cassava",
+      "difficulty": "medium",
+      "question": "Cassava (Manihot esculenta) is an important food crop in Nigeria because:",
+      "options": {
+        "A": "it is a major source of protein",
+        "B": "it is drought-tolerant, grows on poor soils, and is a major source of carbohydrates",
+        "C": "it is the only crop grown in the rainforest",
+        "D": "it requires intensive irrigation"
+      },
+      "correct_answer": "B",
+      "explanation": "Cassava is drought-tolerant, grows on poor, acidic soils, produces year-round, and is a major source of carbohydrates for millions of Nigerians. Nigeria is the world's largest cassava producer."
+    },
+    {
+      "id": 97,
+      "topic": "Specific Crops - Cassava",
+      "difficulty": "medium",
+      "question": "Cassava is propagated (planted) using:",
+      "options": {
+        "A": "seeds",
+        "B": "stem cuttings",
+        "C": "tubers",
+        "D": "suckers"
+      },
+      "correct_answer": "B",
+      "explanation": "Cassava is vegetatively propagated using stem cuttings (stakes) 25-30 cm long. It is rarely grown from true seeds (mainly in breeding programs)."
+    },
+    {
+      "id": 98,
+      "topic": "Specific Crops - Maize",
+      "difficulty": "medium",
+      "question": "Maize (Zea mays) is a crop that is pollinated by:",
+      "options": {
+        "A": "insects",
+        "B": "water",
+        "C": "wind (cross-pollination between plants)",
+        "D": "self-pollination only"
+      },
+      "correct_answer": "C",
+      "explanation": "Maize is wind-pollinated (anemophilous). The tassel (male flower at the top) releases pollen that is carried by wind to the silk (female flowers) of other plants."
+    },
+    {
+      "id": 99,
+      "topic": "Specific Crops - Groundnut",
+      "difficulty": "medium",
+      "question": "Groundnut (Arachis hypogaea) is unique among food crops because its:",
+      "options": {
+        "A": "seeds develop above the ground",
+        "B": "flowers are pollinated underground",
+        "C": "flowers are pollinated above ground but pods develop underground (geocarpy)",
+        "D": "roots fix nitrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "Groundnut (peanut) flowers above ground, but after fertilization the flower stalk (peg/gynophore) curves downward, penetrating the soil where the pod develops underground — a process called geocarpy."
+    },
+    {
+      "id": 100,
+      "topic": "Specific Crops - Yam",
+      "difficulty": "medium",
+      "question": "The most widely cultivated yam species in Nigeria is:",
+      "options": {
+        "A": "Dioscorea alata (water yam)",
+        "B": "Dioscorea rotundata (white Guinea yam)",
+        "C": "Dioscorea cayenensis (yellow yam)",
+        "D": "Dioscorea esculenta (lesser yam)"
+      },
+      "correct_answer": "B",
+      "explanation": "Dioscorea rotundata (white Guinea yam) is the most widely cultivated and economically important yam species in Nigeria, accounting for the majority of production."
+    },
+    {
+      "id": 101,
+      "topic": "Specific Crops - Rice",
+      "difficulty": "medium",
+      "question": "Rice (Oryza sativa) cultivation in Nigeria is concentrated mainly in:",
+      "options": {
+        "A": "the arid north",
+        "B": "inland valley swamps, irrigated fields (north), and coastal areas",
+        "C": "highland areas above 1000m",
+        "D": "the coastal forests only"
+      },
+      "correct_answer": "B",
+      "explanation": "Rice is grown in three main ecosystems in Nigeria: upland (rainforest belt), lowland/inland valley swamps (central Nigeria), and irrigated fields (Benue, Niger, Kano, Kebbi rivers). Nigeria is Africa's largest rice consumer."
+    },
+    {
+      "id": 102,
+      "topic": "Specific Crops - Oil Palm",
+      "difficulty": "medium",
+      "question": "Oil palm (Elaeis guineensis) produces two types of oil:",
+      "options": {
+        "A": "Groundnut oil and palm kernel oil",
+        "B": "Palm oil (from the mesocarp/flesh) and palm kernel oil (from the kernel/seed)",
+        "C": "Crude oil and refined oil only",
+        "D": "Coconut oil and palm oil"
+      },
+      "correct_answer": "B",
+      "explanation": "Oil palm produces: (1) palm oil — red oil extracted from the mesocarp (fleshy part of the fruit), and (2) palm kernel oil — extracted from the kernel (seed inside the hard nut)."
+    },
+    {
+      "id": 103,
+      "topic": "Specific Crops - Cocoa",
+      "difficulty": "medium",
+      "question": "The main growing area for cocoa in Nigeria is:",
+      "options": {
+        "A": "the northern states",
+        "B": "the southwestern and Cross River states",
+        "C": "the Niger Delta",
+        "D": "the Jos Plateau"
+      },
+      "correct_answer": "B",
+      "explanation": "Cocoa production in Nigeria is concentrated in the southwestern states (Ondo, Ogun, Ekiti, Osun, Oyo) and Cross River State, where the humid forest climate is suitable."
+    },
+    {
+      "id": 104,
+      "topic": "Specific Crops - Cocoa",
+      "difficulty": "medium",
+      "question": "The post-harvest processing of cocoa involves:",
+      "options": {
+        "A": "milling and packaging only",
+        "B": "pod breaking, fermenting, and drying the cocoa beans before export",
+        "C": "roasting and grinding the pods",
+        "D": "soaking in water for 2 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Cocoa processing: pods are broken to extract wet beans → fermented (5-7 days to develop flavor) → dried (sun or artificial drying to 7-8% moisture) → bagged for export or further processing."
+    },
+    {
+      "id": 105,
+      "topic": "Specific Crops - Cotton",
+      "difficulty": "medium",
+      "question": "Cotton (Gossypium species) is grown in Nigeria mainly for:",
+      "options": {
+        "A": "food consumption",
+        "B": "fibre for textile industries and cottonseed oil",
+        "C": "animal feed only",
+        "D": "biofuel production"
+      },
+      "correct_answer": "B",
+      "explanation": "Cotton is a cash crop cultivated mainly in northern and middle belt states for cotton lint (textile fiber) and cottonseed (oil for cooking; cake as animal feed)."
+    },
+    {
+      "id": 106,
+      "topic": "Pasture and Fodder Crops",
+      "difficulty": "medium",
+      "question": "Legume pasture crops are preferred in mixed farming systems because they:",
+      "options": {
+        "A": "grow faster than grasses",
+        "B": "provide high-protein fodder and fix atmospheric nitrogen, improving soil fertility",
+        "C": "require more water than grasses",
+        "D": "are unpalatable to livestock"
+      },
+      "correct_answer": "B",
+      "explanation": "Legume pastures (Stylosanthes, Centrosema, cowpea) fix atmospheric nitrogen through root nodules, improving soil fertility, and provide high-protein feed for livestock compared to pure grass pastures."
+    },
+    {
+      "id": 107,
+      "topic": "Pasture and Fodder Crops",
+      "difficulty": "medium",
+      "question": "Napier grass (Pennisetum purpureum, elephant grass) is important in livestock farming because:",
+      "options": {
+        "A": "it produces edible fruits",
+        "B": "it is a high-yielding perennial fodder grass that provides large amounts of biomass for feed",
+        "C": "it fixes nitrogen",
+        "D": "it is toxic to insects"
+      },
+      "correct_answer": "B",
+      "explanation": "Napier grass (elephant grass) is a tall, fast-growing perennial grass widely used as cut-and-carry fodder for dairy cattle, goats, and rabbits. It produces high biomass and can be harvested multiple times per year."
+    },
+    {
+      "id": 108,
+      "topic": "Agricultural Credit and Finance",
+      "difficulty": "medium",
+      "question": "The Agricultural Credit Guarantee Scheme Fund (ACGSF) in Nigeria was established to:",
+      "options": {
+        "A": "provide direct loans to farmers",
+        "B": "guarantee agricultural loans made by commercial banks, reducing lending risk and improving farmer access to credit",
+        "C": "collect taxes from farmers",
+        "D": "manage government farm enterprises"
+      },
+      "correct_answer": "B",
+      "explanation": "The ACGSF (established 1977) guarantees loans to farmers from commercial and merchant banks, encouraging banks to lend to the agricultural sector by reducing default risk."
+    },
+    {
+      "id": 109,
+      "topic": "Agricultural Policies",
+      "difficulty": "medium",
+      "question": "Operation Feed the Nation (OFN) was an agricultural program launched in Nigeria in:",
+      "options": {
+        "A": "1960",
+        "B": "1976",
+        "C": "1985",
+        "D": "1999"
+      },
+      "correct_answer": "B",
+      "explanation": "Operation Feed the Nation (OFN) was launched in 1976 under General Obasanjo's government to boost food production and achieve self-sufficiency. It encouraged urban dwellers to engage in farming."
+    },
+    {
+      "id": 110,
+      "topic": "Agricultural Policies",
+      "difficulty": "medium",
+      "question": "The Green Revolution program introduced during the 2nd Republic under President Shagari was aimed at:",
+      "options": {
+        "A": "environmental conservation",
+        "B": "modernizing agriculture and achieving food self-sufficiency through improved inputs and irrigation",
+        "C": "increasing oil production",
+        "D": "improving rural water supply"
+      },
+      "correct_answer": "B",
+      "explanation": "The Green Revolution (1980-1983) aimed to transform Nigerian agriculture through introduction of high-yielding seed varieties, chemical inputs, mechanization, and expanded irrigation under the River Basin Development Authorities."
+    },
+    {
+      "id": 111,
+      "topic": "Water Management",
+      "difficulty": "medium",
+      "question": "Waterlogging in agricultural soils is harmful because it:",
+      "options": {
+        "A": "adds too many nutrients",
+        "B": "creates anaerobic conditions that prevent root respiration and cause root rot",
+        "C": "makes the soil too acidic",
+        "D": "increases soil temperature excessively"
+      },
+      "correct_answer": "B",
+      "explanation": "Waterlogging saturates soil pores with water, excluding oxygen. This creates anaerobic conditions where roots cannot respire properly, leading to root rot, nutrient deficiency, and plant death."
+    },
+    {
+      "id": 112,
+      "topic": "Water Management",
+      "difficulty": "medium",
+      "question": "Drainage of agricultural land is important to:",
+      "options": {
+        "A": "increase soil acidity",
+        "B": "remove excess water, improving soil aeration and workability",
+        "C": "add minerals to the soil",
+        "D": "reduce evaporation"
+      },
+      "correct_answer": "B",
+      "explanation": "Drainage removes excess water from waterlogged soils, restoring soil aeration, improving root development, allowing earlier cultivation, and preventing root diseases."
+    },
+    {
+      "id": 113,
+      "topic": "Crop Harvesting",
+      "difficulty": "medium",
+      "question": "The best time to harvest maize for grain is when:",
+      "options": {
+        "A": "the husks are still green",
+        "B": "the cobs are fully mature, husks have dried, and grain moisture is below 13-15%",
+        "C": "the silk (tassel) first appears",
+        "D": "leaves begin to yellow"
+      },
+      "correct_answer": "B",
+      "explanation": "Maize for grain should be harvested when fully mature and dry (grain moisture 13-15%). Harvesting too early gives soft, immature grain; too late risks pest damage and aflatoxin contamination."
+    },
+    {
+      "id": 114,
+      "topic": "Crop Harvesting",
+      "difficulty": "medium",
+      "question": "Yam is ready for harvest when:",
+      "options": {
+        "A": "the vines start flowering",
+        "B": "the leaves and vines begin to yellow and die back (senescence)",
+        "C": "the mounds crack open",
+        "D": "rain begins"
+      },
+      "correct_answer": "B",
+      "explanation": "Yam is ready for harvest when the leaves turn yellow and the vines die back, indicating maturity. This typically occurs 7-10 months after planting, depending on the variety."
+    },
+    {
+      "id": 115,
+      "topic": "Animal Reproduction",
+      "difficulty": "medium",
+      "question": "Artificial Insemination (AI) in livestock farming involves:",
+      "options": {
+        "A": "natural mating of animals",
+        "B": "collecting semen from a superior sire and depositing it into the female's reproductive tract",
+        "C": "surgical implantation of embryos",
+        "D": "hormone treatment to increase fertility"
+      },
+      "correct_answer": "B",
+      "explanation": "AI involves collecting, storing, and depositing semen into the female's uterus, allowing one superior bull to sire thousands of offspring, improving genetic quality without transporting bulls."
+    },
+    {
+      "id": 116,
+      "topic": "Animal Reproduction",
+      "difficulty": "medium",
+      "question": "The gestation period of cattle is approximately:",
+      "options": {
+        "A": "3 months",
+        "B": "5 months",
+        "C": "9 months (283 days)",
+        "D": "12 months"
+      },
+      "correct_answer": "C",
+      "explanation": "Cattle have a gestation period of approximately 9 months (280-285 days). Compare: goat/sheep = 5 months, pig = 3 months 3 weeks 3 days (3-3-3 rule), rabbit = 31 days."
+    },
+    {
+      "id": 117,
+      "topic": "Animal Reproduction",
+      "difficulty": "medium",
+      "question": "Oestrus (heat) in female animals refers to the period when:",
+      "options": {
+        "A": "the animal is pregnant",
+        "B": "the female is sexually receptive and can conceive",
+        "C": "the animal gives birth",
+        "D": "the animal's milk production peaks"
+      },
+      "correct_answer": "B",
+      "explanation": "Oestrus (heat) is the period of sexual receptivity in female animals when ovulation occurs and conception is possible. Signs include restlessness, mounting other animals, and vulval discharge."
+    },
+    {
+      "id": 118,
+      "topic": "Animal Production Systems",
+      "difficulty": "medium",
+      "question": "Rotational grazing involves:",
+      "options": {
+        "A": "keeping animals in one paddock all year",
+        "B": "moving animals between multiple paddocks in rotation, allowing pastures to recover",
+        "C": "providing supplementary feed in the dry season only",
+        "D": "cutting grass for hay"
+      },
+      "correct_answer": "B",
+      "explanation": "Rotational grazing divides pasture into paddocks, rotating animals through them systematically to allow each paddock to regrow before being grazed again, preventing overgrazing and maintaining pasture productivity."
+    },
+    {
+      "id": 119,
+      "topic": "Animal Production Systems",
+      "difficulty": "medium",
+      "question": "Overgrazing leads to all of the following EXCEPT:",
+      "options": {
+        "A": "soil erosion",
+        "B": "reduced pasture productivity",
+        "C": "desertification",
+        "D": "improved soil fertility"
+      },
+      "correct_answer": "D",
+      "explanation": "Overgrazing removes excessive vegetation, exposing soil to erosion, depleting pasture plants, compacting soil, reducing water infiltration, and eventually causing desertification. It does not improve soil fertility."
+    },
+    {
+      "id": 120,
+      "topic": "Crop Diseases",
+      "difficulty": "medium",
+      "question": "Early blight of tomato is caused by the fungus:",
+      "options": {
+        "A": "Phytophthora infestans",
+        "B": "Alternaria solani",
+        "C": "Fusarium oxysporum",
+        "D": "Botrytis cinerea"
+      },
+      "correct_answer": "B",
+      "explanation": "Early blight of tomato is caused by Alternaria solani, producing characteristic target-like (concentric ring) brown spots on lower leaves, causing defoliation and yield loss."
+    },
+    {
+      "id": 121,
+      "topic": "Crop Diseases",
+      "difficulty": "medium",
+      "question": "Black pod disease of cocoa is caused by the pathogen:",
+      "options": {
+        "A": "Fusarium oxysporum",
+        "B": "Phytophthora megakarya",
+        "C": "Sclerotinia sclerotiorum",
+        "D": "Xanthomonas campestris"
+      },
+      "correct_answer": "B",
+      "explanation": "Black pod disease (caused by Phytophthora species, mainly P. megakarya in West Africa) is the most devastating cocoa disease, causing pods to turn black and rot, causing 30-90% yield losses."
+    },
+    {
+      "id": 122,
+      "topic": "Crop Diseases",
+      "difficulty": "medium",
+      "question": "Damping off in seedlings is caused by:",
+      "options": {
+        "A": "nutrient deficiency",
+        "B": "soil-borne fungi (Pythium, Rhizoctonia, Fusarium) that rot the stem at soil level",
+        "C": "viral infection",
+        "D": "bacterial leaf blight"
+      },
+      "correct_answer": "B",
+      "explanation": "Damping off is a fungal nursery disease (caused by Pythium, Rhizoctonia, Fusarium) where seedling stems rot at soil level, causing collapse. It is favored by wet, poorly drained soils."
+    },
+    {
+      "id": 123,
+      "topic": "Biotechnology in Agriculture",
+      "difficulty": "medium",
+      "question": "Genetically Modified Organisms (GMOs) in agriculture are crops that have been:",
+      "options": {
+        "A": "bred using conventional crossing methods",
+        "B": "developed by inserting specific genes from one organism into another to give desired traits",
+        "C": "treated with chemical fertilizers",
+        "D": "grown organically without pesticides"
+      },
+      "correct_answer": "B",
+      "explanation": "GMOs are created using recombinant DNA technology to insert specific genes conferring desired traits (pest resistance, drought tolerance, herbicide resistance, improved nutrition) into crop plants."
+    },
+    {
+      "id": 124,
+      "topic": "Biotechnology in Agriculture",
+      "difficulty": "medium",
+      "question": "Tissue culture in plant propagation is used to:",
+      "options": {
+        "A": "grow plants from bacterial cultures",
+        "B": "rapidly multiply disease-free planting material from small amounts of plant tissue in sterile conditions",
+        "C": "create hybrid seeds",
+        "D": "test soil nutrient levels"
+      },
+      "correct_answer": "B",
+      "explanation": "Plant tissue culture (micropropagation) rapidly produces thousands of disease-free, genetically uniform plantlets from small pieces of tissue in sterile laboratory conditions — used for banana, oil palm, cassava."
+    },
+    {
+      "id": 125,
+      "topic": "Agricultural Mechanization",
+      "difficulty": "medium",
+      "question": "Agricultural mechanization in Nigeria is limited mainly by:",
+      "options": {
+        "A": "too much rainfall",
+        "B": "high cost of machinery, small farm sizes, and lack of skilled operators and spare parts",
+        "C": "government policy against mechanization",
+        "D": "availability of cheap labour only"
+      },
+      "correct_answer": "B",
+      "explanation": "Agricultural mechanization in Nigeria is constrained by: high cost of tractors and equipment, small fragmented farm holdings, poor maintenance culture, lack of skilled operators, and inadequate fuel supply."
+    },
+    {
+      "id": 126,
+      "topic": "Apiculture (Beekeeping)",
+      "difficulty": "medium",
+      "question": "Apiculture is the practice of:",
+      "options": {
+        "A": "fish farming",
+        "B": "snail farming",
+        "C": "beekeeping for honey, beeswax, and pollination services",
+        "D": "silk production from silkworms"
+      },
+      "correct_answer": "C",
+      "explanation": "Apiculture (beekeeping) involves the management of bee colonies to produce honey, beeswax, propolis, and royal jelly, and to provide pollination services for crops."
+    },
+    {
+      "id": 127,
+      "topic": "Snail Farming (Heliculture)",
+      "difficulty": "medium",
+      "question": "Snail farming (heliculture) in Nigeria is becoming popular because:",
+      "options": {
+        "A": "snails require large land areas",
+        "B": "snails are a cheap source of protein, easy to raise, and require minimal inputs",
+        "C": "snails grow faster than poultry",
+        "D": "snails are a major export commodity"
+      },
+      "correct_answer": "B",
+      "explanation": "Heliculture is gaining popularity as snails (Archachatina marginata, Achatina achatina) are a cheap protein source, easy to raise in small spaces, require minimal capital, and have a ready market."
+    },
+    {
+      "id": 128,
+      "topic": "Rabbit Farming",
+      "difficulty": "medium",
+      "question": "Rabbits are excellent for small-scale farming because:",
+      "options": {
+        "A": "they are ruminants with specialized digestion",
+        "B": "they reproduce rapidly, require small space, and provide lean protein-rich meat",
+        "C": "they are nocturnal and require no management",
+        "D": "they produce large quantities of milk"
+      },
+      "correct_answer": "B",
+      "explanation": "Rabbits are ideal for small-scale farming: they reproduce rapidly (litter of 5-12 kits every 30-35 days), require minimal space and feed, produce high-quality lean meat, and have low startup costs."
+    },
+    {
+      "id": 129,
+      "topic": "Agricultural Land Tenure",
+      "difficulty": "medium",
+      "question": "The Land Use Act of 1978 in Nigeria vested ownership of all land in Nigeria in:",
+      "options": {
+        "A": "individual farmers",
+        "B": "the State governments, which hold land in trust for the people",
+        "C": "the Federal Government exclusively",
+        "D": "traditional rulers"
+      },
+      "correct_answer": "B",
+      "explanation": "The Land Use Act of 1978 vested all land in Nigeria in State Governors, who hold it in trust. Individuals and organizations can only obtain rights of occupancy (Certificates of Occupancy — C of O) from the state."
+    },
+    {
+      "id": 130,
+      "topic": "Agricultural Land Tenure",
+      "difficulty": "medium",
+      "question": "Land fragmentation (small, scattered farm plots) in Nigeria is a problem because it:",
+      "options": {
+        "A": "makes farming too easy",
+        "B": "makes it difficult to use machinery, reduces efficiency, and discourages investment",
+        "C": "increases crop diversity",
+        "D": "promotes intensive farming"
+      },
+      "correct_answer": "B",
+      "explanation": "Land fragmentation creates small, scattered plots that prevent mechanization, waste time in moving between plots, reduce economies of scale, and discourage farm investment and improvement."
+    },
+    {
+      "id": 131,
+      "topic": "Food Processing",
+      "difficulty": "medium",
+      "question": "Fermentation is used in food processing to:",
+      "options": {
+        "A": "remove water from food",
+        "B": "convert sugars to alcohol and organic acids by microorganisms, improving flavor and preservation",
+        "C": "add synthetic vitamins",
+        "D": "kill all microorganisms"
+      },
+      "correct_answer": "B",
+      "explanation": "Fermentation uses microorganisms (bacteria, yeasts, moulds) to transform food biochemically, improving flavor, texture, nutritional value, and shelf life. Used for ogi, ugba, dawadawa, ogi, and palm wine in Nigeria."
+    },
+    {
+      "id": 132,
+      "topic": "Food Processing",
+      "difficulty": "medium",
+      "question": "Sun drying of fish and agricultural produce is a simple preservation method that works by:",
+      "options": {
+        "A": "adding chemicals to prevent spoilage",
+        "B": "removing moisture to inhibit microbial growth and enzymatic activity",
+        "C": "cooling to low temperatures",
+        "D": "removing oxygen from the environment"
+      },
+      "correct_answer": "B",
+      "explanation": "Sun drying removes moisture from food (reduces water activity), creating conditions unfavourable for bacterial and fungal growth, thereby extending shelf life. It is widely used for fish, meat, vegetables, and grains in Nigeria."
+    },
+    {
+      "id": 133,
+      "topic": "Agro-forestry",
+      "difficulty": "medium",
+      "question": "Agroforestry is a land-use system that:",
+      "options": {
+        "A": "grows trees in place of crops",
+        "B": "deliberately combines trees or shrubs with crops and/or livestock on the same land",
+        "C": "clears forest for crop production",
+        "D": "specializes only in timber production"
+      },
+      "correct_answer": "B",
+      "explanation": "Agroforestry intentionally integrates trees with crops and/or livestock to provide multiple benefits: shade, windbreaks, nitrogen fixation, timber, fruits, fodder, and improved soil fertility."
+    },
+    {
+      "id": 134,
+      "topic": "Seed Technology",
+      "difficulty": "medium",
+      "question": "Seed viability refers to:",
+      "options": {
+        "A": "the weight of seeds per kilogram",
+        "B": "the ability of a seed to germinate and produce a normal seedling",
+        "C": "the size of the seed",
+        "D": "the color of the seed"
+      },
+      "correct_answer": "B",
+      "explanation": "Seed viability is the capacity of a seed to germinate and produce a normal healthy seedling under favorable conditions. Viability decreases with age, improper storage, and pest or disease damage."
+    },
+    {
+      "id": 135,
+      "topic": "Seed Technology",
+      "difficulty": "medium",
+      "question": "Seed dormancy refers to a state where seeds:",
+      "options": {
+        "A": "are already germinating",
+        "B": "fail to germinate even under favorable conditions due to internal physiological factors",
+        "C": "have been destroyed by pests",
+        "D": "need to be soaked in water before planting"
+      },
+      "correct_answer": "B",
+      "explanation": "Seed dormancy is a condition where viable seeds remain dormant and fail to germinate even when environmental conditions (water, temperature, oxygen) are favorable. It prevents premature germination."
+    },
+    {
+      "id": 136,
+      "topic": "Crop Production Seasons",
+      "difficulty": "medium",
+      "question": "In southern Nigeria, there are typically:",
+      "options": {
+        "A": "one planting season per year",
+        "B": "two planting seasons (early and late rains)",
+        "C": "three planting seasons per year",
+        "D": "year-round planting without distinct seasons"
+      },
+      "correct_answer": "B",
+      "explanation": "Southern Nigeria has two distinct rainfall peaks, allowing two cropping seasons: the early (first) rains season (March-July) and the late (second) rains season (September-November)."
+    },
+    {
+      "id": 137,
+      "topic": "Crop Production Seasons",
+      "difficulty": "medium",
+      "question": "In northern Nigeria, crop production is mainly limited to:",
+      "options": {
+        "A": "two rainy seasons",
+        "B": "one rainy season (May-September) with possible dry-season irrigation farming (fadama)",
+        "C": "the dry season only",
+        "D": "three seasons with varied crops"
+      },
+      "correct_answer": "B",
+      "explanation": "Northern Nigeria has one rainy season (May-September) allowing one main cropping season. In the dry season, fadama farming (irrigated cultivation along floodplains and water sources) is practiced."
+    },
+    {
+      "id": 138,
+      "topic": "Plant Propagation",
+      "difficulty": "medium",
+      "question": "Vegetative propagation is preferred over seed propagation for some crops because it:",
+      "options": {
+        "A": "produces genetic variation in offspring",
+        "B": "produces plants identical to the parent (clones), maintains variety characteristics, and gives earlier bearing",
+        "C": "requires less land",
+        "D": "produces larger seeds"
+      },
+      "correct_answer": "B",
+      "explanation": "Vegetative propagation (cuttings, grafting, budding, suckers) produces genetically identical plants (clones) that maintain the parent's desired traits and often bear fruit earlier than seed-grown plants."
+    },
+    {
+      "id": 139,
+      "topic": "Plant Propagation",
+      "difficulty": "medium",
+      "question": "Grafting in fruit tree propagation involves:",
+      "options": {
+        "A": "growing trees from seeds",
+        "B": "joining a scion (desired variety) to a rootstock (disease-resistant root system) to combine their best traits",
+        "C": "laying branches on the soil to root",
+        "D": "dividing root clumps"
+      },
+      "correct_answer": "B",
+      "explanation": "Grafting joins a scion (shoot from desired variety for fruit quality) onto a rootstock (different plant with desirable root traits like vigor, disease resistance). Used for citrus, mango, and cocoa."
+    },
+    {
+      "id": 140,
+      "topic": "Plant Propagation",
+      "difficulty": "medium",
+      "question": "Budding is a form of grafting that uses:",
+      "options": {
+        "A": "an entire shoot (scion) joined to a rootstock",
+        "B": "a single bud from the desired variety inserted under the bark of the rootstock",
+        "C": "root divisions",
+        "D": "stem cuttings placed in water"
+      },
+      "correct_answer": "B",
+      "explanation": "Budding (T-budding, chip budding) inserts a single bud from the desired variety under the bark of the rootstock. It is simpler and uses less scion material than full grafting. Used for roses, citrus, and rubber."
+    },
+    {
+      "id": 141,
+      "topic": "Compost Making",
+      "difficulty": "medium",
+      "question": "Compost is produced by:",
+      "options": {
+        "A": "burning organic waste materials",
+        "B": "decomposing organic materials (crop residues, animal manure, kitchen waste) through microbial action",
+        "C": "mixing chemical fertilizers with soil",
+        "D": "flooding organic materials with water"
+      },
+      "correct_answer": "B",
+      "explanation": "Compost is made by piling organic materials (plant residues, manure, food waste) and allowing them to decompose through microbial activity, producing a humus-rich organic fertilizer."
+    },
+    {
+      "id": 142,
+      "topic": "Compost Making",
+      "difficulty": "medium",
+      "question": "For effective composting, the compost heap should contain:",
+      "options": {
+        "A": "only plant residues",
+        "B": "a mixture of carbon-rich (brown) and nitrogen-rich (green) materials, moisture, and air",
+        "C": "only animal manure",
+        "D": "synthetic fertilizers"
+      },
+      "correct_answer": "B",
+      "explanation": "Effective composting requires a balance of carbon-rich (dry leaves, straw) and nitrogen-rich (fresh plant material, animal manure) materials, adequate moisture (like a wrung-out sponge), and oxygen for aerobic decomposition."
+    },
+    {
+      "id": 143,
+      "topic": "Specific Crops - Sugar Cane",
+      "difficulty": "medium",
+      "question": "Sugar cane (Saccharum officinarum) is propagated by:",
+      "options": {
+        "A": "seeds",
+        "B": "stem cuttings (setts) containing nodal buds",
+        "C": "root divisions",
+        "D": "suckers from the base"
+      },
+      "correct_answer": "B",
+      "explanation": "Sugarcane is propagated vegetatively using stem cuttings (setts) — pieces of the mature stalk with 2-3 buds (nodes) that sprout to form new plants."
+    },
+    {
+      "id": 144,
+      "topic": "Animal Products Processing",
+      "difficulty": "medium",
+      "question": "Pasteurization of milk involves:",
+      "options": {
+        "A": "freezing milk to preserve it",
+        "B": "heating milk to 72°C for 15 seconds (HTST) to kill pathogenic bacteria while retaining nutritional quality",
+        "C": "adding preservatives to milk",
+        "D": "fermenting milk into yogurt"
+      },
+      "correct_answer": "B",
+      "explanation": "Pasteurization kills pathogenic bacteria (TB, Brucella, Salmonella) in milk by heating to 72°C for 15 seconds (HTST) or 63°C for 30 minutes (LTLT), extending shelf life and improving safety."
+    },
+    {
+      "id": 145,
+      "topic": "Agricultural Ecology",
+      "difficulty": "medium",
+      "question": "Biological nitrogen fixation in legume crops is carried out by the bacteria:",
+      "options": {
+        "A": "Azospirillum",
+        "B": "Rhizobium",
+        "C": "Nitrobacter",
+        "D": "Clostridium"
+      },
+      "correct_answer": "B",
+      "explanation": "Rhizobium bacteria form symbiotic root nodules in legumes, fixing atmospheric nitrogen (N₂) into ammonia (NH₃) that the plant can use. In return, the plant provides carbohydrates to the bacteria."
+    },
+    {
+      "id": 146,
+      "topic": "Agricultural Ecology",
+      "difficulty": "medium",
+      "question": "Earthworms are beneficial to soil and agriculture because they:",
+      "options": {
+        "A": "compete with crops for nutrients",
+        "B": "improve soil aeration, drainage, and fertility by burrowing and breaking down organic matter",
+        "C": "control insect pests",
+        "D": "produce nitrogen gas"
+      },
+      "correct_answer": "B",
+      "explanation": "Earthworms improve soil structure by creating channels (improving aeration and drainage), mixing soil layers, breaking down organic matter into humus, and producing nutrient-rich castings."
+    },
+    {
+      "id": 147,
+      "topic": "Plant Nutrition",
+      "difficulty": "medium",
+      "question": "Micronutrients (trace elements) are nutrients required by plants in:",
+      "options": {
+        "A": "very large amounts",
+        "B": "very small amounts but are essential for normal plant growth",
+        "C": "amounts equal to macronutrients",
+        "D": "only in arid soils"
+      },
+      "correct_answer": "B",
+      "explanation": "Micronutrients (Fe, Zn, Mn, Cu, B, Mo, Cl, Ni) are required in tiny amounts (parts per million) but are essential for specific enzyme functions, chlorophyll synthesis, and other metabolic processes."
+    },
+    {
+      "id": 148,
+      "topic": "Plant Nutrition",
+      "difficulty": "medium",
+      "question": "Zinc deficiency in maize causes a symptom known as:",
+      "options": {
+        "A": "Black pod disease",
+        "B": "White bud (bleaching of young leaves) and stunting",
+        "C": "Yellowing of old leaves",
+        "D": "Purple discoloration of stems"
+      },
+      "correct_answer": "B",
+      "explanation": "Zinc deficiency in maize causes 'white bud' — young leaves emerge pale white/yellow with striped pattern, shortened internodes, and stunted growth. Zinc is critical for auxin synthesis and enzyme activation."
+    },
+    {
+      "id": 149,
+      "topic": "Specific Animals - Horses",
+      "difficulty": "medium",
+      "question": "Horses in Nigeria are used mainly for:",
+      "options": {
+        "A": "milk and beef production",
+        "B": "transportation, ceremonial purposes, and polo sport, mainly in northern Nigeria",
+        "C": "wool production",
+        "D": "ploughing rice paddies"
+      },
+      "correct_answer": "B",
+      "explanation": "Horses in Nigeria are used for transportation (riding), ceremonial durbar festivals, polo sport, and traditional ceremonies mainly in the northern states. They are not major livestock for meat or dairy."
+    },
+    {
+      "id": 150,
+      "topic": "Crop Physiology",
+      "difficulty": "medium",
+      "question": "Vernalization in plants refers to the process where:",
+      "options": {
+        "A": "plants are treated with pesticides to prevent disease",
+        "B": "exposure to low temperatures promotes flowering in certain plant species",
+        "C": "plants are acclimated to high temperatures",
+        "D": "nutrients are absorbed more efficiently in cold weather"
+      },
+      "correct_answer": "B",
+      "explanation": "Vernalization is the promotion of flowering by prolonged cold temperature exposure. Some temperate cereals (wheat) and biennial plants require cold treatment to switch from vegetative to reproductive growth."
+    },
+    {
+      "id": 151,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The practice of pricking out in the nursery involves:",
+      "options": {
+        "A": "using pins to mark seedling positions",
+        "B": "transferring seedlings from their initial germination tray to a more spacious container",
+        "C": "removing dead leaves",
+        "D": "applying fertilizer to seedlings"
+      },
+      "correct_answer": "B",
+      "explanation": "Pricking out is the transfer of young seedlings from the germination tray/flat to a larger container or nursery bed to give them more space to grow before final transplanting to the field."
+    },
+    {
+      "id": 152,
+      "topic": "Agricultural Waste Management",
+      "difficulty": "medium",
+      "question": "Biogas production from animal waste (biodigester) is beneficial because it:",
+      "options": {
+        "A": "increases chemical fertilizer use",
+        "B": "produces renewable energy (methane) and organic slurry for use as fertilizer",
+        "C": "eliminates the need for crop rotation",
+        "D": "prevents soil erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Biodigesters convert animal manure and organic waste into biogas (methane for cooking/lighting) and bioslurry (nutrient-rich organic fertilizer), providing clean energy and improving farm waste management."
+    },
+    {
+      "id": 153,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The optimum planting depth for maize seeds is approximately:",
+      "options": {
+        "A": "1 cm",
+        "B": "3-5 cm",
+        "C": "10-15 cm",
+        "D": "20 cm"
+      },
+      "correct_answer": "B",
+      "explanation": "Maize seeds should be planted at 3-5 cm depth — shallow enough for the seedling to emerge easily but deep enough to access moisture and be anchored in the soil."
+    },
+    {
+      "id": 154,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Topping of tobacco plants is done to:",
+      "options": {
+        "A": "remove the lower leaves",
+        "B": "remove the terminal bud/flowers to redirect energy to leaf development and improve leaf quality",
+        "C": "mark the tallest plants for seed saving",
+        "D": "allow the plant to flower and set seed"
+      },
+      "correct_answer": "B",
+      "explanation": "Topping in tobacco removes the terminal flower bud to prevent seed formation, redirecting the plant's energy to the leaves, increasing their size, thickness, and nicotine content."
+    },
+    {
+      "id": 155,
+      "topic": "Animal Housing",
+      "difficulty": "medium",
+      "question": "The main purpose of providing housing for farm animals is to:",
+      "options": {
+        "A": "keep animals away from human habitation only",
+        "B": "protect animals from extreme weather, predators, and disease, while facilitating management",
+        "C": "reduce the amount of feed needed",
+        "D": "increase feed consumption"
+      },
+      "correct_answer": "B",
+      "explanation": "Animal housing protects livestock from rain, sun, cold, and predators; facilitates feeding, watering, treatment, and record-keeping; and prevents disease transmission by controlling the environment."
+    },
+    {
+      "id": 156,
+      "topic": "Animal Housing",
+      "difficulty": "medium",
+      "question": "A deep litter system for poultry uses bedding material (wood shavings, rice husks) that is:",
+      "options": {
+        "A": "changed every day",
+        "B": "kept in the house throughout the production cycle, removed only at cleanout",
+        "C": "wetted daily",
+        "D": "heated artificially"
+      },
+      "correct_answer": "B",
+      "explanation": "In the deep litter system, bedding (8-10 cm of wood shavings, rice husks, or straw) accumulates throughout the production cycle. Managed properly (kept dry, turned regularly), it generates heat and controls pathogens."
+    },
+    {
+      "id": 157,
+      "topic": "Agricultural Statistics",
+      "difficulty": "medium",
+      "question": "Crop yield is typically expressed as:",
+      "options": {
+        "A": "weight per plant",
+        "B": "weight of produce per unit area (kg/ha or tonnes/ha)",
+        "C": "number of fruits per tree",
+        "D": "total weight of all farms in a country"
+      },
+      "correct_answer": "B",
+      "explanation": "Crop yield is the amount of produce (grain, tubers, fruits) harvested per unit area of land, typically expressed as kilograms per hectare (kg/ha) or tonnes per hectare (t/ha)."
+    },
+    {
+      "id": 158,
+      "topic": "Nigerian Cash Crops",
+      "difficulty": "medium",
+      "question": "Rubber (Hevea brasiliensis) is cultivated in Nigeria mainly in:",
+      "options": {
+        "A": "Northern states",
+        "B": "Edo, Delta, Cross River, and Ondo states in the southern forest zone",
+        "C": "The Jos Plateau",
+        "D": "The Niger Delta swamps only"
+      },
+      "correct_answer": "B",
+      "explanation": "Rubber cultivation in Nigeria is concentrated in the rainforest belt, particularly in Edo, Delta, Cross River, and Ondo states, where the humid tropical climate suits Hevea brasiliensis."
+    },
+    {
+      "id": 159,
+      "topic": "Nigerian Cash Crops",
+      "difficulty": "medium",
+      "question": "Latex (raw rubber) is collected from the rubber tree by the process of:",
+      "options": {
+        "A": "cutting down the tree",
+        "B": "tapping — making incisions in the bark to collect the latex sap",
+        "C": "boiling the bark",
+        "D": "extracting from leaves"
+      },
+      "correct_answer": "B",
+      "explanation": "Rubber tapping involves making a diagonal incision in the tree's bark down to the cambium. Latex (milky sap) flows out and is collected in cups. Tapping is done in the cool early morning."
+    },
+    {
+      "id": 160,
+      "topic": "Soil Conservation",
+      "difficulty": "medium",
+      "question": "Strip cropping as a soil conservation technique involves:",
+      "options": {
+        "A": "growing one crop across the entire field",
+        "B": "alternating strips of different crops or grass across a slope to slow erosion",
+        "C": "removing all vegetation from the field",
+        "D": "building concrete barriers"
+      },
+      "correct_answer": "B",
+      "explanation": "Strip cropping alternates strips of erosion-susceptible crops (maize, cotton) with erosion-resistant strips (grass, legumes) across slopes, reducing runoff velocity and soil loss."
+    },
+    {
+      "id": 161,
+      "topic": "Soil Conservation",
+      "difficulty": "medium",
+      "question": "Cover cropping involves growing:",
+      "options": {
+        "A": "crops in covered greenhouses",
+        "B": "ground-covering plants to protect the soil from erosion, improve fertility, and suppress weeds",
+        "C": "plants under plastic mulch",
+        "D": "shade trees over cash crops"
+      },
+      "correct_answer": "B",
+      "explanation": "Cover crops (cowpea, mucuna, sweet potato) are grown to protect bare soil from erosion, add organic matter, fix nitrogen (legumes), suppress weeds, and improve soil structure."
+    },
+    {
+      "id": 162,
+      "topic": "Soil Conservation",
+      "difficulty": "medium",
+      "question": "Windbreaks (shelterbelts) are planted in farms to:",
+      "options": {
+        "A": "provide shade to crops",
+        "B": "reduce wind speed, protect crops from wind damage, and prevent wind erosion",
+        "C": "attract pollinators",
+        "D": "mark farm boundaries"
+      },
+      "correct_answer": "B",
+      "explanation": "Windbreaks are rows of trees or shrubs planted perpendicular to prevailing winds to reduce wind speed, protect crops from wind damage and desiccation, prevent wind erosion, and provide habitat for wildlife."
+    },
+    {
+      "id": 163,
+      "topic": "Livestock Breeds",
+      "difficulty": "medium",
+      "question": "The Holstein-Friesian cattle breed is known for:",
+      "options": {
+        "A": "high beef production",
+        "B": "the highest milk production among all cattle breeds",
+        "C": "draught power",
+        "D": "tolerance of tropical diseases"
+      },
+      "correct_answer": "B",
+      "explanation": "Holstein-Friesian (black and white cows from Holland) are the world's highest milk-producing dairy breed, producing 8,000-12,000 litres per lactation under ideal conditions."
+    },
+    {
+      "id": 164,
+      "topic": "Livestock Breeds",
+      "difficulty": "medium",
+      "question": "The N'Dama cattle breed is important in West Africa because of its:",
+      "options": {
+        "A": "very high milk production",
+        "B": "trypanotolerance — natural resistance to sleeping sickness (trypanosomiasis)",
+        "C": "extremely fast growth rate",
+        "D": "high fertility"
+      },
+      "correct_answer": "B",
+      "explanation": "The N'Dama is a West African Bos taurus breed renowned for its trypanotolerance — genetic resistance to trypanosomiasis — making it valuable in tsetse-infested humid zones where exotic breeds cannot survive."
+    },
+    {
+      "id": 165,
+      "topic": "Livestock Breeds",
+      "difficulty": "medium",
+      "question": "The Rhode Island Red is a dual-purpose poultry breed that is:",
+      "options": {
+        "A": "used only for meat (broiler)",
+        "B": "used only for egg production",
+        "C": "used for both egg and meat production and is adaptable to local conditions",
+        "D": "a Nigerian indigenous breed"
+      },
+      "correct_answer": "C",
+      "explanation": "Rhode Island Red is an American dual-purpose breed that produces reasonable quantities of both eggs and meat. It is hardy, adaptable to village conditions, and popular in small-scale farming."
+    },
+    {
+      "id": 166,
+      "topic": "Veterinary Practices",
+      "difficulty": "medium",
+      "question": "Vaccination of farm animals is done to:",
+      "options": {
+        "A": "treat animals already infected with diseases",
+        "B": "stimulate the immune system to produce antibodies and prevent specific diseases",
+        "C": "deworm animals",
+        "D": "improve the growth rate of animals"
+      },
+      "correct_answer": "B",
+      "explanation": "Vaccination stimulates the animal's immune system to produce antibodies against specific pathogens, providing protection (immunity) against that disease without causing the illness."
+    },
+    {
+      "id": 167,
+      "topic": "Veterinary Practices",
+      "difficulty": "medium",
+      "question": "Drenching of livestock involves:",
+      "options": {
+        "A": "washing animals with disinfectant",
+        "B": "administering liquid medicine orally using a drench gun or bottle",
+        "C": "giving animals water to drink",
+        "D": "treating wounds with liquid antiseptics"
+      },
+      "correct_answer": "B",
+      "explanation": "Drenching is the oral administration of liquid medicines (anthelmintics for deworming, mineral supplements, vitamins) to livestock using a drenching gun or improvised bottle."
+    },
+    {
+      "id": 168,
+      "topic": "Veterinary Practices",
+      "difficulty": "medium",
+      "question": "Deworming of livestock is done to control:",
+      "options": {
+        "A": "external parasites (ticks, lice)",
+        "B": "internal parasites (roundworms, tapeworms, flukes) in the gastrointestinal tract",
+        "C": "bacterial infections",
+        "D": "viral diseases"
+      },
+      "correct_answer": "B",
+      "explanation": "Deworming (using anthelmintics like albendazole, ivermectin) controls gastrointestinal and other internal parasites (roundworms, tapeworms, flukes, lungworms) that reduce animal productivity and health."
+    },
+    {
+      "id": 169,
+      "topic": "Horticulture",
+      "difficulty": "medium",
+      "question": "Horticulture is the branch of agriculture that deals with:",
+      "options": {
+        "A": "large-scale grain production",
+        "B": "cultivation of vegetables, fruits, flowers, and ornamental plants",
+        "C": "livestock farming",
+        "D": "forestry and timber"
+      },
+      "correct_answer": "B",
+      "explanation": "Horticulture covers the cultivation of fruit crops (pomology), vegetables (olericulture), flowers and ornamentals (floriculture), and landscape plants. It involves intensive, high-value crop production."
+    },
+    {
+      "id": 170,
+      "topic": "Horticulture",
+      "difficulty": "medium",
+      "question": "Pruning of fruit trees is done to:",
+      "options": {
+        "A": "reduce the tree's water uptake",
+        "B": "remove dead, diseased, or overcrowded branches to improve light penetration, air circulation, and fruit production",
+        "C": "prevent the tree from growing too tall only",
+        "D": "kill insects hiding in branches"
+      },
+      "correct_answer": "B",
+      "explanation": "Pruning removes dead, diseased, crossing, or surplus branches to: improve light distribution and air circulation within the canopy, reduce disease incidence, encourage new growth, and improve fruit size and quality."
+    },
+    {
+      "id": 171,
+      "topic": "Specific Crops - Tomato",
+      "difficulty": "medium",
+      "question": "Tomato production in Nigeria is limited mainly by:",
+      "options": {
+        "A": "lack of suitable land",
+        "B": "high rainfall destroying crops",
+        "C": "pests and diseases, post-harvest losses, and seasonal price fluctuations",
+        "D": "insufficient sunlight"
+      },
+      "correct_answer": "C",
+      "explanation": "Tomato production in Nigeria faces challenges including: pests (tomato worm, thrips), diseases (early and late blight, bacterial wilt), massive post-harvest losses (up to 45%), and infrastructure/storage inadequacy."
+    },
+    {
+      "id": 172,
+      "topic": "Specific Crops - Sorghum",
+      "difficulty": "medium",
+      "question": "Sorghum (Sorghum bicolor) is important in northern Nigeria because:",
+      "options": {
+        "A": "it requires high rainfall",
+        "B": "it is drought-tolerant and heat-resistant, suitable for semi-arid conditions",
+        "C": "it fixes nitrogen",
+        "D": "it is only used for animal feed"
+      },
+      "correct_answer": "B",
+      "explanation": "Sorghum is well adapted to the dry northern conditions — it is drought-tolerant, heat-resistant, and can produce grain even with limited rainfall, making it a staple in Nigeria's semi-arid north."
+    },
+    {
+      "id": 173,
+      "topic": "Specific Crops - Cowpea",
+      "difficulty": "medium",
+      "question": "Cowpea (Vigna unguiculata) is an important food crop in Nigeria because it:",
+      "options": {
+        "A": "provides mainly carbohydrates",
+        "B": "is a high-protein legume that fixes nitrogen, grows in poor soils, and is drought-tolerant",
+        "C": "is an oilseed crop",
+        "D": "provides fibre for textiles"
+      },
+      "correct_answer": "B",
+      "explanation": "Cowpea (black-eyed pea) is Nigeria's most important grain legume — it provides high-quality protein (23-25%), fixes atmospheric nitrogen improving soil fertility, grows in poor sandy soils, and tolerates drought."
+    },
+    {
+      "id": 174,
+      "topic": "Water Resources in Agriculture",
+      "difficulty": "medium",
+      "question": "Fadama farming in northern Nigeria refers to:",
+      "options": {
+        "A": "dry season farming in the Sahara",
+        "B": "irrigated cultivation on seasonally flooded low-lying lands along river valleys",
+        "C": "slash and burn farming",
+        "D": "large-scale mechanized rice farming"
+      },
+      "correct_answer": "B",
+      "explanation": "Fadama refers to low-lying, seasonally flooded plains along river valleys in northern Nigeria. Fadama farming uses shallow groundwater or surface water for dry-season vegetable, rice, and crop production."
+    },
+    {
+      "id": 175,
+      "topic": "Integrated Agriculture",
+      "difficulty": "medium",
+      "question": "Rice-fish farming (integrated rice-fish culture) is practiced because:",
+      "options": {
+        "A": "fish destroy rice weeds and pests while rice provides cover and food for fish",
+        "B": "fish dry out the rice paddies",
+        "C": "rice improves fish survival in dry conditions",
+        "D": "they require separate water sources"
+      },
+      "correct_answer": "A",
+      "explanation": "In rice-fish integration, fish (tilapia, carp) eat weeds, insects, and pests in the paddy, reducing weed/pest control costs; their excrement fertilizes rice; rice provides shelter and food for fish — a mutually beneficial system."
+    },
+    {
+      "id": 176,
+      "topic": "Animal Husbandry - Turkeys",
+      "difficulty": "medium",
+      "question": "Turkeys are reared primarily for:",
+      "options": {
+        "A": "egg production",
+        "B": "meat production — they are one of the largest domesticated poultry species",
+        "C": "feather production",
+        "D": "pest control"
+      },
+      "correct_answer": "B",
+      "explanation": "Turkeys are reared primarily for meat. They are the largest domesticated poultry birds, with commercial breeds reaching 15-25 kg at market weight."
+    },
+    {
+      "id": 177,
+      "topic": "Agricultural Extension",
+      "difficulty": "medium",
+      "question": "An Agricultural Development Programme (ADP) in Nigeria is a government initiative to:",
+      "options": {
+        "A": "produce crops on government farms",
+        "B": "provide extension services, inputs, and infrastructure to small-scale farmers to improve productivity",
+        "C": "manage state-owned livestock ranches",
+        "D": "collect agricultural taxes"
+      },
+      "correct_answer": "B",
+      "explanation": "Agricultural Development Programmes (ADPs) established in each state in the 1970s-80s aimed to reach small-scale farmers with extension services, improved seeds, fertilizers, credit, and rural infrastructure."
+    },
+    {
+      "id": 178,
+      "topic": "Food Security",
+      "difficulty": "medium",
+      "question": "Food security exists when:",
+      "options": {
+        "A": "a country exports all its food",
+        "B": "all people at all times have physical, social, and economic access to sufficient, safe, and nutritious food",
+        "C": "a country has emergency food reserves only",
+        "D": "only wealthy citizens can afford food"
+      },
+      "correct_answer": "B",
+      "explanation": "The FAO defines food security as existing when all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food for an active and healthy life."
+    },
+    {
+      "id": 179,
+      "topic": "Agricultural Science Terminology",
+      "difficulty": "medium",
+      "question": "A seedbed is:",
+      "options": {
+        "A": "a bed of manure for composting",
+        "B": "prepared soil made fine and firm, ready for seed germination and early seedling growth",
+        "C": "the area where seeds are stored",
+        "D": "a tray for incubating eggs"
+      },
+      "correct_answer": "B",
+      "explanation": "A seedbed is soil that has been carefully prepared (ploughed, harrowed, levelled) to create a fine, firm, moist, and well-aerated surface suitable for sowing seeds and early plant establishment."
+    },
+    {
+      "id": 180,
+      "topic": "Agricultural Science Terminology",
+      "difficulty": "medium",
+      "question": "Hardening off of seedlings refers to:",
+      "options": {
+        "A": "applying chemical growth regulators to make stems tough",
+        "B": "gradually acclimatizing seedlings grown in a nursery to outdoor conditions before transplanting",
+        "C": "allowing seedlings to dry slightly before watering",
+        "D": "pruning the roots of seedlings"
+      },
+      "correct_answer": "B",
+      "explanation": "Hardening off gradually acclimatizes tender nursery-raised seedlings to outdoor conditions (reduced watering, increased sun exposure, wind) over 1-2 weeks, reducing transplanting shock."
+    },
+    {
+      "id": 181,
+      "topic": "Farm Safety",
+      "difficulty": "medium",
+      "question": "When using chemical pesticides on the farm, it is essential to:",
+      "options": {
+        "A": "mix pesticides with bare hands for better distribution",
+        "B": "wear appropriate personal protective equipment (PPE) including gloves, mask, and goggles",
+        "C": "apply pesticides on windy days for wider coverage",
+        "D": "spray near water sources for convenience"
+      },
+      "correct_answer": "B",
+      "explanation": "Pesticide use requires: full PPE (gloves, mask, goggles, overalls, boots), reading the label, correct mixing, avoiding application on windy days, and keeping pesticides away from water sources and food."
+    },
+    {
+      "id": 182,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The recommended spacing for maize planting in Nigeria (75cm × 25cm with 2 plants per stand) gives a plant population of approximately:",
+      "options": {
+        "A": "20,000 plants/ha",
+        "B": "53,000 plants/ha",
+        "C": "100,000 plants/ha",
+        "D": "10,000 plants/ha"
+      },
+      "correct_answer": "B",
+      "explanation": "Plant population = 10,000 m² / (0.75m × 0.25m) × 2 plants = 10,000/0.1875 × 2 = approximately 53,333 plants/ha. This is the standard recommended maize density in Nigeria."
+    },
+    {
+      "id": 183,
+      "topic": "Agricultural Organizations",
+      "difficulty": "medium",
+      "question": "The Food and Agriculture Organization (FAO) is an agency of the United Nations that works to:",
+      "options": {
+        "A": "produce food for developing countries",
+        "B": "achieve food security for all and ensure regular access to high-quality food globally",
+        "C": "manage international agricultural trade",
+        "D": "set global food prices"
+      },
+      "correct_answer": "B",
+      "explanation": "FAO leads international efforts to defeat hunger, improve nutrition, and ensure food security. It provides data, technical assistance, and policy guidance to member countries."
+    },
+    {
+      "id": 184,
+      "topic": "Animal Feeding",
+      "difficulty": "medium",
+      "question": "Ad libitum feeding in animal production means:",
+      "options": {
+        "A": "feeding animals according to a strict schedule",
+        "B": "allowing animals free access to feed at all times",
+        "C": "restricted feeding to control body weight",
+        "D": "feeding animals only twice daily"
+      },
+      "correct_answer": "B",
+      "explanation": "Ad libitum (ad lib) feeding allows animals continuous free access to feed. It maximizes growth rate but requires monitoring to prevent waste and obesity in some species."
+    },
+    {
+      "id": 185,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "A nursery in crop production is a place where:",
+      "options": {
+        "A": "harvested crops are stored",
+        "B": "young seedlings are raised under controlled conditions before transplanting to the field",
+        "C": "farm animals are born and reared",
+        "D": "chemical fertilizers are manufactured"
+      },
+      "correct_answer": "B",
+      "explanation": "A plant nursery is a facility where seeds are germinated and seedlings raised under controlled conditions (shade, irrigation, fertilization) until they are strong enough to be transplanted to the field."
+    },
+    {
+      "id": 186,
+      "topic": "Animal Husbandry",
+      "difficulty": "medium",
+      "question": "Castration of male farm animals is practiced to:",
+      "options": {
+        "A": "improve reproductive performance",
+        "B": "reduce aggressive behavior, improve meat quality, and facilitate management",
+        "C": "increase milk production",
+        "D": "prevent disease transmission"
+      },
+      "correct_answer": "B",
+      "explanation": "Castration (removal or destruction of testes) of male animals reduces aggression and fighting, improves feed conversion and meat quality (less tough, better marbling), and facilitates mixed-sex group management."
+    },
+    {
+      "id": 187,
+      "topic": "Animal Husbandry",
+      "difficulty": "medium",
+      "question": "Dehorning of cattle is practiced to:",
+      "options": {
+        "A": "prevent disease transmission through horns",
+        "B": "prevent cattle from injuring each other and handlers, and reduce carcass bruising",
+        "C": "improve milk production",
+        "D": "facilitate horn growth in improved breeds"
+      },
+      "correct_answer": "B",
+      "explanation": "Dehorning prevents cattle from injuring other animals (causing wounds, abscesses, even death) and handlers, reduces feed trough space needed, and reduces carcass bruising during transport."
+    },
+    {
+      "id": 188,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The main advantage of using certified seeds over farm-saved seeds is that certified seeds:",
+      "options": {
+        "A": "are cheaper than farm-saved seeds",
+        "B": "are tested for purity, viability, disease freedom, and have known, improved performance",
+        "C": "do not require fertilizers",
+        "D": "germinate more slowly"
+      },
+      "correct_answer": "B",
+      "explanation": "Certified seeds have been tested and approved for genetic purity, physical purity, germination rate, and freedom from seed-borne diseases. They give predictable, improved performance compared to farm-saved seeds."
+    },
+    {
+      "id": 189,
+      "topic": "Pest Management",
+      "difficulty": "medium",
+      "question": "The economic threshold in pest management is defined as:",
+      "options": {
+        "A": "the maximum number of pests that can be found on any crop",
+        "B": "the pest population level at which the cost of control equals the economic damage caused by the pest",
+        "C": "the total cost of pesticide application",
+        "D": "the number of beneficial insects in the field"
+      },
+      "correct_answer": "B",
+      "explanation": "The Economic Threshold (ET) is the pest density at which control measures are economically justified — when the cost of the pest damage exceeds the cost of control. This guides rational pesticide use."
+    },
+    {
+      "id": 190,
+      "topic": "Agricultural Science Terminology",
+      "difficulty": "medium",
+      "question": "A hectare (ha) is a unit of area equal to:",
+      "options": {
+        "A": "1,000 square metres",
+        "B": "10,000 square metres (100m × 100m)",
+        "C": "100,000 square metres",
+        "D": "1,000,000 square metres"
+      },
+      "correct_answer": "B",
+      "explanation": "1 hectare = 10,000 m² (a square 100m × 100m). 1 ha ≈ 2.47 acres. It is the standard unit of land area in agriculture. 1 km² = 100 hectares."
+    },
+    {
+      "id": 191,
+      "topic": "Soil Science",
+      "difficulty": "medium",
+      "question": "The cation exchange capacity (CEC) of a soil refers to:",
+      "options": {
+        "A": "the soil's ability to drain water",
+        "B": "the soil's capacity to hold and exchange positively charged nutrient ions (cations)",
+        "C": "the rate at which soils weather",
+        "D": "the soil's resistance to compaction"
+      },
+      "correct_answer": "B",
+      "explanation": "CEC is the total capacity of soil to hold exchangeable cations (Ca²⁺, Mg²⁺, K⁺, NH₄⁺, etc.). Soils with high CEC (clays, organic matter) hold more nutrients and are potentially more fertile."
+    },
+    {
+      "id": 192,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "The C:N ratio (carbon to nitrogen ratio) of organic matter affects:",
+      "options": {
+        "A": "soil drainage",
+        "B": "the rate of decomposition and nutrient availability in the soil",
+        "C": "soil temperature",
+        "D": "the formation of clay minerals"
+      },
+      "correct_answer": "B",
+      "explanation": "C:N ratio determines decomposition rate. Low C:N (<20:1, like legume residues) decomposes quickly, releasing N; high C:N (>30:1, like straw, wood) decomposes slowly and may cause N immobilization."
+    },
+    {
+      "id": 193,
+      "topic": "Crop Production",
+      "difficulty": "medium",
+      "question": "Zero tillage (no-till) farming is practiced to:",
+      "options": {
+        "A": "increase soil compaction",
+        "B": "conserve soil moisture, reduce erosion, and save fuel and labor by not ploughing",
+        "C": "eliminate weeds without using herbicides",
+        "D": "increase the need for fertilizers"
+      },
+      "correct_answer": "B",
+      "explanation": "Zero/no-till farming avoids soil disturbance, conserving soil moisture, reducing erosion, maintaining soil organic matter and structure, reducing fuel costs, and preserving beneficial soil organisms."
+    },
+    {
+      "id": 194,
+      "topic": "Agricultural Science",
+      "difficulty": "medium",
+      "question": "The primary function of the cotyledon(s) in a seed is to:",
+      "options": {
+        "A": "protect the embryo from physical damage",
+        "B": "provide stored food (starch, protein, fat) for the germinating seedling until it can photosynthesize",
+        "C": "absorb water during germination",
+        "D": "produce the first true leaves"
+      },
+      "correct_answer": "B",
+      "explanation": "Cotyledons (seed leaves) are the food storage organs of seeds. They supply the germinating seedling with energy and nutrients until it develops true leaves and can photosynthesize independently."
+    },
+    {
+      "id": 195,
+      "topic": "Agricultural Science",
+      "difficulty": "medium",
+      "question": "A monocotyledonous plant has seeds with:",
+      "options": {
+        "A": "two seed leaves",
+        "B": "one seed leaf",
+        "C": "no seed leaves",
+        "D": "three seed leaves"
+      },
+      "correct_answer": "B",
+      "explanation": "Monocots (e.g., maize, sorghum, rice, wheat, onion, grass) have one cotyledon (seed leaf). Dicots (e.g., bean, tomato, groundnut, cowpea) have two cotyledons."
+    },
+    {
+      "id": 196,
+      "topic": "Specific Crops - Sweet Potato",
+      "difficulty": "medium",
+      "question": "Sweet potato (Ipomoea batatas) is propagated by:",
+      "options": {
+        "A": "seeds",
+        "B": "vine cuttings (slips from the storage roots) or stem cuttings",
+        "C": "dividing the storage root directly",
+        "D": "budding"
+      },
+      "correct_answer": "B",
+      "explanation": "Sweet potato is propagated vegetatively using vine cuttings (slips sprouted from the storage root) or stem/vine cuttings. It is rarely grown from true seed except in breeding programs."
+    },
+    {
+      "id": 197,
+      "topic": "Specific Crops - Soybean",
+      "difficulty": "medium",
+      "question": "Soybean (Glycine max) is an important crop in Nigeria because:",
+      "options": {
+        "A": "it is a major starchy food crop",
+        "B": "it is a high-protein (40%), high-oil (20%) legume used for food, feed, and industrial products",
+        "C": "it is the main cocoa substitute",
+        "D": "it grows in desert conditions"
+      },
+      "correct_answer": "B",
+      "explanation": "Soybean is Nigeria's most important oilseed crop, rich in protein (40%) and oil (20%). It is used for human food (soy milk, tofu), animal feed, vegetable oil, and as raw material for various industries."
+    },
+    {
+      "id": 198,
+      "topic": "Animal Products",
+      "difficulty": "medium",
+      "question": "Hide and skin from cattle and goats are used primarily for:",
+      "options": {
+        "A": "food production",
+        "B": "leather production for shoes, bags, and other leather goods",
+        "C": "pharmaceutical products",
+        "D": "energy production"
+      },
+      "correct_answer": "B",
+      "explanation": "Hide (from cattle) and skin (from goats and sheep) are processed into leather used for manufacturing shoes, belts, handbags, furniture, and other leather products. Nigeria is a major exporter of hides and skins."
+    },
+    {
+      "id": 199,
+      "topic": "Plant Pests",
+      "difficulty": "medium",
+      "question": "Nematodes (roundworms) as plant pests cause damage to crops by:",
+      "options": {
+        "A": "feeding on leaves",
+        "B": "parasitizing roots — causing root knots, galls, and disrupting water and nutrient uptake",
+        "C": "blocking stomata on leaves",
+        "D": "producing toxins in the soil"
+      },
+      "correct_answer": "B",
+      "explanation": "Plant-parasitic nematodes (Meloidogyne root-knot nematodes) penetrate roots, causing galls (swellings) that disrupt water/nutrient uptake, leading to stunting, yellowing, and yield losses."
+    },
+    {
+      "id": 200,
+      "topic": "Agricultural Science",
+      "difficulty": "medium",
+      "question": "The major benefit of practicing conservation agriculture is:",
+      "options": {
+        "A": "increased use of chemical inputs",
+        "B": "sustainable long-term productivity by maintaining soil health, reducing erosion and input costs",
+        "C": "higher short-term yields at the expense of soil health",
+        "D": "complete elimination of pests"
+      },
+      "correct_answer": "B",
+      "explanation": "Conservation agriculture (minimum tillage, permanent soil cover, crop rotation) improves long-term soil health, reduces erosion and degradation, conserves water and organic matter, and lowers production costs."
+    }
+  ]
+}

@@ -1,0 +1,2806 @@
+{
+  "subject": "Commerce",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Which of the following BEST defines commerce?",
+      "options": {
+        "A": "The process of manufacturing goods for sale",
+        "B": "All activities involved in the exchange of goods and services and the aids that facilitate exchange",
+        "C": "The transportation of goods from one location to another",
+        "D": "The production of raw materials for industry"
+      },
+      "correct_answer": "B",
+      "explanation": "Commerce covers trade (buying and selling) plus all aids to trade such as banking, insurance, transport, warehousing, advertising, and communication."
+    },
+    {
+      "id": 2,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Home trade refers to",
+      "options": {
+        "A": "Trade carried out within the boundaries of a country",
+        "B": "Trade between two neighbouring countries",
+        "C": "Trade restricted to households only",
+        "D": "Online trading from home"
+      },
+      "correct_answer": "A",
+      "explanation": "Home trade (domestic/internal trade) is buying and selling of goods and services within the borders of a country."
+    },
+    {
+      "id": 3,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Entrepôt trade is best described as",
+      "options": {
+        "A": "Trade in which goods are imported for immediate consumption",
+        "B": "The importation of goods for re-export to other countries",
+        "C": "Trade conducted only between developed nations",
+        "D": "The export of raw materials by developing countries"
+      },
+      "correct_answer": "B",
+      "explanation": "Entrepôt trade involves importing goods into a country and re-exporting them, often after processing or re-packaging. Singapore and Dubai are classic entrepôt centres."
+    },
+    {
+      "id": 4,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "A favourable balance of trade occurs when",
+      "options": {
+        "A": "Imports exceed exports",
+        "B": "Exports exceed imports",
+        "C": "Exports and imports are equal",
+        "D": "The government eliminates all import tariffs"
+      },
+      "correct_answer": "B",
+      "explanation": "A favourable (positive) balance of trade means the value of exports exceeds the value of imports, resulting in a trade surplus."
+    },
+    {
+      "id": 5,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "An import quota is",
+      "options": {
+        "A": "A tax placed on imported goods",
+        "B": "A physical limit on the quantity of goods that may be imported",
+        "C": "A ban on all imports from a specific country",
+        "D": "A subsidy given to domestic producers"
+      },
+      "correct_answer": "B",
+      "explanation": "An import quota is a quantitative restriction setting a maximum limit on the amount of a specific good that can be imported during a given period."
+    },
+    {
+      "id": 6,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "A tariff is BEST described as",
+      "options": {
+        "A": "A government subsidy on exported goods",
+        "B": "A tax imposed on imported goods",
+        "C": "A ban on trade with a specific country",
+        "D": "A licence granted to importers"
+      },
+      "correct_answer": "B",
+      "explanation": "A tariff is a tax levied on imported goods. It raises the price of imports, making domestic goods more competitive and generating government revenue."
+    },
+    {
+      "id": 7,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Dumping in international trade occurs when",
+      "options": {
+        "A": "A country bans the export of its goods to another country",
+        "B": "A country exports goods at a price below their cost of production",
+        "C": "A country floods its domestic market with foreign goods",
+        "D": "A country imposes very high tariffs on imported goods"
+      },
+      "correct_answer": "B",
+      "explanation": "Dumping is selling exported goods below cost or below domestic prices, potentially harming the industries of the importing country."
+    },
+    {
+      "id": 8,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "An embargo is a trade policy that",
+      "options": {
+        "A": "Reduces import duties on specified goods",
+        "B": "Completely bans trade in certain goods or with certain countries",
+        "C": "Limits the quantity of goods that can be imported",
+        "D": "Provides subsidies to domestic exporters"
+      },
+      "correct_answer": "B",
+      "explanation": "An embargo is an official ban on trade with a specific country or on specific goods, often used for political or security reasons."
+    },
+    {
+      "id": 9,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT an aid to trade?",
+      "options": {
+        "A": "Banking",
+        "B": "Insurance",
+        "C": "Manufacturing",
+        "D": "Warehousing"
+      },
+      "correct_answer": "C",
+      "explanation": "Aids to trade include banking, insurance, transportation, warehousing, advertising, and communication. Manufacturing is an industrial activity, not an aid to trade."
+    },
+    {
+      "id": 10,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Foreign trade involves",
+      "options": {
+        "A": "Trade between two firms in the same city",
+        "B": "Exchange of goods and services between two or more countries",
+        "C": "Buying goods from foreign companies only",
+        "D": "Selling goods to other states within the same country"
+      },
+      "correct_answer": "B",
+      "explanation": "Foreign trade (international trade) is the exchange of goods and services across national borders, involving import, export, and entrepôt trade."
+    },
+    {
+      "id": 11,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "A wholesaler is BEST described as",
+      "options": {
+        "A": "A trader who sells goods directly to the final consumer",
+        "B": "A trader who buys in bulk from producers and sells in smaller quantities to retailers",
+        "C": "A trader who produces and sells goods to retailers",
+        "D": "A government agency that controls the supply of goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A wholesaler is a middleman who buys large quantities from manufacturers and sells smaller lots to retailers, bridging the gap between producers and retailers."
+    },
+    {
+      "id": 12,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "Which of the following is a function of the wholesaler?",
+      "options": {
+        "A": "Selling goods directly to consumers at retail prices",
+        "B": "Breaking bulk — dividing large consignments into smaller quantities",
+        "C": "Manufacturing goods for the home market",
+        "D": "Setting prices for all goods in the economy"
+      },
+      "correct_answer": "B",
+      "explanation": "Breaking bulk is a key wholesaler function — buying in large quantities from manufacturers and re-selling in smaller, manageable quantities to retailers."
+    },
+    {
+      "id": 13,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "A cash-and-carry wholesaler differs from a traditional wholesaler in that",
+      "options": {
+        "A": "It offers credit facilities to all customers",
+        "B": "Retailers pay cash and collect their own goods without delivery",
+        "C": "It only sells perishable goods",
+        "D": "It sells goods below cost price"
+      },
+      "correct_answer": "B",
+      "explanation": "In cash-and-carry wholesale, retailers visit the warehouse, select goods, pay cash on the spot, and transport the goods themselves. No credit or delivery is provided."
+    },
+    {
+      "id": 14,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "When a wholesaler is eliminated from the chain of distribution, this is known as",
+      "options": {
+        "A": "Vertical integration",
+        "B": "Disintermediation (cutting out the middleman)",
+        "C": "Horizontal integration",
+        "D": "Franchising"
+      },
+      "correct_answer": "B",
+      "explanation": "Disintermediation occurs when manufacturers sell directly to retailers or consumers, bypassing the wholesaler."
+    },
+    {
+      "id": 15,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "A retailer is a trader who",
+      "options": {
+        "A": "Buys and sells goods in large quantities",
+        "B": "Sells goods directly to the final consumer",
+        "C": "Only sells goods on credit",
+        "D": "Imports goods from foreign countries for sale"
+      },
+      "correct_answer": "B",
+      "explanation": "A retailer is the last link in the chain of distribution, selling goods in small quantities directly to the final consumer."
+    },
+    {
+      "id": 16,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a large-scale retailer?",
+      "options": {
+        "A": "A roadside food vendor",
+        "B": "A market trader",
+        "C": "A supermarket",
+        "D": "A door-to-door salesman"
+      },
+      "correct_answer": "C",
+      "explanation": "Large-scale retailers include supermarkets, department stores, chain stores, and hypermarkets, operating with significant capital and wide product variety."
+    },
+    {
+      "id": 17,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "A department store is divided into sections selling different categories of goods under one roof. This makes it different from a supermarket which",
+      "options": {
+        "A": "Sells goods at wholesale prices",
+        "B": "Mainly sells food and household goods under one roof",
+        "C": "Only operates as a chain store",
+        "D": "Is always government owned"
+      },
+      "correct_answer": "B",
+      "explanation": "A department store has sections for different goods (clothing, furniture, electronics, etc.). Supermarkets mainly stock food and household goods."
+    },
+    {
+      "id": 18,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "Chain stores are retail outlets that",
+      "options": {
+        "A": "Are owned by different individual traders using the same name",
+        "B": "Are multiple branches of the same organisation under central ownership",
+        "C": "Only sell goods on instalment plans",
+        "D": "Operate without fixed premises"
+      },
+      "correct_answer": "B",
+      "explanation": "Chain stores (multiple shops) are a group of retail outlets owned and controlled by the same company sharing the same name, layout, and policies."
+    },
+    {
+      "id": 19,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "Mail order retailing means",
+      "options": {
+        "A": "Selling goods through advertisements and delivering to buyers by post or courier",
+        "B": "Selling goods through retail stores located in post offices",
+        "C": "Ordering goods from a wholesaler using the postal service",
+        "D": "Selling goods at market stalls with home delivery"
+      },
+      "correct_answer": "A",
+      "explanation": "Mail order is a retail method where goods are advertised in catalogues or media, customers order remotely, and goods are delivered directly to the buyer."
+    },
+    {
+      "id": 20,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "Vending machines represent which type of retailing?",
+      "options": {
+        "A": "Itinerant trading",
+        "B": "Automatic retailing",
+        "C": "Mail order retailing",
+        "D": "Market trading"
+      },
+      "correct_answer": "B",
+      "explanation": "Vending machines are examples of automatic retailing — operating 24/7 without human assistance, dispensing goods in exchange for payment."
+    },
+    {
+      "id": 21,
+      "topic": "Consumer Cooperative",
+      "difficulty": "medium",
+      "question": "A consumer cooperative society is formed mainly to",
+      "options": {
+        "A": "Maximise profits for shareholders",
+        "B": "Enable members to buy goods at lower prices by eliminating middlemen",
+        "C": "Provide employment for government workers",
+        "D": "Finance agricultural production"
+      },
+      "correct_answer": "B",
+      "explanation": "Consumer cooperatives pool resources to buy goods in bulk, eliminate middlemen, and sell to members at reduced prices. Surpluses are shared as dividends based on patronage."
+    },
+    {
+      "id": 22,
+      "topic": "Consumer Cooperative",
+      "difficulty": "medium",
+      "question": "The dividend paid to members of a cooperative society is based on",
+      "options": {
+        "A": "The amount of shares each member holds",
+        "B": "Each member's purchases (patronage)",
+        "C": "The length of membership",
+        "D": "Members' contributions to the management committee"
+      },
+      "correct_answer": "B",
+      "explanation": "In a cooperative, the surplus (dividend) is distributed based on members' purchases or patronage, not shareholding. This distinguishes cooperatives from ordinary companies."
+    },
+    {
+      "id": 23,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "The shortest channel of distribution is",
+      "options": {
+        "A": "Producer → Wholesaler → Retailer → Consumer",
+        "B": "Producer → Agent → Retailer → Consumer",
+        "C": "Producer → Consumer",
+        "D": "Producer → Retailer → Consumer"
+      },
+      "correct_answer": "C",
+      "explanation": "Producer → Consumer (direct selling) is the shortest channel with no middlemen, e.g., farm gate sales, factory shops, direct online sales."
+    },
+    {
+      "id": 24,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "An agent in the channel of distribution is best described as",
+      "options": {
+        "A": "A trader who buys and owns goods before selling them",
+        "B": "A person who acts on behalf of a principal to buy or sell goods without taking title",
+        "C": "A government-appointed trader who controls prices",
+        "D": "A retailer who sells only on credit"
+      },
+      "correct_answer": "B",
+      "explanation": "An agent facilitates the sale of goods on behalf of a principal without taking ownership. The agent earns a commission."
+    },
+    {
+      "id": 25,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "A del credere agent differs from other agents in that",
+      "options": {
+        "A": "He charges no commission",
+        "B": "He guarantees payment to the principal if the buyer defaults",
+        "C": "He can only sell in the domestic market",
+        "D": "He must buy the goods before selling them"
+      },
+      "correct_answer": "B",
+      "explanation": "A del credere agent assumes the risk of non-payment by buyers, providing a guarantee to the principal in exchange for a higher commission."
+    },
+    {
+      "id": 26,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "A broker in trade differs from a factor in that a broker",
+      "options": {
+        "A": "Takes possession of goods and sells in their own name",
+        "B": "Arranges deals between buyers and sellers without taking possession of the goods",
+        "C": "Provides insurance for goods in transit",
+        "D": "Sets market prices on behalf of the principal"
+      },
+      "correct_answer": "B",
+      "explanation": "A broker acts as intermediary between buyers and sellers without taking title to or physical possession of goods, earning a commission or brokerage fee."
+    },
+    {
+      "id": 27,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "A franchise arrangement is best described as",
+      "options": {
+        "A": "A government licence to operate a business",
+        "B": "An arrangement where a franchisor grants a franchisee the right to use its brand and systems",
+        "C": "A partnership between a foreign and local company",
+        "D": "A government subsidy given to small businesses"
+      },
+      "correct_answer": "B",
+      "explanation": "In a franchise, the franchisor grants the franchisee the right to operate using its established brand, products, and business systems in exchange for fees and royalties (e.g., KFC, McDonald's)."
+    },
+    {
+      "id": 28,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "Which document does a buyer send to a seller to request specific goods?",
+      "options": {
+        "A": "Invoice",
+        "B": "Receipt",
+        "C": "Purchase order (order form)",
+        "D": "Credit note"
+      },
+      "correct_answer": "C",
+      "explanation": "A purchase order is sent by the buyer to the seller specifying the goods required, quantity, price, and delivery terms."
+    },
+    {
+      "id": 29,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A proforma invoice is used to",
+      "options": {
+        "A": "Demand immediate payment from a debtor",
+        "B": "Show the price of goods before a formal order is placed",
+        "C": "Record goods returned by the buyer",
+        "D": "Acknowledge receipt of payment"
+      },
+      "correct_answer": "B",
+      "explanation": "A proforma invoice is a preliminary document showing the seller's prices and terms before the actual transaction. It is used for quotation or advance payment requests."
+    },
+    {
+      "id": 30,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "An invoice is a document that",
+      "options": {
+        "A": "Is sent by the buyer to acknowledge receipt of goods",
+        "B": "Is sent by the seller showing details and amounts owed for goods supplied",
+        "C": "Is used to return faulty goods to the supplier",
+        "D": "Confirms goods have been insured during transit"
+      },
+      "correct_answer": "B",
+      "explanation": "An invoice is a commercial document issued by the seller to the buyer detailing goods supplied, quantity, price, and total amount owed."
+    },
+    {
+      "id": 31,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A credit note is issued by the seller to the buyer when",
+      "options": {
+        "A": "The buyer requests additional goods",
+        "B": "Goods are returned or the buyer was overcharged",
+        "C": "The buyer defaults on payment",
+        "D": "New goods are dispatched to the buyer"
+      },
+      "correct_answer": "B",
+      "explanation": "A credit note reduces the amount owed by the buyer — issued when goods are returned, incorrect goods were sent, or the buyer was overcharged."
+    },
+    {
+      "id": 32,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A debit note is sent by the seller to the buyer when",
+      "options": {
+        "A": "The seller wants to reduce the buyer's debt",
+        "B": "The buyer was undercharged or additional charges are owed",
+        "C": "The seller acknowledges safe receipt of payment",
+        "D": "The buyer cancels an order"
+      },
+      "correct_answer": "B",
+      "explanation": "A debit note informs the buyer that their account has been debited — used when the seller undercharged or additional charges apply."
+    },
+    {
+      "id": 33,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A statement of account is prepared by the seller to show",
+      "options": {
+        "A": "The buyer's credit rating",
+        "B": "All transactions with the buyer over a period and the balance outstanding",
+        "C": "The bank balance of the seller",
+        "D": "The company's annual tax obligations"
+      },
+      "correct_answer": "B",
+      "explanation": "A statement of account is sent by the seller showing all invoices, credit notes, payments received, and the balance outstanding over a period (usually monthly)."
+    },
+    {
+      "id": 34,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "Which document accompanies goods when they are dispatched to the buyer?",
+      "options": {
+        "A": "Statement of account",
+        "B": "Delivery note",
+        "C": "Credit note",
+        "D": "Letter of credit"
+      },
+      "correct_answer": "B",
+      "explanation": "A delivery note accompanies goods and describes the items being delivered. The buyer signs and returns a copy to confirm receipt."
+    },
+    {
+      "id": 35,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "An enquiry in a business transaction is sent by",
+      "options": {
+        "A": "The seller to offer goods for sale",
+        "B": "The buyer to a potential seller to request information about goods and prices",
+        "C": "The bank to a customer about an overdrawn account",
+        "D": "The customs authority to an importer"
+      },
+      "correct_answer": "B",
+      "explanation": "An enquiry is sent by the potential buyer to sellers requesting details about goods — availability, prices, terms, and delivery conditions."
+    },
+    {
+      "id": 36,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A quotation is sent by the seller to",
+      "options": {
+        "A": "Demand payment for goods already supplied",
+        "B": "State the price and conditions under which the seller is willing to supply goods",
+        "C": "Acknowledge receipt of payment",
+        "D": "Confirm that goods have been dispatched"
+      },
+      "correct_answer": "B",
+      "explanation": "A quotation is sent in response to a buyer's enquiry, providing detailed information about prices, terms of sale, discounts, and delivery conditions."
+    },
+    {
+      "id": 37,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A receipt is issued by",
+      "options": {
+        "A": "The buyer to confirm that goods have been ordered",
+        "B": "The seller to acknowledge that payment has been received",
+        "C": "The bank to confirm a cheque has been cleared",
+        "D": "The transport company to confirm safe delivery of goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A receipt is a written acknowledgement issued by the seller confirming that payment has been received from the buyer."
+    },
+    {
+      "id": 38,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A commercial bank primarily makes its profit by",
+      "options": {
+        "A": "Charging fees for government services",
+        "B": "Accepting deposits and lending money at a higher interest rate",
+        "C": "Selling shares to the public",
+        "D": "Printing money on behalf of the government"
+      },
+      "correct_answer": "B",
+      "explanation": "Commercial banks earn profit mainly from the interest spread — accepting deposits at lower rates and lending money at higher rates."
+    },
+    {
+      "id": 39,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A current account differs from a savings account in that",
+      "options": {
+        "A": "A current account earns higher interest",
+        "B": "A current account allows unlimited withdrawals using cheques but usually pays no interest",
+        "C": "Only businesses can open a current account",
+        "D": "A savings account does not require a minimum balance"
+      },
+      "correct_answer": "B",
+      "explanation": "A current (checking) account is designed for frequent transactions with unlimited withdrawals via cheques or debit cards. It generally pays no or minimal interest."
+    },
+    {
+      "id": 40,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A cheque is BEST described as",
+      "options": {
+        "A": "A document issued by the central bank to regulate money supply",
+        "B": "A written order addressed to a bank to pay a specified sum to a named person or bearer",
+        "C": "A receipt issued by a bank when a deposit is made",
+        "D": "A promissory note issued by a trader"
+      },
+      "correct_answer": "B",
+      "explanation": "A cheque is a written instruction from an account holder directing their bank to pay a specified amount to a named person or bearer."
+    },
+    {
+      "id": 41,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A crossed cheque means",
+      "options": {
+        "A": "The cheque has expired",
+        "B": "The cheque can only be deposited into a bank account and cannot be cashed over the counter",
+        "C": "The cheque has been returned unpaid",
+        "D": "The cheque has been signed by two signatories"
+      },
+      "correct_answer": "B",
+      "explanation": "A crossed cheque has two parallel lines across its face. It cannot be cashed directly — it must be deposited into a bank account, improving security."
+    },
+    {
+      "id": 42,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "An overdraft facility allows a current account holder to",
+      "options": {
+        "A": "Earn extra interest on their deposits",
+        "B": "Withdraw more money than their account balance up to an agreed limit",
+        "C": "Transfer funds to another bank without charges",
+        "D": "Receive government social welfare payments"
+      },
+      "correct_answer": "B",
+      "explanation": "An overdraft allows a bank customer to withdraw funds in excess of their account balance up to an agreed limit. Interest is charged on the amount overdrawn."
+    },
+    {
+      "id": 43,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "The central bank of a country performs which of the following functions?",
+      "options": {
+        "A": "Accepting deposits from the general public",
+        "B": "Acting as the banker to the government and controlling the money supply",
+        "C": "Selling goods to government ministries",
+        "D": "Insuring deposits of commercial bank customers"
+      },
+      "correct_answer": "B",
+      "explanation": "The central bank acts as the government's banker, controls money supply and credit, issues currency, regulates commercial banks, and acts as lender of last resort."
+    },
+    {
+      "id": 44,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A fixed deposit account earns a higher rate of interest because",
+      "options": {
+        "A": "It is the safest type of bank account",
+        "B": "Money is locked away for a fixed period and cannot be withdrawn before maturity",
+        "C": "It is only available to high net-worth individuals",
+        "D": "The bank invests the deposits in the stock market"
+      },
+      "correct_answer": "B",
+      "explanation": "A fixed deposit (term deposit) earns higher interest because the depositor commits money for a fixed period, giving the bank certainty for lending. Early withdrawal may incur penalties."
+    },
+    {
+      "id": 45,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A letter of credit in international trade is issued by",
+      "options": {
+        "A": "The exporter's shipping company",
+        "B": "The importer's bank, guaranteeing payment to the exporter",
+        "C": "The central bank of the exporting country",
+        "D": "The chamber of commerce of the importing country"
+      },
+      "correct_answer": "B",
+      "explanation": "A letter of credit is issued by the importer's bank, guaranteeing the exporter payment once specified conditions (e.g., presentation of shipping documents) are fulfilled."
+    },
+    {
+      "id": 46,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A promissory note is a written promise by",
+      "options": {
+        "A": "A bank promising to pay the bearer on demand",
+        "B": "A debtor promising to pay a specific amount to a creditor at a fixed future date",
+        "C": "A government agency promising to deliver goods",
+        "D": "A seller promising to replace defective goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A promissory note is an unconditional written promise made by the debtor to pay a specified sum to the creditor on demand or at a specific future date."
+    },
+    {
+      "id": 47,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A bill of exchange is drawn by",
+      "options": {
+        "A": "The debtor (buyer) and addressed to the creditor",
+        "B": "The creditor (seller) and addressed to the debtor, ordering payment at a future date",
+        "C": "The central bank to regulate money supply",
+        "D": "The importer and addressed to the exporter"
+      },
+      "correct_answer": "B",
+      "explanation": "A bill of exchange is drawn by the creditor/seller and addressed to the debtor/buyer, ordering them to pay a specified sum on demand or at a future date."
+    },
+    {
+      "id": 48,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "Bank reconciliation statement is prepared to",
+      "options": {
+        "A": "Show profits earned by the bank in a year",
+        "B": "Explain differences between the bank statement balance and the cash book balance",
+        "C": "Record all loans granted by the bank in a year",
+        "D": "Show the number of customers served by a bank"
+      },
+      "correct_answer": "B",
+      "explanation": "A bank reconciliation statement explains the differences between the company's cash book balance and the bank statement balance, due to items like unpresented cheques."
+    },
+    {
+      "id": 49,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A post-dated cheque is one that",
+      "options": {
+        "A": "Was issued in the past and has since expired",
+        "B": "Bears a future date and cannot be presented to the bank until that date",
+        "C": "Has been returned by the bank due to insufficient funds",
+        "D": "Has been signed by two signatories"
+      },
+      "correct_answer": "B",
+      "explanation": "A post-dated cheque carries a future date. The bank will not honour it until that date arrives."
+    },
+    {
+      "id": 50,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A stale cheque is one that",
+      "options": {
+        "A": "Was issued on old paper",
+        "B": "Has not been presented to the bank within a reasonable period (usually 6 months) after its date",
+        "C": "Contains errors and has been altered",
+        "D": "Is signed by an unauthorised person"
+      },
+      "correct_answer": "B",
+      "explanation": "A stale cheque has not been presented for payment within the stipulated period (typically six months). Banks refuse to honour stale cheques."
+    },
+    {
+      "id": 51,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "The principle of indemnity in insurance states that",
+      "options": {
+        "A": "The insured must disclose all material facts",
+        "B": "The insured must have a financial interest in the subject matter",
+        "C": "The insured should be restored to the same financial position as before the loss, no better",
+        "D": "The insurer can recover losses from a third party who caused the damage"
+      },
+      "correct_answer": "C",
+      "explanation": "The principle of indemnity means insurance is not a means of profit — the insured is only compensated to the extent of actual financial loss, restoring them to their pre-loss position."
+    },
+    {
+      "id": 52,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "The principle of insurable interest means that",
+      "options": {
+        "A": "The insured must benefit from the safety of the insured item and suffer from its destruction",
+        "B": "Any person can insure any property regardless of ownership",
+        "C": "The insurer must pay all claims regardless of cause",
+        "D": "All properties must be insured for their full market value"
+      },
+      "correct_answer": "A",
+      "explanation": "Insurable interest means the insured must have a financial stake — benefiting from the item's safety and suffering a financial loss if it is damaged or destroyed."
+    },
+    {
+      "id": 53,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "The principle of utmost good faith (uberrima fides) requires that",
+      "options": {
+        "A": "Both the insurer and the insured must fully and honestly disclose all material facts",
+        "B": "Only the insurer must disclose information",
+        "C": "The insured need not reveal pre-existing conditions",
+        "D": "The contract must be witnessed by a government official"
+      },
+      "correct_answer": "A",
+      "explanation": "Utmost good faith requires both parties to voluntarily disclose all material facts relevant to the insurance contract. Non-disclosure can void the policy."
+    },
+    {
+      "id": 54,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Subrogation in insurance means",
+      "options": {
+        "A": "The insured can claim from multiple insurers for the same loss",
+        "B": "After compensating the insured, the insurer takes over the right to recover losses from a third party",
+        "C": "The insured transfers the policy to another person",
+        "D": "The insurer divides the risk with other insurers"
+      },
+      "correct_answer": "B",
+      "explanation": "Subrogation allows the insurer, after paying the insured's claim, to sue the third party responsible for the loss — preventing the insured from profiting twice."
+    },
+    {
+      "id": 55,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Contribution as a principle of insurance applies when",
+      "options": {
+        "A": "Several people contribute to one insurance fund",
+        "B": "The same property is insured with more than one insurer",
+        "C": "The insurer deducts a contribution from the insured before paying",
+        "D": "A group of firms jointly insure a very large risk"
+      },
+      "correct_answer": "B",
+      "explanation": "The principle of contribution applies when the same risk is covered by two or more insurers. Each insurer pays only their proportionate share of the loss."
+    },
+    {
+      "id": 56,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "A premium in insurance refers to",
+      "options": {
+        "A": "The sum paid by the insurer to the insured in a claim",
+        "B": "The regular payment made by the insured to the insurer in exchange for coverage",
+        "C": "The excess amount the insured must pay before a claim is settled",
+        "D": "The additional commission earned by the insurance broker"
+      },
+      "correct_answer": "B",
+      "explanation": "A premium is the sum paid by the policyholder to the insurance company at regular intervals in exchange for insurance coverage."
+    },
+    {
+      "id": 57,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Life assurance differs from general insurance mainly in that",
+      "options": {
+        "A": "Life assurance is compulsory by law",
+        "B": "The event covered (death) is certain to happen; only the timing is uncertain",
+        "C": "Life assurance does not require payment of premiums",
+        "D": "Life assurance is only available to business owners"
+      },
+      "correct_answer": "B",
+      "explanation": "Life assurance covers death, which is certain to occur — only the timing is unknown. General insurance covers uncertain events (fire, theft) that may or may not happen."
+    },
+    {
+      "id": 58,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Which of the following risks is NOT normally insurable?",
+      "options": {
+        "A": "Fire damage to a building",
+        "B": "Theft of a motor vehicle",
+        "C": "Loss due to a fall in market prices",
+        "D": "Death of a breadwinner"
+      },
+      "correct_answer": "C",
+      "explanation": "Speculative risks (where there is a possibility of gain, like market price fluctuations) are not insurable. Only pure risks (where only loss can occur) are insurable."
+    },
+    {
+      "id": 59,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "A third-party motor insurance policy covers",
+      "options": {
+        "A": "Damage to the insured's own vehicle",
+        "B": "Injury or damage caused to other people and their property by the insured driver",
+        "C": "Both the insured's vehicle and third party liabilities",
+        "D": "Medical expenses of the insured driver"
+      },
+      "correct_answer": "B",
+      "explanation": "Third-party insurance (the minimum required by law) covers only liabilities to other people — injuries or property damage caused to third parties by the insured driver."
+    },
+    {
+      "id": 60,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Reinsurance means",
+      "options": {
+        "A": "An insured taking out a second insurance policy on the same risk",
+        "B": "An insurer passing part of a large risk to another insurer to spread the risk",
+        "C": "A policy that is renewed after it expires",
+        "D": "An insurance contract that covers more than one person"
+      },
+      "correct_answer": "B",
+      "explanation": "Reinsurance is the practice of an insurer transferring part of its risk to another insurance company (reinsurer) to reduce exposure to large claims."
+    },
+    {
+      "id": 61,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "Which mode of transport is most suitable for heavy and bulky goods over long distances at low cost within a country?",
+      "options": {
+        "A": "Air transport",
+        "B": "Road transport",
+        "C": "Rail transport",
+        "D": "Pipeline transport"
+      },
+      "correct_answer": "C",
+      "explanation": "Rail transport is best suited for carrying heavy, bulky goods (coal, minerals, machinery) over long distances cheaply and efficiently."
+    },
+    {
+      "id": 62,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "A bill of lading is a document used in",
+      "options": {
+        "A": "Road transport only",
+        "B": "Sea (ocean) transport",
+        "C": "Air transport",
+        "D": "Rail transport"
+      },
+      "correct_answer": "B",
+      "explanation": "A bill of lading is issued by the shipping company to the shipper. It serves as a receipt for goods, evidence of the contract of carriage, and a document of title."
+    },
+    {
+      "id": 63,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "An airway bill is to air transport as a bill of lading is to",
+      "options": {
+        "A": "Road transport",
+        "B": "Rail transport",
+        "C": "Sea transport",
+        "D": "Pipeline transport"
+      },
+      "correct_answer": "C",
+      "explanation": "An airway bill (air waybill) is the document for air cargo, just as a bill of lading is used for sea transport. Both serve as receipt, contract, and document of title."
+    },
+    {
+      "id": 64,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "Which of the following is an advantage of air transport?",
+      "options": {
+        "A": "It is the cheapest form of transport",
+        "B": "It is the fastest mode and suitable for perishable and high-value goods",
+        "C": "It can carry the heaviest and most bulky goods",
+        "D": "It is available in remote areas without infrastructure"
+      },
+      "correct_answer": "B",
+      "explanation": "Air transport is the fastest mode, ideal for high-value, perishable, or urgently needed goods. Its main disadvantages are high cost and limited capacity."
+    },
+    {
+      "id": 65,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "Pipeline transport is most commonly used to move",
+      "options": {
+        "A": "Packaged consumer goods",
+        "B": "Liquid and gaseous substances such as oil and gas",
+        "C": "Livestock and agricultural produce",
+        "D": "Heavy machinery and equipment"
+      },
+      "correct_answer": "B",
+      "explanation": "Pipelines are designed for continuous movement of liquids (crude oil, petroleum products) and gases (natural gas) over long distances."
+    },
+    {
+      "id": 66,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "Containerisation in sea transport refers to",
+      "options": {
+        "A": "Storing goods in bonded warehouses at the seaport",
+        "B": "Packing goods into standard-sized steel containers for efficient transport",
+        "C": "Placing goods in sealed tanks for liquid transport",
+        "D": "Covering goods with protective wrapping before shipping"
+      },
+      "correct_answer": "B",
+      "explanation": "Containerisation involves packing goods into standardised intermodal containers transferable between ships, trucks, and trains, reducing handling costs and transit times."
+    },
+    {
+      "id": 67,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "A freight note is a document that shows",
+      "options": {
+        "A": "The insurance premium for goods in transit",
+        "B": "The charges for transporting goods",
+        "C": "The weight and dimensions of goods to be exported",
+        "D": "The customs duty payable on imported goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A freight note is issued by the carrier and details the charges for transporting the goods from one point to another."
+    },
+    {
+      "id": 68,
+      "topic": "Warehousing",
+      "difficulty": "medium",
+      "question": "The primary function of a warehouse is to",
+      "options": {
+        "A": "Process and manufacture goods for sale",
+        "B": "Store goods safely between production and consumption",
+        "C": "Provide retail services to the final consumer",
+        "D": "Transport goods from producers to retailers"
+      },
+      "correct_answer": "B",
+      "explanation": "A warehouse provides safe storage of goods between the time of production and the time of consumption, bridging the time gap between supply and demand."
+    },
+    {
+      "id": 69,
+      "topic": "Warehousing",
+      "difficulty": "medium",
+      "question": "A bonded warehouse is used to store",
+      "options": {
+        "A": "Frozen and perishable goods only",
+        "B": "Imported goods on which customs duty has not yet been paid",
+        "C": "Goods belonging to government ministries",
+        "D": "Goods awaiting transportation to retailers"
+      },
+      "correct_answer": "B",
+      "explanation": "A bonded warehouse stores imported goods on which import duty has not yet been paid. Goods are released only when duty is paid, operating under customs control."
+    },
+    {
+      "id": 70,
+      "topic": "Warehousing",
+      "difficulty": "medium",
+      "question": "A warehouse warrant is a document that",
+      "options": {
+        "A": "Gives permission to build a warehouse",
+        "B": "Proves ownership of goods stored in a public warehouse and can be used as security for a loan",
+        "C": "Certifies the quality of goods stored",
+        "D": "Shows the customs duty paid on imported goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A warehouse warrant is a receipt issued by the warehouse owner proving ownership of stored goods. It can be used as collateral to obtain a bank loan."
+    },
+    {
+      "id": 71,
+      "topic": "Warehousing",
+      "difficulty": "medium",
+      "question": "Cold storage warehouses are specifically designed for",
+      "options": {
+        "A": "Storing flammable materials at low temperatures",
+        "B": "Storing perishable goods such as fruits, vegetables, meat, and dairy products",
+        "C": "Storing imported electronics and machinery",
+        "D": "Storing goods in transit at seaports"
+      },
+      "correct_answer": "B",
+      "explanation": "Cold storage warehouses are equipped with refrigeration to preserve perishable goods (food items, pharmaceuticals, flowers) and extend their shelf life."
+    },
+    {
+      "id": 72,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "The main aim of advertising is to",
+      "options": {
+        "A": "Generate revenue for the media industry",
+        "B": "Inform, persuade, and remind consumers to buy goods or services",
+        "C": "Reduce the prices of goods in the market",
+        "D": "Regulate business activities in the country"
+      },
+      "correct_answer": "B",
+      "explanation": "Advertising serves three key purposes: informing potential customers about products, persuading them to buy, and reminding existing customers to continue buying."
+    },
+    {
+      "id": 73,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Informative advertising is mainly used when",
+      "options": {
+        "A": "A product faces heavy competition",
+        "B": "A new product is being introduced to the market",
+        "C": "A company wants to increase brand loyalty",
+        "D": "A product is about to be withdrawn"
+      },
+      "correct_answer": "B",
+      "explanation": "Informative advertising is used primarily at the introduction stage of a product's life cycle to create awareness about a new product."
+    },
+    {
+      "id": 74,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Generic (collective) advertising is directed at",
+      "options": {
+        "A": "Promoting one specific company's brand",
+        "B": "Promoting an entire industry or product category rather than a specific brand",
+        "C": "Advertising to a specific demographic group",
+        "D": "Advertising products that are generic and have no brand name"
+      },
+      "correct_answer": "B",
+      "explanation": "Generic advertising promotes an entire industry or category (e.g., 'Drink more milk'), often funded jointly by industry associations."
+    },
+    {
+      "id": 75,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "An advertising medium refers to",
+      "options": {
+        "A": "The content of the advertisement",
+        "B": "The channel through which an advertisement is communicated to the target audience",
+        "C": "The cost of producing an advertisement",
+        "D": "The agency that creates advertisements"
+      },
+      "correct_answer": "B",
+      "explanation": "An advertising medium is the channel used to deliver the advertising message — examples include television, radio, newspapers, billboards, and social media."
+    },
+    {
+      "id": 76,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Point-of-sale advertising includes",
+      "options": {
+        "A": "Television commercials",
+        "B": "Newspaper advertisements",
+        "C": "Window displays, posters, and handbills at the retail outlet",
+        "D": "Radio jingles"
+      },
+      "correct_answer": "C",
+      "explanation": "Point-of-sale (POS) advertising is carried out at the place where goods are sold, including window displays, shelf displays, posters, and handbills."
+    },
+    {
+      "id": 77,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Below-the-line advertising refers to",
+      "options": {
+        "A": "Advertising in print media such as newspapers",
+        "B": "Non-media promotional activities such as sales promotions, direct mail, and exhibitions",
+        "C": "Advertising on television and radio broadcasts",
+        "D": "Advertising on billboards and outdoor hoardings"
+      },
+      "correct_answer": "B",
+      "explanation": "Below-the-line (BTL) advertising refers to promotional activities that do not use paid mass media — including sales promotions, direct marketing, and trade fairs."
+    },
+    {
+      "id": 78,
+      "topic": "Business Units — Sole Trader",
+      "difficulty": "medium",
+      "question": "A sole trader business is one that is",
+      "options": {
+        "A": "Owned and controlled by one person who bears all the risk",
+        "B": "Owned by one person but managed by a board of directors",
+        "C": "A company with only one product line",
+        "D": "A government-owned business with one outlet"
+      },
+      "correct_answer": "A",
+      "explanation": "A sole trader (sole proprietorship) is owned and operated by one individual who provides all capital, makes all decisions, and has unlimited liability for all debts."
+    },
+    {
+      "id": 79,
+      "topic": "Business Units — Sole Trader",
+      "difficulty": "medium",
+      "question": "The main DISADVANTAGE of a sole trader business is",
+      "options": {
+        "A": "Ease of formation",
+        "B": "Unlimited liability — personal assets can be used to pay business debts",
+        "C": "Complete control over business decisions",
+        "D": "Maximum confidentiality of business information"
+      },
+      "correct_answer": "B",
+      "explanation": "The main disadvantage of a sole trader is unlimited liability — the owner is personally responsible for all business debts including with personal assets."
+    },
+    {
+      "id": 80,
+      "topic": "Business Units — Partnership",
+      "difficulty": "medium",
+      "question": "A sleeping (dormant) partner is one who",
+      "options": {
+        "A": "Manages the business but does not invest capital",
+        "B": "Invests capital but takes no part in management",
+        "C": "Handles all financial matters of the partnership",
+        "D": "Joins the partnership temporarily for a specific project"
+      },
+      "correct_answer": "B",
+      "explanation": "A dormant partner contributes capital and shares profits/losses but does not participate in day-to-day management."
+    },
+    {
+      "id": 81,
+      "topic": "Business Units — Partnership",
+      "difficulty": "medium",
+      "question": "A limited partner in a partnership has",
+      "options": {
+        "A": "Unlimited liability for all business debts",
+        "B": "Liability limited only to the amount of capital invested",
+        "C": "The right to manage and represent the partnership",
+        "D": "Priority over other partners in profit sharing"
+      },
+      "correct_answer": "B",
+      "explanation": "A limited partner's liability is restricted to the amount invested. They cannot participate in management. There must always be at least one general partner with unlimited liability."
+    },
+    {
+      "id": 82,
+      "topic": "Business Units — Partnership",
+      "difficulty": "medium",
+      "question": "The maximum number of partners allowed in a general business partnership in most jurisdictions is",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "50"
+      },
+      "correct_answer": "C",
+      "explanation": "In most countries, the maximum number of partners in an ordinary partnership is 20. The minimum is 2."
+    },
+    {
+      "id": 83,
+      "topic": "Business Units — Partnership",
+      "difficulty": "medium",
+      "question": "In the absence of a partnership agreement, profits are shared among partners",
+      "options": {
+        "A": "In proportion to capital contributed",
+        "B": "Equally among all partners",
+        "C": "Based on seniority and experience",
+        "D": "As decided by the most senior partner"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the Partnership Act, in the absence of an agreement, profits and losses are shared equally among all partners."
+    },
+    {
+      "id": 84,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "The memorandum of association of a company sets out",
+      "options": {
+        "A": "The internal rules governing management of the company",
+        "B": "The company's name, registered address, objectives, and capital, defining its relationship with the outside world",
+        "C": "The salaries of all company directors",
+        "D": "The profit-sharing formula for shareholders"
+      },
+      "correct_answer": "B",
+      "explanation": "The memorandum of association is an external document defining the company's relationship with the outside world — covering name, registered office, objectives, and authorised capital."
+    },
+    {
+      "id": 85,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "The articles of association of a company govern",
+      "options": {
+        "A": "The company's external dealings with the public",
+        "B": "The internal management and administration including directors' powers and meeting procedures",
+        "C": "The company's relationship with its suppliers",
+        "D": "The tax obligations of the company"
+      },
+      "correct_answer": "B",
+      "explanation": "The articles of association are internal rules regulating how the company is managed — directors' powers, voting rights, dividend policy, share transfers, and meeting procedures."
+    },
+    {
+      "id": 86,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A public limited company (PLC) differs from a private limited company in that",
+      "options": {
+        "A": "A PLC has unlimited liability",
+        "B": "A PLC can offer its shares to the general public through a stock exchange",
+        "C": "A private company must have a minimum of 50 shareholders",
+        "D": "A PLC does not require a memorandum of association"
+      },
+      "correct_answer": "B",
+      "explanation": "A public limited company can offer shares to the general public and have shares listed on a stock exchange. A private company cannot offer shares to the public."
+    },
+    {
+      "id": 87,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A debenture is",
+      "options": {
+        "A": "A share issued to founders of a company",
+        "B": "A long-term loan raised by a company on which it pays a fixed rate of interest",
+        "C": "A dividend paid to preference shareholders",
+        "D": "A government bond issued to fund infrastructure"
+      },
+      "correct_answer": "B",
+      "explanation": "A debenture is a fixed-interest debt instrument (loan certificate) issued by a company to raise long-term finance. Debenture holders are creditors, not shareholders."
+    },
+    {
+      "id": 88,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "Preference shareholders have priority over ordinary shareholders regarding",
+      "options": {
+        "A": "Voting rights at company general meetings",
+        "B": "Payment of dividends and repayment of capital in a winding up",
+        "C": "Electing the board of directors",
+        "D": "Access to company financial reports"
+      },
+      "correct_answer": "B",
+      "explanation": "Preference shareholders receive their fixed dividend before ordinary shareholders and are repaid their capital before ordinary shareholders in liquidation."
+    },
+    {
+      "id": 89,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A prospectus is a document issued by a public limited company to",
+      "options": {
+        "A": "Register the company with the Corporate Affairs Commission",
+        "B": "Invite members of the public to subscribe for its shares or debentures",
+        "C": "Inform shareholders of proposed dividend payments",
+        "D": "Notify creditors of the company's financial position"
+      },
+      "correct_answer": "B",
+      "explanation": "A prospectus is issued when a public company offers shares or debentures to the public for the first time. It contains details about the company, its finances, and the terms of the offer."
+    },
+    {
+      "id": 90,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A certificate of incorporation is significant because",
+      "options": {
+        "A": "It gives a company permission to open a bank account",
+        "B": "It legally brings the company into existence as a separate legal entity",
+        "C": "It authorises a company to issue shares to the public",
+        "D": "It grants tax exemption to a newly formed company"
+      },
+      "correct_answer": "B",
+      "explanation": "A certificate of incorporation marks the legal birth of the company as a separate legal entity, distinct from its owners."
+    },
+    {
+      "id": 91,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "Authorised share capital refers to",
+      "options": {
+        "A": "The total shares actually issued and sold to shareholders",
+        "B": "The maximum share capital a company is allowed to issue as stated in its memorandum",
+        "C": "The shares retained by the founders of a company",
+        "D": "The capital contributed by preference shareholders only"
+      },
+      "correct_answer": "B",
+      "explanation": "Authorised (nominal) share capital is the maximum amount of share capital permitted to be issued, as stated in the memorandum of association. It may differ from issued capital."
+    },
+    {
+      "id": 92,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "Ordinary shares are also known as",
+      "options": {
+        "A": "Preference shares",
+        "B": "Debentures",
+        "C": "Equity shares",
+        "D": "Bearer shares"
+      },
+      "correct_answer": "C",
+      "explanation": "Ordinary shares are also called equity shares. Ordinary shareholders are the residual owners, sharing in profits after all other claims but bearing the highest risk."
+    },
+    {
+      "id": 93,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "Dividends paid to shareholders come from",
+      "options": {
+        "A": "The company's bank loans",
+        "B": "The company's profits after tax",
+        "C": "The company's share capital",
+        "D": "Government subsidies to the company"
+      },
+      "correct_answer": "B",
+      "explanation": "Dividends are distributions of a company's after-tax profits to shareholders, recommended by the board and approved at the Annual General Meeting (AGM)."
+    },
+    {
+      "id": 94,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A holding (parent) company is one that",
+      "options": {
+        "A": "Provides warehousing facilities for other companies",
+        "B": "Owns sufficient shares in one or more other companies to control them",
+        "C": "Holds all shares in trust for the shareholders",
+        "D": "Manages the day-to-day operations of a group of companies"
+      },
+      "correct_answer": "B",
+      "explanation": "A holding company acquires a controlling interest (usually more than 50% of shares) in other companies (subsidiaries), allowing it to control their management."
+    },
+    {
+      "id": 95,
+      "topic": "Business Units",
+      "difficulty": "medium",
+      "question": "Horizontal integration occurs when",
+      "options": {
+        "A": "A company takes over a supplier of its raw materials",
+        "B": "A company merges with another at the same stage of production in the same industry",
+        "C": "A company diversifies into an entirely different industry",
+        "D": "A small company sells shares to the public for the first time"
+      },
+      "correct_answer": "B",
+      "explanation": "Horizontal integration is the merger or takeover of firms at the same stage of production in the same industry — it reduces competition and achieves economies of scale."
+    },
+    {
+      "id": 96,
+      "topic": "Business Units",
+      "difficulty": "medium",
+      "question": "Vertical integration occurs when",
+      "options": {
+        "A": "A company merges with another at the same stage of production",
+        "B": "A company expands by acquiring businesses at different stages of its production or distribution chain",
+        "C": "A company diversifies into unrelated industries",
+        "D": "Two competing companies agree to set the same prices"
+      },
+      "correct_answer": "B",
+      "explanation": "Vertical integration involves acquiring firms at different stages of the production/distribution process, helping reduce costs and secure supply or distribution channels."
+    },
+    {
+      "id": 97,
+      "topic": "Cooperative Societies",
+      "difficulty": "medium",
+      "question": "The Rochdale Principles are associated with the cooperative movement because",
+      "options": {
+        "A": "They outline key principles established by the Rochdale Pioneers in 1844",
+        "B": "They were the first laws governing cooperatives enacted in Rochdale",
+        "C": "They describe how cooperative banks should operate",
+        "D": "They set the taxation rules for cooperatives worldwide"
+      },
+      "correct_answer": "A",
+      "explanation": "The Rochdale Pioneers (1844) established the first successful consumer cooperative. Their principles — open membership, democratic control (one member, one vote), surplus distribution — became the foundation of the global cooperative movement."
+    },
+    {
+      "id": 98,
+      "topic": "Cooperative Societies",
+      "difficulty": "medium",
+      "question": "Which of the following is a feature of a cooperative society?",
+      "options": {
+        "A": "Profit is the primary motive",
+        "B": "Members have one vote regardless of the number of shares held",
+        "C": "Only wealthy individuals can become members",
+        "D": "Shares can be freely transferred to non-members"
+      },
+      "correct_answer": "B",
+      "explanation": "Democratic control — one member, one vote — is a key cooperative principle, regardless of the number of shares held. This distinguishes cooperatives from companies."
+    },
+    {
+      "id": 99,
+      "topic": "Public Enterprises",
+      "difficulty": "medium",
+      "question": "A public corporation is an enterprise that is",
+      "options": {
+        "A": "Owned by private shareholders and listed on the stock exchange",
+        "B": "Owned and operated by the government to provide essential services",
+        "C": "A partnership between the government and private investors",
+        "D": "A cooperative society sponsored by the government"
+      },
+      "correct_answer": "B",
+      "explanation": "A public corporation (statutory corporation) is wholly owned and controlled by the government, set up by an Act of Parliament to provide essential services such as electricity and water."
+    },
+    {
+      "id": 100,
+      "topic": "Public Enterprises",
+      "difficulty": "medium",
+      "question": "Privatisation refers to the process of",
+      "options": {
+        "A": "Transferring ownership of government enterprises to private individuals or companies",
+        "B": "Government taking over private businesses to provide essential services",
+        "C": "Converting a private company into a cooperative society",
+        "D": "Restricting foreign companies from operating in a country"
+      },
+      "correct_answer": "A",
+      "explanation": "Privatisation transfers ownership and/or control of state-owned enterprises to the private sector, aiming to improve efficiency, reduce government expenditure, and attract private investment."
+    },
+    {
+      "id": 101,
+      "topic": "Money",
+      "difficulty": "medium",
+      "question": "Which of the following is a primary function of money?",
+      "options": {
+        "A": "Standard of deferred payment",
+        "B": "Medium of exchange",
+        "C": "Store of value",
+        "D": "Unit of account"
+      },
+      "correct_answer": "B",
+      "explanation": "The most essential primary function of money is as a medium of exchange — eliminating the need for barter by acting as a universally accepted means of payment."
+    },
+    {
+      "id": 102,
+      "topic": "Money",
+      "difficulty": "medium",
+      "question": "The problem of double coincidence of wants is associated with",
+      "options": {
+        "A": "A monetary economy",
+        "B": "A barter economy",
+        "C": "A credit economy",
+        "D": "An e-commerce economy"
+      },
+      "correct_answer": "B",
+      "explanation": "In a barter economy, trade requires each party to want exactly what the other has. Money eliminates this problem by acting as a universally accepted medium of exchange."
+    },
+    {
+      "id": 103,
+      "topic": "Money",
+      "difficulty": "medium",
+      "question": "Token money refers to",
+      "options": {
+        "A": "Money whose face value equals its intrinsic value",
+        "B": "Money whose face value exceeds the value of the material from which it is made",
+        "C": "Foreign currency used in international trade",
+        "D": "Electronic money used only for online transactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Token money (e.g., coins) has a face value exceeding its intrinsic (material) worth. A coin is worth more as currency than the metal it is made of."
+    },
+    {
+      "id": 104,
+      "topic": "Money",
+      "difficulty": "medium",
+      "question": "Inflation is defined as",
+      "options": {
+        "A": "A decrease in the general price level over time",
+        "B": "A sustained increase in the general price level over a period of time",
+        "C": "An increase in a country's money supply by the central bank",
+        "D": "A decrease in the purchasing power of foreign currency"
+      },
+      "correct_answer": "B",
+      "explanation": "Inflation is a sustained and general rise in the price level over time, reducing the purchasing power of money. It is measured by price indices such as the Consumer Price Index (CPI)."
+    },
+    {
+      "id": 105,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "Trade discount is",
+      "options": {
+        "A": "A reduction given to a buyer who pays cash immediately",
+        "B": "A reduction in the list price given by a seller, usually to a bulk purchaser or fellow trader",
+        "C": "Interest charged on goods sold on credit",
+        "D": "A bonus given to loyal customers at year end"
+      },
+      "correct_answer": "B",
+      "explanation": "Trade discount is a reduction from the published (list) price given to buyers in the same trade or for bulk purchases, deducted before the invoice is prepared."
+    },
+    {
+      "id": 106,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "Cash discount is offered to encourage",
+      "options": {
+        "A": "Buyers to purchase in large quantities",
+        "B": "Buyers to pay their debts promptly within a stipulated period",
+        "C": "Retailers to stock more of a product",
+        "D": "Customers to visit the store during off-peak periods"
+      },
+      "correct_answer": "B",
+      "explanation": "Cash discount is a reduction given as an incentive for prompt payment — e.g., '2/10 net 30' means a 2% discount if paid within 10 days."
+    },
+    {
+      "id": 107,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "The term 'COD' in a business transaction means",
+      "options": {
+        "A": "Credit on Delivery",
+        "B": "Cash on Delivery",
+        "C": "Cheque on Demand",
+        "D": "Collect on Despatch"
+      },
+      "correct_answer": "B",
+      "explanation": "COD stands for Cash on Delivery — payment is made by the buyer when goods are delivered, eliminating credit risk for the seller."
+    },
+    {
+      "id": 108,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "Under hire purchase, ownership of goods",
+      "options": {
+        "A": "Passes to the buyer immediately on taking possession",
+        "B": "Remains with the seller until the final instalment is paid",
+        "C": "Passes to the buyer after the first payment",
+        "D": "Is shared equally between buyer and seller"
+      },
+      "correct_answer": "B",
+      "explanation": "Under hire purchase, the buyer takes possession immediately but ownership only transfers when the final payment is made."
+    },
+    {
+      "id": 109,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "A mortgage is a loan that is",
+      "options": {
+        "A": "Secured against property (real estate)",
+        "B": "Given by the central bank to commercial banks",
+        "C": "A short-term overdraft facility for businesses",
+        "D": "A loan given to the government by international donors"
+      },
+      "correct_answer": "A",
+      "explanation": "A mortgage is a long-term loan secured by property. If the borrower defaults, the lender has the right to sell the property to recover the loan."
+    },
+    {
+      "id": 110,
+      "topic": "Foreign Trade Documents",
+      "difficulty": "medium",
+      "question": "An import licence is a document that",
+      "options": {
+        "A": "Certifies the quality of imported goods",
+        "B": "Grants official permission to import specified goods into a country",
+        "C": "Shows the customs duty paid on imported goods",
+        "D": "Insures goods during transit"
+      },
+      "correct_answer": "B",
+      "explanation": "An import licence is an official government document authorising the import of specified goods. It is a trade restriction tool used to control the volume, type, or source of imports."
+    },
+    {
+      "id": 111,
+      "topic": "Foreign Trade Documents",
+      "difficulty": "medium",
+      "question": "A certificate of origin is issued to",
+      "options": {
+        "A": "Show the insurance value of exported goods",
+        "B": "Certify the country in which the exported goods were produced or manufactured",
+        "C": "Show the route goods will take to reach the destination",
+        "D": "Confirm that customs duties have been paid"
+      },
+      "correct_answer": "B",
+      "explanation": "A certificate of origin certifies the country where goods were manufactured, used by customs authorities to determine applicable tariff rates."
+    },
+    {
+      "id": 112,
+      "topic": "Foreign Trade Documents",
+      "difficulty": "medium",
+      "question": "FOB (Free On Board) in international trade means",
+      "options": {
+        "A": "The seller bears all costs and risks until goods are delivered to the buyer's door",
+        "B": "The seller's responsibility ends once goods are loaded onto the ship",
+        "C": "The buyer pays for freight from the seller's warehouse to the port",
+        "D": "All costs are shared equally between buyer and seller"
+      },
+      "correct_answer": "B",
+      "explanation": "Under FOB terms, the seller delivers goods to the named port and loads them. Once loaded, risk and costs transfer to the buyer who arranges freight and insurance."
+    },
+    {
+      "id": 113,
+      "topic": "Foreign Trade Documents",
+      "difficulty": "medium",
+      "question": "CIF (Cost, Insurance, and Freight) means the seller",
+      "options": {
+        "A": "Only pays the cost of production",
+        "B": "Pays for the cost of goods, insurance, and freight to the named destination port",
+        "C": "Pays only for freight to the port of shipment",
+        "D": "Bears all costs until goods are delivered to the buyer's premises"
+      },
+      "correct_answer": "B",
+      "explanation": "Under CIF terms, the seller pays for the cost of goods, marine insurance, and freight to the buyer's named destination port."
+    },
+    {
+      "id": 114,
+      "topic": "Foreign Trade Documents",
+      "difficulty": "medium",
+      "question": "A consular invoice is used in international trade to",
+      "options": {
+        "A": "Record goods stored in a warehouse",
+        "B": "Certify goods for customs purposes in the importing country",
+        "C": "Insure goods during shipment",
+        "D": "Request payment from the buyer's bank"
+      },
+      "correct_answer": "B",
+      "explanation": "A consular invoice is certified by the consul of the importing country and used by customs authorities to verify origin, quantity, and value of goods for customs assessment."
+    },
+    {
+      "id": 115,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "In commerce, a market refers to",
+      "options": {
+        "A": "Only a physical place where buyers and sellers meet",
+        "B": "Any arrangement by which buyers and sellers are brought into contact to exchange goods and services",
+        "C": "A government-controlled distribution centre",
+        "D": "A place where only agricultural produce is sold"
+      },
+      "correct_answer": "B",
+      "explanation": "A market in commerce is not necessarily a physical place — it is any arrangement (including telephone or internet) where buyers and sellers interact to exchange goods or services."
+    },
+    {
+      "id": 116,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "A commodity exchange is a market where",
+      "options": {
+        "A": "Finished consumer goods are sold directly to consumers",
+        "B": "Standardised raw materials and primary products are bought and sold in large quantities",
+        "C": "Shares of companies are listed and traded",
+        "D": "Foreign currencies are exchanged"
+      },
+      "correct_answer": "B",
+      "explanation": "A commodity exchange is an organised market for trading standardised raw materials or primary commodities (oil, cocoa, coffee, gold) often through futures contracts."
+    },
+    {
+      "id": 117,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "The stock exchange performs which of the following functions?",
+      "options": {
+        "A": "It provides a market for buying and selling company shares and government bonds",
+        "B": "It controls the prices of goods in the economy",
+        "C": "It provides loans to businesses and individuals",
+        "D": "It manufactures and distributes national currency"
+      },
+      "correct_answer": "A",
+      "explanation": "The stock exchange is an organised market for the buying and selling of previously issued securities — company shares, government bonds, and debentures."
+    },
+    {
+      "id": 118,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "The money market deals primarily in",
+      "options": {
+        "A": "Long-term financial instruments such as shares and debentures",
+        "B": "Short-term financial instruments such as Treasury bills and commercial paper",
+        "C": "Foreign currency exchanges between countries",
+        "D": "Physical commodities such as gold and crude oil"
+      },
+      "correct_answer": "B",
+      "explanation": "The money market is a market for short-term financial instruments with maturities of one year or less."
+    },
+    {
+      "id": 119,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "The capital market deals in",
+      "options": {
+        "A": "Short-term credit instruments maturing in less than one year",
+        "B": "Long-term financial instruments such as shares and bonds",
+        "C": "Foreign exchange transactions",
+        "D": "Physical commodities at the commodity exchange"
+      },
+      "correct_answer": "B",
+      "explanation": "The capital market is a market for long-term financial instruments — shares (equities) and bonds/debentures — used to raise long-term capital."
+    },
+    {
+      "id": 120,
+      "topic": "Stock Exchange",
+      "difficulty": "medium",
+      "question": "A stockbroker's primary role in the stock exchange is to",
+      "options": {
+        "A": "Issue new shares on behalf of companies",
+        "B": "Buy and sell securities on behalf of clients for a commission",
+        "C": "Regulate the activities of the stock exchange",
+        "D": "Set the prices at which shares are bought and sold"
+      },
+      "correct_answer": "B",
+      "explanation": "A stockbroker is a licensed professional who executes buy and sell orders for securities on behalf of investors, earning a commission on each transaction."
+    },
+    {
+      "id": 121,
+      "topic": "Stock Exchange",
+      "difficulty": "medium",
+      "question": "A bull in the stock market is an investor who",
+      "options": {
+        "A": "Sells shares expecting prices to fall so they can buy back cheaper",
+        "B": "Buys shares expecting prices to rise so they can be sold at a profit",
+        "C": "Holds shares indefinitely without selling",
+        "D": "Buys shares in all companies regardless of performance"
+      },
+      "correct_answer": "B",
+      "explanation": "A bull is an optimistic investor who buys securities expecting their prices to rise. A bear does the opposite — selling in expectation of falling prices."
+    },
+    {
+      "id": 122,
+      "topic": "Balance of Payments",
+      "difficulty": "medium",
+      "question": "The balance of payments of a country records",
+      "options": {
+        "A": "All revenues and expenditures of the government during a year",
+        "B": "All financial transactions between the country and the rest of the world over a period",
+        "C": "The total value of goods produced in the country in a year",
+        "D": "The assets and liabilities of the central bank"
+      },
+      "correct_answer": "B",
+      "explanation": "The balance of payments (BOP) is a systematic record of all economic transactions between a country's residents and the rest of the world over a given period."
+    },
+    {
+      "id": 123,
+      "topic": "Balance of Payments",
+      "difficulty": "medium",
+      "question": "Which of the following would be recorded in the current account of a country's balance of payments?",
+      "options": {
+        "A": "Foreign direct investment flows",
+        "B": "Purchases of government bonds by foreign investors",
+        "C": "Export and import of goods and services",
+        "D": "Loans from the International Monetary Fund"
+      },
+      "correct_answer": "C",
+      "explanation": "The current account records trade in goods (visible trade), trade in services (invisible trade), income (wages, dividends), and current transfers (remittances)."
+    },
+    {
+      "id": 124,
+      "topic": "Consumer Protection",
+      "difficulty": "medium",
+      "question": "The Consumer Protection Council (CPC) in Nigeria was established to",
+      "options": {
+        "A": "Regulate imports and exports",
+        "B": "Protect consumers from unfair trade practices, substandard goods, and false advertising",
+        "C": "Set prices for essential goods in the market",
+        "D": "Collect taxes on behalf of the government"
+      },
+      "correct_answer": "B",
+      "explanation": "The CPC safeguards consumers against unsafe products, deceptive practices, and exploitation, ensuring consumer rights are upheld."
+    },
+    {
+      "id": 125,
+      "topic": "Consumer Protection",
+      "difficulty": "medium",
+      "question": "The phrase 'caveat emptor' means",
+      "options": {
+        "A": "Let the seller beware",
+        "B": "Let the buyer beware",
+        "C": "The buyer is always right",
+        "D": "Both buyer and seller share responsibility"
+      },
+      "correct_answer": "B",
+      "explanation": "'Caveat emptor' (Latin) means 'let the buyer beware.' It placed responsibility on buyers to check quality before purchase. Consumer protection laws have largely replaced this doctrine."
+    },
+    {
+      "id": 126,
+      "topic": "Consumer Protection",
+      "difficulty": "medium",
+      "question": "NAFDAC in Nigeria is primarily responsible for",
+      "options": {
+        "A": "Controlling the prices of pharmaceuticals",
+        "B": "Regulating and controlling the manufacture, importation, and sale of food, drugs, and cosmetics",
+        "C": "Setting standards for industrial goods and electronics",
+        "D": "Protecting companies from patent infringement"
+      },
+      "correct_answer": "B",
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates the manufacture, importation, distribution, and sale of food, drugs, cosmetics, and medical devices."
+    },
+    {
+      "id": 127,
+      "topic": "Production",
+      "difficulty": "medium",
+      "question": "Tertiary production refers to",
+      "options": {
+        "A": "The extraction of natural resources from the earth",
+        "B": "The transformation of raw materials into finished products",
+        "C": "The provision of services that support and distribute goods",
+        "D": "The cultivation of agricultural products"
+      },
+      "correct_answer": "C",
+      "explanation": "Tertiary production (the service sector) includes commerce (trade, banking, insurance, transport, communication) and direct services (education, healthcare, entertainment)."
+    },
+    {
+      "id": 128,
+      "topic": "Production",
+      "difficulty": "medium",
+      "question": "Division of labour refers to",
+      "options": {
+        "A": "Allocating land resources between agricultural and industrial uses",
+        "B": "Breaking down the production process into specialised tasks with each worker performing one task",
+        "C": "Dividing a country's workforce between public and private sectors",
+        "D": "Classifying workers into skilled and unskilled categories"
+      },
+      "correct_answer": "B",
+      "explanation": "Division of labour involves splitting the production process into specialised tasks, with each worker concentrating on one task, increasing productivity, skill, and efficiency."
+    },
+    {
+      "id": 129,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Working capital is defined as",
+      "options": {
+        "A": "The total assets of a business",
+        "B": "Current assets minus current liabilities",
+        "C": "Fixed assets minus long-term liabilities",
+        "D": "Total revenue minus total costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Working capital = Current Assets – Current Liabilities. It measures a business's short-term liquidity and ability to meet day-to-day obligations."
+    },
+    {
+      "id": 130,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "A fixed asset is best described as",
+      "options": {
+        "A": "Cash and bank balances held by a business",
+        "B": "An asset purchased for long-term use in the business, not for resale",
+        "C": "Stock of goods available for sale",
+        "D": "Money owed to the business by debtors"
+      },
+      "correct_answer": "B",
+      "explanation": "Fixed assets (non-current assets) are long-term assets used in operating the business — not intended for sale — such as land, buildings, machinery, and vehicles."
+    },
+    {
+      "id": 131,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Depreciation of a fixed asset refers to",
+      "options": {
+        "A": "The physical deterioration of the asset only",
+        "B": "The reduction in value of a fixed asset due to wear, tear, obsolescence, or passage of time",
+        "C": "The increase in the value of an asset due to inflation",
+        "D": "The cost of repairing and maintaining a fixed asset"
+      },
+      "correct_answer": "B",
+      "explanation": "Depreciation is the systematic allocation of the cost of a fixed asset over its useful life, reflecting reduction in value due to wear, usage, and obsolescence."
+    },
+    {
+      "id": 132,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "The break-even point in business is the level of output at which",
+      "options": {
+        "A": "Profit is at its maximum",
+        "B": "Total revenue equals total cost — neither profit nor loss is made",
+        "C": "Variable costs equal fixed costs",
+        "D": "The business starts to make a loss"
+      },
+      "correct_answer": "B",
+      "explanation": "The break-even point is where total revenue equals total costs. Below this point the business makes a loss; above it, a profit."
+    },
+    {
+      "id": 133,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Fixed costs in a business are",
+      "options": {
+        "A": "Costs that vary directly with the level of output",
+        "B": "Costs that remain constant regardless of the level of production",
+        "C": "Costs incurred only when a new product is launched",
+        "D": "Costs that can be easily changed in the short run"
+      },
+      "correct_answer": "B",
+      "explanation": "Fixed costs remain constant regardless of output level — examples include rent, insurance, salaries of permanent staff, and depreciation."
+    },
+    {
+      "id": 134,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Variable costs in a business are",
+      "options": {
+        "A": "Costs that remain the same regardless of production level",
+        "B": "Costs that change in direct proportion to the level of output",
+        "C": "One-off costs incurred at the start of a business",
+        "D": "Costs that are only incurred when the business makes a profit"
+      },
+      "correct_answer": "B",
+      "explanation": "Variable costs change in direct proportion to production — examples include raw materials, direct labour, and packaging."
+    },
+    {
+      "id": 135,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "If a trader buys goods for ₦8,000 and sells them for ₦10,000, the percentage profit on cost is",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "80%",
+        "D": "125%"
+      },
+      "correct_answer": "B",
+      "explanation": "Profit = ₦10,000 – ₦8,000 = ₦2,000. % profit on cost = (2,000 ÷ 8,000) × 100 = 25%."
+    },
+    {
+      "id": 136,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A trader bought goods for ₦5,000 and sold them for ₦4,500. The percentage loss on cost is",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "90%",
+        "D": "11.1%"
+      },
+      "correct_answer": "B",
+      "explanation": "Loss = ₦5,000 – ₦4,500 = ₦500. % loss on cost = (500 ÷ 5,000) × 100 = 10%."
+    },
+    {
+      "id": 137,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "Simple interest on ₦20,000 at 5% per annum for 3 years is",
+      "options": {
+        "A": "₦1,000",
+        "B": "₦3,000",
+        "C": "₦2,000",
+        "D": "₦5,000"
+      },
+      "correct_answer": "B",
+      "explanation": "SI = (Principal × Rate × Time) ÷ 100 = (20,000 × 5 × 3) ÷ 100 = ₦3,000."
+    },
+    {
+      "id": 138,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A 20% trade discount on goods listed at ₦15,000 gives a discount of",
+      "options": {
+        "A": "₦1,500",
+        "B": "₦2,000",
+        "C": "₦3,000",
+        "D": "₦4,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Trade discount = 20% × ₦15,000 = ₦3,000. The buyer pays ₦15,000 – ₦3,000 = ₦12,000."
+    },
+    {
+      "id": 139,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "If goods are bought for ₦12,000 and sold at a mark-up of 25%, the selling price is",
+      "options": {
+        "A": "₦14,000",
+        "B": "₦15,000",
+        "C": "₦16,000",
+        "D": "₦9,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Mark-up = 25% × ₦12,000 = ₦3,000. Selling Price = ₦12,000 + ₦3,000 = ₦15,000."
+    },
+    {
+      "id": 140,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A trader sells goods for ₦18,000, making a profit of 20% on the selling price. The cost price is",
+      "options": {
+        "A": "₦14,400",
+        "B": "₦15,000",
+        "C": "₦21,600",
+        "D": "₦22,500"
+      },
+      "correct_answer": "A",
+      "explanation": "Profit = 20% of ₦18,000 = ₦3,600. Cost Price = ₦18,000 – ₦3,600 = ₦14,400."
+    },
+    {
+      "id": 141,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A company's total assets are ₦500,000 and total liabilities are ₦300,000. The owner's equity is",
+      "options": {
+        "A": "₦800,000",
+        "B": "₦200,000",
+        "C": "₦300,000",
+        "D": "₦500,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Owner's Equity = Total Assets – Total Liabilities = ₦500,000 – ₦300,000 = ₦200,000 (accounting equation)."
+    },
+    {
+      "id": 142,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Which of the following organisations was established to promote free trade among nations?",
+      "options": {
+        "A": "International Monetary Fund (IMF)",
+        "B": "World Trade Organisation (WTO)",
+        "C": "World Bank",
+        "D": "UNCTAD"
+      },
+      "correct_answer": "B",
+      "explanation": "The WTO (established 1995) promotes and regulates international trade by negotiating agreements, resolving disputes, and reducing trade barriers."
+    },
+    {
+      "id": 143,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "ECOWAS stands for",
+      "options": {
+        "A": "Economic Community of West African States",
+        "B": "East and Central Organisation of West African Suppliers",
+        "C": "Economic and Commercial Organisation for West African States",
+        "D": "European Community of West African States"
+      },
+      "correct_answer": "A",
+      "explanation": "ECOWAS (Economic Community of West African States) is a regional organisation of 15 West African countries established in 1975 to promote economic integration and free trade."
+    },
+    {
+      "id": 144,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "The African Continental Free Trade Area (AfCFTA) was established to",
+      "options": {
+        "A": "Create a single currency for all African countries",
+        "B": "Create a single African market for goods and services and promote intra-African trade",
+        "C": "Regulate foreign direct investment in Africa",
+        "D": "Provide financial aid to African countries"
+      },
+      "correct_answer": "B",
+      "explanation": "The AfCFTA (operational 2021) aims to create a continent-wide free trade area by reducing tariffs and barriers among African countries."
+    },
+    {
+      "id": 145,
+      "topic": "Communication",
+      "difficulty": "medium",
+      "question": "Which of the following BEST describes e-commerce?",
+      "options": {
+        "A": "Commerce conducted only by government-owned enterprises",
+        "B": "The buying and selling of goods and services over the internet",
+        "C": "Electronic control of factory production",
+        "D": "The use of computers for accounting purposes only"
+      },
+      "correct_answer": "B",
+      "explanation": "E-commerce refers to commercial transactions — buying, selling, and transferring goods, services, or information — conducted electronically over the internet."
+    },
+    {
+      "id": 146,
+      "topic": "Communication",
+      "difficulty": "medium",
+      "question": "Which of the following is a formal channel of communication in an organisation?",
+      "options": {
+        "A": "Gossip through colleagues",
+        "B": "An official memo from management to staff",
+        "C": "A conversation at the staff canteen",
+        "D": "Text messages between co-workers"
+      },
+      "correct_answer": "B",
+      "explanation": "Formal communication follows the official organisational hierarchy — examples include memos, official letters, reports, and board minutes."
+    },
+    {
+      "id": 147,
+      "topic": "Employment and Labour",
+      "difficulty": "medium",
+      "question": "A trade union is an organisation formed by",
+      "options": {
+        "A": "Business owners to protect their trading interests",
+        "B": "Workers in the same or similar industries to protect and promote their employment interests",
+        "C": "The government to regulate wages in the economy",
+        "D": "Employers to agree on minimum wage rates"
+      },
+      "correct_answer": "B",
+      "explanation": "A trade union is a collective organisation of workers formed to negotiate better wages, working conditions, job security, and other employment benefits."
+    },
+    {
+      "id": 148,
+      "topic": "Employment and Labour",
+      "difficulty": "medium",
+      "question": "The minimum wage is the",
+      "options": {
+        "A": "Highest wage that employers are permitted to pay workers",
+        "B": "Lowest wage that employers are legally required to pay their workers",
+        "C": "Average wage paid in an industry as set by the trade union",
+        "D": "Wage paid to government workers by the treasury"
+      },
+      "correct_answer": "B",
+      "explanation": "The minimum wage is the lowest legal wage rate employers are permitted to pay, set by law to ensure workers can meet basic living standards."
+    },
+    {
+      "id": 149,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "In a monopoly market, there is",
+      "options": {
+        "A": "Many sellers producing identical goods",
+        "B": "A single seller dominating the entire market supply",
+        "C": "A few large sellers controlling the market",
+        "D": "Many sellers producing slightly differentiated products"
+      },
+      "correct_answer": "B",
+      "explanation": "A monopoly exists when there is only one seller in the market, giving significant control over price and supply."
+    },
+    {
+      "id": 150,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "An oligopoly is a market structure characterised by",
+      "options": {
+        "A": "One dominant seller",
+        "B": "Many sellers selling identical products",
+        "C": "A few large firms dominating the market",
+        "D": "Many firms selling differentiated products"
+      },
+      "correct_answer": "C",
+      "explanation": "An oligopoly has a small number of large firms dominating the market (e.g., telecommunications or airline industry). Firms are interdependent."
+    },
+    {
+      "id": 151,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "Perfect competition is characterised by",
+      "options": {
+        "A": "One seller and many buyers",
+        "B": "A few firms with significant market power",
+        "C": "Many buyers and sellers trading identical products with free entry and exit",
+        "D": "Differentiated products and heavy advertising"
+      },
+      "correct_answer": "C",
+      "explanation": "Under perfect competition: many buyers and sellers, homogeneous products, free entry and exit, perfect information, and no single firm can influence price."
+    },
+    {
+      "id": 152,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Ploughing back profits (retained earnings) as a source of finance means",
+      "options": {
+        "A": "Borrowing profits from the central bank",
+        "B": "Reinvesting the company's undistributed profits back into the business",
+        "C": "Transferring profits into a government savings account",
+        "D": "Distributing extra profits to shareholders as dividends"
+      },
+      "correct_answer": "B",
+      "explanation": "Retained earnings involve using undistributed profits to finance business growth. It is a cheap, internal source of finance with no issue costs."
+    },
+    {
+      "id": 153,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Trade credit is a form of finance that arises when",
+      "options": {
+        "A": "A business borrows money from a commercial bank",
+        "B": "A supplier allows a buyer to receive goods now and pay at a later agreed date",
+        "C": "A company issues bonds to the public to raise money",
+        "D": "An entrepreneur uses personal savings to fund a business"
+      },
+      "correct_answer": "B",
+      "explanation": "Trade credit arises when a supplier delivers goods but allows payment at a later date (e.g., 30 or 60 days). It is a short-term finance form not involving bank borrowing."
+    },
+    {
+      "id": 154,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "An invoice discounting is a method of finance where",
+      "options": {
+        "A": "A company sells its outstanding invoices to a finance house at a discount to obtain immediate cash",
+        "B": "A supplier gives a discount on invoices paid promptly",
+        "C": "A bank lends money against fixed assets",
+        "D": "A company delays payment of invoices to manage cash flow"
+      },
+      "correct_answer": "A",
+      "explanation": "Invoice discounting (factoring) is a short-term finance method where a business sells its accounts receivable (invoices) to a financial institution at a discount, receiving immediate cash."
+    },
+    {
+      "id": 155,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "A superstore differs from a supermarket mainly in that",
+      "options": {
+        "A": "A superstore only sells food items",
+        "B": "A superstore is much larger and stocks a wider range of goods including non-food items",
+        "C": "A supermarket charges higher prices than a superstore",
+        "D": "A superstore is always located in rural areas"
+      },
+      "correct_answer": "B",
+      "explanation": "A superstore (hypermarket) is larger than a supermarket, offering a very wide range of products including food, clothing, electronics, and household goods."
+    },
+    {
+      "id": 156,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "Scrambled merchandising in retailing means",
+      "options": {
+        "A": "Selling goods at randomly changing prices",
+        "B": "Selling goods from different and unrelated product categories together in one retail outlet",
+        "C": "Mixing counterfeit goods with genuine products",
+        "D": "Rapidly changing the arrangement of goods on shelves"
+      },
+      "correct_answer": "B",
+      "explanation": "Scrambled merchandising occurs when a retailer stocks goods from various unrelated categories, helping increase customer traffic and revenue."
+    },
+    {
+      "id": 157,
+      "topic": "Cooperative Societies",
+      "difficulty": "medium",
+      "question": "A credit cooperative (thrift and credit society) is formed to",
+      "options": {
+        "A": "Market agricultural products on behalf of farmers",
+        "B": "Provide savings and credit facilities (loans) to members at affordable interest rates",
+        "C": "Purchase goods in bulk for resale to members",
+        "D": "Build houses for members at subsidised rates"
+      },
+      "correct_answer": "B",
+      "explanation": "A credit cooperative (SACCO) collects savings from members and provides affordable loans, often at lower rates than commercial banks."
+    },
+    {
+      "id": 158,
+      "topic": "Warehousing",
+      "difficulty": "medium",
+      "question": "A free warehouse (free zone) in international trade is one where",
+      "options": {
+        "A": "Goods are stored free of charge for the owner",
+        "B": "Goods can be stored and handled without payment of import duty while in storage",
+        "C": "The government provides warehouse services at no cost",
+        "D": "Perishable goods are stored in refrigerated conditions for free"
+      },
+      "correct_answer": "B",
+      "explanation": "A free zone warehouse allows goods to be stored, processed, or re-exported without payment of customs duties. Duty is only paid when goods enter the country for domestic consumption."
+    },
+    {
+      "id": 159,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "A charter party agreement is used in",
+      "options": {
+        "A": "Air transport — hiring an entire aircraft",
+        "B": "Sea transport — an agreement to hire an entire vessel or part of it",
+        "C": "Road transport — chartering a fleet of trucks",
+        "D": "Rail transport — hiring a special train"
+      },
+      "correct_answer": "B",
+      "explanation": "A charter party is a contract between the shipowner and the charterer for the hire of a whole vessel or part of it for a voyage or time period."
+    },
+    {
+      "id": 160,
+      "topic": "Transportation",
+      "difficulty": "medium",
+      "question": "Cabotage law in shipping refers to",
+      "options": {
+        "A": "The right of a country to control air traffic over its territory",
+        "B": "A regulation requiring that trade between domestic ports be carried only by ships registered in that country",
+        "C": "International rules governing the safety of passenger ships",
+        "D": "A treaty that regulates fishing in international waters"
+      },
+      "correct_answer": "B",
+      "explanation": "Cabotage laws restrict transport of goods between domestic ports to ships that are registered in and owned by nationals of the same country, protecting domestic shipping industries."
+    },
+    {
+      "id": 161,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A rights issue refers to",
+      "options": {
+        "A": "New shares offered to the general public at a discount",
+        "B": "New shares offered to existing shareholders in proportion to their current holdings",
+        "C": "Shares given free to employees as a bonus",
+        "D": "Shares repurchased by the company from shareholders"
+      },
+      "correct_answer": "B",
+      "explanation": "A rights issue gives existing shareholders the right to buy new shares at a discounted price in proportion to their existing shareholding."
+    },
+    {
+      "id": 162,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "The winding up of a company means",
+      "options": {
+        "A": "Expanding the company's operations to new territories",
+        "B": "The process of closing down a company and distributing its assets to settle debts",
+        "C": "Transferring the company to new shareholders",
+        "D": "Converting a public company to a private company"
+      },
+      "correct_answer": "B",
+      "explanation": "Winding up (liquidation) is the legal process of closing a company — selling assets, paying debts, and distributing remaining funds to shareholders."
+    },
+    {
+      "id": 163,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "An Annual General Meeting (AGM) is a meeting where",
+      "options": {
+        "A": "The board of directors meets to decide on company strategy",
+        "B": "Shareholders meet at least once a year to receive reports, approve accounts, declare dividends, and elect directors",
+        "C": "Employees meet to discuss working conditions",
+        "D": "Creditors meet to decide on debt repayment plans"
+      },
+      "correct_answer": "B",
+      "explanation": "At an AGM, directors present annual accounts, dividends are declared, directors may be elected or re-elected, and shareholders vote on major resolutions."
+    },
+    {
+      "id": 164,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Sponsorship as a form of promotion involves",
+      "options": {
+        "A": "Paying for commercial airtime on television",
+        "B": "A company funding events, sports teams, or individuals in exchange for brand visibility",
+        "C": "Giving free samples of goods to potential customers",
+        "D": "Paying retailers to prominently display a product"
+      },
+      "correct_answer": "B",
+      "explanation": "Sponsorship involves a company providing financial support for events, sports, arts, or charities in return for brand exposure and positive association."
+    },
+    {
+      "id": 165,
+      "topic": "Commerce — Overview",
+      "difficulty": "medium",
+      "question": "Which of the following BEST represents the scope of commerce?",
+      "options": {
+        "A": "Trade only",
+        "B": "Trade and all aids to trade",
+        "C": "Production, trade, and consumption",
+        "D": "Distribution of goods only"
+      },
+      "correct_answer": "B",
+      "explanation": "Commerce comprises trade (buying and selling) and aids to trade (banking, insurance, transportation, warehousing, advertising, communication). Production is industry, not commerce."
+    },
+    {
+      "id": 166,
+      "topic": "Production",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of secondary production?",
+      "options": {
+        "A": "Fishing",
+        "B": "Teaching",
+        "C": "Manufacturing cars from steel",
+        "D": "Transporting goods by truck"
+      },
+      "correct_answer": "C",
+      "explanation": "Secondary production involves transforming raw materials into finished goods through manufacturing. Fishing is primary; teaching and transport are tertiary."
+    },
+    {
+      "id": 167,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Venture capital is best described as",
+      "options": {
+        "A": "Government grants given to agricultural cooperatives",
+        "B": "Risky investment capital provided to start-up businesses with high growth potential",
+        "C": "Loans provided by commercial banks at very low interest rates",
+        "D": "Capital saved by individuals in fixed deposit accounts"
+      },
+      "correct_answer": "B",
+      "explanation": "Venture capital is risk investment provided to fund start-up or early-stage businesses with high growth potential. The investor typically takes an equity stake."
+    },
+    {
+      "id": 168,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Near money (quasi-money) refers to",
+      "options": {
+        "A": "Counterfeit currency produced illegally",
+        "B": "Highly liquid assets that can quickly and easily be converted to cash",
+        "C": "Foreign currency held by a central bank",
+        "D": "Money borrowed from the IMF"
+      },
+      "correct_answer": "B",
+      "explanation": "Near money includes highly liquid financial assets that can be quickly converted to cash without significant loss of value — e.g., Treasury bills, savings deposits."
+    },
+    {
+      "id": 169,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "A voluntary chain (voluntary group) in the distribution system is",
+      "options": {
+        "A": "A group of independent retailers who group together to purchase from the same wholesaler",
+        "B": "A group of manufacturers who combine to sell through one agent",
+        "C": "A group of wholesalers who merge to form one large company",
+        "D": "A government-sponsored supply chain for essential goods"
+      },
+      "correct_answer": "A",
+      "explanation": "A voluntary chain is an arrangement where independent retailers group together to purchase from a single wholesaler, gaining economies of scale while remaining independent."
+    },
+    {
+      "id": 170,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "A futures market is one in which",
+      "options": {
+        "A": "Goods are bought and paid for immediately for future delivery at today's agreed price",
+        "B": "Goods are sold only to consumers in the future",
+        "C": "Prices are set by government for future years",
+        "D": "Companies list their shares for the first time"
+      },
+      "correct_answer": "A",
+      "explanation": "In a futures market, contracts are made to buy or sell a commodity at an agreed price with delivery and payment at a specified future date, helping hedge against price fluctuations."
+    },
+    {
+      "id": 171,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A consignment note is a document used in",
+      "options": {
+        "A": "Sea transport — listing goods loaded onto a ship",
+        "B": "Road and rail transport — listing goods handed to a carrier for delivery",
+        "C": "Air transport — describing goods packed in a container",
+        "D": "International trade — certifying the value of exported goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A consignment note is a document used in road and rail transport, listing the goods handed to the carrier for delivery and serving as a contract of carriage."
+    },
+    {
+      "id": 172,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "The excess (deductible) in an insurance policy is",
+      "options": {
+        "A": "The total premium paid over the life of the policy",
+        "B": "The first portion of any claim that the insured must pay themselves",
+        "C": "An extra premium for high-risk activities",
+        "D": "The additional commission earned by the insurance agent"
+      },
+      "correct_answer": "B",
+      "explanation": "The excess (deductible) is the amount the insured agrees to pay towards any claim before the insurer pays. It reduces premiums and discourages small claims."
+    },
+    {
+      "id": 173,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "Electronic funds transfer (EFT) refers to",
+      "options": {
+        "A": "The transfer of physical cash between bank branches",
+        "B": "The movement of money from one bank account to another through electronic systems",
+        "C": "The printing of bank statements via electronic printers",
+        "D": "The electronic scanning of cheques for verification"
+      },
+      "correct_answer": "B",
+      "explanation": "EFT is the electronic movement of money between bank accounts — including internet banking, ATM withdrawals, POS payments, and wire transfers."
+    },
+    {
+      "id": 174,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "Issued share capital refers to",
+      "options": {
+        "A": "The maximum share capital allowed by the memorandum",
+        "B": "The portion of authorised share capital that has actually been issued and sold to shareholders",
+        "C": "Shares that have been paid for in full by shareholders",
+        "D": "Shares reserved for future issue to employees"
+      },
+      "correct_answer": "B",
+      "explanation": "Issued share capital is the portion of authorised share capital that has been issued (sold) to shareholders. It may be less than or equal to the authorised capital."
+    },
+    {
+      "id": 175,
+      "topic": "Channels of Distribution",
+      "difficulty": "medium",
+      "question": "A factor (mercantile agent) in trade is a middleman who",
+      "options": {
+        "A": "Buys goods in bulk and stores them in a warehouse",
+        "B": "Sells goods on behalf of the principal and takes custody of the goods",
+        "C": "Only arranges deals without handling the goods",
+        "D": "Transports goods from the manufacturer to the retailer"
+      },
+      "correct_answer": "B",
+      "explanation": "A factor (mercantile agent) takes physical possession of goods and sells them on behalf of the principal. Unlike a broker, the factor holds and handles the goods."
+    },
+    {
+      "id": 176,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "Marine insurance covers",
+      "options": {
+        "A": "Only ships and vessels on the sea",
+        "B": "Goods transported by sea, the ship, and liabilities arising from sea voyages",
+        "C": "Goods transported by any mode of transport",
+        "D": "Only the cargo, not the ship itself"
+      },
+      "correct_answer": "B",
+      "explanation": "Marine insurance covers losses related to sea voyages including the hull (ship), cargo (goods in transit), and freight (carrier's revenue), as well as liabilities."
+    },
+    {
+      "id": 177,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "A pro-rata (quantity) discount is given when",
+      "options": {
+        "A": "A buyer purchases goods above a certain minimum quantity",
+        "B": "Payment is made before the due date",
+        "C": "Goods purchased are proportionally below the full order quantity",
+        "D": "A customer returns defective goods to the seller"
+      },
+      "correct_answer": "A",
+      "explanation": "A quantity discount is given to buyers who purchase goods in larger quantities, incentivising bulk buying."
+    },
+    {
+      "id": 178,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "Value Added Tax (VAT) in Nigeria is currently levied at",
+      "options": {
+        "A": "5%",
+        "B": "7.5%",
+        "C": "10%",
+        "D": "15%"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's VAT rate was increased from 5% to 7.5% in February 2020 by the Finance Act 2019. VAT is charged on the supply of most goods and services."
+    },
+    {
+      "id": 179,
+      "topic": "Production",
+      "difficulty": "medium",
+      "question": "Specialisation in production leads to",
+      "options": {
+        "A": "Increased boredom and absenteeism only",
+        "B": "Increased productivity, efficiency, and development of expertise",
+        "C": "Reduced need for machinery and technology",
+        "D": "Greater flexibility in production"
+      },
+      "correct_answer": "B",
+      "explanation": "Specialisation allows workers and businesses to focus on what they do best, leading to increased efficiency, skill development, time savings, and economies of scale."
+    },
+    {
+      "id": 180,
+      "topic": "Public Enterprises",
+      "difficulty": "medium",
+      "question": "A parastatal organisation in Nigeria is",
+      "options": {
+        "A": "A privately owned company operating under government regulation",
+        "B": "A government-owned corporation established by statute to perform specific commercial or public service functions",
+        "C": "An international organisation operating in Nigeria",
+        "D": "A cooperative society sponsored by the government"
+      },
+      "correct_answer": "B",
+      "explanation": "A parastatal (statutory corporation) is a government-owned enterprise established by an Act of Parliament to carry out specific public or commercial functions."
+    },
+    {
+      "id": 181,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A shipping or freight agent is employed to",
+      "options": {
+        "A": "Manufacture goods for export on behalf of the exporter",
+        "B": "Arrange shipment of goods and handle all shipping documentation on behalf of the exporter",
+        "C": "Set customs duties on imported goods",
+        "D": "Provide insurance for goods during transit"
+      },
+      "correct_answer": "B",
+      "explanation": "A freight (shipping) agent (freight forwarder) arranges transportation, prepares shipping documents, books cargo space, and handles customs clearance on behalf of exporters or importers."
+    },
+    {
+      "id": 182,
+      "topic": "Retail Trade",
+      "difficulty": "medium",
+      "question": "A market overt is",
+      "options": {
+        "A": "An online marketplace open to all buyers and sellers",
+        "B": "An open, publicly recognised market where goods can be bought and sold with legal protections for good-faith buyers",
+        "C": "A black market where goods are sold illegally",
+        "D": "A wholesale market restricted to registered traders"
+      },
+      "correct_answer": "B",
+      "explanation": "A market overt is an open and public market. Under common law, a buyer who purchases goods in good faith in a market overt acquires good title even if the goods were stolen."
+    },
+    {
+      "id": 183,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "The advertising copy refers to",
+      "options": {
+        "A": "A duplicate of the advertisement sent to the advertiser",
+        "B": "The text or written content of an advertisement",
+        "C": "The cost of reproducing an advertisement",
+        "D": "The audience reached by an advertisement"
+      },
+      "correct_answer": "B",
+      "explanation": "Advertising copy is the text or written content of an advertisement, including headlines, slogans, body text, and calls to action."
+    },
+    {
+      "id": 184,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT an advantage of international trade?",
+      "options": {
+        "A": "Access to goods not available domestically",
+        "B": "Earning of foreign exchange",
+        "C": "Dumping of substandard goods",
+        "D": "Transfer of technology and skills"
+      },
+      "correct_answer": "C",
+      "explanation": "Dumping — selling goods below cost in foreign markets — is a disadvantage and an unfair trade practice. The others listed are genuine advantages of international trade."
+    },
+    {
+      "id": 185,
+      "topic": "Business Units — Partnership",
+      "difficulty": "medium",
+      "question": "A deed of partnership is important because it",
+      "options": {
+        "A": "Registers the partnership as a limited liability company",
+        "B": "Sets out the rights, duties, and profit-sharing ratios of the partners",
+        "C": "Allows partners to sell shares to the public",
+        "D": "Provides government approval for the partnership"
+      },
+      "correct_answer": "B",
+      "explanation": "A deed of partnership outlines capital contributions, profit/loss sharing ratios, roles, decision-making processes, and dissolution procedures."
+    },
+    {
+      "id": 186,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A trader marks up his goods by 40% on cost. If the cost price is ₦5,000, what is the selling price?",
+      "options": {
+        "A": "₦5,400",
+        "B": "₦6,000",
+        "C": "₦7,000",
+        "D": "₦7,500"
+      },
+      "correct_answer": "C",
+      "explanation": "Mark-up = 40% × ₦5,000 = ₦2,000. Selling Price = ₦5,000 + ₦2,000 = ₦7,000."
+    },
+    {
+      "id": 187,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "The SWIFT network in banking is used for",
+      "options": {
+        "A": "Printing bank notes on behalf of central banks",
+        "B": "Sending and receiving secure financial messages between banks internationally",
+        "C": "Detecting and preventing bank fraud",
+        "D": "Calculating interest rates for commercial banks"
+      },
+      "correct_answer": "B",
+      "explanation": "SWIFT (Society for Worldwide Interbank Financial Telecommunication) is a global network used by banks to send and receive payment instructions securely and reliably."
+    },
+    {
+      "id": 188,
+      "topic": "Wholesale Trade",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of a wholesaler?",
+      "options": {
+        "A": "Providing storage facilities",
+        "B": "Giving credit to retailers",
+        "C": "Selling directly to the final consumer",
+        "D": "Breaking bulk for retailers"
+      },
+      "correct_answer": "C",
+      "explanation": "Wholesalers sell to retailers, not to final consumers. Selling directly to the final consumer is the function of a retailer."
+    },
+    {
+      "id": 189,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "A trade bloc is best described as",
+      "options": {
+        "A": "A physical barrier erected by a country to stop imports",
+        "B": "A group of countries that have reduced or eliminated trade barriers among themselves",
+        "C": "An agreement between two companies to stop competing",
+        "D": "A government policy that bans foreign companies from investing"
+      },
+      "correct_answer": "B",
+      "explanation": "A trade bloc is a group of countries that have agreed to reduce or remove trade barriers among themselves, e.g., ECOWAS, the European Union (EU), AfCFTA."
+    },
+    {
+      "id": 190,
+      "topic": "Insurance",
+      "difficulty": "medium",
+      "question": "A fire insurance policy covers",
+      "options": {
+        "A": "Only fires caused by electrical faults",
+        "B": "Financial losses arising from damage to property caused by fire",
+        "C": "Loss of life caused by fire accidents only",
+        "D": "Only goods in transit that are destroyed by fire"
+      },
+      "correct_answer": "B",
+      "explanation": "Fire insurance covers financial losses resulting from damage to property (buildings, stock, machinery) caused by fire and related perils such as explosion or lightning."
+    },
+    {
+      "id": 191,
+      "topic": "Market",
+      "difficulty": "medium",
+      "question": "A spot market is one in which",
+      "options": {
+        "A": "Goods are sold only at specific physical locations",
+        "B": "Goods and payment are exchanged immediately at the current market price",
+        "C": "Goods are delivered but payment is made later",
+        "D": "Prices are set by government decree"
+      },
+      "correct_answer": "B",
+      "explanation": "In a spot market, transactions are settled 'on the spot' — goods and payment are exchanged immediately at the current (spot) price."
+    },
+    {
+      "id": 192,
+      "topic": "Commercial Documents",
+      "difficulty": "medium",
+      "question": "A tender is a document submitted by a supplier to",
+      "options": {
+        "A": "Request goods from a wholesaler",
+        "B": "Formally offer to supply goods or services at a stated price in response to an invitation",
+        "C": "Confirm delivery of goods to a buyer",
+        "D": "Notify a buyer of a price change"
+      },
+      "correct_answer": "B",
+      "explanation": "A tender is a formal offer to supply goods or services at a specified price, submitted in response to an invitation to tender (ITT). The buyer evaluates tenders and selects the best offer."
+    },
+    {
+      "id": 193,
+      "topic": "Business Units — Companies",
+      "difficulty": "medium",
+      "question": "A company is said to have separate legal personality, meaning",
+      "options": {
+        "A": "It must have a different name from its owners",
+        "B": "It can sue and be sued in its own name, own property, and enter contracts independently of its owners",
+        "C": "Its owners can never be held responsible for company debts",
+        "D": "It must have a physical office separate from the owners' homes"
+      },
+      "correct_answer": "B",
+      "explanation": "Separate legal personality (established in Salomon v Salomon & Co. Ltd, 1897) means the company is a distinct legal entity from its shareholders — it can own property, sue, be sued, and enter contracts in its own name."
+    },
+    {
+      "id": 194,
+      "topic": "Cooperative Societies",
+      "difficulty": "medium",
+      "question": "A housing cooperative is formed to",
+      "options": {
+        "A": "Invest in the stock market on behalf of members",
+        "B": "Enable members to pool resources to build or acquire affordable housing",
+        "C": "Provide loans to members at commercial interest rates",
+        "D": "Produce and market agricultural goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A housing cooperative enables members to pool resources collectively to build, acquire, or manage affordable housing, reducing individual costs."
+    },
+    {
+      "id": 195,
+      "topic": "Trade Terms and Credit",
+      "difficulty": "medium",
+      "question": "'Net 30' on an invoice means",
+      "options": {
+        "A": "A 30% discount is available for cash payment",
+        "B": "The full invoice amount is due within 30 days of the invoice date",
+        "C": "Goods will be delivered within 30 days",
+        "D": "Payment can be made in 30 equal instalments"
+      },
+      "correct_answer": "B",
+      "explanation": "'Net 30' is a credit term meaning the buyer must pay the full invoice amount within 30 days of the invoice date, with no discount for early payment."
+    },
+    {
+      "id": 196,
+      "topic": "Production",
+      "difficulty": "medium",
+      "question": "Economies of scale refer to",
+      "options": {
+        "A": "Cost savings achieved by reducing the quality of products",
+        "B": "Reductions in the average cost of production as output increases",
+        "C": "Profits made from selling goods in international markets",
+        "D": "Benefits gained from reducing the size of a business"
+      },
+      "correct_answer": "B",
+      "explanation": "Economies of scale are cost advantages that arise when increasing the scale of production leads to lower average costs — through bulk buying, specialisation, and more efficient use of machinery."
+    },
+    {
+      "id": 197,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "The lender of last resort function of a central bank means",
+      "options": {
+        "A": "The central bank is the last bank to give loans to the government",
+        "B": "The central bank provides emergency funds to commercial banks facing liquidity crises",
+        "C": "Commercial banks lend to borrowers who have been rejected by all other banks",
+        "D": "The central bank lends only to the poorest members of society"
+      },
+      "correct_answer": "B",
+      "explanation": "As lender of last resort, the central bank provides emergency liquidity (loans) to commercial banks that face temporary shortfalls of funds, preventing banking system collapse."
+    },
+    {
+      "id": 198,
+      "topic": "Commercial Arithmetic",
+      "difficulty": "medium",
+      "question": "A shopkeeper buys an article for ₦2,500 and wants to make a profit of 20% on the selling price. What should the selling price be?",
+      "options": {
+        "A": "₦3,000",
+        "B": "₦3,125",
+        "C": "₦3,250",
+        "D": "₦2,800"
+      },
+      "correct_answer": "B",
+      "explanation": "If profit = 20% of SP, then cost = 80% of SP. So SP = ₦2,500 ÷ 0.80 = ₦3,125."
+    },
+    {
+      "id": 199,
+      "topic": "Trade",
+      "difficulty": "medium",
+      "question": "The principal aim of the International Monetary Fund (IMF) is to",
+      "options": {
+        "A": "Fund large infrastructure projects in developing countries",
+        "B": "Promote international monetary cooperation and provide financial assistance to countries with balance of payments difficulties",
+        "C": "Regulate international trade between WTO member countries",
+        "D": "Provide grants to the poorest nations of the world"
+      },
+      "correct_answer": "B",
+      "explanation": "The IMF promotes international monetary cooperation, exchange rate stability, and balanced growth of trade, and provides financial assistance to countries with balance of payments problems."
+    },
+    {
+      "id": 200,
+      "topic": "Commerce — Overview",
+      "difficulty": "medium",
+      "question": "Which of the following sequences CORRECTLY represents the flow of goods from producer to consumer?",
+      "options": {
+        "A": "Consumer → Retailer → Wholesaler → Producer",
+        "B": "Producer → Wholesaler → Retailer → Consumer",
+        "C": "Producer → Consumer → Retailer → Wholesaler",
+        "D": "Retailer → Wholesaler → Producer → Consumer"
+      },
+      "correct_answer": "B",
+      "explanation": "The typical chain of distribution is: Producer → Wholesaler → Retailer → Consumer. Aids to trade (transport, insurance, banking, warehousing) support this flow at every stage."
+    }
+  ]
+}

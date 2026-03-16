@@ -1,0 +1,2806 @@
+{
+  "subject": "Government",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "Government can best be defined as:",
+      "options": {
+        "A": "the group of people who rule a country",
+        "B": "the institution through which a state exercises authority and makes and enforces laws",
+        "C": "a system of laws that regulates trade",
+        "D": "the constitution of a country"
+      },
+      "correct_answer": "B",
+      "explanation": "Government refers to the institution or machinery through which the state exercises its authority, makes laws, and enforces them to regulate society."
+    },
+    {
+      "id": 2,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT an element of the state?",
+      "options": {
+        "A": "Population",
+        "B": "Territory",
+        "C": "Political party",
+        "D": "Sovereignty"
+      },
+      "correct_answer": "C",
+      "explanation": "The four essential elements of a state are: population, territory, government, and sovereignty. A political party is not an element of the state."
+    },
+    {
+      "id": 3,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "Sovereignty means:",
+      "options": {
+        "A": "the right to vote in elections",
+        "B": "the supreme power of a state to govern itself without external interference",
+        "C": "the power of the president",
+        "D": "the authority of the legislature"
+      },
+      "correct_answer": "B",
+      "explanation": "Sovereignty is the supreme, absolute, and unlimited power of a state to govern itself internally (internal sovereignty) and to be free from external control (external sovereignty)."
+    },
+    {
+      "id": 4,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "The theory that political authority derives from the consent of the governed is known as:",
+      "options": {
+        "A": "Divine right theory",
+        "B": "Force theory",
+        "C": "Social contract theory",
+        "D": "Evolutionary theory"
+      },
+      "correct_answer": "C",
+      "explanation": "The social contract theory (Hobbes, Locke, Rousseau) holds that the legitimacy of government is derived from the consent of the governed through an implied or explicit agreement."
+    },
+    {
+      "id": 5,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "The principle of separation of powers was propounded by:",
+      "options": {
+        "A": "John Locke",
+        "B": "Jean-Jacques Rousseau",
+        "C": "Baron de Montesquieu",
+        "D": "Thomas Hobbes"
+      },
+      "correct_answer": "C",
+      "explanation": "Baron de Montesquieu, in his work 'The Spirit of the Laws' (1748), propounded the doctrine of separation of powers into executive, legislative, and judicial branches."
+    },
+    {
+      "id": 6,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "The system of checks and balances ensures that:",
+      "options": {
+        "A": "one arm of government does not dominate the others",
+        "B": "the executive is supreme",
+        "C": "the judiciary has the most power",
+        "D": "the legislature controls the executive"
+      },
+      "correct_answer": "A",
+      "explanation": "Checks and balances is a system where each branch of government has powers to limit the other branches, preventing any single branch from becoming too powerful."
+    },
+    {
+      "id": 7,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "Power is different from authority in that authority is:",
+      "options": {
+        "A": "the ability to compel obedience by force",
+        "B": "legitimate power that is accepted as rightful by those over whom it is exercised",
+        "C": "the same as coercion",
+        "D": "derived from military strength"
+      },
+      "correct_answer": "B",
+      "explanation": "Authority is legitimate power — power that is recognized as rightful and accepted by the governed. Power without legitimacy is mere force or coercion."
+    },
+    {
+      "id": 8,
+      "topic": "Basic Concepts of Government",
+      "difficulty": "medium",
+      "question": "Legitimacy in government refers to:",
+      "options": {
+        "A": "the legal authority to rule backed by public acceptance",
+        "B": "the ability of government to use force",
+        "C": "the wealth of the ruling party",
+        "D": "the size of the country's military"
+      },
+      "correct_answer": "A",
+      "explanation": "Legitimacy refers to the rightful claim to govern — a government is legitimate when its authority is accepted as valid by the citizens it governs, usually through law or elections."
+    },
+    {
+      "id": 9,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "A system of government in which supreme power is vested in the people, exercised directly or through elected representatives, is called:",
+      "options": {
+        "A": "Oligarchy",
+        "B": "Monarchy",
+        "C": "Democracy",
+        "D": "Theocracy"
+      },
+      "correct_answer": "C",
+      "explanation": "Democracy is government by the people — either directly (direct democracy) or through elected representatives (representative/indirect democracy)."
+    },
+    {
+      "id": 10,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "A government system where power is held by a small privileged group is called:",
+      "options": {
+        "A": "Democracy",
+        "B": "Oligarchy",
+        "C": "Monarchy",
+        "D": "Republic"
+      },
+      "correct_answer": "B",
+      "explanation": "Oligarchy is rule by a small group of people (usually elite, wealthy, or privileged) who exercise power for their own benefit."
+    },
+    {
+      "id": 11,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "A government in which a single ruler exercises absolute power over the state is called:",
+      "options": {
+        "A": "Federal government",
+        "B": "Parliamentary democracy",
+        "C": "Autocracy (dictatorship)",
+        "D": "Constitutional monarchy"
+      },
+      "correct_answer": "C",
+      "explanation": "An autocracy is a system where one person (autocrat/dictator) holds unlimited, unchecked power over the entire government and people."
+    },
+    {
+      "id": 12,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "A federal system of government is one in which:",
+      "options": {
+        "A": "power is concentrated at the centre",
+        "B": "power is shared between a central government and constituent states or regions",
+        "C": "the military rules the country",
+        "D": "a single party controls all branches of government"
+      },
+      "correct_answer": "B",
+      "explanation": "Federalism divides power constitutionally between a central (federal) government and component units (states/provinces), with each level having specific powers."
+    },
+    {
+      "id": 13,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "In a unitary system of government, political power is:",
+      "options": {
+        "A": "shared between central and regional governments equally",
+        "B": "concentrated at the centre, with regional governments subordinate to it",
+        "C": "held entirely by the judiciary",
+        "D": "exercised only by state governments"
+      },
+      "correct_answer": "B",
+      "explanation": "In a unitary state, all constitutional power resides in the central government. Regional governments exist at the pleasure of the central government and may have delegated powers."
+    },
+    {
+      "id": 14,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "In a parliamentary system of government, the executive is drawn from and responsible to the:",
+      "options": {
+        "A": "Judiciary",
+        "B": "Military",
+        "C": "Legislature",
+        "D": "Electorate directly"
+      },
+      "correct_answer": "C",
+      "explanation": "In a parliamentary system, the Prime Minister and cabinet are members of the legislature and remain in office only as long as they retain the confidence of the legislature."
+    },
+    {
+      "id": 15,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "In a presidential system of government, the president is:",
+      "options": {
+        "A": "elected by parliament",
+        "B": "accountable to the legislature for remaining in office",
+        "C": "both head of state and head of government, elected separately from the legislature",
+        "D": "appointed by the judiciary"
+      },
+      "correct_answer": "C",
+      "explanation": "In a presidential system, the president is directly elected by the people, serves as both head of state and government, and has a fixed term independent of legislative confidence."
+    },
+    {
+      "id": 16,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "Which country operates a constitutional monarchy?",
+      "options": {
+        "A": "Nigeria",
+        "B": "United States",
+        "C": "United Kingdom",
+        "D": "France"
+      },
+      "correct_answer": "C",
+      "explanation": "The United Kingdom is a constitutional monarchy where the monarch (King/Queen) is the head of state but powers are limited by the constitution and parliament."
+    },
+    {
+      "id": 17,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "Totalitarianism is a system of government characterized by:",
+      "options": {
+        "A": "multi-party elections and free press",
+        "B": "total control of all aspects of life by the state under a single party or leader",
+        "C": "decentralized power sharing",
+        "D": "an independent judiciary"
+      },
+      "correct_answer": "B",
+      "explanation": "Totalitarianism is an extreme form of autocracy where the state seeks to control all aspects of public and private life, suppressing opposition. Examples include Nazi Germany and Stalinist USSR."
+    },
+    {
+      "id": 18,
+      "topic": "Constitution",
+      "difficulty": "medium",
+      "question": "A constitution is best defined as:",
+      "options": {
+        "A": "a set of laws made by parliament",
+        "B": "the body of fundamental rules and principles that govern a state",
+        "C": "the president's speech to the nation",
+        "D": "a treaty between two countries"
+      },
+      "correct_answer": "B",
+      "explanation": "A constitution is the body of fundamental rules, principles, and laws that define the structure of government, rights of citizens, and the distribution of power in a state."
+    },
+    {
+      "id": 19,
+      "topic": "Constitution",
+      "difficulty": "medium",
+      "question": "A rigid constitution is one that:",
+      "options": {
+        "A": "can be amended by a simple majority in parliament",
+        "B": "requires a special and more difficult procedure to amend than ordinary legislation",
+        "C": "cannot be amended under any circumstances",
+        "D": "is not written down"
+      },
+      "correct_answer": "B",
+      "explanation": "A rigid constitution requires a special amending procedure (e.g., two-thirds majority, referendum) making it harder to change than ordinary laws. Nigeria's 1999 constitution is rigid."
+    },
+    {
+      "id": 20,
+      "topic": "Constitution",
+      "difficulty": "medium",
+      "question": "The United Kingdom operates an unwritten (uncodified) constitution. This means that:",
+      "options": {
+        "A": "the UK has no constitution",
+        "B": "constitutional rules are found in various sources including statutes, conventions, and common law",
+        "C": "the constitution cannot be changed",
+        "D": "the constitution is stored in a secret location"
+      },
+      "correct_answer": "B",
+      "explanation": "An unwritten constitution is not contained in a single document but exists across various sources: Acts of Parliament, judicial decisions, and constitutional conventions."
+    },
+    {
+      "id": 21,
+      "topic": "Constitution",
+      "difficulty": "medium",
+      "question": "The principle of constitutional supremacy means that:",
+      "options": {
+        "A": "the president is the supreme authority",
+        "B": "the constitution is the highest law and all other laws must conform to it",
+        "C": "parliament can pass any law it wishes",
+        "D": "the military can override civilian government"
+      },
+      "correct_answer": "B",
+      "explanation": "Constitutional supremacy means the constitution is the supreme law of the land. Any law inconsistent with the constitution is null and void to the extent of the inconsistency."
+    },
+    {
+      "id": 22,
+      "topic": "Constitution",
+      "difficulty": "medium",
+      "question": "The power of the court to declare laws unconstitutional is called:",
+      "options": {
+        "A": "Judicial activism",
+        "B": "Judicial review",
+        "C": "Constitutional interpretation",
+        "D": "Habeas corpus"
+      },
+      "correct_answer": "B",
+      "explanation": "Judicial review is the power of courts to examine legislation and executive actions to determine if they are consistent with the constitution, and to nullify those that are not."
+    },
+    {
+      "id": 23,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The first constitution to introduce the elective principle in Nigeria was the:",
+      "options": {
+        "A": "Lyttleton Constitution of 1954",
+        "B": "Richards Constitution of 1946",
+        "C": "Clifford Constitution of 1922",
+        "D": "Macpherson Constitution of 1951"
+      },
+      "correct_answer": "C",
+      "explanation": "The Clifford Constitution of 1922 introduced the elective principle in Nigeria for the first time, allowing a limited number of Nigerians to elect representatives to the Legislative Council."
+    },
+    {
+      "id": 24,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The Richards Constitution of 1946 introduced:",
+      "options": {
+        "A": "universal adult suffrage",
+        "B": "the federal structure of government",
+        "C": "regionalism by dividing Nigeria into three regions",
+        "D": "full independence for Nigeria"
+      },
+      "correct_answer": "C",
+      "explanation": "The Richards Constitution of 1946 introduced regionalism by dividing Nigeria into North, East, and West regions, laying the foundation for Nigeria's federal structure."
+    },
+    {
+      "id": 25,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The Lyttleton Constitution of 1954 introduced which major constitutional change in Nigeria?",
+      "options": {
+        "A": "Unicameral legislature",
+        "B": "True federalism with regions having greater autonomy",
+        "C": "The elective principle",
+        "D": "A unitary system of government"
+      },
+      "correct_answer": "B",
+      "explanation": "The Lyttleton Constitution of 1954 established true federalism in Nigeria, granting the three regions (North, East, West) greater autonomy with their own governments and legislatures."
+    },
+    {
+      "id": 26,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "Nigeria gained independence on:",
+      "options": {
+        "A": "October 1, 1960",
+        "B": "January 1, 1960",
+        "C": "October 1, 1963",
+        "D": "July 1, 1960"
+      },
+      "correct_answer": "A",
+      "explanation": "Nigeria became an independent nation on October 1, 1960, when it was granted independence from British colonial rule."
+    },
+    {
+      "id": 27,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "Nigeria became a republic on:",
+      "options": {
+        "A": "October 1, 1960",
+        "B": "October 1, 1963",
+        "C": "January 15, 1966",
+        "D": "July 29, 1966"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria became a republic on October 1, 1963, when it adopted the Republican Constitution, replacing the Queen as head of state with an executive President (Dr Nnamdi Azikiwe)."
+    },
+    {
+      "id": 28,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The first military coup in Nigeria took place on:",
+      "options": {
+        "A": "October 1, 1960",
+        "B": "January 15, 1966",
+        "C": "July 29, 1966",
+        "D": "July 1, 1975"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's first military coup was the January 15, 1966 coup led by Major Kaduna Nzeogwu, which overthrew the civilian government of Prime Minister Tafawa Balewa."
+    },
+    {
+      "id": 29,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The Nigerian Civil War lasted from:",
+      "options": {
+        "A": "1966 to 1967",
+        "B": "1967 to 1970",
+        "C": "1970 to 1975",
+        "D": "1964 to 1966"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nigerian Civil War (Biafra War) lasted from July 6, 1967, when the Eastern Region declared independence as the Republic of Biafra, until January 15, 1970, when Biafra surrendered."
+    },
+    {
+      "id": 30,
+      "topic": "Nigerian Constitutional History",
+      "difficulty": "medium",
+      "question": "The current Nigerian Constitution in use was enacted in:",
+      "options": {
+        "A": "1979",
+        "B": "1989",
+        "C": "1993",
+        "D": "1999"
+      },
+      "correct_answer": "D",
+      "explanation": "Nigeria currently operates under the 1999 Constitution (as amended), which was promulgated on May 5, 1999, and came into force on May 29, 1999, when democratic governance was restored."
+    },
+    {
+      "id": 31,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "The Nigerian National Assembly consists of:",
+      "options": {
+        "A": "The Senate only",
+        "B": "The House of Representatives only",
+        "C": "The Senate and the House of Representatives",
+        "D": "The Senate, House of Representatives, and State Assemblies"
+      },
+      "correct_answer": "C",
+      "explanation": "The National Assembly of Nigeria is bicameral, consisting of the Senate (upper house, 109 senators) and the House of Representatives (lower house, 360 members)."
+    },
+    {
+      "id": 32,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "The Nigerian Senate has how many members?",
+      "options": {
+        "A": "360",
+        "B": "109",
+        "C": "469",
+        "D": "36"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nigerian Senate has 109 senators — 3 from each of the 36 states plus 1 from the FCT (Abuja). This ensures equal state representation in the upper chamber."
+    },
+    {
+      "id": 33,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "The primary function of the legislature is to:",
+      "options": {
+        "A": "execute government policies",
+        "B": "interpret the law",
+        "C": "make laws for the state",
+        "D": "conduct elections"
+      },
+      "correct_answer": "C",
+      "explanation": "The primary function of the legislature is law-making (legislation). It also performs oversight, represents constituents, and approves the budget."
+    },
+    {
+      "id": 34,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "A bill passed by both chambers of the National Assembly becomes law when it is:",
+      "options": {
+        "A": "approved by the Supreme Court",
+        "B": "signed by the President or passed over the President's veto",
+        "C": "approved in a national referendum",
+        "D": "approved by state governors"
+      },
+      "correct_answer": "B",
+      "explanation": "A bill becomes law when it is assented to (signed) by the President. If the President withholds assent, the National Assembly can override the veto with a two-thirds majority."
+    },
+    {
+      "id": 35,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "The presiding officer of the Nigerian Senate is the:",
+      "options": {
+        "A": "Speaker",
+        "B": "Senate President",
+        "C": "Majority Leader",
+        "D": "Senate Chairman"
+      },
+      "correct_answer": "B",
+      "explanation": "The presiding officer of the Nigerian Senate is the Senate President. The presiding officer of the House of Representatives is the Speaker."
+    },
+    {
+      "id": 36,
+      "topic": "The Legislature",
+      "difficulty": "medium",
+      "question": "Legislative immunity (privilege) protects legislators from:",
+      "options": {
+        "A": "prosecution for criminal offences",
+        "B": "civil and criminal liability for statements made in the course of legislative proceedings",
+        "C": "losing their seats in elections",
+        "D": "impeachment"
+      },
+      "correct_answer": "B",
+      "explanation": "Legislative privilege (parliamentary immunity) protects legislators from legal liability for statements, votes, and actions taken during legislative proceedings."
+    },
+    {
+      "id": 37,
+      "topic": "The Executive",
+      "difficulty": "medium",
+      "question": "Under the 1999 Constitution of Nigeria, the President is elected through:",
+      "options": {
+        "A": "appointment by the National Assembly",
+        "B": "direct election by the people",
+        "C": "appointment by state governors",
+        "D": "election by the Supreme Court"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the 1999 Constitution, the President of Nigeria is elected by direct vote of the people, requiring a majority of votes cast and at least 25% in at least 24 states."
+    },
+    {
+      "id": 38,
+      "topic": "The Executive",
+      "difficulty": "medium",
+      "question": "The Nigerian President serves a term of how many years?",
+      "options": {
+        "A": "4 years, renewable once",
+        "B": "5 years, not renewable",
+        "C": "6 years, not renewable",
+        "D": "4 years, not renewable"
+      },
+      "correct_answer": "A",
+      "explanation": "The Nigerian President serves a term of four years and can be re-elected for a maximum of two terms (8 years total), as provided by the 1999 Constitution."
+    },
+    {
+      "id": 39,
+      "topic": "The Executive",
+      "difficulty": "medium",
+      "question": "The process of removing the President from office before the end of his term through a legislative vote is called:",
+      "options": {
+        "A": "Recall",
+        "B": "Vote of no confidence",
+        "C": "Impeachment",
+        "D": "Dissolution"
+      },
+      "correct_answer": "C",
+      "explanation": "Impeachment is the formal process by which the legislature brings charges against the President (or other officials) for misconduct, potentially leading to removal from office."
+    },
+    {
+      "id": 40,
+      "topic": "The Executive",
+      "difficulty": "medium",
+      "question": "The cabinet in a presidential system differs from a parliamentary cabinet in that the presidential cabinet:",
+      "options": {
+        "A": "is appointed by the legislature",
+        "B": "is collectively responsible to the legislature",
+        "C": "consists of advisers appointed by and accountable to the president alone",
+        "D": "must be members of the legislature"
+      },
+      "correct_answer": "C",
+      "explanation": "In a presidential system, cabinet ministers are appointed by the president, are individually accountable to the president, and need not be members of the legislature."
+    },
+    {
+      "id": 41,
+      "topic": "The Judiciary",
+      "difficulty": "medium",
+      "question": "The highest court in Nigeria is the:",
+      "options": {
+        "A": "Court of Appeal",
+        "B": "Federal High Court",
+        "C": "Supreme Court of Nigeria",
+        "D": "National Industrial Court"
+      },
+      "correct_answer": "C",
+      "explanation": "The Supreme Court of Nigeria is the apex court and the final court of appeal. Its decisions on constitutional matters are binding on all other courts."
+    },
+    {
+      "id": 42,
+      "topic": "The Judiciary",
+      "difficulty": "medium",
+      "question": "Judicial independence means that:",
+      "options": {
+        "A": "judges can make any decisions they like",
+        "B": "the judiciary is free from interference by the executive and legislature in its decisions",
+        "C": "the courts are not accountable to anyone",
+        "D": "the Chief Justice appoints the President"
+      },
+      "correct_answer": "B",
+      "explanation": "Judicial independence means that judges make decisions based solely on law and facts, free from political pressure, influence, or interference from the executive or legislature."
+    },
+    {
+      "id": 43,
+      "topic": "The Judiciary",
+      "difficulty": "medium",
+      "question": "The writ of habeas corpus is used to:",
+      "options": {
+        "A": "compel a witness to appear in court",
+        "B": "challenge the unlawful detention of a person and require their release",
+        "C": "stop a government action",
+        "D": "seize property as evidence"
+      },
+      "correct_answer": "B",
+      "explanation": "Habeas corpus (Latin: 'you should have the body') is a writ that requires a person detaining another to bring the detainee before a court to justify the detention."
+    },
+    {
+      "id": 44,
+      "topic": "The Judiciary",
+      "difficulty": "medium",
+      "question": "In Nigeria, judges of the Supreme Court are appointed by:",
+      "options": {
+        "A": "The President alone",
+        "B": "The National Judicial Council on the recommendation of the President, subject to Senate confirmation",
+        "C": "The Chief Justice",
+        "D": "The state governors"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the 1999 Constitution, Supreme Court justices are appointed by the President on the recommendation of the National Judicial Council, subject to confirmation by the Senate."
+    },
+    {
+      "id": 45,
+      "topic": "The Judiciary",
+      "difficulty": "medium",
+      "question": "The rule of law, as propounded by A.V. Dicey, means all of the following EXCEPT:",
+      "options": {
+        "A": "supremacy of the law",
+        "B": "equality before the law",
+        "C": "the government is subject to the law",
+        "D": "the executive makes all judicial decisions"
+      },
+      "correct_answer": "D",
+      "explanation": "Dicey's rule of law means: (1) supremacy of law (no one is above the law), (2) equality before the law, and (3) constitutional rights are the result of judicial decisions. Executives cannot make judicial decisions."
+    },
+    {
+      "id": 46,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "A political party is defined as:",
+      "options": {
+        "A": "a group of people who share the same religion",
+        "B": "an organized group of people with similar political ideologies seeking to gain and exercise political power",
+        "C": "a government department",
+        "D": "a military organization"
+      },
+      "correct_answer": "B",
+      "explanation": "A political party is an organized group of individuals who share similar political views, field candidates for elections, and seek to gain control of government to implement their policies."
+    },
+    {
+      "id": 47,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "A two-party system is one in which:",
+      "options": {
+        "A": "only two parties are allowed to exist",
+        "B": "two major parties dominate the political system and typically alternate in power",
+        "C": "two presidents rule at the same time",
+        "D": "a coalition of two parties always governs"
+      },
+      "correct_answer": "B",
+      "explanation": "A two-party system is characterized by two dominant parties that regularly compete for power. Examples include the US (Democrats and Republicans) and UK (Conservatives and Labour)."
+    },
+    {
+      "id": 48,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "A one-party state is associated with:",
+      "options": {
+        "A": "free and fair multiparty elections",
+        "B": "a single party that holds a monopoly on political power and may ban other parties",
+        "C": "coalition governments",
+        "D": "constitutional democracy"
+      },
+      "correct_answer": "B",
+      "explanation": "In a one-party state, a single party controls government and either bans or makes other parties ineffective, as seen in some communist and authoritarian states."
+    },
+    {
+      "id": 49,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "The first political party in Nigeria was the:",
+      "options": {
+        "A": "Northern People's Congress (NPC)",
+        "B": "Action Group (AG)",
+        "C": "Nigerian Youth Movement (NYM)",
+        "D": "National Council of Nigeria and the Cameroons (NCNC)"
+      },
+      "correct_answer": "C",
+      "explanation": "The Nigerian Youth Movement (NYM), founded in 1934, is generally regarded as Nigeria's first political party, though the NCNC (1944) was the first major nationalist party."
+    },
+    {
+      "id": 50,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "The party that won the 1999 presidential election in Nigeria and formed the first civilian government after military rule was:",
+      "options": {
+        "A": "All Progressives Congress (APC)",
+        "B": "All Nigeria Peoples Party (ANPP)",
+        "C": "Peoples Democratic Party (PDP)",
+        "D": "Alliance for Democracy (AD)"
+      },
+      "correct_answer": "C",
+      "explanation": "The Peoples Democratic Party (PDP) won the 1999 presidential election, with Olusegun Obasanjo becoming President. PDP dominated Nigerian politics from 1999 to 2015."
+    },
+    {
+      "id": 51,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "The body responsible for conducting elections in Nigeria is the:",
+      "options": {
+        "A": "National Assembly",
+        "B": "Independent National Electoral Commission (INEC)",
+        "C": "Supreme Court",
+        "D": "Federal Executive Council"
+      },
+      "correct_answer": "B",
+      "explanation": "The Independent National Electoral Commission (INEC) is the constitutional body charged with conducting federal and state elections in Nigeria."
+    },
+    {
+      "id": 52,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "Universal adult suffrage means the right to vote is extended to:",
+      "options": {
+        "A": "all citizens who pay taxes",
+        "B": "all adult citizens regardless of sex, race, wealth, or education",
+        "C": "only educated adults",
+        "D": "only landowners"
+      },
+      "correct_answer": "B",
+      "explanation": "Universal adult suffrage is the right of all adult citizens to vote without restrictions based on race, sex, wealth, religion, or literacy."
+    },
+    {
+      "id": 53,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "The simple majority (first-past-the-post) electoral system means the winner must:",
+      "options": {
+        "A": "win more than 50% of total votes cast",
+        "B": "win two-thirds of votes cast",
+        "C": "get more votes than any other single candidate",
+        "D": "win a majority of states"
+      },
+      "correct_answer": "C",
+      "explanation": "In the first-past-the-post (FPTP) system, the candidate with the most votes wins, even if they do not have an absolute majority (over 50%)."
+    },
+    {
+      "id": 54,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "Proportional representation (PR) is an electoral system designed to ensure that:",
+      "options": {
+        "A": "the winning party gets all seats",
+        "B": "each party wins seats roughly in proportion to the votes it receives",
+        "C": "constituencies are equal in size",
+        "D": "runoff elections are never needed"
+      },
+      "correct_answer": "B",
+      "explanation": "Proportional representation (PR) allocates legislative seats to parties in proportion to the total votes they receive, ensuring fairer representation of minority parties."
+    },
+    {
+      "id": 55,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "Gerrymandering refers to the practice of:",
+      "options": {
+        "A": "allowing voters to vote multiple times",
+        "B": "manipulating constituency boundaries to favour a particular party",
+        "C": "buying votes during elections",
+        "D": "postponing elections indefinitely"
+      },
+      "correct_answer": "B",
+      "explanation": "Gerrymandering is the manipulation of electoral district boundaries to give one political party an unfair advantage over others in elections."
+    },
+    {
+      "id": 56,
+      "topic": "Federalism",
+      "difficulty": "medium",
+      "question": "The exclusive legislative list in Nigeria contains matters that can ONLY be legislated upon by:",
+      "options": {
+        "A": "State Assemblies",
+        "B": "Local Government Councils",
+        "C": "The National Assembly (Federal Government)",
+        "D": "The President alone"
+      },
+      "correct_answer": "C",
+      "explanation": "The exclusive legislative list (Second Schedule, 1999 Constitution) contains matters like defence, immigration, and currency that ONLY the National Assembly can legislate upon."
+    },
+    {
+      "id": 57,
+      "topic": "Federalism",
+      "difficulty": "medium",
+      "question": "The concurrent legislative list contains matters that:",
+      "options": {
+        "A": "only the federal government can legislate on",
+        "B": "only state governments can legislate on",
+        "C": "both federal and state governments can legislate on",
+        "D": "local governments can legislate on"
+      },
+      "correct_answer": "C",
+      "explanation": "The concurrent legislative list contains matters (like education, health, and agriculture) on which both federal and state governments can legislate. Federal law prevails in case of conflict."
+    },
+    {
+      "id": 58,
+      "topic": "Federalism",
+      "difficulty": "medium",
+      "question": "The principle of derivation in Nigeria's revenue sharing means that:",
+      "options": {
+        "A": "revenue is shared equally among all states",
+        "B": "states receive a portion of revenue based on the natural resources exploited from their territory",
+        "C": "only oil-producing states receive federal funds",
+        "D": "revenue goes entirely to the federal government"
+      },
+      "correct_answer": "B",
+      "explanation": "Derivation ensures that states from which resources (mainly oil) are derived receive a percentage of the revenue from those resources (currently 13% for oil-producing states)."
+    },
+    {
+      "id": 59,
+      "topic": "Federalism",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a feature of a federal state?",
+      "options": {
+        "A": "Written constitution",
+        "B": "Supremacy of the central government on all matters",
+        "C": "Division of powers between central and component units",
+        "D": "Independent judiciary"
+      },
+      "correct_answer": "B",
+      "explanation": "In federalism, powers are divided between central and state governments — neither is supreme on all matters. Central supremacy over all matters characterizes a unitary state."
+    },
+    {
+      "id": 60,
+      "topic": "Federalism",
+      "difficulty": "medium",
+      "question": "Nigeria currently has how many states?",
+      "options": {
+        "A": "19",
+        "B": "30",
+        "C": "36",
+        "D": "37"
+      },
+      "correct_answer": "C",
+      "explanation": "Nigeria currently has 36 states plus the Federal Capital Territory (FCT, Abuja). The states were created progressively from the original 3 regions at independence."
+    },
+    {
+      "id": 61,
+      "topic": "Local Government",
+      "difficulty": "medium",
+      "question": "Local government in Nigeria is the responsibility of which tier of government?",
+      "options": {
+        "A": "Federal government",
+        "B": "State government",
+        "C": "Both federal and state governments",
+        "D": "The National Assembly"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the 1999 Constitution, local government is primarily the responsibility of state governments, which create and oversee local government areas within their territories."
+    },
+    {
+      "id": 62,
+      "topic": "Local Government",
+      "difficulty": "medium",
+      "question": "The 1976 Local Government Reform in Nigeria was aimed at:",
+      "options": {
+        "A": "abolishing local government",
+        "B": "making local government a third tier of government with a uniform structure",
+        "C": "transferring local government powers to the federal government",
+        "D": "creating more states"
+      },
+      "correct_answer": "B",
+      "explanation": "The 1976 Local Government Reform under General Murtala/Obasanjo regime standardized local government across Nigeria, making it a recognized third tier with a uniform structure."
+    },
+    {
+      "id": 63,
+      "topic": "Local Government",
+      "difficulty": "medium",
+      "question": "Nigeria currently has how many local government areas (LGAs)?",
+      "options": {
+        "A": "36",
+        "B": "469",
+        "C": "774",
+        "D": "500"
+      },
+      "correct_answer": "C",
+      "explanation": "Nigeria has 774 Local Government Areas (LGAs) as provided in the 1999 Constitution. Each LGA has an elected council headed by an elected chairman."
+    },
+    {
+      "id": 64,
+      "topic": "Public Administration",
+      "difficulty": "medium",
+      "question": "The Civil Service is characterized by all of the following EXCEPT:",
+      "options": {
+        "A": "permanence",
+        "B": "neutrality",
+        "C": "anonymity",
+        "D": "partisan political involvement"
+      },
+      "correct_answer": "D",
+      "explanation": "The civil service is characterized by permanence (continuous even when governments change), political neutrality, anonymity, and merit-based appointments. Civil servants are not partisan."
+    },
+    {
+      "id": 65,
+      "topic": "Public Administration",
+      "difficulty": "medium",
+      "question": "Bureaucracy, as described by Max Weber, is characterized by:",
+      "options": {
+        "A": "nepotism and favoritism",
+        "B": "hierarchy, impersonality, rules-based operation, and merit-based recruitment",
+        "C": "elected officials making all administrative decisions",
+        "D": "charismatic leadership"
+      },
+      "correct_answer": "B",
+      "explanation": "Weber's ideal bureaucracy is characterized by: hierarchical structure, impersonality, written rules, merit-based appointment, specialization, and separation of officials from ownership of resources."
+    },
+    {
+      "id": 66,
+      "topic": "Public Administration",
+      "difficulty": "medium",
+      "question": "The Federal Civil Service Commission in Nigeria is responsible for:",
+      "options": {
+        "A": "making laws",
+        "B": "appointment, promotion, and discipline of senior federal civil servants",
+        "C": "conducting elections",
+        "D": "collecting taxes"
+      },
+      "correct_answer": "B",
+      "explanation": "The Federal Civil Service Commission oversees the appointment, promotion, transfer, and discipline of federal civil servants to ensure merit and impartiality."
+    },
+    {
+      "id": 67,
+      "topic": "Nigerian Military Governments",
+      "difficulty": "medium",
+      "question": "Which military leader headed Nigeria's government after the first coup of January 1966?",
+      "options": {
+        "A": "Yakubu Gowon",
+        "B": "Johnson Aguiyi-Ironsi",
+        "C": "Murtala Mohammed",
+        "D": "Olusegun Obasanjo"
+      },
+      "correct_answer": "B",
+      "explanation": "Major General Johnson Aguiyi-Ironsi came to power after the January 15, 1966 coup. He was assassinated in the counter-coup of July 29, 1966."
+    },
+    {
+      "id": 68,
+      "topic": "Nigerian Military Governments",
+      "difficulty": "medium",
+      "question": "General Murtala Mohammed was assassinated during an abortive coup on:",
+      "options": {
+        "A": "July 29, 1966",
+        "B": "February 13, 1976",
+        "C": "December 31, 1983",
+        "D": "November 17, 1993"
+      },
+      "correct_answer": "B",
+      "explanation": "General Murtala Mohammed was assassinated on February 13, 1976, during a failed coup attempt led by Colonel Bukar Sukar Dimka. He was succeeded by General Olusegun Obasanjo."
+    },
+    {
+      "id": 69,
+      "topic": "Nigerian Military Governments",
+      "difficulty": "medium",
+      "question": "The military government that overthrew President Shehu Shagari's elected government in 1983 was led by:",
+      "options": {
+        "A": "Ibrahim Babangida",
+        "B": "Sani Abacha",
+        "C": "Muhammadu Buhari",
+        "D": "Abubakar Abdulsalami"
+      },
+      "correct_answer": "C",
+      "explanation": "General Muhammadu Buhari led the coup of December 31, 1983, that overthrew President Shehu Shagari's Second Republic government. He ruled until August 1985 when Babangida ousted him."
+    },
+    {
+      "id": 70,
+      "topic": "Nigerian Military Governments",
+      "difficulty": "medium",
+      "question": "The annulment of the June 12, 1993 presidential election (widely believed to have been won by MKO Abiola) was carried out by:",
+      "options": {
+        "A": "General Sani Abacha",
+        "B": "General Ibrahim Babangida",
+        "C": "General Abdulsalami Abubakar",
+        "D": "General Olusegun Obasanjo"
+      },
+      "correct_answer": "B",
+      "explanation": "General Ibrahim Babangida annulled the June 12, 1993 presidential election results, widely believed to have been won by Chief MKO Abiola of the Social Democratic Party (SDP)."
+    },
+    {
+      "id": 71,
+      "topic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "Fundamental human rights in Nigeria are guaranteed under which chapter of the 1999 Constitution?",
+      "options": {
+        "A": "Chapter I",
+        "B": "Chapter II",
+        "C": "Chapter III",
+        "D": "Chapter IV"
+      },
+      "correct_answer": "D",
+      "explanation": "Fundamental rights in Nigeria are contained in Chapter IV (Sections 33-46) of the 1999 Constitution."
+    },
+    {
+      "id": 72,
+      "topic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "The right that protects individuals from being held in custody without charge or trial is:",
+      "options": {
+        "A": "Right to life",
+        "B": "Right to private and family life",
+        "C": "Right to personal liberty",
+        "D": "Right to fair hearing"
+      },
+      "correct_answer": "C",
+      "explanation": "The right to personal liberty (Section 35, 1999 Constitution) protects individuals from unlawful arrest and detention. Police must charge or release a detainee within 24–48 hours."
+    },
+    {
+      "id": 73,
+      "topic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "The principle of 'nemo judex in causa sua' means:",
+      "options": {
+        "A": "the accused is innocent until proven guilty",
+        "B": "no one should be a judge in their own case (rule against bias)",
+        "C": "everyone has a right to legal representation",
+        "D": "punishment must fit the crime"
+      },
+      "correct_answer": "B",
+      "explanation": "Nemo judex in causa sua is a natural justice principle meaning no person should be a judge in a case where they have a personal interest (conflict of interest)."
+    },
+    {
+      "id": 74,
+      "topic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "The principle of 'audi alteram partem' means:",
+      "options": {
+        "A": "the majority rules",
+        "B": "hear the other side — both parties must be given a chance to present their case",
+        "C": "no punishment without law",
+        "D": "innocent until proven guilty"
+      },
+      "correct_answer": "B",
+      "explanation": "Audi alteram partem (hear the other side) is a fundamental rule of natural justice requiring that both sides in a dispute must be heard before a decision is made."
+    },
+    {
+      "id": 75,
+      "topic": "Fundamental Human Rights",
+      "difficulty": "medium",
+      "question": "Freedom of expression includes all of the following EXCEPT:",
+      "options": {
+        "A": "freedom of the press",
+        "B": "freedom to incite violence or hatred",
+        "C": "freedom to hold and express opinions",
+        "D": "freedom to receive and impart information"
+      },
+      "correct_answer": "B",
+      "explanation": "Freedom of expression does not include the right to incite violence, hatred, or cause public disorder. Like all rights, it has limitations to protect others' rights and public order."
+    },
+    {
+      "id": 76,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The United Nations (UN) was established in:",
+      "options": {
+        "A": "1919",
+        "B": "1939",
+        "C": "1945",
+        "D": "1960"
+      },
+      "correct_answer": "C",
+      "explanation": "The United Nations was established on October 24, 1945, after World War II, replacing the League of Nations. Its headquarters is in New York City."
+    },
+    {
+      "id": 77,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The principal organ of the UN responsible for maintaining international peace and security is the:",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "International Court of Justice",
+        "D": "Secretariat"
+      },
+      "correct_answer": "B",
+      "explanation": "The UN Security Council has primary responsibility for maintaining international peace and security. It has 5 permanent members (P5) with veto power and 10 elected non-permanent members."
+    },
+    {
+      "id": 78,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The five permanent members of the UN Security Council with veto power are:",
+      "options": {
+        "A": "USA, UK, France, Russia, China",
+        "B": "USA, UK, Germany, Japan, India",
+        "C": "USA, Russia, China, Brazil, South Africa",
+        "D": "USA, UK, France, Germany, Russia"
+      },
+      "correct_answer": "A",
+      "explanation": "The five permanent members (P5) of the UN Security Council are the USA, United Kingdom, France, Russia, and China. Each has veto power over substantive resolutions."
+    },
+    {
+      "id": 79,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The Economic Community of West African States (ECOWAS) was established in:",
+      "options": {
+        "A": "1960",
+        "B": "1963",
+        "C": "1975",
+        "D": "1980"
+      },
+      "correct_answer": "C",
+      "explanation": "ECOWAS was established on May 28, 1975, through the Treaty of Lagos, to promote economic integration among West African states. Nigeria was a founding member and key driver."
+    },
+    {
+      "id": 80,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The headquarters of ECOWAS is located in:",
+      "options": {
+        "A": "Lagos, Nigeria",
+        "B": "Accra, Ghana",
+        "C": "Abuja, Nigeria",
+        "D": "Dakar, Senegal"
+      },
+      "correct_answer": "C",
+      "explanation": "ECOWAS headquarters moved from Lagos to Abuja, Nigeria, when Abuja became Nigeria's capital. The ECOWAS Commission is based in Abuja."
+    },
+    {
+      "id": 81,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The African Union (AU) replaced which organization in 2002?",
+      "options": {
+        "A": "ECOWAS",
+        "B": "Organisation of African Unity (OAU)",
+        "C": "Non-Aligned Movement",
+        "D": "Commonwealth of Nations"
+      },
+      "correct_answer": "B",
+      "explanation": "The African Union replaced the Organisation of African Unity (OAU) in 2002. The OAU was founded in 1963 and focused on decolonization; the AU has broader economic and political integration goals."
+    },
+    {
+      "id": 82,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The headquarters of the African Union is located in:",
+      "options": {
+        "A": "Cairo, Egypt",
+        "B": "Nairobi, Kenya",
+        "C": "Addis Ababa, Ethiopia",
+        "D": "Pretoria, South Africa"
+      },
+      "correct_answer": "C",
+      "explanation": "The headquarters of the African Union is in Addis Ababa, Ethiopia. The AU Commission (secretariat) is also based there."
+    },
+    {
+      "id": 83,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "NATO (North Atlantic Treaty Organization) is primarily a:",
+      "options": {
+        "A": "trade organization",
+        "B": "military alliance for collective defence",
+        "C": "human rights organization",
+        "D": "economic development institution"
+      },
+      "correct_answer": "B",
+      "explanation": "NATO is a military alliance founded in 1949 based on the principle of collective defence (Article 5: an attack on one member is an attack on all). Its headquarters is in Brussels."
+    },
+    {
+      "id": 84,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "Nigeria's foreign policy principle of 'Africa as the centerpiece' means that:",
+      "options": {
+        "A": "Nigeria focuses only on African affairs and ignores global issues",
+        "B": "Africa and African interests are the central focus of Nigeria's foreign policy",
+        "C": "Nigeria seeks to colonize African countries",
+        "D": "only African countries can trade with Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's foreign policy has historically been Africa-centered — promoting African unity, liberation from colonialism, and African development as its primary diplomatic priority."
+    },
+    {
+      "id": 85,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "The Non-Aligned Movement (NAM) was established to:",
+      "options": {
+        "A": "create a military alliance against the USA",
+        "B": "promote developing nations' interests independent of the Cold War blocs (USA and USSR)",
+        "C": "establish free trade between African nations",
+        "D": "support NATO's expansion"
+      },
+      "correct_answer": "B",
+      "explanation": "The Non-Aligned Movement (founded 1961) was created for developing nations to assert independence from both the Western (US-led) and Eastern (Soviet-led) blocs during the Cold War."
+    },
+    {
+      "id": 86,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "Diplomacy is best defined as:",
+      "options": {
+        "A": "the use of military force to resolve conflicts",
+        "B": "the practice of managing international relations through negotiation and peaceful means",
+        "C": "the imposition of economic sanctions",
+        "D": "the signing of trade agreements only"
+      },
+      "correct_answer": "B",
+      "explanation": "Diplomacy is the art and practice of conducting negotiations between states to manage their relations, resolve conflicts, and pursue national interests through peaceful means."
+    },
+    {
+      "id": 87,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "National interest refers to:",
+      "options": {
+        "A": "the personal interests of the President",
+        "B": "the goals and ambitions that a state pursues in its relations with other states",
+        "C": "interest rates set by the central bank",
+        "D": "the interest of foreign investors"
+      },
+      "correct_answer": "B",
+      "explanation": "National interest encompasses the goals, values, and priorities that guide a state's foreign policy decisions, including security, economic prosperity, and national prestige."
+    },
+    {
+      "id": 88,
+      "topic": "Pressure Groups",
+      "difficulty": "medium",
+      "question": "Pressure groups differ from political parties in that pressure groups:",
+      "options": {
+        "A": "contest elections to win government power",
+        "B": "seek to influence government policy without seeking to form a government",
+        "C": "are funded by the government",
+        "D": "operate only during elections"
+      },
+      "correct_answer": "B",
+      "explanation": "Unlike political parties, pressure groups do not contest elections or seek to govern. They lobby government, raise public awareness, and advocate for specific interests or causes."
+    },
+    {
+      "id": 89,
+      "topic": "Pressure Groups",
+      "difficulty": "medium",
+      "question": "The Nigeria Labour Congress (NLC) is an example of which type of pressure group?",
+      "options": {
+        "A": "Promotional (cause) group",
+        "B": "Sectional (interest) group",
+        "C": "Think tank",
+        "D": "Political party"
+      },
+      "correct_answer": "B",
+      "explanation": "The NLC is a sectional (interest) group representing the interests of workers. Its membership is limited to a particular section of society (workers). It lobbies for better wages and conditions."
+    },
+    {
+      "id": 90,
+      "topic": "Pressure Groups",
+      "difficulty": "medium",
+      "question": "A promotional pressure group differs from a sectional group in that it:",
+      "options": {
+        "A": "represents a section of society",
+        "B": "promotes the interests of its members only",
+        "C": "campaigns for causes that benefit all of society, not just its members",
+        "D": "is funded by the government"
+      },
+      "correct_answer": "C",
+      "explanation": "Promotional (cause) groups advocate for broad causes benefiting society generally (e.g., environmental groups, human rights organisations) rather than narrow sectional interests."
+    },
+    {
+      "id": 91,
+      "topic": "Public Opinion",
+      "difficulty": "medium",
+      "question": "Public opinion refers to:",
+      "options": {
+        "A": "the opinion of the president",
+        "B": "the collective attitudes and beliefs of the general population on political issues",
+        "C": "opinions expressed in parliament",
+        "D": "the views of only educated citizens"
+      },
+      "correct_answer": "B",
+      "explanation": "Public opinion is the aggregate of individual attitudes and beliefs held by the population on political, social, or other issues, often measured through polls and surveys."
+    },
+    {
+      "id": 92,
+      "topic": "Public Opinion",
+      "difficulty": "medium",
+      "question": "The mass media's role in shaping public opinion is called:",
+      "options": {
+        "A": "Censorship",
+        "B": "Propaganda",
+        "C": "Agenda-setting",
+        "D": "Political socialization"
+      },
+      "correct_answer": "C",
+      "explanation": "Agenda-setting refers to the media's ability to influence which issues the public considers important by choosing what to cover extensively. The media 'sets the agenda' for public debate."
+    },
+    {
+      "id": 93,
+      "topic": "Political Socialization",
+      "difficulty": "medium",
+      "question": "Political socialization is the process by which:",
+      "options": {
+        "A": "politicians are elected into office",
+        "B": "individuals learn political values, beliefs, and behaviors from their society",
+        "C": "political parties recruit members",
+        "D": "governments implement social welfare programs"
+      },
+      "correct_answer": "B",
+      "explanation": "Political socialization is the lifelong process through which individuals acquire their political beliefs, values, and orientations from agents such as family, school, media, and peers."
+    },
+    {
+      "id": 94,
+      "topic": "Political Socialization",
+      "difficulty": "medium",
+      "question": "The most primary agent of political socialization is the:",
+      "options": {
+        "A": "School",
+        "B": "Family",
+        "C": "Mass media",
+        "D": "Political party"
+      },
+      "correct_answer": "B",
+      "explanation": "The family is considered the most important primary agent of political socialization, as it is the first social institution a child encounters and shapes fundamental values and attitudes."
+    },
+    {
+      "id": 95,
+      "topic": "Nigerian Foreign Policy",
+      "difficulty": "medium",
+      "question": "Nigeria played a leading role in funding and establishing which peacekeeping force in West Africa?",
+      "options": {
+        "A": "NATO",
+        "B": "ECOMOG",
+        "C": "UN Peacekeeping Mission",
+        "D": "African Union Force"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria was the dominant force behind ECOMOG (ECOWAS Ceasefire Monitoring Group), which intervened in Liberia (1990) and Sierra Leone, demonstrating Nigeria's regional leadership."
+    },
+    {
+      "id": 96,
+      "topic": "Citizenship",
+      "difficulty": "medium",
+      "question": "Citizenship by birth (jus soli) means:",
+      "options": {
+        "A": "citizenship obtained through marriage",
+        "B": "citizenship obtained by being born in a particular country or to citizen parents",
+        "C": "citizenship obtained through naturalization",
+        "D": "citizenship obtained through military service"
+      },
+      "correct_answer": "B",
+      "explanation": "Jus soli (right of the soil) grants citizenship to anyone born within a country's territory. Jus sanguinis (right of blood) grants citizenship based on parentage."
+    },
+    {
+      "id": 97,
+      "topic": "Citizenship",
+      "difficulty": "medium",
+      "question": "Naturalization is the process by which:",
+      "options": {
+        "A": "citizens lose their citizenship",
+        "B": "a foreigner acquires citizenship of a country after meeting legal requirements",
+        "C": "a child inherits citizenship from parents",
+        "D": "citizenship is granted at birth"
+      },
+      "correct_answer": "B",
+      "explanation": "Naturalization is the legal process by which a non-citizen (foreigner) voluntarily acquires citizenship of a country, typically requiring residence, language proficiency, and an oath of allegiance."
+    },
+    {
+      "id": 98,
+      "topic": "Citizenship",
+      "difficulty": "medium",
+      "question": "Which of the following is a civic duty of a Nigerian citizen?",
+      "options": {
+        "A": "Evading taxation",
+        "B": "Bribing electoral officials",
+        "C": "Participating in elections by voting",
+        "D": "Avoiding jury service"
+      },
+      "correct_answer": "C",
+      "explanation": "Voting in elections is a civic duty of citizens in a democracy. Other civic duties include paying taxes, obeying laws, and participating in community service."
+    },
+    {
+      "id": 99,
+      "topic": "Democratic Principles",
+      "difficulty": "medium",
+      "question": "The principle that the majority should rule but the rights of minorities must be respected is called:",
+      "options": {
+        "A": "Minority rule",
+        "B": "Majority tyranny",
+        "C": "Majoritarianism with minority protection",
+        "D": "Oligarchy"
+      },
+      "correct_answer": "C",
+      "explanation": "In a democracy, decisions are made by majority rule, but this must be balanced with protection of minority rights to prevent 'tyranny of the majority.'"
+    },
+    {
+      "id": 100,
+      "topic": "Democratic Principles",
+      "difficulty": "medium",
+      "question": "Which of the following best describes representative democracy?",
+      "options": {
+        "A": "Citizens make all government decisions directly through referenda",
+        "B": "Citizens elect representatives who make decisions on their behalf",
+        "C": "A military council governs on behalf of citizens",
+        "D": "One person rules on behalf of all citizens"
+      },
+      "correct_answer": "B",
+      "explanation": "Representative (indirect) democracy involves citizens choosing elected representatives (legislators, president) to make decisions and govern on their behalf."
+    },
+    {
+      "id": 101,
+      "topic": "Arms of Government",
+      "difficulty": "medium",
+      "question": "The three arms of government are:",
+      "options": {
+        "A": "Executive, Legislature, Judiciary",
+        "B": "President, Parliament, Police",
+        "C": "Federal, State, Local",
+        "D": "Military, Civil Service, Legislature"
+      },
+      "correct_answer": "A",
+      "explanation": "The three arms of government are: (1) Legislature — makes laws, (2) Executive — implements laws, and (3) Judiciary — interprets laws and resolves disputes."
+    },
+    {
+      "id": 102,
+      "topic": "Arms of Government",
+      "difficulty": "medium",
+      "question": "Collective responsibility in a parliamentary cabinet system means that:",
+      "options": {
+        "A": "each minister is individually responsible to parliament",
+        "B": "all cabinet ministers publicly support and defend cabinet decisions, even if they privately disagreed",
+        "C": "the president takes responsibility for all decisions",
+        "D": "civil servants are accountable for government decisions"
+      },
+      "correct_answer": "B",
+      "explanation": "Collective cabinet responsibility means that all cabinet members are bound by cabinet decisions and must publicly support them. A minister who cannot support a decision must resign."
+    },
+    {
+      "id": 103,
+      "topic": "Electoral Malpractice",
+      "difficulty": "medium",
+      "question": "Ballot stuffing is an electoral malpractice that involves:",
+      "options": {
+        "A": "tearing ballot papers",
+        "B": "illegally inserting pre-filled or extra ballot papers into ballot boxes",
+        "C": "preventing voters from reaching the polls",
+        "D": "changing the counting of valid votes"
+      },
+      "correct_answer": "B",
+      "explanation": "Ballot stuffing involves fraudulently inserting multiple pre-completed ballot papers into a ballot box to inflate votes for a candidate or party."
+    },
+    {
+      "id": 104,
+      "topic": "Electoral Malpractice",
+      "difficulty": "medium",
+      "question": "Vote buying is an electoral malpractice involving:",
+      "options": {
+        "A": "voters selling their voter registration cards",
+        "B": "offering money, gifts, or other benefits to voters in exchange for their votes",
+        "C": "buying election materials from the electoral commission",
+        "D": "purchasing campaign time in the media"
+      },
+      "correct_answer": "B",
+      "explanation": "Vote buying is when politicians or parties offer voters money, food, or gifts in exchange for voting for them. It undermines free and fair elections."
+    },
+    {
+      "id": 105,
+      "topic": "Fascism and Communism",
+      "difficulty": "medium",
+      "question": "Fascism is characterized by all of the following EXCEPT:",
+      "options": {
+        "A": "extreme nationalism",
+        "B": "one-party totalitarian rule",
+        "C": "protection of individual rights and freedoms",
+        "D": "glorification of the state and military"
+      },
+      "correct_answer": "C",
+      "explanation": "Fascism (e.g., Nazi Germany, Mussolini's Italy) suppresses individual rights in favour of the state. It is characterized by extreme nationalism, totalitarianism, and dictatorial rule."
+    },
+    {
+      "id": 106,
+      "topic": "Fascism and Communism",
+      "difficulty": "medium",
+      "question": "Communism, as a political ideology, advocates for:",
+      "options": {
+        "A": "private ownership of the means of production",
+        "B": "free market capitalism",
+        "C": "collective/state ownership of means of production and a classless society",
+        "D": "multi-party elections"
+      },
+      "correct_answer": "C",
+      "explanation": "Communism (as theorized by Marx and Engels) advocates for collective ownership of production, abolition of private property, and a classless, stateless society."
+    },
+    {
+      "id": 107,
+      "topic": "Colonialism",
+      "difficulty": "medium",
+      "question": "Nigeria became a British colony through the amalgamation of the Northern and Southern Protectorates in:",
+      "options": {
+        "A": "1885",
+        "B": "1900",
+        "C": "1914",
+        "D": "1920"
+      },
+      "correct_answer": "C",
+      "explanation": "In 1914, Lord Frederick Lugard amalgamated the Northern and Southern Protectorates of Nigeria into a single entity called 'Nigeria' under British colonial rule."
+    },
+    {
+      "id": 108,
+      "topic": "Colonialism",
+      "difficulty": "medium",
+      "question": "The policy of indirect rule in Nigeria was introduced and implemented by:",
+      "options": {
+        "A": "Lord Lugard",
+        "B": "Sir Arthur Richards",
+        "C": "Hugh Clifford",
+        "D": "Sir James Robertson"
+      },
+      "correct_answer": "A",
+      "explanation": "Lord Frederick Lugard introduced indirect rule in Northern Nigeria, governing through existing traditional rulers (emirs) rather than directly. He later applied it throughout Nigeria."
+    },
+    {
+      "id": 109,
+      "topic": "Colonialism",
+      "difficulty": "medium",
+      "question": "Indirect rule was more successful in Northern Nigeria than the South because:",
+      "options": {
+        "A": "Northerners were more educated",
+        "B": "the North had centralized traditional authority structures (emirates) compatible with indirect rule",
+        "C": "the British preferred the North",
+        "D": "the South had no traditional rulers"
+      },
+      "correct_answer": "B",
+      "explanation": "The centralized emirate system in Northern Nigeria (organized under Fulani emirs) was well-suited for indirect rule. Southern Nigeria had more decentralized and diverse political structures."
+    },
+    {
+      "id": 110,
+      "topic": "Political Ideology",
+      "difficulty": "medium",
+      "question": "Liberalism as a political ideology primarily advocates for:",
+      "options": {
+        "A": "state control of the economy",
+        "B": "individual freedoms, civil rights, democracy, and limited government",
+        "C": "one-party rule",
+        "D": "military governance"
+      },
+      "correct_answer": "B",
+      "explanation": "Liberalism emphasizes individual liberty, civil rights, constitutional government, democracy, free markets, and protection of individual rights from government overreach."
+    },
+    {
+      "id": 111,
+      "topic": "Political Ideology",
+      "difficulty": "medium",
+      "question": "Conservatism as a political ideology generally favours:",
+      "options": {
+        "A": "rapid radical change in society",
+        "B": "state ownership of all industries",
+        "C": "preservation of traditional institutions and gradual, cautious change",
+        "D": "abolishing the military"
+      },
+      "correct_answer": "C",
+      "explanation": "Conservatism values tradition, gradual change, social order, established institutions, and is skeptical of rapid radical social transformation."
+    },
+    {
+      "id": 112,
+      "topic": "Political Ideology",
+      "difficulty": "medium",
+      "question": "Socialism advocates for:",
+      "options": {
+        "A": "complete private ownership of the economy",
+        "B": "social ownership or regulation of the means of production in the interest of all",
+        "C": "military rule",
+        "D": "theocratic governance"
+      },
+      "correct_answer": "B",
+      "explanation": "Socialism advocates for collective or government ownership/regulation of the means of production and distribution to ensure a more equitable distribution of wealth."
+    },
+    {
+      "id": 113,
+      "topic": "Delegated Legislation",
+      "difficulty": "medium",
+      "question": "Delegated legislation refers to:",
+      "options": {
+        "A": "laws made directly by parliament",
+        "B": "laws made by bodies other than the legislature, under powers delegated by parliament",
+        "C": "constitutional amendments",
+        "D": "decisions made by the Supreme Court"
+      },
+      "correct_answer": "B",
+      "explanation": "Delegated (subsidiary) legislation is law made by ministers, local authorities, or other bodies under authority delegated to them by parliament (parent act). Examples include statutory instruments, by-laws."
+    },
+    {
+      "id": 114,
+      "topic": "Commonwealth of Nations",
+      "difficulty": "medium",
+      "question": "The Commonwealth of Nations is an association of:",
+      "options": {
+        "A": "all European nations",
+        "B": "former British colonies and territories that maintain voluntary ties",
+        "C": "the world's richest nations",
+        "D": "countries that share the same language"
+      },
+      "correct_answer": "B",
+      "explanation": "The Commonwealth is a voluntary association of 54 countries, most of which are former territories of the British Empire, promoting democracy, development, and international peace."
+    },
+    {
+      "id": 115,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "The Federal Character principle in Nigeria's 1999 Constitution requires that:",
+      "options": {
+        "A": "all government appointments go to the President's party",
+        "B": "appointments and positions in government must reflect Nigeria's diverse national character",
+        "C": "only northerners can head federal agencies",
+        "D": "the military controls federal appointments"
+      },
+      "correct_answer": "B",
+      "explanation": "The Federal Character principle (Section 14(3), 1999 Constitution) requires that federal appointments reflect the diversity of Nigeria's states and regions to promote national unity."
+    },
+    {
+      "id": 116,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "The Fundamental Objectives and Directive Principles of State Policy are contained in which chapter of the 1999 Nigerian Constitution?",
+      "options": {
+        "A": "Chapter I",
+        "B": "Chapter II",
+        "C": "Chapter III",
+        "D": "Chapter IV"
+      },
+      "correct_answer": "B",
+      "explanation": "Chapter II of the 1999 Constitution contains the Fundamental Objectives and Directive Principles of State Policy — goals the state should strive toward, though not directly enforceable in court."
+    },
+    {
+      "id": 117,
+      "topic": "State and Government",
+      "difficulty": "medium",
+      "question": "A state differs from a government in that:",
+      "options": {
+        "A": "a state is temporary while government is permanent",
+        "B": "a state is permanent and sovereign while the government is its temporary agent",
+        "C": "a state has a constitution but government does not",
+        "D": "a state only exists in federal systems"
+      },
+      "correct_answer": "B",
+      "explanation": "The state is permanent (a continuing political entity) while the government is the temporary agent that manages the state at any given time. Governments change; states continue."
+    },
+    {
+      "id": 118,
+      "topic": "Organs of Government",
+      "difficulty": "medium",
+      "question": "Which of the following is a quasi-judicial body in Nigeria?",
+      "options": {
+        "A": "The National Assembly",
+        "B": "The Federal Executive Council",
+        "C": "Electoral tribunals and administrative panels",
+        "D": "The Police Service Commission"
+      },
+      "correct_answer": "C",
+      "explanation": "Quasi-judicial bodies exercise judicial-like functions without being formal courts. Examples include electoral tribunals, professional disciplinary panels, and administrative tribunals."
+    },
+    {
+      "id": 119,
+      "topic": "Referendum",
+      "difficulty": "medium",
+      "question": "A referendum is a device of:",
+      "options": {
+        "A": "representative democracy where legislators vote on bills",
+        "B": "direct democracy where citizens vote directly on a specific issue",
+        "C": "indirect democracy through representatives",
+        "D": "military decision-making"
+      },
+      "correct_answer": "B",
+      "explanation": "A referendum is a form of direct democracy in which all eligible citizens vote directly on a specific constitutional, legislative, or policy question."
+    },
+    {
+      "id": 120,
+      "topic": "Political Culture",
+      "difficulty": "medium",
+      "question": "Political culture refers to:",
+      "options": {
+        "A": "the cultural activities of political parties",
+        "B": "the set of attitudes, beliefs, and values that citizens hold about their political system",
+        "C": "the foreign cultural policies of government",
+        "D": "the art and music of a nation"
+      },
+      "correct_answer": "B",
+      "explanation": "Political culture encompasses the shared attitudes, beliefs, values, and orientations that citizens of a society hold toward their political system, institutions, and processes."
+    },
+    {
+      "id": 121,
+      "topic": "Separation of Powers",
+      "difficulty": "medium",
+      "question": "An example of checks and balances in Nigeria's presidential system is:",
+      "options": {
+        "A": "the President appointing ministers without any approval",
+        "B": "the Senate confirming presidential appointees",
+        "C": "the President dissolving the National Assembly",
+        "D": "judges being appointed by the legislature"
+      },
+      "correct_answer": "B",
+      "explanation": "Senate confirmation of presidential nominees for ministers, ambassadors, and other key positions is a key example of legislative check on executive power in Nigeria."
+    },
+    {
+      "id": 122,
+      "topic": "Democratic Elections",
+      "difficulty": "medium",
+      "question": "A by-election is held when:",
+      "options": {
+        "A": "the general election produces no winner",
+        "B": "a legislative seat becomes vacant between general elections",
+        "C": "two candidates tie in the general election",
+        "D": "the president calls for a snap election"
+      },
+      "correct_answer": "B",
+      "explanation": "A by-election (or bye-election) is held to fill a single vacant parliamentary or legislative seat that arises due to death, resignation, or disqualification of the sitting member."
+    },
+    {
+      "id": 123,
+      "topic": "Intergovernmental Relations",
+      "difficulty": "medium",
+      "question": "The Council of State in Nigeria is chaired by the:",
+      "options": {
+        "A": "Senate President",
+        "B": "Chief Justice",
+        "C": "President",
+        "D": "Vice President"
+      },
+      "correct_answer": "C",
+      "explanation": "The Council of State in Nigeria is chaired by the President. It includes the Vice President, former presidents, state governors, Senate President, and Speaker among others."
+    },
+    {
+      "id": 124,
+      "topic": "Intergovernmental Relations",
+      "difficulty": "medium",
+      "question": "The National Economic Council (NEC) in Nigeria is chaired by the:",
+      "options": {
+        "A": "President",
+        "B": "Senate President",
+        "C": "Vice President",
+        "D": "Minister of Finance"
+      },
+      "correct_answer": "C",
+      "explanation": "The National Economic Council (NEC) is chaired by the Vice President and includes state governors and the Governor of the Central Bank. It advises on economic policy."
+    },
+    {
+      "id": 125,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "The Independent National Electoral Commission (INEC) Chairman is appointed by the:",
+      "options": {
+        "A": "National Assembly",
+        "B": "President on the recommendation of the Council of State, subject to Senate confirmation",
+        "C": "Supreme Court",
+        "D": "State governors"
+      },
+      "correct_answer": "B",
+      "explanation": "The INEC Chairman is appointed by the President on the recommendation of the Council of State and subject to confirmation by the Senate, to ensure some degree of independence."
+    },
+    {
+      "id": 126,
+      "topic": "Democratic Transition",
+      "difficulty": "medium",
+      "question": "Nigeria's transition from military to civilian rule in 1999 led to the inauguration of which President?",
+      "options": {
+        "A": "Shehu Shagari",
+        "B": "Earnest Shonekan",
+        "C": "Olusegun Obasanjo",
+        "D": "Umaru Musa Yar'Adua"
+      },
+      "correct_answer": "C",
+      "explanation": "On May 29, 1999, Olusegun Obasanjo was inaugurated as President, marking Nigeria's return to civilian democratic rule after 16 years of military governance."
+    },
+    {
+      "id": 127,
+      "topic": "Nigerian Political History",
+      "difficulty": "medium",
+      "question": "The Interim National Government (ING) of Nigeria was headed by:",
+      "options": {
+        "A": "Sani Abacha",
+        "B": "Ernest Shonekan",
+        "C": "Ibrahim Babangida",
+        "D": "Abdulsalami Abubakar"
+      },
+      "correct_answer": "B",
+      "explanation": "Chief Ernest Shonekan headed the Interim National Government (ING) established on August 27, 1993, after Ibrahim Babangida's 'stepping aside.' It was overthrown by Sani Abacha on November 17, 1993."
+    },
+    {
+      "id": 128,
+      "topic": "Nigerian Political History",
+      "difficulty": "medium",
+      "question": "General Sani Abacha died in office on:",
+      "options": {
+        "A": "November 17, 1993",
+        "B": "June 8, 1998",
+        "C": "May 29, 1999",
+        "D": "January 15, 1966"
+      },
+      "correct_answer": "B",
+      "explanation": "General Sani Abacha died suddenly on June 8, 1998. He was succeeded by General Abdulsalami Abubakar, who initiated the transition to civilian rule completed in May 1999."
+    },
+    {
+      "id": 129,
+      "topic": "Political Theory",
+      "difficulty": "medium",
+      "question": "Thomas Hobbes described life in the state of nature (before government) as:",
+      "options": {
+        "A": "peaceful and harmonious",
+        "B": "solitary, poor, nasty, brutish, and short",
+        "C": "free and prosperous",
+        "D": "governed by natural law and harmony"
+      },
+      "correct_answer": "B",
+      "explanation": "In his work 'Leviathan' (1651), Hobbes described life without government as 'solitary, poor, nasty, brutish, and short,' which he used to justify absolute sovereign authority."
+    },
+    {
+      "id": 130,
+      "topic": "Political Theory",
+      "difficulty": "medium",
+      "question": "John Locke's social contract theory differs from Hobbes in that Locke believed:",
+      "options": {
+        "A": "absolute monarchy is the best form of government",
+        "B": "people surrender all their rights to the sovereign",
+        "C": "government is based on consent and people retain natural rights; government that violates them can be overthrown",
+        "D": "the state of nature was peaceful"
+      },
+      "correct_answer": "C",
+      "explanation": "Locke argued that people retain natural rights (life, liberty, property) even after forming government. If government violates these rights, citizens have the right to rebel and change it."
+    },
+    {
+      "id": 131,
+      "topic": "Electoral Commission",
+      "difficulty": "medium",
+      "question": "The State Independent Electoral Commission (SIEC) in Nigeria is responsible for conducting:",
+      "options": {
+        "A": "federal elections",
+        "B": "state governorship elections",
+        "C": "local government council elections",
+        "D": "senatorial elections"
+      },
+      "correct_answer": "C",
+      "explanation": "SIECs (State Independent Electoral Commissions) are established by state governments to conduct local government council elections within their respective states."
+    },
+    {
+      "id": 132,
+      "topic": "Tribalism and Ethnic Politics",
+      "difficulty": "medium",
+      "question": "Tribalism in Nigerian politics refers to:",
+      "options": {
+        "A": "support for traditional institutions",
+        "B": "the tendency to favour members of one's ethnic group in political appointments and voting",
+        "C": "the use of traditional rulers in government",
+        "D": "regional autonomy"
+      },
+      "correct_answer": "B",
+      "explanation": "Tribalism (ethnicity-based politics) refers to preferential treatment of one's own ethnic group in politics, appointments, and resource allocation, which is a major challenge to Nigerian unity."
+    },
+    {
+      "id": 133,
+      "topic": "Secularism",
+      "difficulty": "medium",
+      "question": "Nigeria's 1999 Constitution declares that Nigeria is a:",
+      "options": {
+        "A": "Christian state",
+        "B": "Islamic state",
+        "C": "secular state",
+        "D": "federal Islamic republic"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 10 of the 1999 Constitution states that neither the Federal nor State governments shall adopt any religion as a state religion, making Nigeria officially a secular state."
+    },
+    {
+      "id": 134,
+      "topic": "Organs of Government",
+      "difficulty": "medium",
+      "question": "The institution responsible for auditing government accounts and reporting to the National Assembly in Nigeria is the:",
+      "options": {
+        "A": "Central Bank of Nigeria",
+        "B": "Office of the Auditor General of the Federation",
+        "C": "EFCC",
+        "D": "ICPC"
+      },
+      "correct_answer": "B",
+      "explanation": "The Auditor-General for the Federation audits federal government accounts and presents reports to the National Assembly to ensure financial accountability."
+    },
+    {
+      "id": 135,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "To qualify as a presidential candidate in Nigeria, one must have at minimum a:",
+      "options": {
+        "A": "postgraduate degree",
+        "B": "university degree",
+        "C": "School Certificate (WASC/SSCE) or equivalent",
+        "D": "law degree"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 131(d) of the 1999 Constitution requires that a presidential candidate must have at least a School Certificate or its equivalent as the minimum educational qualification."
+    },
+    {
+      "id": 136,
+      "topic": "Colonial Administration",
+      "difficulty": "medium",
+      "question": "The Berlin Conference of 1884-85 was significant for Africa because it:",
+      "options": {
+        "A": "granted independence to African nations",
+        "B": "partitioned Africa among European colonial powers",
+        "C": "established the United Nations",
+        "D": "ended the slave trade in Africa"
+      },
+      "correct_answer": "B",
+      "explanation": "The Berlin Conference (1884-85) formalized the 'Scramble for Africa' by establishing rules for European powers to partition the continent among themselves without African input."
+    },
+    {
+      "id": 137,
+      "topic": "International Law",
+      "difficulty": "medium",
+      "question": "Treaties are binding agreements between:",
+      "options": {
+        "A": "political parties",
+        "B": "sovereign states and/or international organizations",
+        "C": "private corporations",
+        "D": "citizens of different countries"
+      },
+      "correct_answer": "B",
+      "explanation": "Treaties are formal, legally binding agreements between sovereign states and/or international organizations, governed by international law."
+    },
+    {
+      "id": 138,
+      "topic": "Human Rights",
+      "difficulty": "medium",
+      "question": "The Universal Declaration of Human Rights (UDHR) was adopted by the UN General Assembly in:",
+      "options": {
+        "A": "1945",
+        "B": "1948",
+        "C": "1960",
+        "D": "1966"
+      },
+      "correct_answer": "B",
+      "explanation": "The Universal Declaration of Human Rights was adopted by the UN General Assembly on December 10, 1948, establishing a common standard of fundamental rights for all people."
+    },
+    {
+      "id": 139,
+      "topic": "Intergovernmental Relations",
+      "difficulty": "medium",
+      "question": "The Joint State-Local Government Account in Nigeria was established to:",
+      "options": {
+        "A": "allow states to tax local governments",
+        "B": "pool allocations for states and local governments and ensure LGAs receive their statutory allocations",
+        "C": "fund federal government projects",
+        "D": "pay civil servants' salaries"
+      },
+      "correct_answer": "B",
+      "explanation": "The Joint Account pools federal allocations to states and local governments, requiring states to pass on the LGA share to local government councils, though abuses have occurred."
+    },
+    {
+      "id": 140,
+      "topic": "Press Freedom",
+      "difficulty": "medium",
+      "question": "Press freedom is important in a democracy because:",
+      "options": {
+        "A": "it allows media owners to become rich",
+        "B": "it enables citizens to be informed and hold government accountable",
+        "C": "it prevents the judiciary from making wrong decisions",
+        "D": "it reduces government spending"
+      },
+      "correct_answer": "B",
+      "explanation": "A free press informs citizens, exposes corruption and government abuses, facilitates public debate, and acts as a watchdog — essential functions in a democracy."
+    },
+    {
+      "id": 141,
+      "topic": "Types of Government",
+      "difficulty": "medium",
+      "question": "A confederation differs from a federation in that in a confederation:",
+      "options": {
+        "A": "the central government is supreme",
+        "B": "component units retain their sovereignty and the centre is weak",
+        "C": "component units have no powers",
+        "D": "there is no central government"
+      },
+      "correct_answer": "B",
+      "explanation": "In a confederation, sovereign member states voluntarily associate, retaining their sovereignty and delegating only limited powers to a weak central authority. The USA (1781-1789) was a confederation."
+    },
+    {
+      "id": 142,
+      "topic": "Political Theory",
+      "difficulty": "medium",
+      "question": "The concept of 'divine right of kings' held that:",
+      "options": {
+        "A": "citizens have the right to overthrow kings",
+        "B": "monarchs derive their right to rule directly from God and are not accountable to the people",
+        "C": "kings must consult religious leaders before making decisions",
+        "D": "democracy is divinely ordained"
+      },
+      "correct_answer": "B",
+      "explanation": "The divine right theory held that monarchs received their authority directly from God, making them accountable only to God and not to parliaments or people."
+    },
+    {
+      "id": 143,
+      "topic": "Nigeria's First Republic",
+      "difficulty": "medium",
+      "question": "The first Prime Minister of Nigeria at independence was:",
+      "options": {
+        "A": "Nnamdi Azikiwe",
+        "B": "Obafemi Awolowo",
+        "C": "Ahmadu Bello",
+        "D": "Abubakar Tafawa Balewa"
+      },
+      "correct_answer": "D",
+      "explanation": "Sir Abubakar Tafawa Balewa became Nigeria's first Prime Minister at independence on October 1, 1960. He was assassinated in the January 1966 coup."
+    },
+    {
+      "id": 144,
+      "topic": "Nigeria's First Republic",
+      "difficulty": "medium",
+      "question": "The first indigenous Governor-General (and first President) of Nigeria was:",
+      "options": {
+        "A": "Abubakar Tafawa Balewa",
+        "B": "Obafemi Awolowo",
+        "C": "Nnamdi Azikiwe",
+        "D": "Ahmadu Bello"
+      },
+      "correct_answer": "C",
+      "explanation": "Dr. Nnamdi Azikiwe was the first indigenous Governor-General and then the first President of Nigeria when it became a republic in 1963."
+    },
+    {
+      "id": 145,
+      "topic": "Nigeria's Second Republic",
+      "difficulty": "medium",
+      "question": "Nigeria's Second Republic (1979-1983) was characterized by which type of government?",
+      "options": {
+        "A": "Parliamentary system",
+        "B": "Presidential system",
+        "C": "Military government",
+        "D": "Constitutional monarchy"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's Second Republic (1979-1983) adopted a US-style presidential system under the 1979 Constitution, with Shehu Shagari as the first executive President."
+    },
+    {
+      "id": 146,
+      "topic": "Nigeria's Third Republic",
+      "difficulty": "medium",
+      "question": "The abortive Third Republic of Nigeria was associated with which electoral system that used party primaries?",
+      "options": {
+        "A": "Two-party system with SDP and NRC",
+        "B": "Multi-party system with unlimited parties",
+        "C": "Single party state",
+        "D": "Military-appointed representatives"
+      },
+      "correct_answer": "A",
+      "explanation": "For the abortive Third Republic, Babangida's military government created only two parties: the Social Democratic Party (SDP) and the National Republican Convention (NRC)."
+    },
+    {
+      "id": 147,
+      "topic": "Judiciary",
+      "difficulty": "medium",
+      "question": "Which Nigerian court has jurisdiction over disputes between the federation and a state, or between states?",
+      "options": {
+        "A": "Federal High Court",
+        "B": "Court of Appeal",
+        "C": "Supreme Court of Nigeria",
+        "D": "State High Court"
+      },
+      "correct_answer": "C",
+      "explanation": "The Supreme Court of Nigeria has original jurisdiction (hears cases first) in disputes between the federal government and a state, or between states."
+    },
+    {
+      "id": 148,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "A recall in Nigerian politics refers to:",
+      "options": {
+        "A": "removing a president through impeachment",
+        "B": "the process by which a constituency can remove their elected representative mid-term",
+        "C": "recounting votes after an election",
+        "D": "rescheduling a cancelled election"
+      },
+      "correct_answer": "B",
+      "explanation": "Recall is a constitutional mechanism allowing constituents to remove a sitting legislator before the end of their term through a petition signed by more than half of registered voters."
+    },
+    {
+      "id": 149,
+      "topic": "Constitutional Law",
+      "difficulty": "medium",
+      "question": "Emergency powers in Nigeria can be declared by:",
+      "options": {
+        "A": "the President alone without any conditions",
+        "B": "the President, subject to proclamation approved by the National Assembly",
+        "C": "the Supreme Court",
+        "D": "state governors"
+      },
+      "correct_answer": "B",
+      "explanation": "Under Section 305 of the 1999 Constitution, the President may declare a state of emergency, but the proclamation must be approved by the National Assembly within two days."
+    },
+    {
+      "id": 150,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The International Court of Justice (ICJ) is the principal judicial organ of the:",
+      "options": {
+        "A": "African Union",
+        "B": "European Union",
+        "C": "United Nations",
+        "D": "ECOWAS"
+      },
+      "correct_answer": "C",
+      "explanation": "The International Court of Justice (ICJ), based in The Hague, Netherlands, is the principal judicial organ of the United Nations, settling disputes between states."
+    },
+    {
+      "id": 151,
+      "topic": "Political Concepts",
+      "difficulty": "medium",
+      "question": "The concept of 'power' in politics refers to:",
+      "options": {
+        "A": "electricity generation capacity",
+        "B": "the ability to influence or control the behavior of others",
+        "C": "legal authority granted by the constitution only",
+        "D": "military strength alone"
+      },
+      "correct_answer": "B",
+      "explanation": "Political power is the ability or capacity to influence or determine the behavior, decisions, and actions of others, whether through force, authority, persuasion, or inducement."
+    },
+    {
+      "id": 152,
+      "topic": "Democratic Elections",
+      "difficulty": "medium",
+      "question": "In Nigeria, election petitions challenging federal election results are filed at the:",
+      "options": {
+        "A": "Supreme Court",
+        "B": "Federal High Court",
+        "C": "Election Petition Tribunal",
+        "D": "Magistrate Court"
+      },
+      "correct_answer": "C",
+      "explanation": "Election petition tribunals handle election disputes. National Assembly petitions go to the Election Petition Tribunal; presidential disputes are initially heard by the Presidential Election Petition Tribunal."
+    },
+    {
+      "id": 153,
+      "topic": "Constitutionalism",
+      "difficulty": "medium",
+      "question": "Constitutionalism refers to:",
+      "options": {
+        "A": "the writing of constitutions",
+        "B": "the principle that government authority must be exercised within constitutional limits",
+        "C": "changing the constitution frequently",
+        "D": "the study of comparative constitutions"
+      },
+      "correct_answer": "B",
+      "explanation": "Constitutionalism is the principle that government must operate within the framework of the constitution and that its powers are limited by constitutional rules and principles."
+    },
+    {
+      "id": 154,
+      "topic": "Political Concepts",
+      "difficulty": "medium",
+      "question": "The concept of 'nationalism' refers to:",
+      "options": {
+        "A": "loyalty to one's local government area",
+        "B": "love and devotion to one's nation and the belief that the nation should govern itself",
+        "C": "the economic policies of a nation",
+        "D": "resistance to globalization"
+      },
+      "correct_answer": "B",
+      "explanation": "Nationalism is a political ideology centered on the belief that people sharing common culture, language, or history should form their own sovereign state."
+    },
+    {
+      "id": 155,
+      "topic": "Press and Media",
+      "difficulty": "medium",
+      "question": "The term 'fourth estate' is used to describe the:",
+      "options": {
+        "A": "military",
+        "B": "traditional rulers",
+        "C": "media (press)",
+        "D": "civil society organisations"
+      },
+      "correct_answer": "C",
+      "explanation": "The media is often called the 'fourth estate' (alongside the executive, legislature, and judiciary) because of its important role in informing the public and holding government accountable."
+    },
+    {
+      "id": 156,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "The All Progressives Congress (APC) was formed in 2013 as a merger of which parties?",
+      "options": {
+        "A": "PDP, APGA, and AD",
+        "B": "ACN, CPC, ANPP, and a faction of APGA",
+        "C": "PDP, ACN, and CPC",
+        "D": "NPC, NCNC, and AG"
+      },
+      "correct_answer": "B",
+      "explanation": "The APC was formed in 2013 as a merger of the Action Congress of Nigeria (ACN), Congress for Progressive Change (CPC), All Nigeria Peoples Party (ANPP), and a faction of APGA."
+    },
+    {
+      "id": 157,
+      "topic": "Accountability",
+      "difficulty": "medium",
+      "question": "Transparency in government means:",
+      "options": {
+        "A": "government officials making decisions in secret",
+        "B": "open, accessible governance where citizens can see how decisions are made and resources used",
+        "C": "the government having clear glass buildings",
+        "D": "bribing officials to access information"
+      },
+      "correct_answer": "B",
+      "explanation": "Transparency means government conducts its affairs openly, allowing citizens access to information about decision-making, spending, and policy implementation — essential for accountability."
+    },
+    {
+      "id": 158,
+      "topic": "Accountability",
+      "difficulty": "medium",
+      "question": "The Economic and Financial Crimes Commission (EFCC) in Nigeria was established to:",
+      "options": {
+        "A": "regulate the banking sector",
+        "B": "investigate and prosecute economic and financial crimes including corruption",
+        "C": "collect tax revenues",
+        "D": "manage Nigeria's foreign reserves"
+      },
+      "correct_answer": "B",
+      "explanation": "The EFCC was established in 2003 to combat economic and financial crimes including advance fee fraud (419), money laundering, and corruption by public officials."
+    },
+    {
+      "id": 159,
+      "topic": "Federal Character",
+      "difficulty": "medium",
+      "question": "The body that monitors compliance with the Federal Character principle in Nigeria is:",
+      "options": {
+        "A": "INEC",
+        "B": "Federal Character Commission",
+        "C": "Civil Service Commission",
+        "D": "Economic and Financial Crimes Commission"
+      },
+      "correct_answer": "B",
+      "explanation": "The Federal Character Commission (FCC) was established to ensure that federal appointments, employment, and distribution of resources reflect Nigeria's federal character (diversity)."
+    },
+    {
+      "id": 160,
+      "topic": "Budget",
+      "difficulty": "medium",
+      "question": "In Nigeria, the federal budget (Appropriation Bill) is prepared by the:",
+      "options": {
+        "A": "National Assembly",
+        "B": "Federal Executive Council and then presented to the National Assembly for approval",
+        "C": "Central Bank of Nigeria",
+        "D": "Supreme Court"
+      },
+      "correct_answer": "B",
+      "explanation": "The executive prepares the budget (Appropriation Bill) which the President presents to a joint session of the National Assembly for consideration, amendment, and approval."
+    },
+    {
+      "id": 161,
+      "topic": "Political Theory",
+      "difficulty": "medium",
+      "question": "Jean-Jacques Rousseau's social contract emphasized the concept of:",
+      "options": {
+        "A": "absolute monarchy",
+        "B": "general will — the common good of all citizens",
+        "C": "might is right",
+        "D": "inherited aristocracy"
+      },
+      "correct_answer": "B",
+      "explanation": "Rousseau's social contract theory focused on the 'general will' — the collective decision of all citizens for the common good — as the basis of legitimate government."
+    },
+    {
+      "id": 162,
+      "topic": "Political Theory",
+      "difficulty": "medium",
+      "question": "The concept of 'balance of power' in international relations refers to:",
+      "options": {
+        "A": "equal distribution of natural resources",
+        "B": "a distribution of power where no single state dominates all others",
+        "C": "equal military strength among all nations",
+        "D": "economic equality between nations"
+      },
+      "correct_answer": "B",
+      "explanation": "Balance of power is a situation where power is distributed among states in a way that prevents any single state or coalition from dominating the international system."
+    },
+    {
+      "id": 163,
+      "topic": "The Executive",
+      "difficulty": "medium",
+      "question": "The Nigerian State Security Service (SSS) is primarily responsible for:",
+      "options": {
+        "A": "investigating financial crimes",
+        "B": "external military intelligence",
+        "C": "internal security, counter-intelligence, and protecting national security",
+        "D": "managing immigration"
+      },
+      "correct_answer": "C",
+      "explanation": "The SSS (also known as DSS — Department of State Services) handles domestic intelligence, counter-espionage, and protecting Nigeria's internal security."
+    },
+    {
+      "id": 164,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "The minimum age to vote in Nigerian elections is:",
+      "options": {
+        "A": "16 years",
+        "B": "18 years",
+        "C": "21 years",
+        "D": "25 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Section 77(2) of the 1999 Constitution sets the minimum voting age at 18 years. Citizens must also be registered voters with a Permanent Voter Card (PVC)."
+    },
+    {
+      "id": 165,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "To become President of Nigeria, a candidate must be at least:",
+      "options": {
+        "A": "30 years old",
+        "B": "35 years old",
+        "C": "40 years old",
+        "D": "45 years old"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 131(b) of the 1999 Constitution requires that a presidential candidate must be at least 40 years old on the date of the election."
+    },
+    {
+      "id": 166,
+      "topic": "Democratic Governance",
+      "difficulty": "medium",
+      "question": "Good governance is characterized by all of the following EXCEPT:",
+      "options": {
+        "A": "transparency and accountability",
+        "B": "rule of law",
+        "C": "arbitrary exercise of power",
+        "D": "participation and responsiveness"
+      },
+      "correct_answer": "C",
+      "explanation": "Good governance requires transparency, accountability, rule of law, participation, efficiency, and equity. Arbitrary exercise of power is the antithesis of good governance."
+    },
+    {
+      "id": 167,
+      "topic": "Nigerian Political History",
+      "difficulty": "medium",
+      "question": "The 'Zungeru Conference' of 1950, which preceded the Macpherson Constitution, involved:",
+      "options": {
+        "A": "discussions between Nigerian military officers",
+        "B": "consultations with Nigerians on constitutional development",
+        "C": "negotiations with European powers",
+        "D": "a trade summit"
+      },
+      "correct_answer": "B",
+      "explanation": "The constitutional consultations leading to the 1951 Macpherson Constitution involved extensive consultations with Nigerians at village, district, regional, and national levels."
+    },
+    {
+      "id": 168,
+      "topic": "Local Government",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a function of local government in Nigeria?",
+      "options": {
+        "A": "Construction and maintenance of roads within the LGA",
+        "B": "Collection of local taxes and rates",
+        "C": "Conducting federal elections",
+        "D": "Provision of primary schools"
+      },
+      "correct_answer": "C",
+      "explanation": "Conducting federal elections is the responsibility of INEC, not local governments. Local governments are responsible for providing local services, collecting rates, and maintaining local infrastructure."
+    },
+    {
+      "id": 169,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "Apartheid in South Africa was a system of:",
+      "options": {
+        "A": "equal rights for all races",
+        "B": "institutionalized racial segregation and discrimination against non-white South Africans",
+        "C": "economic development policy",
+        "D": "military governance"
+      },
+      "correct_answer": "B",
+      "explanation": "Apartheid (Afrikaans: 'separateness') was a system of institutionalized racial segregation and discrimination in South Africa from 1948-1994, under which the white minority ruled."
+    },
+    {
+      "id": 170,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "The Commonwealth of Nations has its secretariat in:",
+      "options": {
+        "A": "Washington D.C., USA",
+        "B": "London, United Kingdom",
+        "C": "Brussels, Belgium",
+        "D": "New York, USA"
+      },
+      "correct_answer": "B",
+      "explanation": "The Commonwealth Secretariat is headquartered at Marlborough House in London, United Kingdom."
+    },
+    {
+      "id": 171,
+      "topic": "Public Opinion",
+      "difficulty": "medium",
+      "question": "Propaganda differs from education in that propaganda:",
+      "options": {
+        "A": "presents balanced information",
+        "B": "seeks to manipulate or persuade people toward a particular viewpoint, often through selective or misleading information",
+        "C": "encourages critical thinking",
+        "D": "is only used in wartime"
+      },
+      "correct_answer": "B",
+      "explanation": "Propaganda uses biased or misleading information to promote a particular political cause or point of view, often suppressing opposing viewpoints. Education aims for truth and critical inquiry."
+    },
+    {
+      "id": 172,
+      "topic": "Citizenship",
+      "difficulty": "medium",
+      "question": "A person who flees their country due to persecution and is granted protection in another country is called a:",
+      "options": {
+        "A": "Immigrant",
+        "B": "Migrant worker",
+        "C": "Refugee",
+        "D": "Tourist"
+      },
+      "correct_answer": "C",
+      "explanation": "A refugee is a person who has been forced to leave their country due to war, persecution, or natural disaster and has been granted international protection under the 1951 Refugee Convention."
+    },
+    {
+      "id": 173,
+      "topic": "Anti-Corruption",
+      "difficulty": "medium",
+      "question": "The Independent Corrupt Practices and Other Related Offences Commission (ICPC) was established in Nigeria in:",
+      "options": {
+        "A": "1999",
+        "B": "2000",
+        "C": "2003",
+        "D": "2006"
+      },
+      "correct_answer": "B",
+      "explanation": "The ICPC was established in 2000 under President Obasanjo to investigate and prosecute corruption, especially by public officials, and to educate about the dangers of corruption."
+    },
+    {
+      "id": 174,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "The Action Group (AG) was founded in 1951 and was primarily associated with:",
+      "options": {
+        "A": "Ahmadu Bello",
+        "B": "Nnamdi Azikiwe",
+        "C": "Obafemi Awolowo",
+        "D": "Tafawa Balewa"
+      },
+      "correct_answer": "C",
+      "explanation": "The Action Group (AG) was founded by Chief Obafemi Awolowo in 1951. It was based primarily in the Western Region and advocated for Yoruba interests and a federal system."
+    },
+    {
+      "id": 175,
+      "topic": "Political Parties",
+      "difficulty": "medium",
+      "question": "The Northern People's Congress (NPC) was led by which prominent northern political figure?",
+      "options": {
+        "A": "Abubakar Tafawa Balewa",
+        "B": "Ahmadu Bello (Sardauna of Sokoto)",
+        "C": "Malam Aminu Kano",
+        "D": "Ibrahim Babangida"
+      },
+      "correct_answer": "B",
+      "explanation": "The NPC was led by Sir Ahmadu Bello (the Sardauna of Sokoto). He was the Premier of the Northern Region. Tafawa Balewa was the NPC's parliamentary leader and Prime Minister."
+    },
+    {
+      "id": 176,
+      "topic": "Elections",
+      "difficulty": "medium",
+      "question": "A plebiscite is a form of direct vote used specifically to:",
+      "options": {
+        "A": "elect a president",
+        "B": "determine the people's opinion on a territory's political status (e.g., independence or union)",
+        "C": "remove a sitting governor",
+        "D": "approve a government budget"
+      },
+      "correct_answer": "B",
+      "explanation": "A plebiscite is a direct vote in which an entire electorate is invited to accept or refuse a specific proposal, particularly relating to political status (self-determination, independence)."
+    },
+    {
+      "id": 177,
+      "topic": "Constitutional Amendment",
+      "difficulty": "medium",
+      "question": "To amend the Nigerian Constitution (1999), a bill must be passed by:",
+      "options": {
+        "A": "a simple majority in the National Assembly",
+        "B": "two-thirds of the National Assembly and at least two-thirds of all state houses of assembly",
+        "C": "the President alone",
+        "D": "a national referendum only"
+      },
+      "correct_answer": "B",
+      "explanation": "Section 9 of the 1999 Constitution requires that amendments be passed by at least two-thirds of the National Assembly and approved by at least two-thirds (24) of the 36 state houses of assembly."
+    },
+    {
+      "id": 178,
+      "topic": "Rule of Law",
+      "difficulty": "medium",
+      "question": "The principle of 'innocent until proven guilty' (presumption of innocence) is a key element of:",
+      "options": {
+        "A": "parliamentary sovereignty",
+        "B": "the rule of law and fair trial",
+        "C": "the executive's discretion",
+        "D": "military justice"
+      },
+      "correct_answer": "B",
+      "explanation": "The presumption of innocence is a fundamental right under the rule of law. Every accused person is considered innocent until the prosecution proves guilt beyond a reasonable doubt."
+    },
+    {
+      "id": 179,
+      "topic": "Governance",
+      "difficulty": "medium",
+      "question": "The Ombudsman (Public Complaints Commission in Nigeria) is established to:",
+      "options": {
+        "A": "prosecute corrupt officials",
+        "B": "investigate complaints by citizens against government agencies and recommend remedies",
+        "C": "conduct elections",
+        "D": "audit government accounts"
+      },
+      "correct_answer": "B",
+      "explanation": "The Public Complaints Commission (Ombudsman) investigates citizens' complaints against government ministries and officials for maladministration, and recommends appropriate remedies."
+    },
+    {
+      "id": 180,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The World Trade Organization (WTO) regulates:",
+      "options": {
+        "A": "international migration",
+        "B": "global trade rules between nations",
+        "C": "international military alliances",
+        "D": "exchange rates between currencies"
+      },
+      "correct_answer": "B",
+      "explanation": "The WTO (founded 1995) is an international organization that regulates trade between nations, providing a framework for negotiating trade agreements and resolving disputes."
+    },
+    {
+      "id": 181,
+      "topic": "Political History of Nigeria",
+      "difficulty": "medium",
+      "question": "The Crisis that led to the collapse of the First Republic in Nigeria (1964-1966) was primarily caused by:",
+      "options": {
+        "A": "lack of oil revenue",
+        "B": "electoral fraud, ethnic tensions, and political instability between parties and regions",
+        "C": "foreign invasion",
+        "D": "natural disasters"
+      },
+      "correct_answer": "B",
+      "explanation": "The First Republic collapsed due to disputed elections (1964 federal, 1965 Western Region), ethnic tensions, political violence, and governance crises that created the conditions for the January 1966 coup."
+    },
+    {
+      "id": 182,
+      "topic": "Constitutional Law",
+      "difficulty": "medium",
+      "question": "An ex post facto law is one that:",
+      "options": {
+        "A": "applies only to the future",
+        "B": "retroactively criminalizes actions that were legal when committed",
+        "C": "applies only to citizens",
+        "D": "is passed unanimously"
+      },
+      "correct_answer": "B",
+      "explanation": "An ex post facto law retroactively changes the legal consequences of actions committed before the law was passed. Most democracies prohibit such laws as they violate the rule of law."
+    },
+    {
+      "id": 183,
+      "topic": "Colonialism",
+      "difficulty": "medium",
+      "question": "The concept of 'assimilation' in French colonial policy meant:",
+      "options": {
+        "A": "granting colonies immediate independence",
+        "B": "integrating colonized peoples into French culture and civilization",
+        "C": "governing colonies through traditional rulers",
+        "D": "economic exploitation of colonies only"
+      },
+      "correct_answer": "B",
+      "explanation": "French assimilation policy aimed to make colonized peoples 'French' by adopting French language, culture, and citizenship, contrasting with Britain's policy of indirect rule."
+    },
+    {
+      "id": 184,
+      "topic": "Intergovernmental Organizations",
+      "difficulty": "medium",
+      "question": "OPEC (Organization of Petroleum Exporting Countries) is an organization of:",
+      "options": {
+        "A": "oil-importing countries",
+        "B": "oil-exporting countries that coordinate petroleum production policies",
+        "C": "only African oil-producing nations",
+        "D": "European energy companies"
+      },
+      "correct_answer": "B",
+      "explanation": "OPEC is an intergovernmental organization of major oil-exporting nations that coordinates petroleum production and pricing policies to manage global oil markets."
+    },
+    {
+      "id": 185,
+      "topic": "Political Concepts",
+      "difficulty": "medium",
+      "question": "Political apathy refers to:",
+      "options": {
+        "A": "intense political activism",
+        "B": "lack of interest, enthusiasm, or participation in politics",
+        "C": "political violence",
+        "D": "radical political views"
+      },
+      "correct_answer": "B",
+      "explanation": "Political apathy is the indifference or lack of interest in political affairs, resulting in low voter turnout, disengagement from civic activities, and withdrawal from the political process."
+    },
+    {
+      "id": 186,
+      "topic": "Independence Movements",
+      "difficulty": "medium",
+      "question": "The first African country to gain independence from colonial rule (south of the Sahara) was:",
+      "options": {
+        "A": "Nigeria",
+        "B": "Ghana",
+        "C": "Kenya",
+        "D": "Tanzania"
+      },
+      "correct_answer": "B",
+      "explanation": "Ghana (formerly Gold Coast) became the first sub-Saharan African country to gain independence from colonial rule on March 6, 1957, under Kwame Nkrumah."
+    },
+    {
+      "id": 187,
+      "topic": "Constitutional Provisions",
+      "difficulty": "medium",
+      "question": "The term of office of Nigerian state governors under the 1999 Constitution is:",
+      "options": {
+        "A": "three years, renewable once",
+        "B": "four years, renewable once",
+        "C": "five years, not renewable",
+        "D": "six years, not renewable"
+      },
+      "correct_answer": "B",
+      "explanation": "State governors serve a term of four years and may be re-elected for a maximum of two terms (8 years total), same as the President, under the 1999 Constitution."
+    },
+    {
+      "id": 188,
+      "topic": "Legislature",
+      "difficulty": "medium",
+      "question": "A quorum in the Nigerian Senate is achieved when at least how many senators are present?",
+      "options": {
+        "A": "36",
+        "B": "73",
+        "C": "one-third of all senators (37 senators)",
+        "D": "half of all senators (55)"
+      },
+      "correct_answer": "C",
+      "explanation": "The quorum of the Nigerian Senate is one-third of its members (approximately 37 senators), as provided in the 1999 Constitution."
+    },
+    {
+      "id": 189,
+      "topic": "Decolonization",
+      "difficulty": "medium",
+      "question": "Pan-Africanism as a political movement advocates for:",
+      "options": {
+        "A": "European dominance over Africa",
+        "B": "the unity and solidarity of all Africans and people of African descent",
+        "C": "North African independence only",
+        "D": "economic dependence on former colonial powers"
+      },
+      "correct_answer": "B",
+      "explanation": "Pan-Africanism is a movement promoting the unity, solidarity, and liberation of all Africans and the African diaspora, associated with leaders like Kwame Nkrumah, W.E.B. Du Bois, and Marcus Garvey."
+    },
+    {
+      "id": 190,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "Détente in the Cold War context refers to:",
+      "options": {
+        "A": "military confrontation between superpowers",
+        "B": "the easing of tension and improvement of relations between the USA and USSR",
+        "C": "nuclear arms race",
+        "D": "NATO expansion into Eastern Europe"
+      },
+      "correct_answer": "B",
+      "explanation": "Détente (1960s-1970s) was a period of relaxation of Cold War tensions between the USA and USSR, characterized by diplomatic engagement, arms control agreements, and reduced hostility."
+    },
+    {
+      "id": 191,
+      "topic": "Political Concepts",
+      "difficulty": "medium",
+      "question": "Checks and balances in government are designed to prevent:",
+      "options": {
+        "A": "efficient governance",
+        "B": "concentration of too much power in any one branch or person",
+        "C": "democratic elections",
+        "D": "freedom of the press"
+      },
+      "correct_answer": "B",
+      "explanation": "Checks and balances distribute power among branches of government so that no single branch becomes too powerful, preventing tyranny and abuse of power."
+    },
+    {
+      "id": 192,
+      "topic": "International Relations",
+      "difficulty": "medium",
+      "question": "Which international organization monitors and promotes international nuclear safety and non-proliferation?",
+      "options": {
+        "A": "WHO",
+        "B": "IAEA (International Atomic Energy Agency)",
+        "C": "UNESCO",
+        "D": "WTO"
+      },
+      "correct_answer": "B",
+      "explanation": "The International Atomic Energy Agency (IAEA) promotes the peaceful use of nuclear energy and works to prevent nuclear weapons proliferation."
+    },
+    {
+      "id": 193,
+      "topic": "Electoral Systems",
+      "difficulty": "medium",
+      "question": "The Permanent Voter Card (PVC) in Nigeria is issued by:",
+      "options": {
+        "A": "The National Identity Management Commission",
+        "B": "The Police Force",
+        "C": "INEC",
+        "D": "The Federal Ministry of Interior"
+      },
+      "correct_answer": "C",
+      "explanation": "The Permanent Voter Card (PVC) is issued by INEC (Independent National Electoral Commission) to registered voters as proof of registration and eligibility to vote."
+    },
+    {
+      "id": 194,
+      "topic": "Governance",
+      "difficulty": "medium",
+      "question": "The National Youth Service Corps (NYSC) was established in Nigeria in:",
+      "options": {
+        "A": "1960",
+        "B": "1970",
+        "C": "1973",
+        "D": "1979"
+      },
+      "correct_answer": "C",
+      "explanation": "The NYSC was established by General Yakubu Gowon in 1973 (post-civil war) to promote national unity and integration by deploying graduates to serve in states outside their origins."
+    },
+    {
+      "id": 195,
+      "topic": "Democratic Principles",
+      "difficulty": "medium",
+      "question": "The principle of 'one man, one vote' ensures:",
+      "options": {
+        "A": "only men can vote",
+        "B": "each voter has equal voting power and influence",
+        "C": "votes are cast only once per decade",
+        "D": "only educated voters have influence"
+      },
+      "correct_answer": "B",
+      "explanation": "'One man, one vote' (one person, one vote) ensures that each eligible voter has equal voting power — no person's vote counts more than another's."
+    },
+    {
+      "id": 196,
+      "topic": "Constitutional Law",
+      "difficulty": "medium",
+      "question": "The concept of 'locus standi' in law refers to:",
+      "options": {
+        "A": "the right of a person to bring a case before a court because they have a sufficient interest",
+        "B": "the location where a trial is held",
+        "C": "the right to remain silent during interrogation",
+        "D": "the length of a prison sentence"
+      },
+      "correct_answer": "A",
+      "explanation": "Locus standi (Latin: 'place to stand') refers to the legal capacity or right of a person or organization to initiate legal proceedings in court, based on having a sufficient direct interest in the matter."
+    },
+    {
+      "id": 197,
+      "topic": "International Organizations",
+      "difficulty": "medium",
+      "question": "The World Health Organization (WHO) is a specialized agency of the:",
+      "options": {
+        "A": "African Union",
+        "B": "European Union",
+        "C": "United Nations",
+        "D": "ECOWAS"
+      },
+      "correct_answer": "C",
+      "explanation": "The WHO is a specialized agency of the United Nations responsible for international public health. It coordinates responses to global health emergencies and sets health standards."
+    },
+    {
+      "id": 198,
+      "topic": "Nigerian Political History",
+      "difficulty": "medium",
+      "question": "The 'Aburi Accord' of January 1967 was an agreement between Yakubu Gowon and Ojukwu aimed at:",
+      "options": {
+        "A": "creating more states in Nigeria",
+        "B": "resolving the political crisis and agreeing on a loose confederation to keep Nigeria together",
+        "C": "declaring war on Biafra",
+        "D": "establishing a military government"
+      },
+      "correct_answer": "B",
+      "explanation": "The Aburi Accord (Aburi, Ghana, January 1967) was an agreement between Gowon and Ojukwu for a loose confederation, but it was not fully implemented by the federal side, contributing to the civil war."
+    },
+    {
+      "id": 199,
+      "topic": "Government and Politics",
+      "difficulty": "medium",
+      "question": "Coup d'état literally means:",
+      "options": {
+        "A": "election of a new leader",
+        "B": "a sudden seizure of state power, typically by the military",
+        "C": "declaration of a state of emergency",
+        "D": "popular uprising by citizens"
+      },
+      "correct_answer": "B",
+      "explanation": "Coup d'état (French: 'blow of state') refers to the sudden, forcible seizure of power from a government, typically carried out by the military or a small group with access to force."
+    },
+    {
+      "id": 200,
+      "topic": "Democratic Governance",
+      "difficulty": "medium",
+      "question": "Civil society organizations (CSOs) contribute to democracy by:",
+      "options": {
+        "A": "replacing political parties",
+        "B": "organizing coups against elected governments",
+        "C": "advocating for citizens' rights, promoting accountability, and bridging government-citizen relations",
+        "D": "collecting government taxes"
+      },
+      "correct_answer": "C",
+      "explanation": "Civil society organizations (NGOs, trade unions, professional associations, community groups) advocate for rights, hold government accountable, and represent citizens' interests outside the formal political system."
+    }
+  ]
+}

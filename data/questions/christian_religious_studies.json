@@ -1,0 +1,2806 @@
+{
+  "subject": "Christian Religious Studies",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Creation",
+      "difficulty": "medium",
+      "question": "According to Genesis 1, what did God create on the first day?",
+      "options": {
+        "A": "Sun, moon, and stars",
+        "B": "Light",
+        "C": "Sky and water",
+        "D": "Plants and trees"
+      },
+      "correct_answer": "B",
+      "explanation": "On the first day, God said 'Let there be light' and there was light (Genesis 1:3). The sun, moon, and stars were created on the fourth day."
+    },
+    {
+      "id": 2,
+      "topic": "Creation",
+      "difficulty": "medium",
+      "question": "On which day did God create man according to the Genesis 1 account?",
+      "options": {
+        "A": "Fifth day",
+        "B": "Fourth day",
+        "C": "Sixth day",
+        "D": "Seventh day"
+      },
+      "correct_answer": "C",
+      "explanation": "God created man on the sixth day (Genesis 1:26-31), after creating animals. On the seventh day, God rested."
+    },
+    {
+      "id": 3,
+      "topic": "Creation",
+      "difficulty": "medium",
+      "question": "According to Genesis 2, what did God use to create the first woman?",
+      "options": {
+        "A": "The dust of the ground",
+        "B": "A rib from Adam",
+        "C": "Water from the river",
+        "D": "Clay from the garden"
+      },
+      "correct_answer": "B",
+      "explanation": "God caused a deep sleep to fall on Adam, took one of his ribs, and made a woman (Genesis 2:21-22)."
+    },
+    {
+      "id": 4,
+      "topic": "The Fall",
+      "difficulty": "medium",
+      "question": "What specific command did God give Adam about the trees in the Garden of Eden?",
+      "options": {
+        "A": "They could not eat from any tree in the garden",
+        "B": "They could eat from every tree except the Tree of Life",
+        "C": "They could eat from every tree except the Tree of the Knowledge of Good and Evil",
+        "D": "They could only eat fruit from the Tree of Life"
+      },
+      "correct_answer": "C",
+      "explanation": "God commanded Adam not to eat from the Tree of the Knowledge of Good and Evil, warning that he would die (Genesis 2:17)."
+    },
+    {
+      "id": 5,
+      "topic": "The Fall",
+      "difficulty": "medium",
+      "question": "Who tempted Eve in the Garden of Eden according to Genesis 3?",
+      "options": {
+        "A": "An angel",
+        "B": "The serpent",
+        "C": "Adam",
+        "D": "Satan in human form"
+      },
+      "correct_answer": "B",
+      "explanation": "The serpent, described as more crafty than any wild animal, tempted Eve to eat the forbidden fruit (Genesis 3:1)."
+    },
+    {
+      "id": 6,
+      "topic": "The Fall",
+      "difficulty": "medium",
+      "question": "What was the punishment given to the serpent after the fall of man in Genesis 3?",
+      "options": {
+        "A": "It was cast out of the garden",
+        "B": "It was made to crawl on its belly and eat dust",
+        "C": "It was destroyed immediately",
+        "D": "It was made to fear all animals"
+      },
+      "correct_answer": "B",
+      "explanation": "God cursed the serpent to crawl on its belly and eat dust all the days of its life (Genesis 3:14)."
+    },
+    {
+      "id": 7,
+      "topic": "Cain and Abel",
+      "difficulty": "medium",
+      "question": "What was Cain's occupation as stated in Genesis 4?",
+      "options": {
+        "A": "A shepherd",
+        "B": "A fisherman",
+        "C": "A farmer",
+        "D": "A hunter"
+      },
+      "correct_answer": "C",
+      "explanation": "Genesis 4:2 states that Cain worked the soil (a farmer), while his brother Abel kept flocks."
+    },
+    {
+      "id": 8,
+      "topic": "Cain and Abel",
+      "difficulty": "medium",
+      "question": "After Cain killed Abel, what mark did God put on Cain?",
+      "options": {
+        "A": "A mark so that he would be recognized as a murderer",
+        "B": "A mark to protect him from being killed",
+        "C": "A mark of shame on his forehead",
+        "D": "A mark showing God's curse on him"
+      },
+      "correct_answer": "B",
+      "explanation": "God put a mark on Cain so that no one who found him would kill him (Genesis 4:15). It was a mark of protection, not punishment."
+    },
+    {
+      "id": 9,
+      "topic": "Noah and the Flood",
+      "difficulty": "medium",
+      "question": "How many days and nights did it rain during Noah's flood?",
+      "options": {
+        "A": "30 days and 30 nights",
+        "B": "40 days and 40 nights",
+        "C": "60 days and 60 nights",
+        "D": "7 days and 7 nights"
+      },
+      "correct_answer": "B",
+      "explanation": "Genesis 7:12 states that rain fell on the earth forty days and forty nights."
+    },
+    {
+      "id": 10,
+      "topic": "Noah and the Flood",
+      "difficulty": "medium",
+      "question": "What was the sign of God's covenant with Noah after the flood?",
+      "options": {
+        "A": "A burning bush",
+        "B": "A dove with an olive branch",
+        "C": "A rainbow",
+        "D": "A bright star"
+      },
+      "correct_answer": "C",
+      "explanation": "God set a rainbow in the clouds as a sign of the covenant never to destroy the earth by flood again (Genesis 9:13)."
+    },
+    {
+      "id": 11,
+      "topic": "Noah and the Flood",
+      "difficulty": "medium",
+      "question": "How many people were saved in Noah's ark?",
+      "options": {
+        "A": "Six",
+        "B": "Eight",
+        "C": "Ten",
+        "D": "Twelve"
+      },
+      "correct_answer": "B",
+      "explanation": "Noah, his wife, his three sons (Shem, Ham, and Japheth), and their wives — eight people in total — were saved (Genesis 7:7, 1 Peter 3:20)."
+    },
+    {
+      "id": 12,
+      "topic": "Abraham",
+      "difficulty": "medium",
+      "question": "What was Abraham's original name before God changed it?",
+      "options": {
+        "A": "Abram",
+        "B": "Abiram",
+        "C": "Abner",
+        "D": "Abimelech"
+      },
+      "correct_answer": "A",
+      "explanation": "God changed Abram's name to Abraham, meaning 'father of many nations' (Genesis 17:5)."
+    },
+    {
+      "id": 13,
+      "topic": "Abraham",
+      "difficulty": "medium",
+      "question": "What did God command Abraham to do as a test of his faith in Genesis 22?",
+      "options": {
+        "A": "Leave his homeland and all his possessions",
+        "B": "Sacrifice his son Isaac on a mountain",
+        "C": "Circumcise all the males in his household",
+        "D": "Fast for forty days"
+      },
+      "correct_answer": "B",
+      "explanation": "God tested Abraham by commanding him to offer his son Isaac as a burnt offering on Mount Moriah (Genesis 22:2)."
+    },
+    {
+      "id": 14,
+      "topic": "Abraham",
+      "difficulty": "medium",
+      "question": "What was the sign of the covenant between God and Abraham?",
+      "options": {
+        "A": "Baptism",
+        "B": "The Sabbath",
+        "C": "Circumcision",
+        "D": "Animal sacrifice"
+      },
+      "correct_answer": "C",
+      "explanation": "God commanded that every male among Abraham's descendants be circumcised as a sign of the covenant (Genesis 17:11)."
+    },
+    {
+      "id": 15,
+      "topic": "Abraham",
+      "difficulty": "medium",
+      "question": "From which city did Abraham originally come before God called him?",
+      "options": {
+        "A": "Babylon",
+        "B": "Ur of the Chaldeans",
+        "C": "Nineveh",
+        "D": "Haran"
+      },
+      "correct_answer": "B",
+      "explanation": "Abraham originally came from Ur of the Chaldeans (Genesis 11:31, Acts 7:2-4), though he later lived in Haran before God called him."
+    },
+    {
+      "id": 16,
+      "topic": "Joseph",
+      "difficulty": "medium",
+      "question": "What gift did Jacob give to Joseph that caused jealousy among his brothers?",
+      "options": {
+        "A": "A silver ring",
+        "B": "An ornate robe",
+        "C": "A golden crown",
+        "D": "A special weapon"
+      },
+      "correct_answer": "B",
+      "explanation": "Jacob gave Joseph a richly ornamented robe (coat of many colours), which made his brothers jealous (Genesis 37:3)."
+    },
+    {
+      "id": 17,
+      "topic": "Joseph",
+      "difficulty": "medium",
+      "question": "Who was the Egyptian officer who bought Joseph as a slave?",
+      "options": {
+        "A": "Pharaoh",
+        "B": "Potiphar",
+        "C": "Abimelech",
+        "D": "Nebuchadnezzar"
+      },
+      "correct_answer": "B",
+      "explanation": "Potiphar, one of Pharaoh's officials and captain of the guard, bought Joseph from the Ishmaelites (Genesis 39:1)."
+    },
+    {
+      "id": 18,
+      "topic": "Joseph",
+      "difficulty": "medium",
+      "question": "What was the content of Pharaoh's dream that Joseph interpreted in Genesis 41?",
+      "options": {
+        "A": "A great army conquering Egypt",
+        "B": "Seven fat cows eaten by seven thin cows, and seven full ears of grain consumed by seven thin ears",
+        "C": "A tree growing from Egypt reaching heaven",
+        "D": "Seven stars bowing before one great star"
+      },
+      "correct_answer": "B",
+      "explanation": "Pharaoh dreamed of seven fat cows eaten by seven thin cows, and seven full heads of grain swallowed by seven thin heads — both symbolising seven years of plenty followed by seven years of famine (Genesis 41)."
+    },
+    {
+      "id": 19,
+      "topic": "Moses",
+      "difficulty": "medium",
+      "question": "Why did Moses flee from Egypt the first time?",
+      "options": {
+        "A": "He stole from Pharaoh's palace",
+        "B": "He killed an Egyptian who was beating a Hebrew",
+        "C": "He refused to worship the Egyptian gods",
+        "D": "He led a failed uprising against Pharaoh"
+      },
+      "correct_answer": "B",
+      "explanation": "Moses killed an Egyptian he saw beating a Hebrew slave. When Pharaoh heard of it, Moses fled to Midian (Exodus 2:11-15)."
+    },
+    {
+      "id": 20,
+      "topic": "Moses",
+      "difficulty": "medium",
+      "question": "Where did God appear to Moses in a burning bush?",
+      "options": {
+        "A": "Mount Sinai",
+        "B": "Mount Zion",
+        "C": "Mount Horeb",
+        "D": "Mount Carmel"
+      },
+      "correct_answer": "C",
+      "explanation": "God appeared to Moses in flames of fire from within a burning bush at Horeb, the mountain of God (Exodus 3:1-2)."
+    },
+    {
+      "id": 21,
+      "topic": "Moses",
+      "difficulty": "medium",
+      "question": "What was the last (tenth) plague God sent on Egypt to compel Pharaoh to release the Israelites?",
+      "options": {
+        "A": "Darkness over the land",
+        "B": "Turning of rivers to blood",
+        "C": "Death of the firstborn",
+        "D": "Swarms of locusts"
+      },
+      "correct_answer": "C",
+      "explanation": "The tenth and final plague was the death of all firstborn sons in Egypt, from Pharaoh's son to the firstborn of cattle (Exodus 11-12)."
+    },
+    {
+      "id": 22,
+      "topic": "The Ten Commandments",
+      "difficulty": "medium",
+      "question": "On which mountain did God give Moses the Ten Commandments?",
+      "options": {
+        "A": "Mount Zion",
+        "B": "Mount Carmel",
+        "C": "Mount Horeb",
+        "D": "Mount Sinai"
+      },
+      "correct_answer": "D",
+      "explanation": "God gave Moses the Ten Commandments on Mount Sinai (Exodus 19-20). Though Horeb is sometimes used as another name for the same mountain, Sinai is the primary name used in the Exodus account."
+    },
+    {
+      "id": 23,
+      "topic": "The Ten Commandments",
+      "difficulty": "medium",
+      "question": "Which of the following is the fourth commandment in Exodus 20?",
+      "options": {
+        "A": "You shall not commit adultery",
+        "B": "Honour your father and mother",
+        "C": "Remember the Sabbath day and keep it holy",
+        "D": "You shall have no other gods before Me"
+      },
+      "correct_answer": "C",
+      "explanation": "The fourth commandment instructs Israel to remember the Sabbath day and keep it holy, resting on the seventh day as God did (Exodus 20:8-11)."
+    },
+    {
+      "id": 24,
+      "topic": "The Ten Commandments",
+      "difficulty": "medium",
+      "question": "What does the fifth commandment specifically require of people?",
+      "options": {
+        "A": "Not to steal",
+        "B": "Not to worship idols",
+        "C": "To honour their father and mother",
+        "D": "To keep the Sabbath day holy"
+      },
+      "correct_answer": "C",
+      "explanation": "The fifth commandment states: 'Honour your father and your mother, so that you may live long in the land the Lord your God is giving you' (Exodus 20:12)."
+    },
+    {
+      "id": 25,
+      "topic": "Joshua",
+      "difficulty": "medium",
+      "question": "How did the walls of Jericho fall according to Joshua 6?",
+      "options": {
+        "A": "They were broken down by soldiers with battering rams",
+        "B": "God sent an earthquake",
+        "C": "The Israelites marched around the city and blew trumpets",
+        "D": "Fire fell from heaven and destroyed them"
+      },
+      "correct_answer": "C",
+      "explanation": "God commanded the Israelites to march around Jericho once daily for six days, and on the seventh day seven times. When they shouted and blew trumpets, the walls collapsed (Joshua 6:20)."
+    },
+    {
+      "id": 26,
+      "topic": "Joshua",
+      "difficulty": "medium",
+      "question": "Who hid the two spies sent by Joshua to Jericho?",
+      "options": {
+        "A": "Deborah",
+        "B": "Rahab",
+        "C": "Ruth",
+        "D": "Miriam"
+      },
+      "correct_answer": "B",
+      "explanation": "Rahab, a prostitute who lived in Jericho, hid the two spies on her roof under stalks of flax (Joshua 2:4-6)."
+    },
+    {
+      "id": 27,
+      "topic": "The Judges",
+      "difficulty": "medium",
+      "question": "Which judge of Israel was known for his great physical strength?",
+      "options": {
+        "A": "Gideon",
+        "B": "Deborah",
+        "C": "Samson",
+        "D": "Jephthah"
+      },
+      "correct_answer": "C",
+      "explanation": "Samson was endowed with extraordinary physical strength by God as long as he kept his Nazirite vow of not cutting his hair (Judges 13-16)."
+    },
+    {
+      "id": 28,
+      "topic": "The Judges",
+      "difficulty": "medium",
+      "question": "Which woman served as both a judge and prophetess in Israel?",
+      "options": {
+        "A": "Miriam",
+        "B": "Deborah",
+        "C": "Huldah",
+        "D": "Hannah"
+      },
+      "correct_answer": "B",
+      "explanation": "Deborah was a prophetess and judge who led Israel. She summoned Barak to fight against Sisera and accompanied the army to battle (Judges 4-5)."
+    },
+    {
+      "id": 29,
+      "topic": "The Judges",
+      "difficulty": "medium",
+      "question": "Gideon defeated the Midianites with an army reduced to how many men?",
+      "options": {
+        "A": "100",
+        "B": "300",
+        "C": "600",
+        "D": "1000"
+      },
+      "correct_answer": "B",
+      "explanation": "God reduced Gideon's army from 32,000 to 300 men to ensure Israel could not boast that their own strength saved them (Judges 7:7)."
+    },
+    {
+      "id": 30,
+      "topic": "Samuel",
+      "difficulty": "medium",
+      "question": "Who was the mother of Samuel and how did she acquire him?",
+      "options": {
+        "A": "Naomi; she prayed for a child",
+        "B": "Hannah; she prayed earnestly to God at Shiloh",
+        "C": "Ruth; God opened her womb",
+        "D": "Peninnah; she was blessed by Eli"
+      },
+      "correct_answer": "B",
+      "explanation": "Hannah, a barren woman, prayed earnestly at Shiloh. God remembered her, and she conceived and gave birth to Samuel (1 Samuel 1)."
+    },
+    {
+      "id": 31,
+      "topic": "Samuel",
+      "difficulty": "medium",
+      "question": "Who trained Samuel as a young boy in the service of the Lord?",
+      "options": {
+        "A": "Nathan the prophet",
+        "B": "Eli the priest",
+        "C": "Samuel's father Elkanah",
+        "D": "Moses"
+      },
+      "correct_answer": "B",
+      "explanation": "Hannah dedicated Samuel to God and brought him to Eli the priest at Shiloh, where Samuel served and grew under Eli's supervision (1 Samuel 1:28, 2:11)."
+    },
+    {
+      "id": 32,
+      "topic": "King Saul",
+      "difficulty": "medium",
+      "question": "Why did God reject Saul as king of Israel?",
+      "options": {
+        "A": "He committed adultery with a foreign woman",
+        "B": "He disobeyed God by offering a sacrifice and by failing to destroy the Amalekites completely",
+        "C": "He worshipped idols in the temple",
+        "D": "He murdered an innocent man"
+      },
+      "correct_answer": "B",
+      "explanation": "Saul was rejected because he disobeyed God by offering an unlawful sacrifice (1 Samuel 13) and by failing to completely destroy the Amalekites and their king Agag as commanded (1 Samuel 15)."
+    },
+    {
+      "id": 33,
+      "topic": "King David",
+      "difficulty": "medium",
+      "question": "David was from which tribe of Israel?",
+      "options": {
+        "A": "Benjamin",
+        "B": "Levi",
+        "C": "Judah",
+        "D": "Ephraim"
+      },
+      "correct_answer": "C",
+      "explanation": "David was from the tribe of Judah and from the city of Bethlehem. He was the son of Jesse of Bethlehem (1 Samuel 16:1)."
+    },
+    {
+      "id": 34,
+      "topic": "King David",
+      "difficulty": "medium",
+      "question": "What weapon did David use to kill Goliath?",
+      "options": {
+        "A": "A sword",
+        "B": "A spear",
+        "C": "A sling and a stone",
+        "D": "A bow and arrow"
+      },
+      "correct_answer": "C",
+      "explanation": "David killed Goliath with a sling and a stone from a brook, striking the Philistine on the forehead (1 Samuel 17:49-50)."
+    },
+    {
+      "id": 35,
+      "topic": "King David",
+      "difficulty": "medium",
+      "question": "What great sin did David commit that was rebuked by the prophet Nathan?",
+      "options": {
+        "A": "He stole from the temple treasury",
+        "B": "He committed adultery with Bathsheba and arranged the death of her husband Uriah",
+        "C": "He built high places for idol worship",
+        "D": "He refused to offer sacrifice to God"
+      },
+      "correct_answer": "B",
+      "explanation": "David committed adultery with Bathsheba and then arranged for her husband Uriah to be placed at the front of battle to be killed (2 Samuel 11). Nathan confronted him with the parable of a rich man and a poor man's lamb (2 Samuel 12)."
+    },
+    {
+      "id": 36,
+      "topic": "King Solomon",
+      "difficulty": "medium",
+      "question": "What did Solomon ask God for when given the opportunity to request anything?",
+      "options": {
+        "A": "Long life and riches",
+        "B": "Victory over his enemies",
+        "C": "A wise and understanding heart to govern the people",
+        "D": "The ability to build the temple"
+      },
+      "correct_answer": "C",
+      "explanation": "When God appeared to Solomon at Gibeon in a dream and told him to ask for whatever he wanted, Solomon asked for a discerning heart to govern God's people (1 Kings 3:9)."
+    },
+    {
+      "id": 37,
+      "topic": "King Solomon",
+      "difficulty": "medium",
+      "question": "What led to the downfall of Solomon according to 1 Kings 11?",
+      "options": {
+        "A": "He became proud and neglected the poor",
+        "B": "His foreign wives turned his heart to worship other gods",
+        "C": "He went to war against the nations around him",
+        "D": "He refused to maintain the temple he built"
+      },
+      "correct_answer": "B",
+      "explanation": "Solomon's foreign wives turned his heart after other gods. He built high places for the gods of his wives and worshipped them, which angered the Lord (1 Kings 11:1-8)."
+    },
+    {
+      "id": 38,
+      "topic": "Elijah",
+      "difficulty": "medium",
+      "question": "On which mountain did Elijah challenge the prophets of Baal?",
+      "options": {
+        "A": "Mount Zion",
+        "B": "Mount Sinai",
+        "C": "Mount Carmel",
+        "D": "Mount Tabor"
+      },
+      "correct_answer": "C",
+      "explanation": "Elijah challenged the 450 prophets of Baal and 400 prophets of Asherah to a contest on Mount Carmel to prove which God was the true God (1 Kings 18:19-20)."
+    },
+    {
+      "id": 39,
+      "topic": "Elijah",
+      "difficulty": "medium",
+      "question": "How did Elijah leave the earth according to 2 Kings 2?",
+      "options": {
+        "A": "He died peacefully and was buried by Elisha",
+        "B": "He was taken up by a chariot of fire and a whirlwind",
+        "C": "He was swallowed by the earth",
+        "D": "An angel carried him to heaven"
+      },
+      "correct_answer": "B",
+      "explanation": "As Elijah and Elisha were walking together, a chariot of fire and horses of fire appeared and Elijah went up to heaven in a whirlwind (2 Kings 2:11)."
+    },
+    {
+      "id": 40,
+      "topic": "Isaiah",
+      "difficulty": "medium",
+      "question": "Isaiah's call to prophecy in chapter 6 took place in the year which king of Judah died?",
+      "options": {
+        "A": "Hezekiah",
+        "B": "Uzziah",
+        "C": "Jotham",
+        "D": "Ahaz"
+      },
+      "correct_answer": "B",
+      "explanation": "Isaiah 6:1 states: 'In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted.' This was when Isaiah received his call."
+    },
+    {
+      "id": 41,
+      "topic": "Isaiah",
+      "difficulty": "medium",
+      "question": "What did the seraph use to touch Isaiah's lips during his vision in Isaiah 6?",
+      "options": {
+        "A": "Holy water",
+        "B": "A burning coal",
+        "C": "Oil from the altar",
+        "D": "A golden rod"
+      },
+      "correct_answer": "B",
+      "explanation": "One of the seraphim flew to Isaiah with a live coal taken from the altar with tongs and touched his mouth, purifying him (Isaiah 6:6-7)."
+    },
+    {
+      "id": 42,
+      "topic": "Jeremiah",
+      "difficulty": "medium",
+      "question": "What excuse did Jeremiah give when God called him to be a prophet?",
+      "options": {
+        "A": "He said he was too old",
+        "B": "He said he did not know how to speak because he was only a child",
+        "C": "He said the people would not listen to him",
+        "D": "He said he was a sinner and unworthy"
+      },
+      "correct_answer": "B",
+      "explanation": "Jeremiah protested that he did not know how to speak, saying 'I am only a child' (Jeremiah 1:6). God assured him that He would put His words in Jeremiah's mouth."
+    },
+    {
+      "id": 43,
+      "topic": "Jeremiah",
+      "difficulty": "medium",
+      "question": "What is the central theme of Jeremiah's prophecy about the new covenant in Jeremiah 31?",
+      "options": {
+        "A": "God would write His law on the hearts of His people",
+        "B": "God would restore the temple in Jerusalem",
+        "C": "God would give Israel a new king from David's line",
+        "D": "God would forgive only those who offer sacrifices"
+      },
+      "correct_answer": "A",
+      "explanation": "In Jeremiah 31:33, God promises: 'I will put my law in their minds and write it on their hearts.' This new covenant would be internalised rather than written on stone tablets."
+    },
+    {
+      "id": 44,
+      "topic": "Amos",
+      "difficulty": "medium",
+      "question": "What was Amos's occupation before God called him to prophesy?",
+      "options": {
+        "A": "A priest at Bethel",
+        "B": "A shepherd and a dresser of sycamore trees",
+        "C": "A scribe in the royal court",
+        "D": "A soldier in Israel's army"
+      },
+      "correct_answer": "B",
+      "explanation": "Amos declared that he was not a prophet nor the son of a prophet, but a shepherd and a tender of sycamore trees when God called him (Amos 7:14-15)."
+    },
+    {
+      "id": 45,
+      "topic": "Amos",
+      "difficulty": "medium",
+      "question": "What is the central message of the prophet Amos?",
+      "options": {
+        "A": "Israel should return to worshipping at Jerusalem",
+        "B": "God demands social justice and condemns the exploitation of the poor",
+        "C": "The Messiah would come from the line of David",
+        "D": "Israel should remain loyal to the Assyrian empire"
+      },
+      "correct_answer": "B",
+      "explanation": "Amos's primary message was a call for social justice. He condemned the wealthy for oppressing the poor, corruption in the courts, and empty religious rituals without righteousness (Amos 5:24)."
+    },
+    {
+      "id": 46,
+      "topic": "Hosea",
+      "difficulty": "medium",
+      "question": "How did God use Hosea's marriage to illustrate His relationship with Israel?",
+      "options": {
+        "A": "Hosea's faithful wife represented God's faithfulness to Israel",
+        "B": "Hosea's marriage to a prostitute symbolised Israel's unfaithfulness to God who still loved her",
+        "C": "Hosea divorced his wife as God would divorce Israel",
+        "D": "Hosea's many wives showed God's covenant with many nations"
+      },
+      "correct_answer": "B",
+      "explanation": "God commanded Hosea to marry an unfaithful woman (Gomer) as a living illustration of how Israel had been unfaithful to God through idol worship, yet God still loved Israel and would restore her (Hosea 1-3)."
+    },
+    {
+      "id": 47,
+      "topic": "Ezekiel",
+      "difficulty": "medium",
+      "question": "What vision of dry bones did Ezekiel receive in Ezekiel 37 and what did it represent?",
+      "options": {
+        "A": "The physical resurrection of all the dead at the end of time",
+        "B": "The restoration and national revival of the house of Israel",
+        "C": "The defeat of Israel's enemies in battle",
+        "D": "The building of a new temple in Jerusalem"
+      },
+      "correct_answer": "B",
+      "explanation": "The valley of dry bones vision (Ezekiel 37:1-14) symbolised the restoration of the nation of Israel from exile. God told Ezekiel: 'These bones are the whole house of Israel' and He would bring them back to their land."
+    },
+    {
+      "id": 48,
+      "topic": "The Birth of Jesus",
+      "difficulty": "medium",
+      "question": "To whom did the angel Gabriel first appear to announce the birth of Jesus?",
+      "options": {
+        "A": "Joseph",
+        "B": "Mary",
+        "C": "Elizabeth",
+        "D": "Zechariah"
+      },
+      "correct_answer": "B",
+      "explanation": "The angel Gabriel was sent by God to Mary in Nazareth to announce that she would conceive and give birth to the Son of God (Luke 1:26-31)."
+    },
+    {
+      "id": 49,
+      "topic": "The Birth of Jesus",
+      "difficulty": "medium",
+      "question": "Where was Jesus born according to the Gospel accounts?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Nazareth",
+        "C": "Bethlehem",
+        "D": "Capernaum"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus was born in Bethlehem of Judea during the reign of King Herod (Matthew 2:1, Luke 2:4-7)."
+    },
+    {
+      "id": 50,
+      "topic": "The Birth of Jesus",
+      "difficulty": "medium",
+      "question": "Who was the Roman Emperor during whose reign a census was taken that brought Joseph and Mary to Bethlehem?",
+      "options": {
+        "A": "Herod the Great",
+        "B": "Caesar Tiberius",
+        "C": "Caesar Augustus",
+        "D": "Pontius Pilate"
+      },
+      "correct_answer": "C",
+      "explanation": "Luke 2:1 records that Caesar Augustus issued a decree that a census should be taken of the entire Roman world, which brought Joseph and Mary to Bethlehem."
+    },
+    {
+      "id": 51,
+      "topic": "The Baptism and Temptation of Jesus",
+      "difficulty": "medium",
+      "question": "In which river was Jesus baptised by John the Baptist?",
+      "options": {
+        "A": "River Euphrates",
+        "B": "River Jordan",
+        "C": "River Nile",
+        "D": "River Tigris"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus came from Galilee to the River Jordan to be baptised by John the Baptist (Matthew 3:13). After His baptism, the Holy Spirit descended on Him like a dove."
+    },
+    {
+      "id": 52,
+      "topic": "The Baptism and Temptation of Jesus",
+      "difficulty": "medium",
+      "question": "How long did Jesus fast in the wilderness before being tempted by the devil?",
+      "options": {
+        "A": "Three days and three nights",
+        "B": "Seven days and seven nights",
+        "C": "Thirty days and thirty nights",
+        "D": "Forty days and forty nights"
+      },
+      "correct_answer": "D",
+      "explanation": "After His baptism, Jesus was led by the Spirit into the wilderness, where He fasted for forty days and forty nights before being tempted by the devil (Matthew 4:2)."
+    },
+    {
+      "id": 53,
+      "topic": "The Baptism and Temptation of Jesus",
+      "difficulty": "medium",
+      "question": "What was the first temptation the devil presented to Jesus in the wilderness?",
+      "options": {
+        "A": "To throw Himself from the pinnacle of the temple",
+        "B": "To bow down and worship the devil in exchange for all the kingdoms of the world",
+        "C": "To turn stones into bread",
+        "D": "To call angels to protect Him"
+      },
+      "correct_answer": "C",
+      "explanation": "The first temptation was when the devil said 'If you are the Son of God, tell these stones to become bread' (Matthew 4:3). Jesus responded by quoting Deuteronomy 8:3."
+    },
+    {
+      "id": 54,
+      "topic": "The Sermon on the Mount",
+      "difficulty": "medium",
+      "question": "How many Beatitudes are listed in Matthew 5?",
+      "options": {
+        "A": "Six",
+        "B": "Seven",
+        "C": "Eight",
+        "D": "Ten"
+      },
+      "correct_answer": "C",
+      "explanation": "There are eight Beatitudes in Matthew 5:3-10, beginning with 'Blessed are the poor in spirit...' and ending with 'Blessed are those who are persecuted because of righteousness.'"
+    },
+    {
+      "id": 55,
+      "topic": "The Sermon on the Mount",
+      "difficulty": "medium",
+      "question": "In the Sermon on the Mount, Jesus described His followers as the salt of the earth and also as what?",
+      "options": {
+        "A": "The bread of life",
+        "B": "The light of the world",
+        "C": "The rock of the church",
+        "D": "The foundation of truth"
+      },
+      "correct_answer": "B",
+      "explanation": "In Matthew 5:13-14, Jesus called His disciples both the salt of the earth and the light of the world, urging them to let their light shine before others."
+    },
+    {
+      "id": 56,
+      "topic": "The Sermon on the Mount",
+      "difficulty": "medium",
+      "question": "In the Lord's Prayer as taught by Jesus in Matthew 6, what does Jesus teach about forgiveness?",
+      "options": {
+        "A": "God forgives us unconditionally regardless of our actions",
+        "B": "We should ask God for forgiveness only in private",
+        "C": "God forgives our debts as we also have forgiven our debtors",
+        "D": "Forgiveness is only possible through regular fasting"
+      },
+      "correct_answer": "C",
+      "explanation": "In Matthew 6:12, Jesus teaches: 'And forgive us our debts, as we also have forgiven our debtors.' This links divine forgiveness with our willingness to forgive others."
+    },
+    {
+      "id": 57,
+      "topic": "The Sermon on the Mount",
+      "difficulty": "medium",
+      "question": "What is the Golden Rule as stated by Jesus in Matthew 7:12?",
+      "options": {
+        "A": "Love the Lord your God with all your heart, soul, and mind",
+        "B": "Do to others what you would have them do to you",
+        "C": "Love your neighbour as yourself",
+        "D": "Blessed are the merciful, for they will be shown mercy"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus stated: 'So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets' (Matthew 7:12)."
+    },
+    {
+      "id": 58,
+      "topic": "Parables of Jesus",
+      "difficulty": "medium",
+      "question": "In the Parable of the Prodigal Son (Luke 15), what did the younger son ask his father for before leaving?",
+      "options": {
+        "A": "His father's blessing",
+        "B": "His share of the inheritance",
+        "C": "Permission to marry a foreign woman",
+        "D": "Money to start a business"
+      },
+      "correct_answer": "B",
+      "explanation": "The younger son asked his father to give him his share of the estate (inheritance) before the father died. The father divided his property between the two sons (Luke 15:12)."
+    },
+    {
+      "id": 59,
+      "topic": "Parables of Jesus",
+      "difficulty": "medium",
+      "question": "In the Parable of the Good Samaritan (Luke 10), who passed by the wounded man without helping him first?",
+      "options": {
+        "A": "A scribe and a Pharisee",
+        "B": "A priest and a Levite",
+        "C": "A soldier and a tax collector",
+        "D": "A rabbi and a merchant"
+      },
+      "correct_answer": "B",
+      "explanation": "In Luke 10:31-32, a priest and then a Levite both saw the wounded man but passed by on the other side without helping him. A Samaritan was the one who showed mercy."
+    },
+    {
+      "id": 60,
+      "topic": "Parables of Jesus",
+      "difficulty": "medium",
+      "question": "What is the main lesson of the Parable of the Sower in Matthew 13?",
+      "options": {
+        "A": "Farmers should plant their seeds on good soil only",
+        "B": "People respond differently to the word of God depending on the condition of their hearts",
+        "C": "The kingdom of God will have a great harvest at the end of time",
+        "D": "Hard work and patience always produce great results"
+      },
+      "correct_answer": "B",
+      "explanation": "The four types of soil represent different responses to the word of God: the hardened heart, the shallow heart, the crowded heart, and the receptive heart. Only the good soil produces a harvest (Matthew 13:3-23)."
+    },
+    {
+      "id": 61,
+      "topic": "Miracles of Jesus",
+      "difficulty": "medium",
+      "question": "What was the first miracle Jesus performed according to the Gospel of John?",
+      "options": {
+        "A": "Healing a blind man",
+        "B": "Feeding five thousand people",
+        "C": "Turning water into wine at Cana",
+        "D": "Raising Lazarus from the dead"
+      },
+      "correct_answer": "C",
+      "explanation": "The first miraculous sign Jesus performed was turning water into wine at a wedding in Cana of Galilee. This was the beginning of His signs (John 2:1-11)."
+    },
+    {
+      "id": 62,
+      "topic": "Miracles of Jesus",
+      "difficulty": "medium",
+      "question": "How many days had Lazarus been in the tomb when Jesus arrived to raise him?",
+      "options": {
+        "A": "One day",
+        "B": "Two days",
+        "C": "Three days",
+        "D": "Four days"
+      },
+      "correct_answer": "D",
+      "explanation": "By the time Jesus arrived, Lazarus had been in the tomb for four days, making his resurrection even more miraculous (John 11:17, 39)."
+    },
+    {
+      "id": 63,
+      "topic": "Miracles of Jesus",
+      "difficulty": "medium",
+      "question": "When Jesus fed the five thousand, how many loaves of bread and fish did they start with?",
+      "options": {
+        "A": "Ten loaves and two fish",
+        "B": "Two loaves and five fish",
+        "C": "Five loaves and two fish",
+        "D": "Seven loaves and three fish"
+      },
+      "correct_answer": "C",
+      "explanation": "A boy had five small barley loaves and two small fish. Jesus took these, gave thanks, and distributed them to the five thousand, with twelve baskets left over (John 6:9-13)."
+    },
+    {
+      "id": 64,
+      "topic": "The Transfiguration",
+      "difficulty": "medium",
+      "question": "Who appeared with Jesus during the Transfiguration on the mountain?",
+      "options": {
+        "A": "Abraham and David",
+        "B": "Moses and Elijah",
+        "C": "Isaiah and Jeremiah",
+        "D": "Enoch and Elijah"
+      },
+      "correct_answer": "B",
+      "explanation": "During the Transfiguration, Moses and Elijah appeared and talked with Jesus. The three disciples — Peter, James, and John — witnessed this (Matthew 17:3)."
+    },
+    {
+      "id": 65,
+      "topic": "The Transfiguration",
+      "difficulty": "medium",
+      "question": "What did the voice from the cloud say during the Transfiguration of Jesus?",
+      "options": {
+        "A": "'This is my Son, the Chosen One; he will deliver my people'",
+        "B": "'This is my Son, whom I love; with him I am well pleased. Listen to him!'",
+        "C": "'Holy, holy, holy is my Son; worship Him all nations'",
+        "D": "'Rise and do not be afraid; my Son has come to bring peace'"
+      },
+      "correct_answer": "B",
+      "explanation": "A voice from the cloud said: 'This is my Son, whom I love; with him I am well pleased. Listen to him!' (Matthew 17:5)."
+    },
+    {
+      "id": 66,
+      "topic": "The Last Supper",
+      "difficulty": "medium",
+      "question": "What did Jesus say the cup represented at the Last Supper?",
+      "options": {
+        "A": "His tears shed for the world",
+        "B": "The new covenant in His blood shed for many for the forgiveness of sins",
+        "C": "God's wrath poured out on sinners",
+        "D": "The joy of the kingdom of heaven"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus took the cup and said: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matthew 26:28)."
+    },
+    {
+      "id": 67,
+      "topic": "The Passion of Christ",
+      "difficulty": "medium",
+      "question": "In which garden did Jesus pray before His arrest?",
+      "options": {
+        "A": "Garden of Eden",
+        "B": "Garden of Gethsemane",
+        "C": "Garden of Joseph of Arimathea",
+        "D": "Garden of Siloam"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus went with His disciples to Gethsemane, where He prayed: 'Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will' (Matthew 26:36-39)."
+    },
+    {
+      "id": 68,
+      "topic": "The Passion of Christ",
+      "difficulty": "medium",
+      "question": "Who betrayed Jesus to the chief priests and elders?",
+      "options": {
+        "A": "Peter",
+        "B": "Thomas",
+        "C": "Judas Iscariot",
+        "D": "James"
+      },
+      "correct_answer": "C",
+      "explanation": "Judas Iscariot went to the chief priests and agreed to betray Jesus for thirty pieces of silver (Matthew 26:14-16)."
+    },
+    {
+      "id": 69,
+      "topic": "The Passion of Christ",
+      "difficulty": "medium",
+      "question": "Who was the Roman governor who sentenced Jesus to death by crucifixion?",
+      "options": {
+        "A": "Herod Antipas",
+        "B": "Caesar Augustus",
+        "C": "Pontius Pilate",
+        "D": "Felix"
+      },
+      "correct_answer": "C",
+      "explanation": "Pontius Pilate, the Roman governor of Judea, ultimately sentenced Jesus to be crucified, even though he found no basis for a charge against Him (Matthew 27:24-26)."
+    },
+    {
+      "id": 70,
+      "topic": "The Resurrection",
+      "difficulty": "medium",
+      "question": "Who was the first person to whom the risen Jesus appeared according to the Gospel of John?",
+      "options": {
+        "A": "Peter",
+        "B": "Mary Magdalene",
+        "C": "The two disciples on the Emmaus road",
+        "D": "The eleven apostles"
+      },
+      "correct_answer": "B",
+      "explanation": "According to John 20:14-16, the risen Jesus first appeared to Mary Magdalene at the empty tomb. He called her name and she recognised Him."
+    },
+    {
+      "id": 71,
+      "topic": "The Resurrection",
+      "difficulty": "medium",
+      "question": "What did the angel say to the women who came to Jesus' tomb on the first day of the week?",
+      "options": {
+        "A": "'He has gone to prepare a place for you'",
+        "B": "'He is not here; he has risen, just as he said'",
+        "C": "'Do not weep; the Lord will return soon'",
+        "D": "'Go and tell the disciples to meet Him in Galilee this evening'"
+      },
+      "correct_answer": "B",
+      "explanation": "The angel told the women: 'He is not here; he has risen, just as he said. Come and see the place where he lay' (Matthew 28:6)."
+    },
+    {
+      "id": 72,
+      "topic": "The Ascension",
+      "difficulty": "medium",
+      "question": "From where did Jesus ascend into heaven after His resurrection?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Bethlehem",
+        "C": "The Mount of Olives",
+        "D": "Mount Zion"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus led His disciples out to the vicinity of Bethany/Mount of Olives, blessed them, and was taken up into heaven (Luke 24:50-51, Acts 1:9-12)."
+    },
+    {
+      "id": 73,
+      "topic": "Pentecost and the Early Church",
+      "difficulty": "medium",
+      "question": "How many days after the ascension of Jesus did the Holy Spirit descend on the disciples at Pentecost?",
+      "options": {
+        "A": "Three days",
+        "B": "Seven days",
+        "C": "Ten days",
+        "D": "Forty days"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus ascended forty days after His resurrection (Acts 1:3) and commanded the disciples to wait in Jerusalem. Pentecost came fifty days after Passover, which was ten days after the ascension."
+    },
+    {
+      "id": 74,
+      "topic": "Pentecost and the Early Church",
+      "difficulty": "medium",
+      "question": "What sign accompanied the coming of the Holy Spirit at Pentecost in Acts 2?",
+      "options": {
+        "A": "A great earthquake shook the city",
+        "B": "A bright star appeared in the sky",
+        "C": "A sound like a violent wind, and tongues of fire settled on each of them",
+        "D": "The temple curtain was torn in two"
+      },
+      "correct_answer": "C",
+      "explanation": "On the day of Pentecost, a sound like a violent wind filled the house, and tongues of fire appeared and settled on each of the disciples. They were all filled with the Holy Spirit and began to speak in other tongues (Acts 2:2-4)."
+    },
+    {
+      "id": 75,
+      "topic": "Pentecost and the Early Church",
+      "difficulty": "medium",
+      "question": "How many people were added to the church after Peter's sermon on the day of Pentecost?",
+      "options": {
+        "A": "About 120",
+        "B": "About 500",
+        "C": "About 3,000",
+        "D": "About 5,000"
+      },
+      "correct_answer": "C",
+      "explanation": "After Peter's sermon at Pentecost, about three thousand were added to the church that day (Acts 2:41)."
+    },
+    {
+      "id": 76,
+      "topic": "The Early Church",
+      "difficulty": "medium",
+      "question": "Who was the first Christian martyr, stoned to death for his faith in Acts 7?",
+      "options": {
+        "A": "James the apostle",
+        "B": "Stephen",
+        "C": "Philip the evangelist",
+        "D": "Barnabas"
+      },
+      "correct_answer": "B",
+      "explanation": "Stephen, a man full of faith and the Holy Spirit, became the first Christian martyr after delivering a bold speech before the Sanhedrin. He was stoned to death while Saul looked on approvingly (Acts 7:54-60)."
+    },
+    {
+      "id": 77,
+      "topic": "The Conversion of Paul",
+      "difficulty": "medium",
+      "question": "Where was Saul (Paul) going when he had his vision of the risen Christ?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Antioch",
+        "C": "Damascus",
+        "D": "Corinth"
+      },
+      "correct_answer": "C",
+      "explanation": "Saul was travelling to Damascus with letters authorising him to arrest Christians when a bright light from heaven flashed around him and he heard the voice of Jesus (Acts 9:3)."
+    },
+    {
+      "id": 78,
+      "topic": "The Conversion of Paul",
+      "difficulty": "medium",
+      "question": "Who was the disciple who prayed for Saul and restored his sight in Damascus?",
+      "options": {
+        "A": "Barnabas",
+        "B": "Peter",
+        "C": "Ananias",
+        "D": "Philip"
+      },
+      "correct_answer": "C",
+      "explanation": "The Lord appeared to Ananias in a vision and sent him to Saul. When Ananias placed his hands on Saul, something like scales fell from Saul's eyes and he could see again (Acts 9:17-18)."
+    },
+    {
+      "id": 79,
+      "topic": "Paul's Missionary Journeys",
+      "difficulty": "medium",
+      "question": "Who accompanied Paul on his first missionary journey?",
+      "options": {
+        "A": "Silas and Timothy",
+        "B": "Barnabas and John Mark",
+        "C": "Luke and Titus",
+        "D": "Aquila and Priscilla"
+      },
+      "correct_answer": "B",
+      "explanation": "Barnabas and John Mark (also called John) accompanied Paul on his first missionary journey (Acts 13:2-5)."
+    },
+    {
+      "id": 80,
+      "topic": "Paul's Letters",
+      "difficulty": "medium",
+      "question": "In which book of the New Testament does Paul list the fruit of the Spirit?",
+      "options": {
+        "A": "Romans",
+        "B": "Ephesians",
+        "C": "Galatians",
+        "D": "Colossians"
+      },
+      "correct_answer": "C",
+      "explanation": "Paul lists the nine fruit of the Spirit in Galatians 5:22-23: love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness, and self-control."
+    },
+    {
+      "id": 81,
+      "topic": "Paul's Letters",
+      "difficulty": "medium",
+      "question": "What is the theme of Paul's letter to the Romans?",
+      "options": {
+        "A": "The proper conduct of church services",
+        "B": "The righteousness of God through faith in Jesus Christ",
+        "C": "Instructions for the handling of spiritual gifts",
+        "D": "The second coming of Christ"
+      },
+      "correct_answer": "B",
+      "explanation": "The central theme of Romans is the righteousness of God revealed in the gospel — that salvation comes by grace through faith in Jesus Christ for both Jews and Gentiles (Romans 1:16-17)."
+    },
+    {
+      "id": 82,
+      "topic": "Paul's Letters",
+      "difficulty": "medium",
+      "question": "In 1 Corinthians 13, what does Paul say is the greatest of the three enduring virtues?",
+      "options": {
+        "A": "Hope",
+        "B": "Faith",
+        "C": "Love",
+        "D": "Wisdom"
+      },
+      "correct_answer": "C",
+      "explanation": "Paul concludes his 'love chapter' with: 'And now these three remain: faith, hope and love. But the greatest of these is love' (1 Corinthians 13:13)."
+    },
+    {
+      "id": 83,
+      "topic": "Paul's Letters",
+      "difficulty": "medium",
+      "question": "What does Paul describe as the armour of God in Ephesians 6?",
+      "options": {
+        "A": "Prayer, fasting, Bible study, worship, and faith",
+        "B": "Belt of truth, breastplate of righteousness, gospel of peace as shoes, shield of faith, helmet of salvation, and sword of the Spirit",
+        "C": "Humility, patience, gentleness, faith, hope, and love",
+        "D": "The cross, the crown, the sword, the shield, and the staff"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul describes the full armour of God in Ephesians 6:14-17: the belt of truth, breastplate of righteousness, gospel of peace (shoes), shield of faith, helmet of salvation, and the sword of the Spirit (Word of God)."
+    },
+    {
+      "id": 84,
+      "topic": "Paul's Letters",
+      "difficulty": "medium",
+      "question": "In his letter to the Philippians, where was Paul when he wrote the epistle?",
+      "options": {
+        "A": "In Jerusalem",
+        "B": "In Rome in prison",
+        "C": "In Corinth",
+        "D": "In Athens"
+      },
+      "correct_answer": "B",
+      "explanation": "Philippians is one of Paul's 'Prison Epistles,' written while Paul was imprisoned in Rome. He refers to his chains multiple times (Philippians 1:7, 13-14)."
+    },
+    {
+      "id": 85,
+      "topic": "The Book of Acts",
+      "difficulty": "medium",
+      "question": "What was the central issue debated at the Jerusalem Council in Acts 15?",
+      "options": {
+        "A": "Whether Gentile believers needed to be circumcised and observe the Law of Moses",
+        "B": "Who should lead the church after the death of James",
+        "C": "How to handle false prophets in the church",
+        "D": "Whether Paul's epistles should be accepted as Scripture"
+      },
+      "correct_answer": "A",
+      "explanation": "The Jerusalem Council was convened to address whether Gentile converts needed to be circumcised and observe the Law of Moses for salvation. The council decided they did not (Acts 15:1-29)."
+    },
+    {
+      "id": 86,
+      "topic": "The Great Commission",
+      "difficulty": "medium",
+      "question": "What are the instructions Jesus gave to His disciples in the Great Commission (Matthew 28:19-20)?",
+      "options": {
+        "A": "Preach, heal the sick, and cast out demons in every nation",
+        "B": "Go and make disciples of all nations, baptising them and teaching them to obey His commands",
+        "C": "Wait in Jerusalem until the Holy Spirit comes, then go to the ends of the earth",
+        "D": "Love God with all your heart and love your neighbour as yourself"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus commanded: 'Go and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you' (Matthew 28:19-20)."
+    },
+    {
+      "id": 87,
+      "topic": "Christian Ethics — Love",
+      "difficulty": "medium",
+      "question": "According to Jesus in Mark 12:30-31, what are the two greatest commandments?",
+      "options": {
+        "A": "Keep the Sabbath and do not murder",
+        "B": "Love God with all your heart, soul, mind, and strength, and love your neighbour as yourself",
+        "C": "Honour your parents and give tithes regularly",
+        "D": "Pray without ceasing and fast regularly"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus declared: 'Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength' and 'Love your neighbour as yourself.' All the Law and Prophets hang on these (Mark 12:30-31)."
+    },
+    {
+      "id": 88,
+      "topic": "Christian Ethics — Forgiveness",
+      "difficulty": "medium",
+      "question": "When Peter asked Jesus how many times he should forgive his brother — up to seven times — what did Jesus answer?",
+      "options": {
+        "A": "Seven times is sufficient",
+        "B": "Seventy times seven (or seventy-seven times)",
+        "C": "As many times as the person sincerely asks for forgiveness",
+        "D": "Forgive them three times; after that, let justice take its course"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus told Peter he should forgive not seven times but seventy-seven times (or seventy times seven), emphasising unlimited forgiveness (Matthew 18:22)."
+    },
+    {
+      "id": 89,
+      "topic": "Christian Ethics — Service",
+      "difficulty": "medium",
+      "question": "What lesson about service did Jesus teach by washing His disciples' feet in John 13?",
+      "options": {
+        "A": "Cleanliness is essential for worship",
+        "B": "The greatest among His followers should be the servant of all",
+        "C": "Physical cleansing is as important as spiritual cleansing",
+        "D": "Humility is only for leaders and teachers"
+      },
+      "correct_answer": "B",
+      "explanation": "By washing His disciples' feet, Jesus demonstrated servant leadership. He told them: 'No servant is greater than his master...now that you know these things, you will be blessed if you do them' (John 13:16-17)."
+    },
+    {
+      "id": 90,
+      "topic": "Christian Ethics — Stewardship",
+      "difficulty": "medium",
+      "question": "In the Parable of the Talents (Matthew 25), what happened to the servant who buried his one talent?",
+      "options": {
+        "A": "He was given more talents because of his caution",
+        "B": "He was praised for protecting the master's money",
+        "C": "His talent was taken away and he was thrown into outer darkness",
+        "D": "He was given a second chance to invest it"
+      },
+      "correct_answer": "C",
+      "explanation": "The master was furious with the servant who buried his talent, calling him wicked and lazy. The talent was taken from him and given to the one with ten, and he was thrown into outer darkness (Matthew 25:26-30)."
+    },
+    {
+      "id": 91,
+      "topic": "The Holy Spirit",
+      "difficulty": "medium",
+      "question": "What title did Jesus use for the Holy Spirit in John 14, describing the Spirit as one who helps and advocates for believers?",
+      "options": {
+        "A": "The Comforter / Advocate (Paraclete)",
+        "B": "The Sanctifier",
+        "C": "The Spirit of prophecy",
+        "D": "The Almighty Spirit"
+      },
+      "correct_answer": "A",
+      "explanation": "Jesus promised to send the Paraclete (translated as Comforter, Counsellor, or Advocate in various versions), the Holy Spirit, who would teach the disciples all things (John 14:16, 26)."
+    },
+    {
+      "id": 92,
+      "topic": "The Holy Spirit",
+      "difficulty": "medium",
+      "question": "What does Paul say about the fruit of the Spirit in Galatians 5:22-23?",
+      "options": {
+        "A": "The fruit of the Spirit is speaking in tongues and performing miracles",
+        "B": "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control",
+        "C": "The fruit of the Spirit is righteousness, holiness, and power",
+        "D": "The fruit of the Spirit is wisdom, knowledge, and discernment"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul lists nine qualities as the fruit of the Spirit in Galatians 5:22-23: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control."
+    },
+    {
+      "id": 93,
+      "topic": "Salvation and Grace",
+      "difficulty": "medium",
+      "question": "According to Ephesians 2:8-9, how is a person saved?",
+      "options": {
+        "A": "By doing good works and keeping the commandments",
+        "B": "By grace through faith, and not by works",
+        "C": "By being baptised and confirmed in the church",
+        "D": "By praying and fasting regularly"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul states: 'For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God — not by works, so that no one can boast' (Ephesians 2:8-9)."
+    },
+    {
+      "id": 94,
+      "topic": "The Church",
+      "difficulty": "medium",
+      "question": "What event is regarded as the birth of the Christian church?",
+      "options": {
+        "A": "The resurrection of Jesus",
+        "B": "The baptism of Jesus",
+        "C": "The descent of the Holy Spirit at Pentecost",
+        "D": "The Last Supper of Jesus with His disciples"
+      },
+      "correct_answer": "C",
+      "explanation": "The descent of the Holy Spirit at Pentecost (Acts 2) is widely regarded as the birthday of the Christian church, when believers were filled with the Spirit and the first converts were added."
+    },
+    {
+      "id": 95,
+      "topic": "The Church",
+      "difficulty": "medium",
+      "question": "According to Acts 2:42, what four activities characterised the life of the early church?",
+      "options": {
+        "A": "Evangelism, healing, fasting, and prayer",
+        "B": "The apostles' teaching, fellowship, the breaking of bread, and prayer",
+        "C": "Singing, tithing, baptism, and confirmation",
+        "D": "Preaching, miracles, speaking in tongues, and worship"
+      },
+      "correct_answer": "B",
+      "explanation": "Acts 2:42 says: 'They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer.' These four activities defined the early church community."
+    },
+    {
+      "id": 96,
+      "topic": "Prayer",
+      "difficulty": "medium",
+      "question": "In what context did Jesus say: 'Ask and it will be given to you; seek and you will find; knock and the door will be opened to you'?",
+      "options": {
+        "A": "When healing the blind man",
+        "B": "During the Sermon on the Mount (Matthew 7)",
+        "C": "While teaching in the temple courts",
+        "D": "During the Last Supper"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus made this statement about persistent prayer during the Sermon on the Mount in Matthew 7:7-8, encouraging His disciples to ask, seek, and knock in prayer."
+    },
+    {
+      "id": 97,
+      "topic": "Faith",
+      "difficulty": "medium",
+      "question": "In Hebrews 11:1, how is faith defined?",
+      "options": {
+        "A": "Faith is believing what you cannot see without any evidence",
+        "B": "Faith is the substance of things hoped for, the evidence of things not seen",
+        "C": "Faith is complete trust in another person's promises",
+        "D": "Faith is the power to perform miracles in God's name"
+      },
+      "correct_answer": "B",
+      "explanation": "Hebrews 11:1 defines faith as 'the substance of things hoped for, the evidence of things not seen' (KJV), or 'confidence in what we hope for and assurance about what we do not see' (NIV)."
+    },
+    {
+      "id": 98,
+      "topic": "The Kingdom of God",
+      "difficulty": "medium",
+      "question": "In the Parable of the Mustard Seed, Jesus compared the kingdom of God to a mustard seed to show what?",
+      "options": {
+        "A": "The kingdom of God begins very small but grows into something very large",
+        "B": "The kingdom of God is hidden from those who do not seek it",
+        "C": "The kingdom of God produces great fruit when planted in good soil",
+        "D": "The kingdom of God belongs only to those who plant seeds of righteousness"
+      },
+      "correct_answer": "A",
+      "explanation": "The Parable of the Mustard Seed (Matthew 13:31-32) teaches that the kingdom of God, though it begins as the smallest of seeds, grows to become the largest of garden plants — illustrating its humble beginning and extraordinary growth."
+    },
+    {
+      "id": 99,
+      "topic": "John the Baptist",
+      "difficulty": "medium",
+      "question": "John the Baptist was the son of which priest?",
+      "options": {
+        "A": "Annas",
+        "B": "Caiaphas",
+        "C": "Zechariah",
+        "D": "Simeon"
+      },
+      "correct_answer": "C",
+      "explanation": "John the Baptist was the son of Zechariah (a priest) and Elizabeth. His birth was announced by the angel Gabriel to Zechariah in the temple (Luke 1:5-13)."
+    },
+    {
+      "id": 100,
+      "topic": "John the Baptist",
+      "difficulty": "medium",
+      "question": "John the Baptist was imprisoned and later beheaded because of whose request?",
+      "options": {
+        "A": "Herodias's daughter, at Herodias's instigation",
+        "B": "The chief priests, who accused him of blasphemy",
+        "C": "Pontius Pilate, after a public trial",
+        "D": "The Pharisees, who feared his growing influence"
+      },
+      "correct_answer": "A",
+      "explanation": "Herod arrested John because John rebuked him for marrying Herodias. Herodias's daughter pleased Herod with her dancing and, prompted by her mother, asked for John's head (Matthew 14:3-11)."
+    },
+    {
+      "id": 101,
+      "topic": "The Disciples",
+      "difficulty": "medium",
+      "question": "Which of Jesus' disciples was a tax collector before being called?",
+      "options": {
+        "A": "Simon Peter",
+        "B": "Matthew (Levi)",
+        "C": "Andrew",
+        "D": "Bartholomew"
+      },
+      "correct_answer": "B",
+      "explanation": "Matthew, also called Levi, was a tax collector sitting at his tax booth when Jesus called him to follow Him (Matthew 9:9, Mark 2:14)."
+    },
+    {
+      "id": 102,
+      "topic": "The Disciples",
+      "difficulty": "medium",
+      "question": "Which disciple doubted the resurrection of Jesus until he saw and touched Jesus' wounds?",
+      "options": {
+        "A": "Peter",
+        "B": "James",
+        "C": "Thomas",
+        "D": "Philip"
+      },
+      "correct_answer": "C",
+      "explanation": "Thomas (also called Didymus) declared he would not believe unless he saw and touched the nail marks in Jesus' hands and the wound in His side. When Jesus appeared to him, he confessed: 'My Lord and my God!' (John 20:24-28)."
+    },
+    {
+      "id": 103,
+      "topic": "Peter",
+      "difficulty": "medium",
+      "question": "What was Peter's original name before Jesus gave him a new one?",
+      "options": {
+        "A": "Andrew",
+        "B": "Simon",
+        "C": "James",
+        "D": "John"
+      },
+      "correct_answer": "B",
+      "explanation": "Peter's original name was Simon, son of Jonah. Jesus renamed him Peter (meaning 'rock'), declaring that on this rock He would build His church (Matthew 16:17-18)."
+    },
+    {
+      "id": 104,
+      "topic": "Peter",
+      "difficulty": "medium",
+      "question": "How many times did Peter deny knowing Jesus before the rooster crowed?",
+      "options": {
+        "A": "Once",
+        "B": "Twice",
+        "C": "Three times",
+        "D": "Four times"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus predicted that Peter would deny Him three times before the rooster crowed. This prediction was fulfilled on the night of Jesus' arrest (Matthew 26:69-75)."
+    },
+    {
+      "id": 105,
+      "topic": "Ruth and Naomi",
+      "difficulty": "medium",
+      "question": "What did Ruth say to Naomi when Naomi urged her to return to her own people?",
+      "options": {
+        "A": "'I will go wherever you go, and your people will be my people, and your God my God'",
+        "B": "'I cannot leave you because you have been kind to me'",
+        "C": "'Let me return with you so that I may find a husband in Bethlehem'",
+        "D": "'God has commanded me to follow you back to your homeland'"
+      },
+      "correct_answer": "A",
+      "explanation": "Ruth's famous declaration of loyalty in Ruth 1:16: 'Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'"
+    },
+    {
+      "id": 106,
+      "topic": "The Psalms",
+      "difficulty": "medium",
+      "question": "Who is traditionally credited as the author of most of the Psalms?",
+      "options": {
+        "A": "Solomon",
+        "B": "Moses",
+        "C": "David",
+        "D": "Asaph"
+      },
+      "correct_answer": "C",
+      "explanation": "King David is traditionally credited with composing a large number of the Psalms. Many Psalms bear superscriptions attributing them to David."
+    },
+    {
+      "id": 107,
+      "topic": "The Psalms",
+      "difficulty": "medium",
+      "question": "What is the main declaration of Psalm 23:1?",
+      "options": {
+        "A": "The Lord is my rock and my salvation",
+        "B": "The Lord is my shepherd; I shall not want",
+        "C": "God is our refuge and strength",
+        "D": "O Lord, you have searched me and known me"
+      },
+      "correct_answer": "B",
+      "explanation": "Psalm 23 begins with the famous words: 'The Lord is my shepherd, I lack nothing (I shall not want).' It is one of the most beloved Psalms, expressing trust and comfort in God's care."
+    },
+    {
+      "id": 108,
+      "topic": "The Proverbs",
+      "difficulty": "medium",
+      "question": "According to Proverbs 9:10, what is the beginning of wisdom?",
+      "options": {
+        "A": "Listening to your parents",
+        "B": "Studying the scriptures diligently",
+        "C": "The fear of the Lord",
+        "D": "Keeping silent and observing the world"
+      },
+      "correct_answer": "C",
+      "explanation": "Proverbs 9:10 states: 'The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.'"
+    },
+    {
+      "id": 109,
+      "topic": "Daniel",
+      "difficulty": "medium",
+      "question": "Why were Daniel's three friends (Shadrach, Meshach, and Abednego) thrown into the fiery furnace?",
+      "options": {
+        "A": "They were caught reading the Hebrew scriptures",
+        "B": "They refused to bow down and worship the golden image set up by King Nebuchadnezzar",
+        "C": "They prayed to God in defiance of a royal decree",
+        "D": "They conspired against King Nebuchadnezzar"
+      },
+      "correct_answer": "B",
+      "explanation": "Shadrach, Meshach, and Abednego refused to bow down and worship the golden image King Nebuchadnezzar had erected. As punishment, he ordered them thrown into the blazing furnace (Daniel 3:12-20)."
+    },
+    {
+      "id": 110,
+      "topic": "Daniel",
+      "difficulty": "medium",
+      "question": "Why was Daniel thrown into the lions' den in Daniel 6?",
+      "options": {
+        "A": "He refused to eat the king's food",
+        "B": "He interpreted a dream that displeased the king",
+        "C": "He continued to pray to God three times a day in defiance of a royal decree",
+        "D": "He refused to serve in the king's government"
+      },
+      "correct_answer": "C",
+      "explanation": "Jealous officials tricked King Darius into signing a decree forbidding prayer to any god except the king. Daniel continued to pray to God three times a day and was thrown into the lions' den (Daniel 6:10-16)."
+    },
+    {
+      "id": 111,
+      "topic": "The Exile and Return",
+      "difficulty": "medium",
+      "question": "Which Babylonian king ordered the destruction of Jerusalem and the deportation of the Jews to Babylon?",
+      "options": {
+        "A": "Belshazzar",
+        "B": "Cyrus the Great",
+        "C": "Nebuchadnezzar",
+        "D": "Darius the Mede"
+      },
+      "correct_answer": "C",
+      "explanation": "King Nebuchadnezzar of Babylon destroyed Jerusalem and the temple, and deported the Jews to Babylon in multiple waves (2 Kings 24-25, Jeremiah 52)."
+    },
+    {
+      "id": 112,
+      "topic": "The Exile and Return",
+      "difficulty": "medium",
+      "question": "Which Persian king issued a decree allowing the Jews to return from exile and rebuild the temple in Jerusalem?",
+      "options": {
+        "A": "Darius",
+        "B": "Cyrus",
+        "C": "Artaxerxes",
+        "D": "Ahasuerus"
+      },
+      "correct_answer": "B",
+      "explanation": "King Cyrus of Persia issued a decree in 538 BC allowing the Jews to return to Jerusalem and rebuild the temple. This fulfilled the prophecy of Jeremiah (Ezra 1:1-4)."
+    },
+    {
+      "id": 113,
+      "topic": "Ezra and Nehemiah",
+      "difficulty": "medium",
+      "question": "Nehemiah's primary task when he returned to Jerusalem was to",
+      "options": {
+        "A": "Rebuild the temple of God",
+        "B": "Rebuild the walls of Jerusalem",
+        "C": "Teach the people the Law of Moses",
+        "D": "Reform corrupt religious practices"
+      },
+      "correct_answer": "B",
+      "explanation": "Nehemiah was the governor who led the effort to rebuild the broken-down walls of Jerusalem despite opposition from Sanballat and Tobiah. The walls were completed in 52 days (Nehemiah 6:15)."
+    },
+    {
+      "id": 114,
+      "topic": "Esther",
+      "difficulty": "medium",
+      "question": "What is Mordecai's famous statement to Esther that encouraged her to approach the king about Haman's plot?",
+      "options": {
+        "A": "'God has placed you here for this very moment; do not be afraid'",
+        "B": "'Who knows whether you have not come to the kingdom for such a time as this?'",
+        "C": "'Do not think that in the king's palace you will escape any more than all the other Jews'",
+        "D": "'If you remain silent, God will raise up another deliverer for His people'"
+      },
+      "correct_answer": "B",
+      "explanation": "Mordecai challenged Esther: '...who knows whether you have not come to the kingdom for such a time as this?' (Esther 4:14). This motivated Esther to act courageously despite the risk."
+    },
+    {
+      "id": 115,
+      "topic": "Job",
+      "difficulty": "medium",
+      "question": "What was Job's response when God allowed Satan to take away his wealth, children, and health?",
+      "options": {
+        "A": "He cursed God and went into hiding",
+        "B": "He worshipped God and said: 'The Lord gave and the Lord has taken away; may the name of the Lord be praised'",
+        "C": "He blamed his friends for his misfortune",
+        "D": "He asked God why He had forsaken him"
+      },
+      "correct_answer": "B",
+      "explanation": "After losing his possessions and children, Job fell to the ground and worshipped, saying: 'The Lord gave and the Lord has taken away; may the name of the Lord be praised' (Job 1:20-21)."
+    },
+    {
+      "id": 116,
+      "topic": "The Beatitudes",
+      "difficulty": "medium",
+      "question": "According to Matthew 5:5, what is promised to the meek?",
+      "options": {
+        "A": "They will see God",
+        "B": "They will be called children of God",
+        "C": "They will inherit the earth",
+        "D": "They will be shown mercy"
+      },
+      "correct_answer": "C",
+      "explanation": "The third Beatitude states: 'Blessed are the meek, for they will inherit the earth' (Matthew 5:5)."
+    },
+    {
+      "id": 117,
+      "topic": "The Beatitudes",
+      "difficulty": "medium",
+      "question": "According to Matthew 5:8, what is promised to the pure in heart?",
+      "options": {
+        "A": "They will receive comfort",
+        "B": "They will be filled",
+        "C": "They will see God",
+        "D": "They will be called children of God"
+      },
+      "correct_answer": "C",
+      "explanation": "Matthew 5:8 states: 'Blessed are the pure in heart, for they will see God.'"
+    },
+    {
+      "id": 118,
+      "topic": "The Apostle John",
+      "difficulty": "medium",
+      "question": "On which island did the Apostle John receive the vision recorded in the book of Revelation?",
+      "options": {
+        "A": "Cyprus",
+        "B": "Malta",
+        "C": "Crete",
+        "D": "Patmos"
+      },
+      "correct_answer": "D",
+      "explanation": "John wrote: 'I, John, your brother and companion in the suffering and kingdom and patient endurance that are ours in Jesus, was on the island of Patmos' when he received the Revelation (Revelation 1:9)."
+    },
+    {
+      "id": 119,
+      "topic": "Revelation",
+      "difficulty": "medium",
+      "question": "To how many churches in Asia Minor was the Book of Revelation primarily addressed?",
+      "options": {
+        "A": "Three",
+        "B": "Five",
+        "C": "Seven",
+        "D": "Twelve"
+      },
+      "correct_answer": "C",
+      "explanation": "The Book of Revelation was addressed to seven churches in Asia Minor: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea (Revelation 1:11)."
+    },
+    {
+      "id": 120,
+      "topic": "Revelation",
+      "difficulty": "medium",
+      "question": "What is described as the 'river of life' in Revelation 22?",
+      "options": {
+        "A": "A river flowing from God's throne to water the new earth",
+        "B": "A river of tears flowing before the throne of God",
+        "C": "A glowing river flowing through the streets of gold",
+        "D": "A river representing the blood of the martyrs"
+      },
+      "correct_answer": "A",
+      "explanation": "Revelation 22:1 describes 'the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb.' The tree of life stands on each side of the river."
+    },
+    {
+      "id": 121,
+      "topic": "Noah and the Flood",
+      "difficulty": "medium",
+      "question": "What was the name of the mountain range on which Noah's ark came to rest after the flood?",
+      "options": {
+        "A": "Mount Sinai",
+        "B": "Mount Ararat",
+        "C": "Mount Zion",
+        "D": "Mount Carmel"
+      },
+      "correct_answer": "B",
+      "explanation": "The ark came to rest on the mountains of Ararat on the seventeenth day of the seventh month (Genesis 8:4)."
+    },
+    {
+      "id": 122,
+      "topic": "The Tower of Babel",
+      "difficulty": "medium",
+      "question": "Why did God confuse the language of the builders at Babel?",
+      "options": {
+        "A": "They were worshipping false gods",
+        "B": "They were trying to build a tower to reach heaven and make a name for themselves",
+        "C": "They disobeyed God's command to spread throughout the earth",
+        "D": "Both B and C"
+      },
+      "correct_answer": "D",
+      "explanation": "The people at Babel planned to build a city with a tower reaching to the heavens to make a name for themselves and to avoid being scattered over the earth. God confused their language to scatter them (Genesis 11:4-8)."
+    },
+    {
+      "id": 123,
+      "topic": "Abraham",
+      "difficulty": "medium",
+      "question": "How old was Abraham when God promised him a son through his wife Sarah?",
+      "options": {
+        "A": "70 years old",
+        "B": "80 years old",
+        "C": "99 years old",
+        "D": "110 years old"
+      },
+      "correct_answer": "C",
+      "explanation": "Abraham fell face-down and laughed when God promised him a son, for he was a hundred years old and Sarah was ninety. God made this promise when Abraham was 99 (Genesis 17:1, 17)."
+    },
+    {
+      "id": 124,
+      "topic": "Jacob",
+      "difficulty": "medium",
+      "question": "What new name did God give Jacob after he wrestled with the divine being at Peniel?",
+      "options": {
+        "A": "Israel",
+        "B": "Joseph",
+        "C": "Judah",
+        "D": "Benjamin"
+      },
+      "correct_answer": "A",
+      "explanation": "After wrestling through the night, the divine being changed Jacob's name to Israel, saying: 'because you have struggled with God and with humans and have overcome' (Genesis 32:28)."
+    },
+    {
+      "id": 125,
+      "topic": "Moses",
+      "difficulty": "medium",
+      "question": "What was the name of the father-in-law of Moses, a priest of Midian?",
+      "options": {
+        "A": "Jethro (Reuel)",
+        "B": "Aaron",
+        "C": "Caleb",
+        "D": "Hobab"
+      },
+      "correct_answer": "A",
+      "explanation": "Moses's father-in-law was Jethro (also called Reuel), the priest of Midian. Moses married his daughter Zipporah (Exodus 2:16-21, 18:1)."
+    },
+    {
+      "id": 126,
+      "topic": "The Passover",
+      "difficulty": "medium",
+      "question": "What were the Israelites commanded to put on their door frames during the first Passover?",
+      "options": {
+        "A": "The blood of a lamb",
+        "B": "Oil from the temple",
+        "C": "A white cloth",
+        "D": "A mark in charcoal"
+      },
+      "correct_answer": "A",
+      "explanation": "God commanded the Israelites to take some of the blood of the Passover lamb and put it on the sides and tops of their door frames. When the Lord passed through to strike down the firstborn, He would pass over the houses with blood on the door frames (Exodus 12:7, 13)."
+    },
+    {
+      "id": 127,
+      "topic": "The Wilderness Journey",
+      "difficulty": "medium",
+      "question": "What was the bread from heaven called that God provided for the Israelites in the wilderness?",
+      "options": {
+        "A": "Shewbread",
+        "B": "The bread of angels",
+        "C": "Manna",
+        "D": "The bread of life"
+      },
+      "correct_answer": "C",
+      "explanation": "God provided manna for the Israelites in the wilderness — a flake-like food that appeared on the ground each morning. They were to gather only what was needed for each day (Exodus 16:14-31)."
+    },
+    {
+      "id": 128,
+      "topic": "The Wilderness Journey",
+      "difficulty": "medium",
+      "question": "Why were the Israelites condemned to wander in the wilderness for forty years?",
+      "options": {
+        "A": "They built the golden calf and worshipped it",
+        "B": "They refused to enter the Promised Land because of the report of the fearful spies",
+        "C": "They repeatedly complained about Moses's leadership",
+        "D": "They intermarried with foreign peoples"
+      },
+      "correct_answer": "B",
+      "explanation": "After the twelve spies returned from Canaan, ten gave a fearful report and the people refused to enter. God's punishment was forty years of wilderness wandering — one year for each day of the spying mission (Numbers 14:33-34)."
+    },
+    {
+      "id": 129,
+      "topic": "The Tabernacle",
+      "difficulty": "medium",
+      "question": "What was kept inside the Ark of the Covenant?",
+      "options": {
+        "A": "The golden lampstand and incense",
+        "B": "The two tablets of the Ten Commandments, Aaron's budded staff, and a jar of manna",
+        "C": "The priestly garments of Aaron",
+        "D": "The Book of the Law and the gold menorah"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ark of the Covenant contained: the gold jar of manna, Aaron's staff that had budded, and the stone tablets of the covenant (Hebrews 9:4)."
+    },
+    {
+      "id": 130,
+      "topic": "Saul and David",
+      "difficulty": "medium",
+      "question": "What was the name of Saul's son who was a close friend of David?",
+      "options": {
+        "A": "Abner",
+        "B": "Ish-Bosheth",
+        "C": "Jonathan",
+        "D": "Abishai"
+      },
+      "correct_answer": "C",
+      "explanation": "Jonathan, Saul's son, loved David as himself and made a covenant of friendship with him. Jonathan even protected David from Saul's wrath (1 Samuel 18:1-4, 19-20)."
+    },
+    {
+      "id": 131,
+      "topic": "Solomon and the Temple",
+      "difficulty": "medium",
+      "question": "How many years did Solomon take to build the temple in Jerusalem?",
+      "options": {
+        "A": "Three years",
+        "B": "Five years",
+        "C": "Seven years",
+        "D": "Twelve years"
+      },
+      "correct_answer": "C",
+      "explanation": "Solomon built the temple over seven years (1 Kings 6:38). It was begun in the fourth year of his reign and completed in the eleventh year."
+    },
+    {
+      "id": 132,
+      "topic": "The Divided Kingdom",
+      "difficulty": "medium",
+      "question": "After Solomon's death, the kingdom of Israel divided into two. What were the two kingdoms called?",
+      "options": {
+        "A": "Judah and Benjamin",
+        "B": "Israel (Northern Kingdom) and Judah (Southern Kingdom)",
+        "C": "Ephraim and Manasseh",
+        "D": "Samaria and Jerusalem"
+      },
+      "correct_answer": "B",
+      "explanation": "After Rehoboam refused to reduce the heavy taxes, the ten northern tribes split off to form the Northern Kingdom (Israel), while Judah and Benjamin remained as the Southern Kingdom (Judah) under Rehoboam (1 Kings 12)."
+    },
+    {
+      "id": 133,
+      "topic": "The Prophets",
+      "difficulty": "medium",
+      "question": "Which prophet was known as the 'weeping prophet' because of his grief over the sins of Israel?",
+      "options": {
+        "A": "Isaiah",
+        "B": "Jeremiah",
+        "C": "Ezekiel",
+        "D": "Hosea"
+      },
+      "correct_answer": "B",
+      "explanation": "Jeremiah is often called the 'weeping prophet' because of his deep emotional laments over the sins of Judah and the impending judgment. His writings are filled with grief and anguish."
+    },
+    {
+      "id": 134,
+      "topic": "Jonah",
+      "difficulty": "medium",
+      "question": "To which city was Jonah originally commanded to go and preach?",
+      "options": {
+        "A": "Babylon",
+        "B": "Tyre",
+        "C": "Nineveh",
+        "D": "Damascus"
+      },
+      "correct_answer": "C",
+      "explanation": "God commanded Jonah to go to Nineveh, the capital of Assyria, and preach against its wickedness. Instead, Jonah fled toward Tarshish (Jonah 1:1-3)."
+    },
+    {
+      "id": 135,
+      "topic": "Jonah",
+      "difficulty": "medium",
+      "question": "How long was Jonah inside the great fish?",
+      "options": {
+        "A": "One day and night",
+        "B": "Two days and nights",
+        "C": "Three days and three nights",
+        "D": "Seven days and seven nights"
+      },
+      "correct_answer": "C",
+      "explanation": "Jonah was in the belly of the huge fish three days and three nights. Jesus later used this as a sign of His own three days in the grave (Jonah 1:17, Matthew 12:40)."
+    },
+    {
+      "id": 136,
+      "topic": "Jesus and the Law",
+      "difficulty": "medium",
+      "question": "In the Sermon on the Mount, what did Jesus say He came to do with the Law and the Prophets?",
+      "options": {
+        "A": "Abolish them and replace them with a new set of rules",
+        "B": "Not to abolish them but to fulfil them",
+        "C": "Simplify them so everyone could understand",
+        "D": "Interpret them according to the traditions of the elders"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus stated: 'Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfil them' (Matthew 5:17)."
+    },
+    {
+      "id": 137,
+      "topic": "Jesus and the Pharisees",
+      "difficulty": "medium",
+      "question": "What did Jesus mean when He told His disciples to beware of the 'yeast of the Pharisees'?",
+      "options": {
+        "A": "They should not eat food prepared by Pharisees",
+        "B": "The Pharisees were making false bread offerings",
+        "C": "The hypocrisy and false teaching of the Pharisees was like yeast that spreads",
+        "D": "The Pharisees were corrupting the food supply in Jerusalem"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus warned His disciples to be on their guard against the yeast of the Pharisees and Sadducees. Matthew 16:12 explains this referred to their teaching — especially their hypocrisy and false doctrine."
+    },
+    {
+      "id": 138,
+      "topic": "Women in the Bible",
+      "difficulty": "medium",
+      "question": "Which woman anointed Jesus's feet with perfume and wiped them with her hair?",
+      "options": {
+        "A": "Mary the mother of Jesus",
+        "B": "Martha",
+        "C": "Mary Magdalene (or a sinful woman in Luke 7)",
+        "D": "Salome"
+      },
+      "correct_answer": "C",
+      "explanation": "In John 12 and Luke 7, a woman (identified variously across the Gospels) anointed Jesus's feet with expensive perfume and wiped them with her hair. Mary of Bethany is identified in John 12."
+    },
+    {
+      "id": 139,
+      "topic": "The Rich Young Ruler",
+      "difficulty": "medium",
+      "question": "What did Jesus tell the rich young ruler to do in order to have eternal life (Mark 10:21)?",
+      "options": {
+        "A": "Love God and neighbour above everything else",
+        "B": "Fast and pray every day",
+        "C": "Sell all he had, give to the poor, and follow Jesus",
+        "D": "Keep all the commandments from his youth and attend the temple regularly"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus told the young man: 'Go, sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me' (Mark 10:21). The man went away sad because he had great wealth."
+    },
+    {
+      "id": 140,
+      "topic": "Zacchaeus",
+      "difficulty": "medium",
+      "question": "Why did Zacchaeus climb a sycamore tree in Luke 19?",
+      "options": {
+        "A": "He was hiding from the crowd who wanted to kill him",
+        "B": "He wanted to see Jesus but was too short to see over the crowd",
+        "C": "He was trying to drop a gift on Jesus as He passed",
+        "D": "He was testing whether Jesus would notice him"
+      },
+      "correct_answer": "B",
+      "explanation": "Zacchaeus was a chief tax collector who was short in stature. He ran ahead and climbed a sycamore-fig tree to see Jesus because he could not see over the crowd (Luke 19:3-4)."
+    },
+    {
+      "id": 141,
+      "topic": "Christian Stewardship",
+      "difficulty": "medium",
+      "question": "In 2 Corinthians 9:7, what kind of giver does God love?",
+      "options": {
+        "A": "A generous giver",
+        "B": "A cheerful giver",
+        "C": "A consistent giver",
+        "D": "A sacrificial giver"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul writes: 'Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver' (2 Corinthians 9:7)."
+    },
+    {
+      "id": 142,
+      "topic": "Christian Living",
+      "difficulty": "medium",
+      "question": "According to Romans 12:2, what should Christians do with their minds?",
+      "options": {
+        "A": "Fill them with the knowledge of the law",
+        "B": "Not conform to the pattern of this world but be transformed by the renewing of their minds",
+        "C": "Focus only on heavenly things and not earthly concerns",
+        "D": "Submit them entirely to church authority"
+      },
+      "correct_answer": "B",
+      "explanation": "Romans 12:2 says: 'Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is — his good, pleasing and perfect will.'"
+    },
+    {
+      "id": 143,
+      "topic": "The Lord's Prayer",
+      "difficulty": "medium",
+      "question": "The Lord's Prayer begins with which phrase?",
+      "options": {
+        "A": "'Almighty God who art in heaven'",
+        "B": "'Our Father in heaven'",
+        "C": "'Father Lord who rules in heaven'",
+        "D": "'Holy Father, Creator of heaven'"
+      },
+      "correct_answer": "B",
+      "explanation": "The Lord's Prayer as recorded in Matthew 6:9 begins: 'Our Father in heaven, hallowed be your name.' It is the model prayer Jesus taught His disciples."
+    },
+    {
+      "id": 144,
+      "topic": "Elisha",
+      "difficulty": "medium",
+      "question": "What did Elisha do when a group of boys mocked him, calling him 'baldhead'?",
+      "options": {
+        "A": "He prayed and a great wind scattered them",
+        "B": "He called down fire from heaven on them",
+        "C": "He called on the Lord and two bears came out of the woods and mauled forty-two of the boys",
+        "D": "He ignored them and continued his journey"
+      },
+      "correct_answer": "C",
+      "explanation": "When boys from Bethel mocked Elisha, he turned and called down a curse on them in the name of the Lord. Two bears came out of the woods and mauled forty-two of the boys (2 Kings 2:23-24)."
+    },
+    {
+      "id": 145,
+      "topic": "Elisha",
+      "difficulty": "medium",
+      "question": "Naaman, the commander of the Aramean army, was healed of leprosy by Elisha. What was he told to do?",
+      "options": {
+        "A": "Touch the hem of Elisha's garment",
+        "B": "Wash in the Jordan River seven times",
+        "C": "Offer a sacrifice on Mount Carmel",
+        "D": "Anoint himself with oil and pray"
+      },
+      "correct_answer": "B",
+      "explanation": "Elisha sent a messenger telling Naaman to go and wash himself seven times in the Jordan River, and he would be cleansed. At first Naaman was insulted, but eventually obeyed and was healed (2 Kings 5:10-14)."
+    },
+    {
+      "id": 146,
+      "topic": "Hezekiah",
+      "difficulty": "medium",
+      "question": "What miracle occurred regarding Hezekiah's illness and his prayer to God in 2 Kings 20?",
+      "options": {
+        "A": "God sent an angel who brought him back from the dead",
+        "B": "God added fifteen years to his life and made the shadow on the sundial go backward",
+        "C": "God healed him instantly when the prophet Isaiah prayed for him",
+        "D": "God restored his sight which he had lost due to illness"
+      },
+      "correct_answer": "B",
+      "explanation": "When Hezekiah prayed after being told he would die, God heard his prayer, added fifteen years to his life, and as a sign made the shadow on Ahaz's sundial go back ten steps (2 Kings 20:1-11)."
+    },
+    {
+      "id": 147,
+      "topic": "The Book of Acts — Peter",
+      "difficulty": "medium",
+      "question": "In Acts 3, Peter and John healed a man at the Beautiful Gate of the temple. What was the man's condition?",
+      "options": {
+        "A": "He was blind from birth",
+        "B": "He was a leper",
+        "C": "He had been lame from birth",
+        "D": "He was deaf and mute"
+      },
+      "correct_answer": "C",
+      "explanation": "A man lame from birth was being carried to the Beautiful Gate of the temple daily to beg. Peter, in the name of Jesus Christ, commanded him to walk, and he was immediately healed (Acts 3:2-8)."
+    },
+    {
+      "id": 148,
+      "topic": "Ananias and Sapphira",
+      "difficulty": "medium",
+      "question": "What sin did Ananias and Sapphira commit in Acts 5?",
+      "options": {
+        "A": "They refused to share their possessions with the church",
+        "B": "They lied to the Holy Spirit about the proceeds from the sale of their land",
+        "C": "They worshipped idols in secret",
+        "D": "They accused the apostles of embezzling church funds"
+      },
+      "correct_answer": "B",
+      "explanation": "Ananias and Sapphira sold a piece of property but secretly kept part of the money while claiming they gave all of it. Peter confronted Ananias: 'You have not lied just to human beings but to God.' Both fell dead (Acts 5:1-11)."
+    },
+    {
+      "id": 149,
+      "topic": "Philip the Evangelist",
+      "difficulty": "medium",
+      "question": "Who did Philip the evangelist baptise while travelling on the road from Jerusalem to Gaza?",
+      "options": {
+        "A": "A Roman centurion",
+        "B": "A Syrian merchant",
+        "C": "An Ethiopian eunuch who was a treasury official",
+        "D": "A Greek philosopher"
+      },
+      "correct_answer": "C",
+      "explanation": "Philip was led by the Spirit to a chariot where an Ethiopian eunuch, an important official in charge of the treasury of Queen Candace, was reading Isaiah. Philip explained the scripture and baptised him (Acts 8:26-38)."
+    },
+    {
+      "id": 150,
+      "topic": "Peter and Cornelius",
+      "difficulty": "medium",
+      "question": "What was the significance of Peter's vision of the sheet with unclean animals in Acts 10?",
+      "options": {
+        "A": "God was abolishing all the dietary laws of the Old Testament",
+        "B": "Peter should no longer consider Gentiles unclean — salvation was available to all people",
+        "C": "Peter needed to eat meat before his missionary journey",
+        "D": "God was showing Peter which foods were acceptable for the early church"
+      },
+      "correct_answer": "B",
+      "explanation": "The vision prepared Peter to visit Cornelius, a Gentile. God's message was: 'Do not call anything impure that God has made clean' (Acts 10:15). This signified the extension of the gospel to the Gentiles."
+    },
+    {
+      "id": 151,
+      "topic": "Paul in Athens",
+      "difficulty": "medium",
+      "question": "What altar inscription did Paul find in Athens and use as a starting point for his sermon on Mars Hill (Areopagus)?",
+      "options": {
+        "A": "'To the God of the Jews'",
+        "B": "'To an unknown God'",
+        "C": "'To the Maker of all things'",
+        "D": "'To Zeus, ruler of the universe'"
+      },
+      "correct_answer": "B",
+      "explanation": "While walking through Athens, Paul found an altar with the inscription 'TO AN UNKNOWN GOD.' He used this as a bridge to introduce the Athenians to the God who made the world and everything in it (Acts 17:23)."
+    },
+    {
+      "id": 152,
+      "topic": "Paul's Imprisonment and Trial",
+      "difficulty": "medium",
+      "question": "To which city was Paul brought for trial after appealing to Caesar?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Athens",
+        "C": "Caesarea",
+        "D": "Rome"
+      },
+      "correct_answer": "D",
+      "explanation": "After Paul exercised his right as a Roman citizen to appeal to Caesar, he was eventually sent to Rome for trial (Acts 25:11-12, 27-28)."
+    },
+    {
+      "id": 153,
+      "topic": "The Letter to the Hebrews",
+      "difficulty": "medium",
+      "question": "According to Hebrews 12:1-2, what should Christians do because they are surrounded by a great cloud of witnesses?",
+      "options": {
+        "A": "Pray without ceasing and offer daily sacrifices",
+        "B": "Throw off everything that hinders and run with perseverance the race set before them, fixing their eyes on Jesus",
+        "C": "Gather together frequently and encourage one another",
+        "D": "Study the scriptures day and night"
+      },
+      "correct_answer": "B",
+      "explanation": "Hebrews 12:1-2 urges Christians to 'throw off everything that hinders and the sin that so easily entangles...run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.'"
+    },
+    {
+      "id": 154,
+      "topic": "The Letter of James",
+      "difficulty": "medium",
+      "question": "What does James 2:17 say about faith without works?",
+      "options": {
+        "A": "Faith without works is the foundation of Christianity",
+        "B": "Faith without works is sufficient for salvation",
+        "C": "Faith without works is dead",
+        "D": "Faith without works is incomplete but still pleasing to God"
+      },
+      "correct_answer": "C",
+      "explanation": "James 2:17 states: 'In the same way, faith by itself, if it is not accompanied by action, is dead.' James emphasises that genuine faith will produce good works."
+    },
+    {
+      "id": 155,
+      "topic": "Christian Conduct",
+      "difficulty": "medium",
+      "question": "What does Paul say in Philippians 4:13 that he can do through Christ?",
+      "options": {
+        "A": "He can defeat every enemy",
+        "B": "He can do all things",
+        "C": "He can endure all suffering",
+        "D": "He can know all mysteries"
+      },
+      "correct_answer": "B",
+      "explanation": "Philippians 4:13 states: 'I can do all this through him who gives me strength.' Paul wrote this in the context of learning contentment in all circumstances."
+    },
+    {
+      "id": 156,
+      "topic": "Jesus the Good Shepherd",
+      "difficulty": "medium",
+      "question": "In John 10:11, Jesus declared: 'I am the good shepherd.' What does He say the good shepherd does?",
+      "options": {
+        "A": "He leads the sheep to green pastures and still waters",
+        "B": "He lays down His life for the sheep",
+        "C": "He knows every sheep by name and protects them from wolves",
+        "D": "He leaves the ninety-nine to find the one lost sheep"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus said: 'I am the good shepherd. The good shepherd lays down his life for the sheep' (John 10:11). This foreshadowed His sacrificial death for humanity."
+    },
+    {
+      "id": 157,
+      "topic": "Jesus the Bread of Life",
+      "difficulty": "medium",
+      "question": "In John 6:35, Jesus declared: 'I am the bread of life.' What does He promise to those who come to Him?",
+      "options": {
+        "A": "They will receive physical health and long life",
+        "B": "They will never go hungry or thirsty",
+        "C": "They will become the light of the world",
+        "D": "They will receive the gift of prophecy"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus said: 'I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty' (John 6:35)."
+    },
+    {
+      "id": 158,
+      "topic": "The I AM Sayings of Jesus",
+      "difficulty": "medium",
+      "question": "In John 11:25, what did Jesus claim to be in response to Martha's grief over Lazarus?",
+      "options": {
+        "A": "The Way, the Truth, and the Life",
+        "B": "The Resurrection and the Life",
+        "C": "The Light of the World",
+        "D": "The Vine and the Vinedresser"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus told Martha: 'I am the resurrection and the life. The one who believes in me will live, even though they die; and whoever lives by believing in me will never die' (John 11:25-26)."
+    },
+    {
+      "id": 159,
+      "topic": "The I AM Sayings of Jesus",
+      "difficulty": "medium",
+      "question": "In John 14:6, Jesus describes Himself as three things. Which of the following is correct?",
+      "options": {
+        "A": "The Light, the Water, and the Life",
+        "B": "The Word, the Power, and the Life",
+        "C": "The Way, the Truth, and the Life",
+        "D": "The Shepherd, the Door, and the Life"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus answered: 'I am the way and the truth and the life. No one comes to the Father except through me' (John 14:6)."
+    },
+    {
+      "id": 160,
+      "topic": "The Vine",
+      "difficulty": "medium",
+      "question": "In John 15:5, Jesus says 'I am the vine; you are the branches.' What will happen to those who remain in Him?",
+      "options": {
+        "A": "They will receive the fullness of the Holy Spirit",
+        "B": "They will bear much fruit",
+        "C": "They will never experience trials or suffering",
+        "D": "They will be given authority over the nations"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus said: 'I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing' (John 15:5)."
+    },
+    {
+      "id": 161,
+      "topic": "Old Testament Prophecy and Fulfilment",
+      "difficulty": "medium",
+      "question": "The prophet Micah predicted that the Messiah would be born in which town?",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Nazareth",
+        "C": "Bethlehem",
+        "D": "Hebron"
+      },
+      "correct_answer": "C",
+      "explanation": "Micah 5:2 predicted: 'But you, Bethlehem Ephrathah...out of you will come for me one who will be ruler over Israel.' This was fulfilled in the birth of Jesus in Bethlehem (Matthew 2:5-6)."
+    },
+    {
+      "id": 162,
+      "topic": "Old Testament Prophecy and Fulfilment",
+      "difficulty": "medium",
+      "question": "Which prophetic psalm most closely describes the crucifixion of Jesus, including lots being cast for His garments?",
+      "options": {
+        "A": "Psalm 22",
+        "B": "Psalm 23",
+        "C": "Psalm 51",
+        "D": "Psalm 110"
+      },
+      "correct_answer": "A",
+      "explanation": "Psalm 22 vividly describes the sufferings of the Messiah: pierced hands and feet, bones out of joint, onlookers mocking, and soldiers gambling for garments — all fulfilled at the crucifixion."
+    },
+    {
+      "id": 163,
+      "topic": "Repentance",
+      "difficulty": "medium",
+      "question": "What was John the Baptist's primary call to the people who came to him?",
+      "options": {
+        "A": "Believe in Jesus who was coming after him",
+        "B": "Repent, for the kingdom of heaven is near",
+        "C": "Observe the Law strictly",
+        "D": "Abandon their possessions and follow him into the desert"
+      },
+      "correct_answer": "B",
+      "explanation": "John the Baptist preached: 'Repent, for the kingdom of heaven has come near' (Matthew 3:2). His message centred on repentance and preparation for the coming of the Lord."
+    },
+    {
+      "id": 164,
+      "topic": "Sin and Redemption",
+      "difficulty": "medium",
+      "question": "According to Romans 3:23, what is the state of all humanity?",
+      "options": {
+        "A": "All people are basically good but can be corrupted",
+        "B": "All have sinned and fall short of the glory of God",
+        "C": "All people are sinners except the children of believers",
+        "D": "Most people sin, but the righteous are declared holy"
+      },
+      "correct_answer": "B",
+      "explanation": "Romans 3:23 states: 'For all have sinned and fall short of the glory of God.' This establishes the universal need for salvation that Paul addresses in the book of Romans."
+    },
+    {
+      "id": 165,
+      "topic": "Justification by Faith",
+      "difficulty": "medium",
+      "question": "According to Romans 5:1, what benefit do Christians receive as a result of being justified by faith?",
+      "options": {
+        "A": "They receive the gift of the Holy Spirit",
+        "B": "They have peace with God through our Lord Jesus Christ",
+        "C": "They are freed from all suffering",
+        "D": "They are given eternal wisdom"
+      },
+      "correct_answer": "B",
+      "explanation": "Romans 5:1 states: 'Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ.'"
+    },
+    {
+      "id": 166,
+      "topic": "The Second Coming",
+      "difficulty": "medium",
+      "question": "According to 1 Thessalonians 4:16-17, what will happen when Christ returns?",
+      "options": {
+        "A": "All nations will be judged at once",
+        "B": "The dead in Christ will rise first, then the living will be caught up together to meet the Lord in the air",
+        "C": "Christ will establish His throne in Jerusalem and reign for a thousand years",
+        "D": "A great earthquake will announce His arrival"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul writes that when the Lord returns, the dead in Christ will rise first, then the living will be caught up together with them in the clouds to meet the Lord in the air (1 Thessalonians 4:16-17)."
+    },
+    {
+      "id": 167,
+      "topic": "Spiritual Gifts",
+      "difficulty": "medium",
+      "question": "According to 1 Corinthians 12, what is the purpose of spiritual gifts?",
+      "options": {
+        "A": "To show who is more spiritual in the church",
+        "B": "For the common good of the body of Christ",
+        "C": "Primarily to win non-believers to the faith",
+        "D": "To give church leaders authority over the congregation"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul states that spiritual gifts are given 'for the common good' (1 Corinthians 12:7). He uses the body analogy to show that each member's gift serves the whole body."
+    },
+    {
+      "id": 168,
+      "topic": "Christian Marriage",
+      "difficulty": "medium",
+      "question": "In Ephesians 5:25, what does Paul instruct husbands to do?",
+      "options": {
+        "A": "Provide for their wives financially and materially",
+        "B": "Love their wives just as Christ loved the church and gave Himself up for her",
+        "C": "Lead their families in daily prayer and scripture study",
+        "D": "Submit to their wives as they submit to Christ"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul instructs: 'Husbands, love your wives, just as Christ loved the church and gave himself up for her' (Ephesians 5:25). This sets the highest standard of sacrificial love for Christian marriage."
+    },
+    {
+      "id": 169,
+      "topic": "The Parable of the Ten Virgins",
+      "difficulty": "medium",
+      "question": "What does the Parable of the Ten Virgins (Matthew 25) primarily teach?",
+      "options": {
+        "A": "Christians should always be generous and share what they have",
+        "B": "Christians should be ready and watchful for the return of Christ",
+        "C": "Salvation requires preparation through fasting and prayer",
+        "D": "Marriage is a picture of Christ's relationship with the church"
+      },
+      "correct_answer": "B",
+      "explanation": "The Parable of the Ten Virgins teaches readiness for the coming of the kingdom. The five foolish virgins who ran out of oil represent those unprepared for Christ's return (Matthew 25:1-13)."
+    },
+    {
+      "id": 170,
+      "topic": "The Parable of the Sheep and Goats",
+      "difficulty": "medium",
+      "question": "In the Parable of the Sheep and Goats (Matthew 25:31-46), what criteria does the King use to separate the sheep from the goats?",
+      "options": {
+        "A": "Whether they believed in Him and were baptised",
+        "B": "Whether they attended the temple regularly",
+        "C": "Whether they showed compassion to the hungry, thirsty, stranger, naked, sick, and imprisoned",
+        "D": "Whether they gave tithes and offerings faithfully"
+      },
+      "correct_answer": "C",
+      "explanation": "The King separates people based on whether they served 'the least of these brothers and sisters of mine' — the hungry, thirsty, stranger, poorly clothed, sick, and imprisoned — saying that serving them was serving Christ Himself (Matthew 25:35-40)."
+    },
+    {
+      "id": 171,
+      "topic": "Joseph's Story — Reconciliation",
+      "difficulty": "medium",
+      "question": "When Joseph revealed himself to his brothers in Egypt, what did he say to reassure them?",
+      "options": {
+        "A": "'You meant to harm me, but God meant it for good to accomplish what is now being done'",
+        "B": "'I forgive you because you did not know what you were doing'",
+        "C": "'God has restored what the enemy stole from my family'",
+        "D": "'The Lord has prepared this day of reunion for many years'"
+      },
+      "correct_answer": "A",
+      "explanation": "Joseph told his brothers: 'You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives' (Genesis 50:20)."
+    },
+    {
+      "id": 172,
+      "topic": "The Wise Men",
+      "difficulty": "medium",
+      "question": "What did the Magi (wise men) bring as gifts to the baby Jesus?",
+      "options": {
+        "A": "Gold, silver, and myrrh",
+        "B": "Gold, frankincense, and myrrh",
+        "C": "Silver, incense, and spices",
+        "D": "Gold, oil, and precious stones"
+      },
+      "correct_answer": "B",
+      "explanation": "The Magi presented the child Jesus with gifts of gold, frankincense, and myrrh (Matthew 2:11). These gifts are symbolic of His kingship, deity, and coming death respectively."
+    },
+    {
+      "id": 173,
+      "topic": "Jesus' Entry into Jerusalem",
+      "difficulty": "medium",
+      "question": "What did the crowds shout when Jesus entered Jerusalem on a donkey?",
+      "options": {
+        "A": "'Blessed is the King of Israel who comes in the name of the Lord! Hosanna!'",
+        "B": "'Hosanna! Blessed is he who comes in the name of the Lord! Hosanna in the highest!'",
+        "C": "'Praise God! The Messiah has come to save Israel!'",
+        "D": "'Long live the King of Zion who comes to free His people!'"
+      },
+      "correct_answer": "B",
+      "explanation": "The crowds spread cloaks and palm branches, shouting: 'Hosanna! Blessed is he who comes in the name of the Lord! Blessed is the coming kingdom of our father David! Hosanna in the highest heaven!' (Mark 11:9-10)."
+    },
+    {
+      "id": 174,
+      "topic": "The Cleansing of the Temple",
+      "difficulty": "medium",
+      "question": "What did Jesus say when He drove out the merchants and money changers from the temple?",
+      "options": {
+        "A": "'My temple is a place of worship, but you have made it a den of robbers'",
+        "B": "'It is written: My house will be called a house of prayer, but you are making it a den of robbers'",
+        "C": "'This house belongs to God, not to merchants and traders'",
+        "D": "'Take these things away; do not make my Father's house a marketplace'"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus quoted Isaiah 56:7 and Jeremiah 7:11: 'It is written: My house will be called a house of prayer, but you are making it a den of robbers' (Matthew 21:13)."
+    },
+    {
+      "id": 175,
+      "topic": "Nicodemus",
+      "difficulty": "medium",
+      "question": "What did Jesus tell Nicodemus in John 3:3 was necessary to see the kingdom of God?",
+      "options": {
+        "A": "He must keep all the commandments of the Law",
+        "B": "He must be born again (born from above)",
+        "C": "He must be baptised with water and fire",
+        "D": "He must sell all he has and follow Jesus"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus told Nicodemus: 'Very truly I tell you, no one can see the kingdom of God unless they are born again (from above)' (John 3:3). This concept of spiritual rebirth surprised Nicodemus."
+    },
+    {
+      "id": 176,
+      "topic": "The Woman at the Well",
+      "difficulty": "medium",
+      "question": "What did Jesus offer the Samaritan woman at Jacob's well in John 4?",
+      "options": {
+        "A": "Physical water from a deep well",
+        "B": "Living water that would become a spring welling up to eternal life",
+        "C": "The forgiveness of all her past sins",
+        "D": "A place among His twelve disciples"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus offered the Samaritan woman 'living water,' saying: 'Whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life' (John 4:14)."
+    },
+    {
+      "id": 177,
+      "topic": "The Rich Man and Lazarus",
+      "difficulty": "medium",
+      "question": "In the Parable of the Rich Man and Lazarus (Luke 16), what prevented the rich man from receiving any relief after death?",
+      "options": {
+        "A": "He had refused to believe in the scriptures",
+        "B": "A great chasm had been fixed between them that no one could cross",
+        "C": "God had turned His face away from the rich man",
+        "D": "The rich man had worshipped false gods"
+      },
+      "correct_answer": "B",
+      "explanation": "Abraham told the rich man: 'Between us and you a great chasm has been set in place, so that those who want to go from here to you cannot, nor can anyone cross over from there to us' (Luke 16:26)."
+    },
+    {
+      "id": 178,
+      "topic": "Callings and Vocations",
+      "difficulty": "medium",
+      "question": "Which prophet was called while working as a shepherd for his father-in-law and saw a burning bush?",
+      "options": {
+        "A": "Elijah",
+        "B": "Samuel",
+        "C": "Isaiah",
+        "D": "Moses"
+      },
+      "correct_answer": "D",
+      "explanation": "Moses was tending the flock of his father-in-law Jethro in the wilderness near Horeb when he saw a burning bush that was not consumed, and God called him from within the bush (Exodus 3:1-4)."
+    },
+    {
+      "id": 179,
+      "topic": "The Church and Community",
+      "difficulty": "medium",
+      "question": "What does Hebrews 10:25 encourage Christians not to do?",
+      "options": {
+        "A": "Neglect prayer and fasting",
+        "B": "Give up meeting together",
+        "C": "Stop reading the scriptures",
+        "D": "Abandon their faith when persecuted"
+      },
+      "correct_answer": "B",
+      "explanation": "Hebrews 10:25 urges: 'Let us not give up meeting together, as some are in the habit of doing, but encouraging one another — and all the more as you see the Day approaching.'"
+    },
+    {
+      "id": 180,
+      "topic": "Reconciliation",
+      "difficulty": "medium",
+      "question": "According to 2 Corinthians 5:17, what happens when a person becomes a new creation in Christ?",
+      "options": {
+        "A": "They receive all spiritual gifts immediately",
+        "B": "The old has gone; the new has come",
+        "C": "They are set free from all physical suffering",
+        "D": "They become sinless and perfect"
+      },
+      "correct_answer": "B",
+      "explanation": "Paul writes: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!' (2 Corinthians 5:17)."
+    },
+    {
+      "id": 181,
+      "topic": "The Ten Commandments",
+      "difficulty": "medium",
+      "question": "The first commandment in Exodus 20 is best summarised as",
+      "options": {
+        "A": "You shall not make for yourself an idol",
+        "B": "You shall have no other gods before Me",
+        "C": "You shall not misuse the name of the Lord your God",
+        "D": "You shall not bow down to idols"
+      },
+      "correct_answer": "B",
+      "explanation": "The first commandment is: 'You shall have no other gods before me' (Exodus 20:3). This establishes the exclusive nature of Israel's covenant with God."
+    },
+    {
+      "id": 182,
+      "topic": "Pentecost and Tongues",
+      "difficulty": "medium",
+      "question": "What was the reaction of the crowd when the disciples began speaking in other tongues at Pentecost?",
+      "options": {
+        "A": "They all believed immediately and were converted",
+        "B": "They were amazed and asked what it meant, while some mocked saying the disciples were drunk",
+        "C": "They fled in fear",
+        "D": "They sent for the high priest to investigate"
+      },
+      "correct_answer": "B",
+      "explanation": "The crowd was amazed and perplexed, asking 'What does this mean?' But some mocked, saying 'They have had too much wine.' Peter then explained the phenomenon from the book of Joel (Acts 2:12-16)."
+    },
+    {
+      "id": 183,
+      "topic": "The Great Commission",
+      "difficulty": "medium",
+      "question": "In Acts 1:8, Jesus gave His disciples their mission. To which places were they to be His witnesses?",
+      "options": {
+        "A": "Jerusalem, Galilee, Samaria, and Judea",
+        "B": "Jerusalem, all Judea, Samaria, and to the ends of the earth",
+        "C": "Israel, Syria, Egypt, and Rome",
+        "D": "All the synagogues, all the temples, and all the nations"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus said: 'You will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth' (Acts 1:8). This outlines the geographic expansion plan of the early church."
+    },
+    {
+      "id": 184,
+      "topic": "The Incarnation",
+      "difficulty": "medium",
+      "question": "What does John 1:14 mean when it says 'the Word became flesh and made his dwelling among us'?",
+      "options": {
+        "A": "God sent a spiritual vision to appear to the prophets",
+        "B": "Jesus Christ, who is God, became fully human and lived on earth",
+        "C": "The scriptures were made available to all people",
+        "D": "A great prophet was raised up to teach the word of God"
+      },
+      "correct_answer": "B",
+      "explanation": "John 1:14 is a statement about the Incarnation — the eternal Word (Jesus Christ) who was with God and was God (John 1:1) took on human flesh and lived among people. This is the doctrine of God becoming human in Jesus."
+    },
+    {
+      "id": 185,
+      "topic": "Christian Character",
+      "difficulty": "medium",
+      "question": "What quality does Paul describe in 1 Corinthians 13:4-7 as the most important aspect of love?",
+      "options": {
+        "A": "Love never fails",
+        "B": "Love is patient and kind, is not envious or proud, and does not keep a record of wrongs",
+        "C": "Love is the most powerful force in the universe",
+        "D": "Love covers all sins"
+      },
+      "correct_answer": "B",
+      "explanation": "In 1 Corinthians 13:4-7, Paul describes love as patient, kind, not envious, not boastful, not proud, not dishonoring, not self-seeking, not easily angered, keeping no record of wrongs, rejoicing with truth, always protecting, trusting, hoping, and persevering."
+    },
+    {
+      "id": 186,
+      "topic": "The Parable of the Lost Sheep",
+      "difficulty": "medium",
+      "question": "In the Parable of the Lost Sheep (Luke 15), when the shepherd finds the one lost sheep, what does he do?",
+      "options": {
+        "A": "He punishes it for wandering away",
+        "B": "He joyfully puts it on his shoulders, goes home, and calls friends to rejoice with him",
+        "C": "He marks it so it cannot get lost again",
+        "D": "He separates it from the rest of the flock as a precaution"
+      },
+      "correct_answer": "B",
+      "explanation": "The shepherd joyfully puts the found sheep on his shoulders, goes home, and calls friends and neighbours to rejoice with him. Jesus explains this is the joy in heaven over one sinner who repents (Luke 15:4-7)."
+    },
+    {
+      "id": 187,
+      "topic": "Rahab",
+      "difficulty": "medium",
+      "question": "What sign did Rahab hang in her window to protect her and her family when Israel attacked Jericho?",
+      "options": {
+        "A": "A golden star",
+        "B": "A white flag",
+        "C": "A scarlet cord",
+        "D": "An olive branch"
+      },
+      "correct_answer": "C",
+      "explanation": "The spies told Rahab to tie a scarlet cord in the window through which she had lowered them. Her household would be spared if they stayed inside (Joshua 2:18-19)."
+    },
+    {
+      "id": 188,
+      "topic": "The Holy Trinity",
+      "difficulty": "medium",
+      "question": "In which event in the New Testament is the Trinity most visibly displayed — the Father speaking, the Son being baptised, and the Spirit descending?",
+      "options": {
+        "A": "The Transfiguration",
+        "B": "The Baptism of Jesus",
+        "C": "The Day of Pentecost",
+        "D": "The Birth of Jesus"
+      },
+      "correct_answer": "B",
+      "explanation": "At Jesus's baptism, all three persons of the Trinity were present simultaneously: the Son was baptised, the Spirit descended like a dove, and the Father's voice came from heaven saying 'This is my Son, whom I love' (Matthew 3:16-17)."
+    },
+    {
+      "id": 189,
+      "topic": "The Book of Revelation",
+      "difficulty": "medium",
+      "question": "According to Revelation 21:4, what will God do in the new heaven and new earth?",
+      "options": {
+        "A": "He will crown all the saints with golden crowns",
+        "B": "He will wipe every tear from their eyes, and there will be no more death, mourning, crying, or pain",
+        "C": "He will give everyone a mansion prepared for them",
+        "D": "He will restore the Garden of Eden and all its beauty"
+      },
+      "correct_answer": "B",
+      "explanation": "Revelation 21:4 promises: 'He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away.'"
+    },
+    {
+      "id": 190,
+      "topic": "God's Sovereignty",
+      "difficulty": "medium",
+      "question": "According to Romans 8:28, what does God promise to those who love Him?",
+      "options": {
+        "A": "That no evil will ever befall them",
+        "B": "That in all things God works for the good of those who love Him",
+        "C": "That they will have prosperity and good health",
+        "D": "That they will be protected from all enemies"
+      },
+      "correct_answer": "B",
+      "explanation": "Romans 8:28 states: 'And we know that in all things God works for the good of those who love him, who have been called according to his purpose.'"
+    },
+    {
+      "id": 191,
+      "topic": "Samson and Delilah",
+      "difficulty": "medium",
+      "question": "How did Delilah betray Samson to the Philistines?",
+      "options": {
+        "A": "She told the Philistines where he slept at night",
+        "B": "She cut his hair while he slept, removing the source of his strength",
+        "C": "She lied to him about the Philistines' plans",
+        "D": "She tied him with new ropes while he was asleep"
+      },
+      "correct_answer": "B",
+      "explanation": "Delilah discovered that Samson's strength lay in his uncut hair (his Nazirite vow). She had his head shaved while he slept, making him powerless. The Philistines then captured him (Judges 16:19-20)."
+    },
+    {
+      "id": 192,
+      "topic": "The Feeding of the Four Thousand",
+      "difficulty": "medium",
+      "question": "How many loaves of bread did Jesus use to feed the four thousand in Matthew 15?",
+      "options": {
+        "A": "Five loaves",
+        "B": "Six loaves",
+        "C": "Seven loaves",
+        "D": "Ten loaves"
+      },
+      "correct_answer": "C",
+      "explanation": "Jesus had seven loaves and a few small fish. After giving thanks, He broke them and fed four thousand men, with seven basketfuls of broken pieces collected afterward (Matthew 15:34-37)."
+    },
+    {
+      "id": 193,
+      "topic": "Christian Witness",
+      "difficulty": "medium",
+      "question": "In Matthew 5:16, what does Jesus say Christians should do with their light?",
+      "options": {
+        "A": "Keep it burning through private prayer and devotion",
+        "B": "Let it shine before others so they may see their good deeds and glorify God",
+        "C": "Share it only with those who are willing to receive it",
+        "D": "Use it to expose the darkness of the world around them"
+      },
+      "correct_answer": "B",
+      "explanation": "Jesus said: 'In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven' (Matthew 5:16)."
+    },
+    {
+      "id": 194,
+      "topic": "Ruth",
+      "difficulty": "medium",
+      "question": "Who was the kinsman-redeemer who eventually married Ruth and became an ancestor of King David?",
+      "options": {
+        "A": "Elimelech",
+        "B": "Mahlon",
+        "C": "Boaz",
+        "D": "Kilion"
+      },
+      "correct_answer": "C",
+      "explanation": "Boaz, a relative of Ruth's late husband's family, acted as the kinsman-redeemer, married Ruth, and they became the great-grandparents of King David (Ruth 4:13-22)."
+    },
+    {
+      "id": 195,
+      "topic": "Esther and Mordecai",
+      "difficulty": "medium",
+      "question": "Which enemy of the Jews plotted to have all Jews in Persia killed during the reign of King Ahasuerus (Xerxes)?",
+      "options": {
+        "A": "Tobiah",
+        "B": "Sanballat",
+        "C": "Haman",
+        "D": "Gog"
+      },
+      "correct_answer": "C",
+      "explanation": "Haman, a high official of King Ahasuerus, was furious that Mordecai refused to bow to him and plotted to destroy all the Jews throughout the Persian empire (Esther 3:5-6)."
+    },
+    {
+      "id": 196,
+      "topic": "Micah",
+      "difficulty": "medium",
+      "question": "According to Micah 6:8, what does the Lord require of His people?",
+      "options": {
+        "A": "Daily sacrifice and regular tithing",
+        "B": "To act justly, love mercy, and walk humbly with God",
+        "C": "To observe all the feasts and festivals",
+        "D": "To build a house of worship in every city"
+      },
+      "correct_answer": "B",
+      "explanation": "Micah 6:8 is one of the most famous ethical summaries in the Old Testament: 'He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.'"
+    },
+    {
+      "id": 197,
+      "topic": "The New Birth",
+      "difficulty": "medium",
+      "question": "In John 3:16, what is God's motivation for sending His Son into the world?",
+      "options": {
+        "A": "To judge the world and punish sinners",
+        "B": "To fulfil the prophecies of the Old Testament",
+        "C": "His great love for the world, so that everyone who believes will have eternal life",
+        "D": "To establish a kingdom on earth"
+      },
+      "correct_answer": "C",
+      "explanation": "John 3:16 states: 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.' God's motivation is love."
+    },
+    {
+      "id": 198,
+      "topic": "Paul's Letter to Timothy",
+      "difficulty": "medium",
+      "question": "According to 2 Timothy 3:16-17, what is all Scripture inspired by?",
+      "options": {
+        "A": "The wisdom of the early church fathers",
+        "B": "The prophetic gifts of anointed men",
+        "C": "God (God-breathed), and is useful for teaching, rebuking, correcting, and training in righteousness",
+        "D": "The Holy Spirit as interpreted by the apostles"
+      },
+      "correct_answer": "C",
+      "explanation": "Paul states: 'All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work' (2 Timothy 3:16-17)."
+    },
+    {
+      "id": 199,
+      "topic": "Christian Hope",
+      "difficulty": "medium",
+      "question": "According to 1 Peter 3:15, what should Christians always be prepared to do?",
+      "options": {
+        "A": "Defend the faith against false teachers in the church",
+        "B": "Give an answer to everyone who asks about the hope they have",
+        "C": "Pray for the salvation of their persecutors",
+        "D": "Bear one another's burdens in love"
+      },
+      "correct_answer": "B",
+      "explanation": "Peter writes: 'Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect' (1 Peter 3:15)."
+    },
+    {
+      "id": 200,
+      "topic": "Love of God",
+      "difficulty": "medium",
+      "question": "According to 1 John 4:8, what does John say about the nature of God?",
+      "options": {
+        "A": "God is holy",
+        "B": "God is just",
+        "C": "God is love",
+        "D": "God is almighty"
+      },
+      "correct_answer": "C",
+      "explanation": "1 John 4:8 states: 'Whoever does not love does not know God, because God is love.' This is one of the most concise and profound statements about God's character in the entire Bible."
+    }
+  ]
+}

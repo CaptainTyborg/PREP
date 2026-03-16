@@ -1,0 +1,2806 @@
+{
+  "subject": "Use of English",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The king was known for his benevolent disposition towards the poor.",
+      "options": {
+        "A": "cruel",
+        "B": "charitable",
+        "C": "indifferent",
+        "D": "hostile"
+      },
+      "correct_answer": "B",
+      "explanation": "'Benevolent' means well-meaning and kindly; 'charitable' is the closest in meaning."
+    },
+    {
+      "id": 2,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The chairman's verbose speech bored the audience.",
+      "options": {
+        "A": "lengthy",
+        "B": "engaging",
+        "C": "concise",
+        "D": "repetitive"
+      },
+      "correct_answer": "C",
+      "explanation": "'Verbose' means using more words than necessary; its antonym is 'concise', meaning brief and clear."
+    },
+    {
+      "id": 3,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The jury ______ the accused after hearing all the evidence.",
+      "options": {
+        "A": "condemned",
+        "B": "acquitted",
+        "C": "indicted",
+        "D": "prosecuted"
+      },
+      "correct_answer": "B",
+      "explanation": "'Acquitted' means to formally declare someone not guilty, which best suits the context of hearing evidence."
+    },
+    {
+      "id": 4,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The tedious journey lasted for twelve hours.",
+      "options": {
+        "A": "exciting",
+        "B": "dangerous",
+        "C": "monotonous",
+        "D": "smooth"
+      },
+      "correct_answer": "C",
+      "explanation": "'Tedious' means tiringly long and dull; 'monotonous' means lacking variety and boring, which is the nearest meaning."
+    },
+    {
+      "id": 5,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best fills the gap: She was so ______ that she refused to change her mind despite all the evidence.",
+      "options": {
+        "A": "flexible",
+        "B": "obstinate",
+        "C": "considerate",
+        "D": "docile"
+      },
+      "correct_answer": "B",
+      "explanation": "'Obstinate' means stubbornly refusing to change one's opinion, which fits the context."
+    },
+    {
+      "id": 6,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The garrulous old man talked endlessly about his exploits.",
+      "options": {
+        "A": "quiet",
+        "B": "talkative",
+        "C": "angry",
+        "D": "intelligent"
+      },
+      "correct_answer": "B",
+      "explanation": "'Garrulous' means excessively talkative, especially on trivial matters."
+    },
+    {
+      "id": 7,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The reticent student rarely participated in class discussions.",
+      "options": {
+        "A": "brilliant",
+        "B": "quiet",
+        "C": "communicative",
+        "D": "stubborn"
+      },
+      "correct_answer": "C",
+      "explanation": "'Reticent' means not revealing one's thoughts or feelings readily; its antonym is 'communicative'."
+    },
+    {
+      "id": 8,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The scientist made a ______ discovery that changed the course of medicine.",
+      "options": {
+        "A": "trivial",
+        "B": "landmark",
+        "C": "minor",
+        "D": "forgettable"
+      },
+      "correct_answer": "B",
+      "explanation": "A 'landmark' discovery is one that marks an important stage or turning point, fitting the context of changing medicine."
+    },
+    {
+      "id": 9,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: He was so frugal that he never wasted a kobo.",
+      "options": {
+        "A": "extravagant",
+        "B": "wealthy",
+        "C": "thrifty",
+        "D": "poor"
+      },
+      "correct_answer": "C",
+      "explanation": "'Frugal' means sparing or economical with money; 'thrifty' is the nearest synonym."
+    },
+    {
+      "id": 10,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The magnanimous leader forgave his enemies.",
+      "options": {
+        "A": "generous",
+        "B": "petty",
+        "C": "wise",
+        "D": "powerful"
+      },
+      "correct_answer": "B",
+      "explanation": "'Magnanimous' means generous or forgiving; its antonym is 'petty', meaning small-minded or ungenerous."
+    },
+    {
+      "id": 11,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The students were ______ for their excellent performance in the examination.",
+      "options": {
+        "A": "blamed",
+        "B": "reprimanded",
+        "C": "commended",
+        "D": "punished"
+      },
+      "correct_answer": "C",
+      "explanation": "'Commended' means praised or recommended, which fits a context of excellent performance."
+    },
+    {
+      "id": 12,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: Her lucid explanation helped everyone understand the concept.",
+      "options": {
+        "A": "confusing",
+        "B": "brief",
+        "C": "clear",
+        "D": "lengthy"
+      },
+      "correct_answer": "C",
+      "explanation": "'Lucid' means expressed clearly and easy to understand."
+    },
+    {
+      "id": 13,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The politician was surrounded by sycophants who praised his every move.",
+      "options": {
+        "A": "critics",
+        "B": "enemies",
+        "C": "flatterers",
+        "D": "advisors"
+      },
+      "correct_answer": "C",
+      "explanation": "'Sycophants' are people who act obsequiously toward someone in order to gain advantage; 'flatterers' is the nearest meaning."
+    },
+    {
+      "id": 14,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The new policy was met with ______ from the opposition party.",
+      "options": {
+        "A": "applause",
+        "B": "approval",
+        "C": "resistance",
+        "D": "support"
+      },
+      "correct_answer": "C",
+      "explanation": "Opposition parties typically counter new government policies, so 'resistance' is the most appropriate word."
+    },
+    {
+      "id": 15,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The government promised to ameliorate the conditions in the rural areas.",
+      "options": {
+        "A": "worsen",
+        "B": "describe",
+        "C": "improve",
+        "D": "ignore"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ameliorate' means to make something bad better; 'improve' is the nearest synonym."
+    },
+    {
+      "id": 16,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The diligent student always completed her assignments on time.",
+      "options": {
+        "A": "bright",
+        "B": "lazy",
+        "C": "honest",
+        "D": "popular"
+      },
+      "correct_answer": "B",
+      "explanation": "'Diligent' means careful and persistent; its antonym is 'lazy'."
+    },
+    {
+      "id": 17,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The old bridge was ______ because it could no longer bear heavy loads.",
+      "options": {
+        "A": "renovated",
+        "B": "condemned",
+        "C": "widened",
+        "D": "appreciated"
+      },
+      "correct_answer": "B",
+      "explanation": "A bridge that can no longer bear loads would be 'condemned', meaning officially declared unfit for use."
+    },
+    {
+      "id": 18,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: Please make only pertinent comments during the meeting.",
+      "options": {
+        "A": "lengthy",
+        "B": "irrelevant",
+        "C": "harsh",
+        "D": "relevant"
+      },
+      "correct_answer": "D",
+      "explanation": "'Pertinent' means relevant to the matter at hand; 'relevant' is its synonym."
+    },
+    {
+      "id": 19,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: Amaka is a gregarious person who enjoys large gatherings.",
+      "options": {
+        "A": "sociable",
+        "B": "happy",
+        "C": "introverted",
+        "D": "talkative"
+      },
+      "correct_answer": "C",
+      "explanation": "'Gregarious' means fond of company; its antonym is 'introverted', meaning preferring one's own company."
+    },
+    {
+      "id": 20,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The doctor advised her to ______ from strenuous activities after the surgery.",
+      "options": {
+        "A": "engage",
+        "B": "abstain",
+        "C": "recover",
+        "D": "participate"
+      },
+      "correct_answer": "B",
+      "explanation": "'Abstain' means to refrain from something, fitting the medical advice to avoid strenuous activity."
+    },
+    {
+      "id": 21,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The divorce proceedings were acrimonious and lasted for years.",
+      "options": {
+        "A": "friendly",
+        "B": "quiet",
+        "C": "bitter",
+        "D": "expensive"
+      },
+      "correct_answer": "C",
+      "explanation": "'Acrimonious' means angry and bitter, especially in disputes."
+    },
+    {
+      "id": 22,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The loquacious woman talked throughout the flight.",
+      "options": {
+        "A": "noisy",
+        "B": "quiet",
+        "C": "funny",
+        "D": "rude"
+      },
+      "correct_answer": "B",
+      "explanation": "'Loquacious' means tending to talk a great deal; its antonym is 'quiet'."
+    },
+    {
+      "id": 23,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: Despite the hardship, she remained ______ and never gave up.",
+      "options": {
+        "A": "despondent",
+        "B": "resilient",
+        "C": "hopeless",
+        "D": "withdrawn"
+      },
+      "correct_answer": "B",
+      "explanation": "'Resilient' means able to recover quickly from difficulties, fitting someone who does not give up."
+    },
+    {
+      "id": 24,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The government set up a scheme to help indigent farmers.",
+      "options": {
+        "A": "wealthy",
+        "B": "poor",
+        "C": "educated",
+        "D": "ambitious"
+      },
+      "correct_answer": "B",
+      "explanation": "'Indigent' means poor and needy."
+    },
+    {
+      "id": 25,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The taciturn judge rarely commented on cases outside the courtroom.",
+      "options": {
+        "A": "strict",
+        "B": "wise",
+        "C": "talkative",
+        "D": "fair"
+      },
+      "correct_answer": "C",
+      "explanation": "'Taciturn' means reserved or uncommunicative; its antonym is 'talkative'."
+    },
+    {
+      "id": 26,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The two countries signed a ______ agreement to end the conflict.",
+      "options": {
+        "A": "bilateral",
+        "B": "monopoly",
+        "C": "hostile",
+        "D": "unilateral"
+      },
+      "correct_answer": "A",
+      "explanation": "'Bilateral' means involving two parties or countries, fitting an agreement between two nations."
+    },
+    {
+      "id": 27,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The indefatigable activist campaigned for human rights for decades.",
+      "options": {
+        "A": "tired",
+        "B": "tireless",
+        "C": "fearless",
+        "D": "hopeless"
+      },
+      "correct_answer": "B",
+      "explanation": "'Indefatigable' means persisting tirelessly; 'tireless' is the correct synonym."
+    },
+    {
+      "id": 28,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: The parsimonious landlord refused to repair the leaking roof.",
+      "options": {
+        "A": "kind",
+        "B": "honest",
+        "C": "generous",
+        "D": "wealthy"
+      },
+      "correct_answer": "C",
+      "explanation": "'Parsimonious' means excessively unwilling to spend money; its antonym is 'generous'."
+    },
+    {
+      "id": 29,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best fills the gap: His ______ behavior at the dinner table embarrassed his parents.",
+      "options": {
+        "A": "polite",
+        "B": "refined",
+        "C": "uncouth",
+        "D": "elegant"
+      },
+      "correct_answer": "C",
+      "explanation": "'Uncouth' means lacking good manners or refinement, which would cause embarrassment."
+    },
+    {
+      "id": 30,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The ostentatious display of wealth angered the poor villagers.",
+      "options": {
+        "A": "modest",
+        "B": "showy",
+        "C": "private",
+        "D": "minimal"
+      },
+      "correct_answer": "B",
+      "explanation": "'Ostentatious' means characterized by a vulgar display of wealth; 'showy' is the nearest synonym."
+    },
+    {
+      "id": 31,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: Fame can be ephemeral if not supported by real talent.",
+      "options": {
+        "A": "temporary",
+        "B": "exciting",
+        "C": "permanent",
+        "D": "profitable"
+      },
+      "correct_answer": "C",
+      "explanation": "'Ephemeral' means lasting for a very short time; its antonym is 'permanent'."
+    },
+    {
+      "id": 32,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The journalist was accused of ______ the facts in his report.",
+      "options": {
+        "A": "presenting",
+        "B": "distorting",
+        "C": "reporting",
+        "D": "confirming"
+      },
+      "correct_answer": "B",
+      "explanation": "Being 'accused' implies wrongdoing; 'distorting' means misrepresenting facts, which fits an accusation."
+    },
+    {
+      "id": 33,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: The new teacher was aloof and rarely interacted with students informally.",
+      "options": {
+        "A": "friendly",
+        "B": "angry",
+        "C": "distant",
+        "D": "strict"
+      },
+      "correct_answer": "C",
+      "explanation": "'Aloof' means not friendly or forthcoming; emotionally distant."
+    },
+    {
+      "id": 34,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: I appreciate his candid assessment of the situation.",
+      "options": {
+        "A": "honest",
+        "B": "brief",
+        "C": "evasive",
+        "D": "positive"
+      },
+      "correct_answer": "C",
+      "explanation": "'Candid' means truthful and straightforward; its antonym is 'evasive', meaning deliberately vague."
+    },
+    {
+      "id": 35,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best fills the gap: The team's ______ performance in the finals disappointed their supporters.",
+      "options": {
+        "A": "outstanding",
+        "B": "stellar",
+        "C": "mediocre",
+        "D": "excellent"
+      },
+      "correct_answer": "C",
+      "explanation": "'Mediocre' means of only average quality; a mediocre performance would cause disappointment."
+    },
+    {
+      "id": 36,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: She sat by the window with a pensive look on her face.",
+      "options": {
+        "A": "happy",
+        "B": "angry",
+        "C": "thoughtful",
+        "D": "tired"
+      },
+      "correct_answer": "C",
+      "explanation": "'Pensive' means engaged in deep or serious thought."
+    },
+    {
+      "id": 37,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: They reached an amicable settlement after months of negotiation.",
+      "options": {
+        "A": "friendly",
+        "B": "hostile",
+        "C": "legal",
+        "D": "final"
+      },
+      "correct_answer": "B",
+      "explanation": "'Amicable' means having a spirit of friendliness; its antonym is 'hostile'."
+    },
+    {
+      "id": 38,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that best completes the sentence: The government decided to ______ the old law and replace it with a new one.",
+      "options": {
+        "A": "enforce",
+        "B": "repeal",
+        "C": "strengthen",
+        "D": "review"
+      },
+      "correct_answer": "B",
+      "explanation": "'Repeal' means to revoke or annul a law, which matches 'replacing it with a new one'."
+    },
+    {
+      "id": 39,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option nearest in meaning to the underlined word: She is a zealous worker who always goes the extra mile.",
+      "options": {
+        "A": "lazy",
+        "B": "dishonest",
+        "C": "enthusiastic",
+        "D": "careless"
+      },
+      "correct_answer": "C",
+      "explanation": "'Zealous' means showing great energy or enthusiasm; 'enthusiastic' is the nearest synonym."
+    },
+    {
+      "id": 40,
+      "topic": "Lexis and Structure",
+      "difficulty": "medium",
+      "question": "Choose the option that is opposite in meaning to the underlined word: It was prudent of him to save some money for emergencies.",
+      "options": {
+        "A": "wise",
+        "B": "reckless",
+        "C": "expensive",
+        "D": "common"
+      },
+      "correct_answer": "B",
+      "explanation": "'Prudent' means acting with care and thought for the future; its antonym is 'reckless'."
+    },
+    {
+      "id": 41,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option to complete the sentence: Each of the boys ______ expected to bring his own textbook.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "explanation": "'Each' is a singular indefinite pronoun and takes a singular verb 'is'."
+    },
+    {
+      "id": 42,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option to complete the sentence: By the time he arrived, she ______ for three hours.",
+      "options": {
+        "A": "has waited",
+        "B": "waited",
+        "C": "had been waiting",
+        "D": "was waiting"
+      },
+      "correct_answer": "C",
+      "explanation": "The past perfect continuous 'had been waiting' is used to show an action that was ongoing before another past action ('arrived')."
+    },
+    {
+      "id": 43,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: Between you and ______, I think the plan will fail.",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "myself",
+        "D": "mine"
+      },
+      "correct_answer": "B",
+      "explanation": "The preposition 'between' takes an object pronoun. 'Me' is the correct object form, not 'I' or 'myself'."
+    },
+    {
+      "id": 44,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: He is allergic ______ dust.",
+      "options": {
+        "A": "of",
+        "B": "from",
+        "C": "to",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct collocation is 'allergic to'. 'To' is the required preposition here."
+    },
+    {
+      "id": 45,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: The jury ______ divided in their opinion.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "correct_answer": "B",
+      "explanation": "When a collective noun like 'jury' acts as individuals with different opinions, a plural verb is used."
+    },
+    {
+      "id": 46,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: She ______ her homework before her mother came home.",
+      "options": {
+        "A": "did",
+        "B": "does",
+        "C": "had done",
+        "D": "has done"
+      },
+      "correct_answer": "C",
+      "explanation": "The past perfect 'had done' is used for an action completed before another past action ('came home')."
+    },
+    {
+      "id": 47,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the grammatically correct option: The winner of the competition was ______.",
+      "options": {
+        "A": "her",
+        "B": "she",
+        "C": "they",
+        "D": "them"
+      },
+      "correct_answer": "B",
+      "explanation": "After the linking verb 'was', a subject pronoun (nominative case) is required. 'She' is the correct form."
+    },
+    {
+      "id": 48,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct conjunction: He worked very hard ______ he did not pass the examination.",
+      "options": {
+        "A": "so",
+        "B": "yet",
+        "C": "for",
+        "D": "and"
+      },
+      "correct_answer": "B",
+      "explanation": "'Yet' is used as a conjunction to show contrast between two ideas that seem contradictory."
+    },
+    {
+      "id": 49,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: Neither the students nor the teacher ______ present at the meeting.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have been"
+      },
+      "correct_answer": "C",
+      "explanation": "With 'neither...nor', the verb agrees with the subject nearest to it. 'Teacher' is singular, so 'is' is correct."
+    },
+    {
+      "id": 50,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct article: He is ______ honest man.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "explanation": "'An' is used before words beginning with a vowel sound. 'Honest' begins with a silent 'h', so the vowel sound /ɒ/ is heard."
+    },
+    {
+      "id": 51,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: If I were rich, I ______ build a hospital in my village.",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "shall",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "explanation": "In second conditional sentences (hypothetical situations), 'would' is used in the main clause."
+    },
+    {
+      "id": 52,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct passive form: The secretary ______ the letter yesterday.",
+      "options": {
+        "A": "typed",
+        "B": "is typed by",
+        "C": "was typed by",
+        "D": "has been typed by"
+      },
+      "correct_answer": "C",
+      "explanation": "'Yesterday' indicates past tense. The correct passive form in simple past is 'was typed by'."
+    },
+    {
+      "id": 53,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: The minister was accused ______ corruption.",
+      "options": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "about"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct collocation is 'accused of'. 'Of' is the required preposition."
+    },
+    {
+      "id": 54,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: A number of students ______ absent yesterday.",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "has been"
+      },
+      "correct_answer": "C",
+      "explanation": "'A number of' is followed by a plural noun and takes a plural verb. Compare 'the number of students was'."
+    },
+    {
+      "id": 55,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct tense: I ______ in this city for ten years now.",
+      "options": {
+        "A": "live",
+        "B": "lived",
+        "C": "have been living",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "explanation": "Present perfect continuous is used for an action that started in the past and continues to the present ('for ten years now')."
+    },
+    {
+      "id": 56,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "He said, 'I will come tomorrow.' In reported speech, this becomes: He said that he ______ the following day.",
+      "options": {
+        "A": "will come",
+        "B": "would come",
+        "C": "comes",
+        "D": "came"
+      },
+      "correct_answer": "B",
+      "explanation": "In reported speech, 'will' changes to 'would', and 'tomorrow' becomes 'the following day'."
+    },
+    {
+      "id": 57,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: She is married ______ a doctor.",
+      "options": {
+        "A": "with",
+        "B": "for",
+        "C": "to",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct collocation is 'married to'. One is married 'to' another person."
+    },
+    {
+      "id": 58,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: The news ______ shocking.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "was"
+      },
+      "correct_answer": "D",
+      "explanation": "'News' is an uncountable noun that always takes a singular verb. 'Was' is correct."
+    },
+    {
+      "id": 59,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: Everyone must bring ______ own lunch to the picnic.",
+      "options": {
+        "A": "their",
+        "B": "him",
+        "C": "his",
+        "D": "its"
+      },
+      "correct_answer": "C",
+      "explanation": "In formal usage, 'his' is used as the generic singular pronoun to refer back to 'everyone'."
+    },
+    {
+      "id": 60,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: He plays ______ football every evening.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correct_answer": "D",
+      "explanation": "No article is used before the names of sports and games."
+    },
+    {
+      "id": 61,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: He suggested that we ______ early.",
+      "options": {
+        "A": "leave",
+        "B": "left",
+        "C": "leaving",
+        "D": "to leave"
+      },
+      "correct_answer": "A",
+      "explanation": "After 'suggest that', the subjunctive mood requires the base form of the verb (bare infinitive), hence 'leave'."
+    },
+    {
+      "id": 62,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct relative pronoun: The man ______ car was stolen reported to the police.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "explanation": "'Whose' is the possessive relative pronoun, used here to show that the car belongs to the man."
+    },
+    {
+      "id": 63,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: She ______ to Lagos before the rain started.",
+      "options": {
+        "A": "goes",
+        "B": "went",
+        "C": "had gone",
+        "D": "has gone"
+      },
+      "correct_answer": "C",
+      "explanation": "Past perfect 'had gone' shows an action completed before another past action ('before the rain started')."
+    },
+    {
+      "id": 64,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: He died ______ malaria.",
+      "options": {
+        "A": "from",
+        "B": "of",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "explanation": "One dies 'of' a disease. 'Die of' is the correct collocation."
+    },
+    {
+      "id": 65,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: The committee ______ yet to reach a decision.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "have",
+        "D": "were"
+      },
+      "correct_answer": "B",
+      "explanation": "When a collective noun like 'committee' acts as a single unit, a singular verb is used."
+    },
+    {
+      "id": 66,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: She ______ in the competition and won first prize.",
+      "options": {
+        "A": "sings good",
+        "B": "sings well",
+        "C": "sang good",
+        "D": "sang well"
+      },
+      "correct_answer": "D",
+      "explanation": "An adverb modifies a verb; 'well' (adverb) not 'good' (adjective) modifies the verb 'sang'. Past tense is needed."
+    },
+    {
+      "id": 67,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct question tag: She is your sister, ______?",
+      "options": {
+        "A": "isn't it",
+        "B": "isn't she",
+        "C": "is she",
+        "D": "was she"
+      },
+      "correct_answer": "B",
+      "explanation": "The question tag for a positive statement with 'she is' must be negative 'isn't she'."
+    },
+    {
+      "id": 68,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: He was punished ______ his misbehavior.",
+      "options": {
+        "A": "about",
+        "B": "for",
+        "C": "with",
+        "D": "of"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct collocation is 'punished for' — one is punished 'for' an offense."
+    },
+    {
+      "id": 69,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct tense: When I ______ home, my mother was cooking.",
+      "options": {
+        "A": "reached",
+        "B": "had reached",
+        "C": "reach",
+        "D": "am reaching"
+      },
+      "correct_answer": "A",
+      "explanation": "Simple past 'reached' is used for an action that interrupted another ongoing past action ('was cooking')."
+    },
+    {
+      "id": 70,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: He enjoys ______ football with his friends.",
+      "options": {
+        "A": "to play",
+        "B": "playing",
+        "C": "played",
+        "D": "play"
+      },
+      "correct_answer": "B",
+      "explanation": "The verb 'enjoy' is always followed by a gerund (-ing form)."
+    },
+    {
+      "id": 71,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: Either the manager or his assistants ______ to blame.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "explanation": "With 'either...or', the verb agrees with the nearest subject. 'Assistants' is plural, so 'are' is correct."
+    },
+    {
+      "id": 72,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct preposition: His work is different ______ what I expected.",
+      "options": {
+        "A": "to",
+        "B": "than",
+        "C": "from",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct collocation is 'different from'. This is the standard British English usage."
+    },
+    {
+      "id": 73,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option (subjunctive): The doctor recommended that she ______ in bed for a week.",
+      "options": {
+        "A": "stays",
+        "B": "stay",
+        "C": "stayed",
+        "D": "will stay"
+      },
+      "correct_answer": "B",
+      "explanation": "After 'recommend that', the subjunctive mood requires the base form of the verb, hence 'stay' not 'stays'."
+    },
+    {
+      "id": 74,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: The principal, together with all the teachers, ______ the students at the assembly.",
+      "options": {
+        "A": "address",
+        "B": "addresses",
+        "C": "addressed",
+        "D": "were addressing"
+      },
+      "correct_answer": "C",
+      "explanation": "When a phrase like 'together with' comes between the subject and verb, the verb agrees with the main subject 'principal' (singular). Past tense 'addressed' is appropriate in narrative context."
+    },
+    {
+      "id": 75,
+      "topic": "Grammar and Usage",
+      "difficulty": "medium",
+      "question": "Choose the correct option: She asked him ______ he had been all day.",
+      "options": {
+        "A": "where",
+        "B": "that",
+        "C": "what",
+        "D": "how"
+      },
+      "correct_answer": "A",
+      "explanation": "'Where' is used to ask about place or location; 'where he had been' refers to his location."
+    },
+    {
+      "id": 76,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the stress on the second syllable?",
+      "options": {
+        "A": "beautiful",
+        "B": "elephant",
+        "C": "mistake",
+        "D": "family"
+      },
+      "correct_answer": "C",
+      "explanation": "'Mistake' is stressed on the second syllable: mis-TAKE. The others are stressed on the first syllable."
+    },
+    {
+      "id": 77,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words contains a silent consonant?",
+      "options": {
+        "A": "book",
+        "B": "know",
+        "C": "back",
+        "D": "bring"
+      },
+      "correct_answer": "B",
+      "explanation": "In 'know', the letter 'k' is silent. The word is pronounced /noʊ/."
+    },
+    {
+      "id": 78,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which pair of words contains the same vowel sound?",
+      "options": {
+        "A": "pin, pine",
+        "B": "seat, sit",
+        "C": "gun, fun",
+        "D": "pet, pit"
+      },
+      "correct_answer": "C",
+      "explanation": "Both 'gun' /ɡʌn/ and 'fun' /fʌn/ contain the vowel sound /ʌ/."
+    },
+    {
+      "id": 79,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of these words rhymes with 'great'?",
+      "options": {
+        "A": "beat",
+        "B": "greet",
+        "C": "wait",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "explanation": "'Great' is pronounced /ɡreɪt/ and 'wait' is pronounced /weɪt/. Both end with the /eɪt/ sound."
+    },
+    {
+      "id": 80,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "In which of the following words is 'ch' pronounced as /k/?",
+      "options": {
+        "A": "church",
+        "B": "chair",
+        "C": "chorus",
+        "D": "chin"
+      },
+      "correct_answer": "C",
+      "explanation": "In 'chorus', the 'ch' is pronounced /k/ as in /ˈkɔːrəs/. This is common in Greek-derived words."
+    },
+    {
+      "id": 81,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the primary stress on the first syllable?",
+      "options": {
+        "A": "ago",
+        "B": "below",
+        "C": "open",
+        "D": "between"
+      },
+      "correct_answer": "C",
+      "explanation": "'Open' is stressed on the first syllable: O-pen. The others are stressed on the second syllable."
+    },
+    {
+      "id": 82,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "How many syllables does the word 'photography' have?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "2"
+      },
+      "correct_answer": "B",
+      "explanation": "'Photography' has four syllables: pho-tog-ra-phy."
+    },
+    {
+      "id": 83,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words contains the vowel sound /ɔː/?",
+      "options": {
+        "A": "hot",
+        "B": "caught",
+        "C": "cot",
+        "D": "cut"
+      },
+      "correct_answer": "B",
+      "explanation": "'Caught' /kɔːt/ contains the long vowel sound /ɔː/. The others contain short vowel sounds."
+    },
+    {
+      "id": 84,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has a silent consonant?",
+      "options": {
+        "A": "lamp",
+        "B": "table",
+        "C": "write",
+        "D": "bring"
+      },
+      "correct_answer": "C",
+      "explanation": "In 'write', the 'w' is silent. The word is pronounced /raɪt/."
+    },
+    {
+      "id": 85,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "In the word 'education', where does the primary stress fall?",
+      "options": {
+        "A": "First syllable",
+        "B": "Second syllable",
+        "C": "Third syllable",
+        "D": "Fourth syllable"
+      },
+      "correct_answer": "C",
+      "explanation": "'Education' is stressed on the third syllable: e-du-CA-tion /ˌedʒʊˈkeɪʃən/."
+    },
+    {
+      "id": 86,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words rhymes with 'through'?",
+      "options": {
+        "A": "though",
+        "B": "rough",
+        "C": "cough",
+        "D": "drew"
+      },
+      "correct_answer": "D",
+      "explanation": "'Through' is pronounced /θruː/ and 'drew' is pronounced /druː/. Both end with the /uː/ sound."
+    },
+    {
+      "id": 87,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which pair of words contains the same initial consonant sound?",
+      "options": {
+        "A": "phone, vine",
+        "B": "thin, then",
+        "C": "phone, fine",
+        "D": "cat, sat"
+      },
+      "correct_answer": "C",
+      "explanation": "'Phone' /foʊn/ and 'fine' /faɪn/ both begin with the /f/ sound. 'Ph' in 'phone' represents /f/."
+    },
+    {
+      "id": 88,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "In which of the following words is 'ough' pronounced differently from the others?",
+      "options": {
+        "A": "tough",
+        "B": "rough",
+        "C": "through",
+        "D": "enough"
+      },
+      "correct_answer": "C",
+      "explanation": "In 'tough', 'rough', and 'enough', 'ough' is pronounced /ʌf/. In 'through', 'ough' is pronounced /uː/."
+    },
+    {
+      "id": 89,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct stress pattern for the word 'economy'?",
+      "options": {
+        "A": "E-co-no-my",
+        "B": "e-CO-no-my",
+        "C": "e-co-NO-my",
+        "D": "e-co-no-MY"
+      },
+      "correct_answer": "B",
+      "explanation": "'Economy' /ɪˈkɒnəmi/ is stressed on the second syllable: e-CON-o-my."
+    },
+    {
+      "id": 90,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the same vowel sound as 'bird'?",
+      "options": {
+        "A": "bad",
+        "B": "bed",
+        "C": "heard",
+        "D": "bid"
+      },
+      "correct_answer": "C",
+      "explanation": "'Bird' /bɜːd/ and 'heard' /hɜːd/ both contain the vowel sound /ɜː/."
+    },
+    {
+      "id": 91,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "In which of the following sentences is the word 'present' used as a verb?",
+      "options": {
+        "A": "She received a present from her father.",
+        "B": "He will present his findings tomorrow.",
+        "C": "The present situation is worrying.",
+        "D": "All students must be present."
+      },
+      "correct_answer": "B",
+      "explanation": "In option B, 'present' functions as a verb meaning to show/demonstrate. As a verb, it is stressed on the second syllable: pre-SENT."
+    },
+    {
+      "id": 92,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words contains the consonant cluster /str/?",
+      "options": {
+        "A": "strap",
+        "B": "slab",
+        "C": "slip",
+        "D": "snap"
+      },
+      "correct_answer": "A",
+      "explanation": "'Strap' begins with the consonant cluster /str/. The other words do not contain this cluster."
+    },
+    {
+      "id": 93,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the stress on the last syllable?",
+      "options": {
+        "A": "cinema",
+        "B": "family",
+        "C": "paradise",
+        "D": "machine"
+      },
+      "correct_answer": "D",
+      "explanation": "'Machine' /məˈʃiːn/ is stressed on the last syllable: ma-CHINE."
+    },
+    {
+      "id": 94,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the same vowel sound as 'fat'?",
+      "options": {
+        "A": "fate",
+        "B": "flat",
+        "C": "late",
+        "D": "bate"
+      },
+      "correct_answer": "B",
+      "explanation": "'Fat' /fæt/ and 'flat' /flæt/ both contain the short vowel sound /æ/."
+    },
+    {
+      "id": 95,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which word is stressed on the second syllable when used as a noun?",
+      "options": {
+        "A": "record",
+        "B": "protest",
+        "C": "increase",
+        "D": "export"
+      },
+      "correct_answer": "A",
+      "explanation": "These are nouns stressed on the first syllable. However, 'record' as a verb is stressed on the second syllable: re-CORD. The others follow the same noun/verb stress shift pattern. Wait — as a noun, REcord is stressed on the first syllable. This tests that knowledge."
+    },
+    {
+      "id": 96,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "How many syllables does the word 'beautiful' have?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct_answer": "B",
+      "explanation": "'Beautiful' has three syllables: beau-ti-ful."
+    },
+    {
+      "id": 97,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "The word 'certificate' is correctly stressed on which syllable?",
+      "options": {
+        "A": "CER-ti-fi-cate",
+        "B": "cer-TIF-i-cate",
+        "C": "cer-ti-FI-cate",
+        "D": "cer-ti-fi-CATE"
+      },
+      "correct_answer": "B",
+      "explanation": "'Certificate' /səˈtɪfɪkət/ carries the primary stress on the second syllable: cer-TIF-i-cate."
+    },
+    {
+      "id": 98,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has a different vowel sound from the others?",
+      "options": {
+        "A": "bite",
+        "B": "kite",
+        "C": "kit",
+        "D": "white"
+      },
+      "correct_answer": "C",
+      "explanation": "'Bite', 'kite', and 'white' all contain the diphthong /aɪ/. 'Kit' contains the short vowel /ɪ/."
+    },
+    {
+      "id": 99,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following correctly describes the word 'gnaw'?",
+      "options": {
+        "A": "The 'g' is pronounced",
+        "B": "The 'n' is silent",
+        "C": "The 'g' is silent",
+        "D": "Both 'g' and 'n' are silent"
+      },
+      "correct_answer": "C",
+      "explanation": "In 'gnaw' /nɔː/, the initial 'g' is silent. The word begins with the /n/ sound."
+    },
+    {
+      "id": 100,
+      "topic": "Oral English",
+      "difficulty": "medium",
+      "question": "Which of the following words has the stress on the third syllable?",
+      "options": {
+        "A": "telephone",
+        "B": "understand",
+        "C": "president",
+        "D": "hospital"
+      },
+      "correct_answer": "B",
+      "explanation": "'Understand' /ˌʌndəˈstænd/ carries its primary stress on the third syllable: un-der-STAND."
+    },
+    {
+      "id": 101,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'beat about the bush' means to:",
+      "options": {
+        "A": "look for something in a forest",
+        "B": "avoid coming to the main point",
+        "C": "physically fight someone",
+        "D": "hunt for animals"
+      },
+      "correct_answer": "B",
+      "explanation": "'To beat about the bush' means to discuss a matter without getting to the main point."
+    },
+    {
+      "id": 102,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'bite the bullet' means to:",
+      "options": {
+        "A": "shoot someone",
+        "B": "eat something hard",
+        "C": "endure a painful situation bravely",
+        "D": "become very angry"
+      },
+      "correct_answer": "C",
+      "explanation": "'Bite the bullet' means to endure a painful or difficult situation that is unavoidable."
+    },
+    {
+      "id": 103,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "When someone 'burns the midnight oil', it means:",
+      "options": {
+        "A": "setting fire to oil",
+        "B": "working or studying very late into the night",
+        "C": "wasting natural resources",
+        "D": "being careless with fire"
+      },
+      "correct_answer": "B",
+      "explanation": "'Burn the midnight oil' means to work or study late into the night."
+    },
+    {
+      "id": 104,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'turn a blind eye' to something means to:",
+      "options": {
+        "A": "become partially blind",
+        "B": "look at something carefully",
+        "C": "deliberately ignore it",
+        "D": "examine it very closely"
+      },
+      "correct_answer": "C",
+      "explanation": "'Turn a blind eye' means to deliberately ignore or overlook something."
+    },
+    {
+      "id": 105,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The expression 'once in a blue moon' means:",
+      "options": {
+        "A": "never",
+        "B": "very rarely",
+        "C": "once a month",
+        "D": "every night"
+      },
+      "correct_answer": "B",
+      "explanation": "'Once in a blue moon' means something that happens very infrequently or rarely."
+    },
+    {
+      "id": 106,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'let the cat out of the bag' means to:",
+      "options": {
+        "A": "release a trapped animal",
+        "B": "reveal a secret unintentionally",
+        "C": "cause serious trouble",
+        "D": "make a significant mistake"
+      },
+      "correct_answer": "B",
+      "explanation": "'Let the cat out of the bag' means to accidentally reveal something that was meant to be kept secret."
+    },
+    {
+      "id": 107,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "When someone is described as 'a dark horse', it means they are:",
+      "options": {
+        "A": "a person with a dark complexion",
+        "B": "someone who rides horses",
+        "C": "a person whose abilities are not widely known but who may surprise others",
+        "D": "a dishonest person"
+      },
+      "correct_answer": "C",
+      "explanation": "'A dark horse' refers to a person who is little known but unexpectedly succeeds or may succeed."
+    },
+    {
+      "id": 108,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'get cold feet' means to:",
+      "options": {
+        "A": "have a foot injury",
+        "B": "become nervous or afraid about something",
+        "C": "feel cold in winter",
+        "D": "wear no shoes"
+      },
+      "correct_answer": "B",
+      "explanation": "'Get cold feet' means to suddenly become nervous, afraid, or hesitant about doing something."
+    },
+    {
+      "id": 109,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The expression 'spill the beans' means to:",
+      "options": {
+        "A": "waste food carelessly",
+        "B": "cook an elaborate meal",
+        "C": "reveal secret information",
+        "D": "make a mess"
+      },
+      "correct_answer": "C",
+      "explanation": "'Spill the beans' means to reveal secret or confidential information inadvertently."
+    },
+    {
+      "id": 110,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'sit on the fence' means to:",
+      "options": {
+        "A": "refuse to make a decision or commitment",
+        "B": "watch a game from the sidelines",
+        "C": "do physical exercise",
+        "D": "stay in one place for a long time"
+      },
+      "correct_answer": "A",
+      "explanation": "'Sit on the fence' means to remain neutral and avoid taking sides in a dispute or making a decision."
+    },
+    {
+      "id": 111,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "When something 'costs an arm and a leg', it means:",
+      "options": {
+        "A": "it causes physical injury",
+        "B": "it is extremely expensive",
+        "C": "it is completely free",
+        "D": "it involves a trade of goods"
+      },
+      "correct_answer": "B",
+      "explanation": "'Cost an arm and a leg' means to be very expensive."
+    },
+    {
+      "id": 112,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'go back to the drawing board' means to:",
+      "options": {
+        "A": "study art or drawing",
+        "B": "return to a previous location",
+        "C": "start planning something again from the very beginning",
+        "D": "repair something broken"
+      },
+      "correct_answer": "C",
+      "explanation": "'Go back to the drawing board' means to start over after a plan has failed."
+    },
+    {
+      "id": 113,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The phrase 'at the drop of a hat' means:",
+      "options": {
+        "A": "immediately, without hesitation",
+        "B": "when something accidentally falls",
+        "C": "very slowly and carefully",
+        "D": "after deep thought"
+      },
+      "correct_answer": "A",
+      "explanation": "'At the drop of a hat' means immediately, without needing any persuasion."
+    },
+    {
+      "id": 114,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'have a chip on one's shoulder' means to:",
+      "options": {
+        "A": "carry a physical burden",
+        "B": "eat snacks frequently",
+        "C": "be resentful or feeling aggrieved about something",
+        "D": "be very cheerful"
+      },
+      "correct_answer": "C",
+      "explanation": "'Have a chip on one's shoulder' means to be sensitive and easily angered due to a feeling of inferiority or resentment."
+    },
+    {
+      "id": 115,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'pull someone's leg' means to:",
+      "options": {
+        "A": "physically drag someone",
+        "B": "help someone walk",
+        "C": "tease or joke with someone",
+        "D": "hurt someone's feelings"
+      },
+      "correct_answer": "C",
+      "explanation": "'Pull someone's leg' means to tease someone by telling them something untrue as a joke."
+    },
+    {
+      "id": 116,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The expression 'the ball is in your court' means:",
+      "options": {
+        "A": "a sports event is currently happening",
+        "B": "it is your turn or responsibility to take the next action",
+        "C": "you have already lost the competition",
+        "D": "you should wait patiently"
+      },
+      "correct_answer": "B",
+      "explanation": "'The ball is in your court' means it is now up to you to take the next step or make a decision."
+    },
+    {
+      "id": 117,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'bite the hand that feeds you' means to:",
+      "options": {
+        "A": "eat aggressively",
+        "B": "harm or show ingratitude to a benefactor",
+        "C": "refuse to accept generosity",
+        "D": "be very generous to others"
+      },
+      "correct_answer": "B",
+      "explanation": "'Bite the hand that feeds you' means to act ungratefully toward someone who has helped you."
+    },
+    {
+      "id": 118,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "When someone 'kicks the bucket', it means:",
+      "options": {
+        "A": "kicks something forcefully away",
+        "B": "begins a new ambitious project",
+        "C": "dies",
+        "D": "achieves a major success"
+      },
+      "correct_answer": "C",
+      "explanation": "'Kick the bucket' is an informal idiom meaning to die."
+    },
+    {
+      "id": 119,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'throw in the towel' means to:",
+      "options": {
+        "A": "do laundry",
+        "B": "give up or surrender",
+        "C": "make a great effort",
+        "D": "prepare for a confrontation"
+      },
+      "correct_answer": "B",
+      "explanation": "'Throw in the towel' means to admit defeat and give up, originating from boxing."
+    },
+    {
+      "id": 120,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The phrase 'a blessing in disguise' means:",
+      "options": {
+        "A": "a religious ceremony",
+        "B": "something that seems bad but turns out to have good results",
+        "C": "a false or deceptive blessing",
+        "D": "an unexpected gift"
+      },
+      "correct_answer": "B",
+      "explanation": "'A blessing in disguise' refers to something that seems harmful or unpleasant but eventually turns out to be beneficial."
+    },
+    {
+      "id": 121,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'break the ice' means to:",
+      "options": {
+        "A": "shatter a block of ice",
+        "B": "initiate conversation in a social situation to ease tension",
+        "C": "solve a very difficult problem",
+        "D": "begin a physical fight"
+      },
+      "correct_answer": "B",
+      "explanation": "'Break the ice' means to do or say something to relieve tension in a social situation."
+    },
+    {
+      "id": 122,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'add fuel to the fire' means to:",
+      "options": {
+        "A": "help extinguish a fire",
+        "B": "make a bad situation considerably worse",
+        "C": "start a fire deliberately",
+        "D": "provide extra energy or motivation"
+      },
+      "correct_answer": "B",
+      "explanation": "'Add fuel to the fire' means to worsen an already bad or volatile situation."
+    },
+    {
+      "id": 123,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "The expression 'to be in hot water' means to:",
+      "options": {
+        "A": "to be swimming in warm water",
+        "B": "to take a hot bath",
+        "C": "to be in serious trouble or difficulty",
+        "D": "to feel physically warm"
+      },
+      "correct_answer": "C",
+      "explanation": "'In hot water' means in a difficult situation that may result in punishment or trouble."
+    },
+    {
+      "id": 124,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "To 'hit the nail on the head' means to:",
+      "options": {
+        "A": "to successfully do carpentry work",
+        "B": "to be exactly right about something",
+        "C": "to accidentally cause an injury",
+        "D": "to make a serious mistake"
+      },
+      "correct_answer": "B",
+      "explanation": "'Hit the nail on the head' means to describe something exactly right or to do something in the most effective way."
+    },
+    {
+      "id": 125,
+      "topic": "Idioms and Phrases",
+      "difficulty": "medium",
+      "question": "When someone 'has their head in the clouds', it means they are:",
+      "options": {
+        "A": "very tall",
+        "B": "not focusing on reality; daydreaming",
+        "C": "an aviator or pilot",
+        "D": "looking upward"
+      },
+      "correct_answer": "B",
+      "explanation": "'Head in the clouds' means to be out of touch with reality, unrealistic, or given to daydreaming."
+    },
+    {
+      "id": 126,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech in: 'The moon is a ghostly galleon tossed upon cloudy seas.'",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Personification",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "B",
+      "explanation": "A metaphor makes a direct comparison without using 'like' or 'as'. The moon is directly described as a 'galleon'."
+    },
+    {
+      "id": 127,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is used in: 'Life is a journey with no road map.'?",
+      "options": {
+        "A": "Simile",
+        "B": "Hyperbole",
+        "C": "Metaphor",
+        "D": "Alliteration"
+      },
+      "correct_answer": "C",
+      "explanation": "Life is directly equated to a journey without using 'like' or 'as', making it a metaphor."
+    },
+    {
+      "id": 128,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'The stars danced in the night sky.'",
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Oxymoron",
+        "D": "Personification"
+      },
+      "correct_answer": "D",
+      "explanation": "Stars are given the human ability to dance, which is an example of personification."
+    },
+    {
+      "id": 129,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is used in: 'He ran as fast as a cheetah.'?",
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Personification",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "B",
+      "explanation": "The comparison uses 'as...as', making it a simile — a figure of speech comparing two unlike things."
+    },
+    {
+      "id": 130,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'I am so hungry I could eat a horse.'",
+      "options": {
+        "A": "Simile",
+        "B": "Personification",
+        "C": "Hyperbole",
+        "D": "Metaphor"
+      },
+      "correct_answer": "C",
+      "explanation": "Hyperbole is a deliberate exaggeration for emphasis. Claiming one could eat a horse is a clear exaggeration."
+    },
+    {
+      "id": 131,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is demonstrated in: 'Peter Piper picked a peck of pickled peppers.'?",
+      "options": {
+        "A": "Assonance",
+        "B": "Alliteration",
+        "C": "Onomatopoeia",
+        "D": "Rhyme"
+      },
+      "correct_answer": "B",
+      "explanation": "Alliteration is the repetition of the same initial consonant sound. The /p/ sound is repeated throughout."
+    },
+    {
+      "id": 132,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'The thunder roared and the lightning screamed.'",
+      "options": {
+        "A": "Onomatopoeia",
+        "B": "Personification",
+        "C": "Alliteration",
+        "D": "Simile"
+      },
+      "correct_answer": "B",
+      "explanation": "Thunder and lightning are given human abilities (roaring and screaming), which is personification."
+    },
+    {
+      "id": 133,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is illustrated in: 'The bees buzzed loudly in the garden.'?",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Onomatopoeia",
+        "D": "Personification"
+      },
+      "correct_answer": "C",
+      "explanation": "Onomatopoeia refers to words that imitate the sounds they describe. 'Buzzed' imitates the sound of bees."
+    },
+    {
+      "id": 134,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'He is a lion in battle.'",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Irony",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "B",
+      "explanation": "He is directly equated to a lion without 'like' or 'as', making it a metaphor."
+    },
+    {
+      "id": 135,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The line 'O Moon! O Sun! Look down on me' is an example of which figure of speech?",
+      "options": {
+        "A": "Personification",
+        "B": "Simile",
+        "C": "Apostrophe",
+        "D": "Alliteration"
+      },
+      "correct_answer": "C",
+      "explanation": "Apostrophe is the figure of speech that involves directly addressing an absent, dead, or non-human entity."
+    },
+    {
+      "id": 136,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is: 'The news was a dagger to his heart.'?",
+      "options": {
+        "A": "Simile",
+        "B": "Hyperbole",
+        "C": "Metaphor",
+        "D": "Irony"
+      },
+      "correct_answer": "C",
+      "explanation": "The news is directly compared to a dagger without using 'like' or 'as', making it a metaphor."
+    },
+    {
+      "id": 137,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'It was the best of times, it was the worst of times.'",
+      "options": {
+        "A": "Paradox",
+        "B": "Oxymoron",
+        "C": "Alliteration",
+        "D": "Antithesis"
+      },
+      "correct_answer": "D",
+      "explanation": "Antithesis involves placing contrasting ideas in parallel structures. 'Best' is contrasted with 'worst'."
+    },
+    {
+      "id": 138,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is illustrated by the phrase 'deafening silence'?",
+      "options": {
+        "A": "Personification",
+        "B": "Simile",
+        "C": "Oxymoron",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "C",
+      "explanation": "An oxymoron combines two contradictory terms. 'Deafening' (very loud) and 'silence' (complete quiet) are contradictory."
+    },
+    {
+      "id": 139,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The statement 'He is the black sheep of the family' is an example of:",
+      "options": {
+        "A": "Simile",
+        "B": "Hyperbole",
+        "C": "Metaphor",
+        "D": "Alliteration"
+      },
+      "correct_answer": "C",
+      "explanation": "'Black sheep' is used as a direct comparison to describe someone who is a disgrace to their group, making it a metaphor."
+    },
+    {
+      "id": 140,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "'The pen is mightier than the sword' is an example of:",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Irony",
+        "D": "Paradox"
+      },
+      "correct_answer": "B",
+      "explanation": "The pen and sword are used metaphorically to represent writing/communication and military force respectively."
+    },
+    {
+      "id": 141,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is: 'She sells seashells by the seashore'?",
+      "options": {
+        "A": "Assonance",
+        "B": "Rhyme",
+        "C": "Alliteration",
+        "D": "Onomatopoeia"
+      },
+      "correct_answer": "C",
+      "explanation": "Alliteration involves the repetition of initial consonant sounds. Here, the /s/ sound is prominently repeated."
+    },
+    {
+      "id": 142,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+      "options": {
+        "A": "Onomatopoeia",
+        "B": "Alliteration",
+        "C": "Personification",
+        "D": "Simile"
+      },
+      "correct_answer": "C",
+      "explanation": "The wind is given the human quality of whispering, which is personification."
+    },
+    {
+      "id": 143,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What is the figure of speech in: 'He has a heart of stone'?",
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Irony",
+        "D": "Personification"
+      },
+      "correct_answer": "B",
+      "explanation": "His heart is directly equated to stone (meaning he is unfeeling) without 'like' or 'as' — a metaphor."
+    },
+    {
+      "id": 144,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The phrase 'crystal clear' is best described as:",
+      "options": {
+        "A": "Paradox",
+        "B": "Metaphor",
+        "C": "Tautology",
+        "D": "Alliteration"
+      },
+      "correct_answer": "D",
+      "explanation": "Alliteration involves repetition of the same initial consonant sound. Both 'crystal' and 'clear' begin with the /k/ sound."
+    },
+    {
+      "id": 145,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "What figure of speech is: 'He is as brave as a lion'?",
+      "options": {
+        "A": "Metaphor",
+        "B": "Personification",
+        "C": "Simile",
+        "D": "Oxymoron"
+      },
+      "correct_answer": "C",
+      "explanation": "The comparison uses 'as...as', making it a simile."
+    },
+    {
+      "id": 146,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "What does the phrasal verb 'break down' mean in: 'The car broke down on the highway'?",
+      "options": {
+        "A": "crashed",
+        "B": "stopped working",
+        "C": "exploded",
+        "D": "was stolen"
+      },
+      "correct_answer": "B",
+      "explanation": "'Break down' means to stop functioning; when a vehicle breaks down, it stops working."
+    },
+    {
+      "id": 147,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'give up' means:",
+      "options": {
+        "A": "to offer something to someone",
+        "B": "to move to a higher position",
+        "C": "to abandon or stop trying",
+        "D": "to provide assistance"
+      },
+      "correct_answer": "C",
+      "explanation": "'Give up' means to cease making an effort; to abandon or quit."
+    },
+    {
+      "id": 148,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In the sentence 'They called off the match', 'called off' means:",
+      "options": {
+        "A": "announced",
+        "B": "cancelled",
+        "C": "postponed",
+        "D": "celebrated"
+      },
+      "correct_answer": "B",
+      "explanation": "'Call off' means to cancel a planned event."
+    },
+    {
+      "id": 149,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "'Look into' as a phrasal verb means:",
+      "options": {
+        "A": "to search for something physically",
+        "B": "to investigate",
+        "C": "to ignore deliberately",
+        "D": "to look upward"
+      },
+      "correct_answer": "B",
+      "explanation": "'Look into' means to investigate or examine a matter."
+    },
+    {
+      "id": 150,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'run out of' means:",
+      "options": {
+        "A": "to escape from somewhere",
+        "B": "to exhaust the supply of something",
+        "C": "to run a very long distance",
+        "D": "to overflow"
+      },
+      "correct_answer": "B",
+      "explanation": "'Run out of' means to use up all of a supply and have none left."
+    },
+    {
+      "id": 151,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'She turned down the job offer', 'turned down' means:",
+      "options": {
+        "A": "accepted",
+        "B": "reduced in size",
+        "C": "rejected",
+        "D": "considered carefully"
+      },
+      "correct_answer": "C",
+      "explanation": "'Turn down' means to decline or reject an offer."
+    },
+    {
+      "id": 152,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'put off' means:",
+      "options": {
+        "A": "to remove",
+        "B": "to extinguish",
+        "C": "to postpone",
+        "D": "to insult"
+      },
+      "correct_answer": "C",
+      "explanation": "'Put off' means to postpone or delay something to a later time."
+    },
+    {
+      "id": 153,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "'Come across' as a phrasal verb means:",
+      "options": {
+        "A": "to travel across a distance",
+        "B": "to meet or find by chance",
+        "C": "to cross a busy road",
+        "D": "to communicate effectively"
+      },
+      "correct_answer": "B",
+      "explanation": "'Come across' means to find or meet someone or something unexpectedly."
+    },
+    {
+      "id": 154,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'He brought up an interesting point during the meeting', 'brought up' means:",
+      "options": {
+        "A": "raised or mentioned",
+        "B": "carried upstairs",
+        "C": "vomited",
+        "D": "educated"
+      },
+      "correct_answer": "A",
+      "explanation": "'Bring up' in the context of a conversation means to mention or introduce a topic."
+    },
+    {
+      "id": 155,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'set up' means:",
+      "options": {
+        "A": "to sit down",
+        "B": "to establish or arrange",
+        "C": "to destroy",
+        "D": "to move upward"
+      },
+      "correct_answer": "B",
+      "explanation": "'Set up' means to establish, arrange, or prepare something."
+    },
+    {
+      "id": 156,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'The thief got away with the crime', 'got away with' means:",
+      "options": {
+        "A": "escaped from prison",
+        "B": "was severely punished",
+        "C": "escaped without punishment",
+        "D": "planned the crime"
+      },
+      "correct_answer": "C",
+      "explanation": "'Get away with' means to escape punishment or criticism for doing something wrong."
+    },
+    {
+      "id": 157,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "'Take after' as a phrasal verb means:",
+      "options": {
+        "A": "to follow closely behind",
+        "B": "to resemble a parent or relative",
+        "C": "to chase someone",
+        "D": "to look for something"
+      },
+      "correct_answer": "B",
+      "explanation": "'Take after' means to resemble or have similar characteristics to a parent or older relative."
+    },
+    {
+      "id": 158,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'fall out' means:",
+      "options": {
+        "A": "to fall down from a height",
+        "B": "to quarrel or have a disagreement",
+        "C": "to collapse suddenly",
+        "D": "to exit a building"
+      },
+      "correct_answer": "B",
+      "explanation": "'Fall out' means to have a quarrel or disagreement with someone."
+    },
+    {
+      "id": 159,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'She made up a story to explain her absence', 'made up' means:",
+      "options": {
+        "A": "applied cosmetics",
+        "B": "invented or fabricated",
+        "C": "repaired something",
+        "D": "completed a task"
+      },
+      "correct_answer": "B",
+      "explanation": "'Make up' means to invent a story or explanation that is not true."
+    },
+    {
+      "id": 160,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "'Go through' as a phrasal verb means:",
+      "options": {
+        "A": "to physically pass through a narrow space",
+        "B": "to experience or examine carefully",
+        "C": "to destroy completely",
+        "D": "to travel a long distance"
+      },
+      "correct_answer": "B",
+      "explanation": "'Go through' means either to experience something difficult or to examine something carefully."
+    },
+    {
+      "id": 161,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'take off' in aviation means:",
+      "options": {
+        "A": "to remove clothing",
+        "B": "to become suddenly popular",
+        "C": "to leave the ground and begin flying",
+        "D": "to reduce flying speed"
+      },
+      "correct_answer": "C",
+      "explanation": "In aviation, 'take off' means when an aircraft leaves the ground and becomes airborne."
+    },
+    {
+      "id": 162,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'He backed down from the argument', 'backed down' means:",
+      "options": {
+        "A": "moved physically backward",
+        "B": "withdrew from a position or claim",
+        "C": "fell down suddenly",
+        "D": "supported someone strongly"
+      },
+      "correct_answer": "B",
+      "explanation": "'Back down' means to withdraw from a position, argument, or confrontation."
+    },
+    {
+      "id": 163,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "'Bring about' as a phrasal verb means:",
+      "options": {
+        "A": "to physically carry something",
+        "B": "to cause something to happen",
+        "C": "to arrive at a destination",
+        "D": "to discuss a topic"
+      },
+      "correct_answer": "B",
+      "explanation": "'Bring about' means to cause something to happen or to produce a particular result."
+    },
+    {
+      "id": 164,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "The phrasal verb 'hold on' most commonly means:",
+      "options": {
+        "A": "to grip something tightly",
+        "B": "to wait or pause",
+        "C": "to continue an activity",
+        "D": "to attack someone"
+      },
+      "correct_answer": "B",
+      "explanation": "'Hold on' most commonly means to wait, as in 'Hold on, I'll be with you in a minute'."
+    },
+    {
+      "id": 165,
+      "topic": "Phrasal Verbs",
+      "difficulty": "medium",
+      "question": "In 'She put up with his bad behavior for years', 'put up with' means:",
+      "options": {
+        "A": "supported",
+        "B": "fought against",
+        "C": "tolerated",
+        "D": "reported"
+      },
+      "correct_answer": "C",
+      "explanation": "'Put up with' means to tolerate something unpleasant or difficult without complaining."
+    },
+    {
+      "id": 166,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does the proverb 'The early bird catches the worm' mean?",
+      "options": {
+        "A": "Birds hunt worms early in the morning",
+        "B": "Those who start early have an advantage over others",
+        "C": "Birds are most active at night",
+        "D": "Early morning is the most dangerous time of day"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb means that people who begin early or act promptly are more likely to succeed."
+    },
+    {
+      "id": 167,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret the saying: 'Don't count your chickens before they are hatched.'",
+      "options": {
+        "A": "Learn how to count farm animals",
+        "B": "Don't make plans based on something that has not yet happened",
+        "C": "Chickens take a long time to hatch",
+        "D": "It is important to count animals regularly"
+      },
+      "correct_answer": "B",
+      "explanation": "This saying warns against making assumptions or plans based on things that are not yet certain."
+    },
+    {
+      "id": 168,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'A stitch in time saves nine' mean?",
+      "options": {
+        "A": "Sewing and tailoring are important skills",
+        "B": "Addressing a problem early prevents it from becoming much worse",
+        "C": "Nine is an important number in sewing",
+        "D": "Good time management saves lives"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb advises dealing with problems when they are small to prevent them from becoming larger."
+    },
+    {
+      "id": 169,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret the sentence: 'She wore her heart on her sleeve.'",
+      "options": {
+        "A": "She had a heart condition",
+        "B": "She wore a special embroidered garment",
+        "C": "She openly displayed her emotions",
+        "D": "She was extremely generous"
+      },
+      "correct_answer": "C",
+      "explanation": "'Wear your heart on your sleeve' means to openly and freely express your emotions without hiding them."
+    },
+    {
+      "id": 170,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'Every cloud has a silver lining' mean?",
+      "options": {
+        "A": "Clouds are composed of silver particles",
+        "B": "Every difficult situation has something positive or hopeful in it",
+        "C": "Weather is always unpredictable",
+        "D": "Silver is a very valuable metal"
+      },
+      "correct_answer": "B",
+      "explanation": "This saying means that even the worst situations have some positive aspect."
+    },
+    {
+      "id": 171,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'The road to hell is paved with good intentions.'",
+      "options": {
+        "A": "Roads to dangerous places are always well-maintained",
+        "B": "Having good intentions is always sufficient",
+        "C": "Good intentions alone are not enough without the right actions",
+        "D": "Hell is a physical place that can be reached by road"
+      },
+      "correct_answer": "C",
+      "explanation": "This saying means that good intentions alone do not guarantee good outcomes — action and wisdom are also needed."
+    },
+    {
+      "id": 172,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'barking up the wrong tree' mean?",
+      "options": {
+        "A": "A dog is misbehaving",
+        "B": "Making a mistake about the cause of a problem or target",
+        "C": "Cutting down the wrong tree",
+        "D": "Looking for wild animals"
+      },
+      "correct_answer": "B",
+      "explanation": "'Barking up the wrong tree' means to pursue a mistaken or misguided course of action."
+    },
+    {
+      "id": 173,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'You can't make an omelette without breaking eggs.'",
+      "options": {
+        "A": "Cooking always requires eggs",
+        "B": "You cannot achieve something worthwhile without some sacrifice or difficulty",
+        "C": "Eggs are the most important ingredient in cooking",
+        "D": "Cooking is a very difficult skill"
+      },
+      "correct_answer": "B",
+      "explanation": "This saying means that it is impossible to achieve something significant without causing some difficulty or sacrifice."
+    },
+    {
+      "id": 174,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'People who live in glass houses should not throw stones' mean?",
+      "options": {
+        "A": "Glass houses are very fragile and should be treated carefully",
+        "B": "People who have faults of their own should not criticize others",
+        "C": "Throwing stones at glass is very dangerous",
+        "D": "Houses made of glass are not suitable for living"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb warns that those who are vulnerable to criticism should not criticize others."
+    },
+    {
+      "id": 175,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'The pen is mightier than the sword.'",
+      "options": {
+        "A": "Writing materials are more expensive than weapons",
+        "B": "Communication, knowledge, and writing are more powerful than violence",
+        "C": "Swords are more dangerous than pens",
+        "D": "Writers are better soldiers than warriors"
+      },
+      "correct_answer": "B",
+      "explanation": "This saying means that words and ideas have more power and lasting influence than physical force."
+    },
+    {
+      "id": 176,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'A rolling stone gathers no moss' mean?",
+      "options": {
+        "A": "Stones should not be rolled downhill",
+        "B": "A person who constantly moves around has no settled base or accumulates nothing",
+        "C": "Moss only grows on stationary stones",
+        "D": "Moving around is beneficial for health"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb suggests that a person who is always on the move and never settles down does not accumulate wealth or strong relationships."
+    },
+    {
+      "id": 177,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'Too many cooks spoil the broth.'",
+      "options": {
+        "A": "Cooking meals requires many skilled people",
+        "B": "Having too many people involved in something causes problems",
+        "C": "Broth is a difficult dish to prepare correctly",
+        "D": "Cooks are generally inefficient workers"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb means that when too many people are involved in managing something, it often goes wrong."
+    },
+    {
+      "id": 178,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does the expression 'Actions speak louder than words' mean?",
+      "options": {
+        "A": "Actions produce loud sounds",
+        "B": "What people actually do is more important and revealing than what they say",
+        "C": "Words are not important in communication",
+        "D": "People should speak less and be quieter"
+      },
+      "correct_answer": "B",
+      "explanation": "This expression means that what a person does is more significant and credible than what they claim or promise."
+    },
+    {
+      "id": 179,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'Don't bite off more than you can chew.'",
+      "options": {
+        "A": "Be very careful when eating large pieces of food",
+        "B": "Do not take on more responsibilities or tasks than you can manage",
+        "C": "Chewing properly is very important for digestion",
+        "D": "Food should always be cut into small pieces before eating"
+      },
+      "correct_answer": "B",
+      "explanation": "This saying advises not to take on more work or responsibility than you are capable of handling."
+    },
+    {
+      "id": 180,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'When in Rome, do as the Romans do' mean?",
+      "options": {
+        "A": "Everyone should visit the city of Rome",
+        "B": "You should adopt the customs and practices of the place you are visiting",
+        "C": "Romans have the best cultural traditions in the world",
+        "D": "Travel is always an educational experience"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb advises adapting to the customs and traditions of the society you are in."
+    },
+    {
+      "id": 181,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'Let sleeping dogs lie.'",
+      "options": {
+        "A": "Dogs should be allowed to sleep undisturbed",
+        "B": "Do not disturb a situation that is currently calm; avoid reopening old disputes",
+        "C": "Dogs are dangerous when they are woken up suddenly",
+        "D": "Allow all animals to rest when they need to"
+      },
+      "correct_answer": "B",
+      "explanation": "'Let sleeping dogs lie' means to avoid interfering with a situation that is currently stable, to avoid causing new trouble."
+    },
+    {
+      "id": 182,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'He is playing devil's advocate' mean?",
+      "options": {
+        "A": "He is an evil person",
+        "B": "He is supporting evil causes",
+        "C": "He is arguing for the opposing side to stimulate critical thinking",
+        "D": "He is working as a defense lawyer"
+      },
+      "correct_answer": "C",
+      "explanation": "'Playing devil's advocate' means arguing a position one may not personally agree with, to test an argument or explore different viewpoints."
+    },
+    {
+      "id": 183,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'The apple never falls far from the tree.'",
+      "options": {
+        "A": "Apples always fall directly beneath the tree",
+        "B": "Children usually resemble or share characteristics with their parents",
+        "C": "Trees produce fruits in their immediate vicinity",
+        "D": "Gardening and agriculture are important skills"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb means that children usually resemble their parents in personality, behaviour, or appearance."
+    },
+    {
+      "id": 184,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "What does 'Cut your coat according to your cloth' mean?",
+      "options": {
+        "A": "You should learn the art of tailoring and sewing",
+        "B": "Live within your means and do not spend beyond what you have",
+        "C": "Good quality cloth is necessary for fine clothing",
+        "D": "Tailors are important and skilled craftsmen"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb advises people to limit their activities and spending to what they can actually afford."
+    },
+    {
+      "id": 185,
+      "topic": "Sentence Interpretation",
+      "difficulty": "medium",
+      "question": "Interpret: 'A bird in hand is worth two in the bush.'",
+      "options": {
+        "A": "Birds should be caught and kept in cages",
+        "B": "It is better to have something certain now than to risk losing it for something better that may not happen",
+        "C": "Birds living in bushes are more valuable than those in cages",
+        "D": "Hunting is a valuable skill"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb advises appreciating what you have rather than risking it for something uncertain."
+    },
+    {
+      "id": 186,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The prefix 'un-' in the word 'unhappy' means:",
+      "options": {
+        "A": "full of",
+        "B": "not or opposite of",
+        "C": "before",
+        "D": "after"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix 'un-' means not or the opposite of. 'Unhappy' therefore means not happy."
+    },
+    {
+      "id": 187,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct noun form of the verb 'achieve'?",
+      "options": {
+        "A": "achiever",
+        "B": "achievable",
+        "C": "achievement",
+        "D": "achieving"
+      },
+      "correct_answer": "C",
+      "explanation": "'Achievement' is the abstract noun form of 'achieve'. The suffix '-ment' forms nouns from verbs."
+    },
+    {
+      "id": 188,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "What is the correct adjective form of the noun 'beauty'?",
+      "options": {
+        "A": "beautify",
+        "B": "beautifully",
+        "C": "beautiful",
+        "D": "beauties"
+      },
+      "correct_answer": "C",
+      "explanation": "'Beautiful' is the adjective form of 'beauty', formed by adding the suffix '-ful'."
+    },
+    {
+      "id": 189,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The suffix '-tion' in the word 'education' changes the word into a:",
+      "options": {
+        "A": "verb",
+        "B": "noun",
+        "C": "adjective",
+        "D": "adverb"
+      },
+      "correct_answer": "B",
+      "explanation": "The suffix '-tion' forms nouns from verbs. 'Educate' (verb) becomes 'education' (noun)."
+    },
+    {
+      "id": 190,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The prefix 'mis-' in the word 'misunderstand' means:",
+      "options": {
+        "A": "again",
+        "B": "wrongly or badly",
+        "C": "before",
+        "D": "not"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix 'mis-' means wrongly or badly. 'Misunderstand' means to understand wrongly."
+    },
+    {
+      "id": 191,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct adverb form of 'quick'?",
+      "options": {
+        "A": "quicken",
+        "B": "quickness",
+        "C": "quickly",
+        "D": "quicker"
+      },
+      "correct_answer": "C",
+      "explanation": "'Quickly' is the adverb form of 'quick', formed by adding the suffix '-ly'."
+    },
+    {
+      "id": 192,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "In the word 'autobiography', the prefix 'auto-' means:",
+      "options": {
+        "A": "car or vehicle",
+        "B": "self",
+        "C": "life",
+        "D": "writing"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix 'auto-' comes from Greek meaning 'self'. An autobiography is a story of one's own life."
+    },
+    {
+      "id": 193,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The suffix '-less' in the word 'hopeless' means:",
+      "options": {
+        "A": "full of",
+        "B": "able to",
+        "C": "without",
+        "D": "relating to"
+      },
+      "correct_answer": "C",
+      "explanation": "The suffix '-less' means without. 'Hopeless' means without hope."
+    },
+    {
+      "id": 194,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "What is the noun form of the verb 'explain'?",
+      "options": {
+        "A": "explainer",
+        "B": "explanatory",
+        "C": "explanation",
+        "D": "explainable"
+      },
+      "correct_answer": "C",
+      "explanation": "'Explanation' is the noun form of 'explain', formed using the suffix '-ation'."
+    },
+    {
+      "id": 195,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "Which of the following words uses a prefix meaning 'before'?",
+      "options": {
+        "A": "postpone",
+        "B": "preview",
+        "C": "midterm",
+        "D": "semicircle"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix 'pre-' means before. 'Preview' means to view something before its official release."
+    },
+    {
+      "id": 196,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The word 'bicycle' has the prefix 'bi-' which means:",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      },
+      "correct_answer": "B",
+      "explanation": "The prefix 'bi-' means two. A bicycle has two wheels."
+    },
+    {
+      "id": 197,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct plural form of 'phenomenon'?",
+      "options": {
+        "A": "phenomenons",
+        "B": "phenomena",
+        "C": "phenomenas",
+        "D": "phenomenes"
+      },
+      "correct_answer": "B",
+      "explanation": "'Phenomena' is the correct Latin/Greek plural of 'phenomenon'. 'Phenomenons' is sometimes used in informal English."
+    },
+    {
+      "id": 198,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "What is the abstract noun form of the adjective 'brave'?",
+      "options": {
+        "A": "braver",
+        "B": "bravest",
+        "C": "bravely",
+        "D": "bravery"
+      },
+      "correct_answer": "D",
+      "explanation": "'Bravery' is the abstract noun formed from the adjective 'brave' using the suffix '-ry'."
+    },
+    {
+      "id": 199,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "The suffix '-ous' in the word 'dangerous' changes the noun 'danger' into:",
+      "options": {
+        "A": "a verb",
+        "B": "an adverb",
+        "C": "an adjective",
+        "D": "another noun"
+      },
+      "correct_answer": "C",
+      "explanation": "The suffix '-ous' forms adjectives from nouns. 'Dangerous' is an adjective meaning full of danger."
+    },
+    {
+      "id": 200,
+      "topic": "Word Formation",
+      "difficulty": "medium",
+      "question": "Which of the following words is correctly formed using the suffix '-ment'?",
+      "options": {
+        "A": "agreeable",
+        "B": "agreement",
+        "C": "agreely",
+        "D": "agreer"
+      },
+      "correct_answer": "B",
+      "explanation": "'Agreement' is correctly formed from 'agree' + '-ment'. The suffix '-ment' forms nouns from verbs."
+    }
+  ]
+}

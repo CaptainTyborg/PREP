@@ -1,0 +1,2806 @@
+{
+  "subject": "Islamic Studies",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Tawheed (Islamic Monotheism)",
+      "difficulty": "medium",
+      "question": "Tawheed in Islam means:",
+      "options": {
+        "A": "the belief in all prophets",
+        "B": "the oneness and uniqueness of Allah in all aspects",
+        "C": "the performance of Salah five times daily",
+        "D": "the pilgrimage to Makkah"
+      },
+      "correct_answer": "B",
+      "explanation": "Tawheed is the fundamental Islamic concept of the absolute oneness of Allah — that He alone is worthy of worship and has no partners or equals."
+    },
+    {
+      "id": 2,
+      "topic": "Tawheed (Islamic Monotheism)",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct meaning of 'La ilaha illa Allah'?",
+      "options": {
+        "A": "Muhammad is the Messenger of Allah",
+        "B": "There is no god worthy of worship except Allah",
+        "C": "Allah is the Greatest",
+        "D": "All praise is due to Allah"
+      },
+      "correct_answer": "B",
+      "explanation": "'La ilaha illa Allah' means 'There is no deity worthy of worship except Allah.' It is the first part of the Shahadah (declaration of faith)."
+    },
+    {
+      "id": 3,
+      "topic": "Tawheed (Islamic Monotheism)",
+      "difficulty": "medium",
+      "question": "Shirk in Islam refers to:",
+      "options": {
+        "A": "neglecting the five daily prayers",
+        "B": "associating partners with Allah in worship",
+        "C": "breaking the fast of Ramadan",
+        "D": "disobeying parents"
+      },
+      "correct_answer": "B",
+      "explanation": "Shirk is the unforgivable sin of associating partners with Allah or attributing divine qualities to others. It is the opposite of Tawheed."
+    },
+    {
+      "id": 4,
+      "topic": "Tawheed (Islamic Monotheism)",
+      "difficulty": "medium",
+      "question": "The three categories of Tawheed are Tawheed al-Rububiyyah, Tawheed al-Uluhiyyah, and:",
+      "options": {
+        "A": "Tawheed al-Ibadah",
+        "B": "Tawheed al-Asma wa al-Sifat",
+        "C": "Tawheed al-Khilafah",
+        "D": "Tawheed al-Iman"
+      },
+      "correct_answer": "B",
+      "explanation": "The three categories of Tawheed are: (1) Tawheed al-Rububiyyah (oneness of Lordship), (2) Tawheed al-Uluhiyyah (oneness of worship), and (3) Tawheed al-Asma wa al-Sifat (oneness of Allah's names and attributes)."
+    },
+    {
+      "id": 5,
+      "topic": "Tawheed (Islamic Monotheism)",
+      "difficulty": "medium",
+      "question": "Which Surah of the Quran is considered the purest expression of Tawheed?",
+      "options": {
+        "A": "Surah Al-Fatiha",
+        "B": "Surah Al-Ikhlas",
+        "C": "Surah Al-Baqarah",
+        "D": "Surah Al-Falaq"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Ikhlas (Chapter 112) is the epitome of Tawheed: 'Say: He is Allah, the One; Allah, the Eternal; He begets not, nor is He begotten; and there is none like Him.'"
+    },
+    {
+      "id": 6,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The five pillars of Islam are Shahadah, Salah, Zakah, Sawm, and:",
+      "options": {
+        "A": "Jihad",
+        "B": "Hajj",
+        "C": "Sadaqah",
+        "D": "Tawbah"
+      },
+      "correct_answer": "B",
+      "explanation": "The five pillars of Islam are: (1) Shahadah (declaration of faith), (2) Salah (prayer), (3) Zakah (almsgiving), (4) Sawm (fasting), and (5) Hajj (pilgrimage to Makkah)."
+    },
+    {
+      "id": 7,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "Zakah is obligatory on Muslims who possess wealth above the Nisab (minimum threshold) for a period of:",
+      "options": {
+        "A": "one month",
+        "B": "six months",
+        "C": "one lunar year (Hawl)",
+        "D": "three years"
+      },
+      "correct_answer": "C",
+      "explanation": "Zakah becomes obligatory when a Muslim's wealth exceeds the Nisab and has been in their possession for a complete lunar year (Hawl). The standard rate is 2.5% of savings."
+    },
+    {
+      "id": 8,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The Hajj pilgrimage is obligatory for every Muslim who is physically and financially able, at least:",
+      "options": {
+        "A": "every year",
+        "B": "once in a lifetime",
+        "C": "twice in a lifetime",
+        "D": "every five years"
+      },
+      "correct_answer": "B",
+      "explanation": "Hajj is obligatory once in a lifetime for every adult Muslim who is physically capable and financially able to undertake the journey."
+    },
+    {
+      "id": 9,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The fast of Ramadan is observed during which month of the Islamic calendar?",
+      "options": {
+        "A": "Shawwal",
+        "B": "Dhul Hijjah",
+        "C": "Ramadan",
+        "D": "Muharram"
+      },
+      "correct_answer": "C",
+      "explanation": "Sawm (fasting) is observed during Ramadan, the 9th month of the Islamic lunar calendar. Muslims fast from Fajr (dawn) to Maghrib (sunset) throughout the month."
+    },
+    {
+      "id": 10,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The Salah (prayer) that is performed at sunrise is called:",
+      "options": {
+        "A": "Dhuhr",
+        "B": "Fajr",
+        "C": "Asr",
+        "D": "Isha"
+      },
+      "correct_answer": "B",
+      "explanation": "Fajr is the dawn/morning prayer performed before sunrise. The five daily prayers are: Fajr (dawn), Dhuhr (midday), Asr (afternoon), Maghrib (sunset), Isha (night)."
+    },
+    {
+      "id": 11,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The night prayer performed after Isha is called:",
+      "options": {
+        "A": "Tarawih",
+        "B": "Tahajjud",
+        "C": "Duha",
+        "D": "Witr"
+      },
+      "correct_answer": "B",
+      "explanation": "Tahajjud is the voluntary night prayer performed after sleeping, before Fajr. It is highly recommended and was regularly practised by the Prophet Muhammad (SAW)."
+    },
+    {
+      "id": 12,
+      "topic": "Pillars of Islam",
+      "difficulty": "medium",
+      "question": "The Zakah rate on gold, silver, and trade goods is:",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "2.5%",
+        "D": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Zakah rate on gold, silver, cash, and trade goods is 2.5% of the total amount that has been in one's possession for a full lunar year above the Nisab."
+    },
+    {
+      "id": 13,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "The six articles of faith in Islam include belief in Allah, angels, books, messengers, the Last Day, and:",
+      "options": {
+        "A": "belief in the mosque",
+        "B": "belief in divine decree (Qadar)",
+        "C": "belief in the Sunnah",
+        "D": "belief in Jihad"
+      },
+      "correct_answer": "B",
+      "explanation": "The six articles of faith (Arkan al-Iman) are: (1) Allah, (2) Angels, (3) Books, (4) Messengers/Prophets, (5) The Last Day, and (6) Divine Decree (Qadar — both good and bad)."
+    },
+    {
+      "id": 14,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "The belief that Allah has predetermined all things in creation is called:",
+      "options": {
+        "A": "Tawakkul",
+        "B": "Qadar (Divine Decree)",
+        "C": "Tawbah",
+        "D": "Ijtihad"
+      },
+      "correct_answer": "B",
+      "explanation": "Qadar (divine decree/predestination) is the belief that Allah knows and has ordained all things that happen in creation. Muslims believe in both divine will and human responsibility."
+    },
+    {
+      "id": 15,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "The four revealed books mentioned in the Quran include the Torah, the Zabur, the Injeel, and:",
+      "options": {
+        "A": "Hadith",
+        "B": "Sunnah",
+        "C": "The Quran",
+        "D": "Fiqh"
+      },
+      "correct_answer": "C",
+      "explanation": "The four major revealed scriptures are: the Torah (given to Musa/Moses), Zabur/Psalms (Dawud/David), Injeel/Gospel (Isa/Jesus), and the Quran (Muhammad SAW). Muslims believe all were originally from Allah."
+    },
+    {
+      "id": 16,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "Angels in Islam are created from:",
+      "options": {
+        "A": "fire",
+        "B": "clay",
+        "C": "light (Nur)",
+        "D": "water"
+      },
+      "correct_answer": "C",
+      "explanation": "According to Islamic belief, angels are created from light (Nur). Humans are created from clay, and Jinn from smokeless fire."
+    },
+    {
+      "id": 17,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "The angel responsible for delivering divine revelation to the prophets is:",
+      "options": {
+        "A": "Mikail (Michael)",
+        "B": "Israfil",
+        "C": "Jibril (Gabriel)",
+        "D": "Azrael (Izra'il)"
+      },
+      "correct_answer": "C",
+      "explanation": "Jibril (Gabriel) is the angel of revelation who delivered Allah's messages to all prophets, including bringing the Quran to Prophet Muhammad (SAW)."
+    },
+    {
+      "id": 18,
+      "topic": "Articles of Faith (Arkan al-Iman)",
+      "difficulty": "medium",
+      "question": "The Islamic belief in the Day of Judgment involves all of the following EXCEPT:",
+      "options": {
+        "A": "resurrection of the dead",
+        "B": "weighing of deeds",
+        "C": "reincarnation into another body",
+        "D": "crossing the bridge of Sirat"
+      },
+      "correct_answer": "C",
+      "explanation": "Islam does not teach reincarnation. On the Day of Judgment, people will be resurrected, their deeds weighed on the Mizan (scales), and they will cross the Sirat to reach their final abode."
+    },
+    {
+      "id": 19,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The Quran was revealed to Prophet Muhammad (SAW) over a period of approximately:",
+      "options": {
+        "A": "10 years",
+        "B": "13 years",
+        "C": "23 years",
+        "D": "40 years"
+      },
+      "correct_answer": "C",
+      "explanation": "The Quran was revealed over approximately 23 years: the first 13 years in Makkah (Makkan Surahs) and the next 10 years in Madinah (Madinan Surahs)."
+    },
+    {
+      "id": 20,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The first Surah (chapter) of the Quran is:",
+      "options": {
+        "A": "Al-Baqarah",
+        "B": "Al-Fatiha",
+        "C": "Al-Ikhlas",
+        "D": "Al-Alaq"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Fatiha (The Opening) is the first chapter of the Quran. It is recited in every unit (Rakah) of the daily prayers."
+    },
+    {
+      "id": 21,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The longest Surah in the Quran is:",
+      "options": {
+        "A": "Al-Imran",
+        "B": "Al-Nisa",
+        "C": "Al-Baqarah",
+        "D": "Al-Maidah"
+      },
+      "correct_answer": "C",
+      "explanation": "Surah Al-Baqarah (The Cow, Chapter 2) is the longest Surah in the Quran, containing 286 verses."
+    },
+    {
+      "id": 22,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The first verse (ayah) revealed to Prophet Muhammad (SAW) was from Surah:",
+      "options": {
+        "A": "Al-Fatiha",
+        "B": "Al-Ikhlas",
+        "C": "Al-Alaq",
+        "D": "Al-Muddaththir"
+      },
+      "correct_answer": "C",
+      "explanation": "The first revelation was the opening verses of Surah Al-Alaq (96:1-5): 'Read in the name of your Lord who created...' This occurred in the Cave of Hira in 610 CE."
+    },
+    {
+      "id": 23,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The Quran is divided into how many Juz (parts)?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "114"
+      },
+      "correct_answer": "C",
+      "explanation": "The Quran is divided into 30 equal parts (Juz, plural Ajzaa) to facilitate reading it completely over a month (one Juz per day during Ramadan)."
+    },
+    {
+      "id": 24,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The Quran has how many Surahs (chapters)?",
+      "options": {
+        "A": "99",
+        "B": "100",
+        "C": "112",
+        "D": "114"
+      },
+      "correct_answer": "D",
+      "explanation": "The Quran consists of 114 Surahs (chapters) and approximately 6,236 Ayat (verses)."
+    },
+    {
+      "id": 25,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The compilation of the Quran into a single book (Mushaf) was ordered by Caliph:",
+      "options": {
+        "A": "Abu Bakr Al-Siddiq",
+        "B": "Umar ibn al-Khattab",
+        "C": "Uthman ibn Affan",
+        "D": "Ali ibn Abi Talib"
+      },
+      "correct_answer": "A",
+      "explanation": "Abu Bakr Al-Siddiq (the first Caliph) ordered the compilation of the Quran into a single book after the Battle of Yamama (632 CE), where many Quran memorizers (Huffaz) were killed."
+    },
+    {
+      "id": 26,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The standardization and distribution of the Quran in a single dialect (Quraysh dialect) was carried out by Caliph:",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Umar",
+        "C": "Uthman ibn Affan",
+        "D": "Ali"
+      },
+      "correct_answer": "C",
+      "explanation": "Caliph Uthman ibn Affan standardized the Quran into a single official copy (the Uthmanic Mushaf) in the Quraysh dialect and distributed copies to different regions to prevent disagreements."
+    },
+    {
+      "id": 27,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "The study of the circumstances of the revelation of Quranic verses is called:",
+      "options": {
+        "A": "Tafsir",
+        "B": "Asbab al-Nuzul",
+        "C": "Ilm al-Hadith",
+        "D": "Usul al-Fiqh"
+      },
+      "correct_answer": "B",
+      "explanation": "Asbab al-Nuzul (causes/occasions of revelation) is the study of the historical contexts and events that prompted the revelation of specific Quranic verses."
+    },
+    {
+      "id": 28,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "Tafsir refers to:",
+      "options": {
+        "A": "recitation of the Quran with proper rules",
+        "B": "interpretation and explanation of the meaning of the Quran",
+        "C": "memorization of the Quran",
+        "D": "the translation of the Quran"
+      },
+      "correct_answer": "B",
+      "explanation": "Tafsir is the scholarly interpretation and explanation of the Quran's meanings, context, and application. Famous Tafsir works include those of Ibn Kathir and Al-Tabari."
+    },
+    {
+      "id": 29,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "Tajweed refers to:",
+      "options": {
+        "A": "the art of reciting the Quran with proper pronunciation, rhythm, and rules",
+        "B": "the interpretation of the Quran",
+        "C": "memorization of the entire Quran",
+        "D": "the collection of Hadith"
+      },
+      "correct_answer": "A",
+      "explanation": "Tajweed is the set of rules governing the correct pronunciation and recitation of the Quran, preserving the original sounds as revealed to Prophet Muhammad (SAW)."
+    },
+    {
+      "id": 30,
+      "topic": "The Quran",
+      "difficulty": "medium",
+      "question": "A person who has memorized the entire Quran is called a:",
+      "options": {
+        "A": "Mufti",
+        "B": "Hafiz",
+        "C": "Alim",
+        "D": "Qadi"
+      },
+      "correct_answer": "B",
+      "explanation": "A Hafiz (feminine: Hafiza) is a Muslim who has memorized the entire Quran (all 114 Surahs). This is considered a great honour in Islamic tradition."
+    },
+    {
+      "id": 31,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "The Sunnah refers to:",
+      "options": {
+        "A": "the Quran only",
+        "B": "the sayings, actions, and silent approvals of Prophet Muhammad (SAW)",
+        "C": "the Islamic legal rulings",
+        "D": "the opinions of the Companions"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sunnah encompasses the Prophet's (SAW) words (Hadith Qawli), actions (Hadith Fi'li), and silent approvals (Hadith Taqriri). It is the second source of Islamic law after the Quran."
+    },
+    {
+      "id": 32,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "A Hadith is classified as 'Sahih' (authentic) when:",
+      "options": {
+        "A": "it is found in any book",
+        "B": "it has a continuous chain of trustworthy narrators back to the Prophet (SAW)",
+        "C": "it is approved by a Mufti",
+        "D": "it agrees with the Quran only"
+      },
+      "correct_answer": "B",
+      "explanation": "A Sahih (authentic) Hadith has a continuous (Muttasil) chain of trustworthy (Thiqah) narrators, the text is sound, and it is free from irregularities and defects."
+    },
+    {
+      "id": 33,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "The compiler of the most authentic Hadith collection, Sahih al-Bukhari, was:",
+      "options": {
+        "A": "Imam Muslim",
+        "B": "Imam Muhammad ibn Ismail al-Bukhari",
+        "C": "Imam Abu Dawud",
+        "D": "Imam Al-Tirmidhi"
+      },
+      "correct_answer": "B",
+      "explanation": "Imam Muhammad ibn Ismail al-Bukhari (810-870 CE) compiled Sahih al-Bukhari, considered the most authentic Hadith collection after the Quran by Sunni Muslims."
+    },
+    {
+      "id": 34,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "The six major Hadith collections in Sunni Islam are collectively called:",
+      "options": {
+        "A": "Al-Kutub al-Tisa",
+        "B": "Al-Kutub al-Sitta",
+        "C": "Al-Muwatta",
+        "D": "Musnad Ahmad"
+      },
+      "correct_answer": "B",
+      "explanation": "Al-Kutub al-Sitta (The Six Books) are: Sahih al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Jami al-Tirmidhi, Sunan al-Nasa'i, and Sunan Ibn Majah."
+    },
+    {
+      "id": 35,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "A Hadith Qudsi is:",
+      "options": {
+        "A": "a fabricated Hadith",
+        "B": "a divine Hadith where Allah speaks in the first person through the Prophet",
+        "C": "a Hadith about prayer times",
+        "D": "a Hadith with a weak chain of narration"
+      },
+      "correct_answer": "B",
+      "explanation": "A Hadith Qudsi (sacred/holy Hadith) is a Hadith in which the Prophet (SAW) reports words from Allah in the first person, distinct from both the Quran and ordinary Hadith."
+    },
+    {
+      "id": 36,
+      "topic": "Hadith and Sunnah",
+      "difficulty": "medium",
+      "question": "The chain of narrators (transmission chain) of a Hadith is called:",
+      "options": {
+        "A": "Matn",
+        "B": "Isnad (Sanad)",
+        "C": "Rawi",
+        "D": "Matan"
+      },
+      "correct_answer": "B",
+      "explanation": "The Isnad (Sanad) is the chain of narrators through whom a Hadith was transmitted. The Matn is the text (content) of the Hadith. Hadith criticism evaluates the reliability of the Isnad."
+    },
+    {
+      "id": 37,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "The four main sources of Islamic law (Sharia) are:",
+      "options": {
+        "A": "Quran, Sunnah, Ijma, Qiyas",
+        "B": "Quran, Hadith, Ijma, Ijtihad",
+        "C": "Quran, Sunnah, Tafsir, Fiqh",
+        "D": "Quran, Ijma, Qiyas, Urf"
+      },
+      "correct_answer": "A",
+      "explanation": "The four primary sources of Islamic jurisprudence (Usul al-Fiqh) are: (1) Quran, (2) Sunnah, (3) Ijma (consensus of scholars), and (4) Qiyas (analogical reasoning)."
+    },
+    {
+      "id": 38,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Ijma in Islamic law refers to:",
+      "options": {
+        "A": "the opinion of one scholar",
+        "B": "the consensus of Islamic scholars on a legal matter",
+        "C": "analogical reasoning from Quranic verses",
+        "D": "personal interpretation of the Quran"
+      },
+      "correct_answer": "B",
+      "explanation": "Ijma is the consensus of qualified Islamic scholars (Mujtahidun) of a particular era on a legal ruling. It is the third source of Islamic law."
+    },
+    {
+      "id": 39,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Qiyas in Islamic law refers to:",
+      "options": {
+        "A": "collective agreement of scholars",
+        "B": "analogical deduction — applying a ruling from an established case to a new similar case",
+        "C": "abrogation of earlier Quranic verses",
+        "D": "personal religious opinion"
+      },
+      "correct_answer": "B",
+      "explanation": "Qiyas is analogical reasoning — deriving legal rulings for new situations by analogy with established rulings from the Quran or Sunnah when they share the same underlying cause (Illah)."
+    },
+    {
+      "id": 40,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "The four main schools of Islamic jurisprudence (Madhabs) in Sunni Islam are:",
+      "options": {
+        "A": "Hanafi, Maliki, Shafi'i, Hanbali",
+        "B": "Hanafi, Maliki, Shafi'i, Ja'fari",
+        "C": "Hanafi, Zahiri, Shafi'i, Hanbali",
+        "D": "Ash'ari, Maturidi, Athari, Mu'tazili"
+      },
+      "correct_answer": "A",
+      "explanation": "The four Sunni Madhabs (schools of jurisprudence) are: Hanafi (Imam Abu Hanifa), Maliki (Imam Malik), Shafi'i (Imam Al-Shafi'i), and Hanbali (Imam Ahmad ibn Hanbal)."
+    },
+    {
+      "id": 41,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "The five categories of Islamic legal rulings (Ahkam al-Khamsa) are Wajib, Mandub, Mubah, Makruh, and:",
+      "options": {
+        "A": "Halal",
+        "B": "Haram",
+        "C": "Sunna",
+        "D": "Bid'ah"
+      },
+      "correct_answer": "B",
+      "explanation": "The five categories of Islamic law are: Wajib (obligatory), Mandub (recommended), Mubah (permissible/neutral), Makruh (disliked), and Haram (forbidden/prohibited)."
+    },
+    {
+      "id": 42,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Ijtihad is defined as:",
+      "options": {
+        "A": "collective consensus of scholars",
+        "B": "independent scholarly reasoning to derive Islamic rulings",
+        "C": "following another scholar's opinion",
+        "D": "the study of Hadith sciences"
+      },
+      "correct_answer": "B",
+      "explanation": "Ijtihad is the process of independent scholarly effort and reasoning by a qualified scholar (Mujtahid) to derive new legal rulings for issues not explicitly addressed in the Quran or Sunnah."
+    },
+    {
+      "id": 43,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Taqlid means:",
+      "options": {
+        "A": "independent legal reasoning",
+        "B": "following the legal opinion of a scholar or Madhab without necessarily knowing the evidence",
+        "C": "consensus of Muslim scholars",
+        "D": "abrogation of earlier rulings"
+      },
+      "correct_answer": "B",
+      "explanation": "Taqlid is the practice of following the legal rulings of a qualified scholar or Madhab, accepting their conclusions without demanding proof. It is the opposite of Ijtihad."
+    },
+    {
+      "id": 44,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "Prophet Muhammad (SAW) was born in:",
+      "options": {
+        "A": "Madinah",
+        "B": "Makkah",
+        "C": "Jerusalem",
+        "D": "Ta'if"
+      },
+      "correct_answer": "B",
+      "explanation": "Prophet Muhammad (SAW) was born in Makkah (in present-day Saudi Arabia) in approximately 570 CE, in the Year of the Elephant."
+    },
+    {
+      "id": 45,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The migration of Prophet Muhammad (SAW) from Makkah to Madinah is called:",
+      "options": {
+        "A": "Isra wal Miraj",
+        "B": "Hijrah",
+        "C": "Jihad",
+        "D": "Dawah"
+      },
+      "correct_answer": "B",
+      "explanation": "The Hijrah (migration) in 622 CE marks the Prophet's (SAW) migration from Makkah to Madinah. It is so significant that the Islamic calendar (Hijri) begins from this event."
+    },
+    {
+      "id": 46,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "Prophet Muhammad (SAW) received his first revelation at the age of:",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "40",
+        "D": "45"
+      },
+      "correct_answer": "C",
+      "explanation": "Prophet Muhammad (SAW) received his first revelation in the Cave of Hira at the age of 40, in 610 CE."
+    },
+    {
+      "id": 47,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The wife of Prophet Muhammad (SAW) who was present during his first revelation was:",
+      "options": {
+        "A": "Aisha (RA)",
+        "B": "Hafsa (RA)",
+        "C": "Khadijah (RA)",
+        "D": "Fatimah (RA)"
+      },
+      "correct_answer": "C",
+      "explanation": "Khadijah bint Khuwaylid (RA) was the Prophet's first wife and the first person to accept Islam. She comforted the Prophet (SAW) after his first revelation and supported him throughout his mission."
+    },
+    {
+      "id": 48,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The first man to accept Islam was:",
+      "options": {
+        "A": "Umar ibn al-Khattab",
+        "B": "Abu Bakr Al-Siddiq",
+        "C": "Ali ibn Abi Talib",
+        "D": "Uthman ibn Affan"
+      },
+      "correct_answer": "B",
+      "explanation": "Abu Bakr Al-Siddiq (RA) is widely regarded as the first adult free man to accept Islam. Ali ibn Abi Talib (RA) was the first child, and Khadijah (RA) was the first overall."
+    },
+    {
+      "id": 49,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The Battle of Badr (624 CE) was significant because it was:",
+      "options": {
+        "A": "the first major battle in which Muslims were defeated",
+        "B": "the first major military victory of the Muslims against the Quraysh",
+        "C": "the battle where the Prophet (SAW) was injured",
+        "D": "the conquest of Makkah"
+      },
+      "correct_answer": "B",
+      "explanation": "The Battle of Badr (2 AH/624 CE) was the first major battle between the Muslims and the Quraysh of Makkah. The Muslims (313) decisively defeated the Quraysh (1,000+), establishing Islam's military strength."
+    },
+    {
+      "id": 50,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The Prophet (SAW) was injured in which battle?",
+      "options": {
+        "A": "Battle of Badr",
+        "B": "Battle of Uhud",
+        "C": "Battle of Khandaq",
+        "D": "Battle of Tabuk"
+      },
+      "correct_answer": "B",
+      "explanation": "The Prophet (SAW) was injured in the Battle of Uhud (3 AH/625 CE) when Muslim archers disobeyed his orders, allowing the Quraysh cavalry to attack from the rear."
+    },
+    {
+      "id": 51,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The conquest of Makkah took place in:",
+      "options": {
+        "A": "5 AH (627 CE)",
+        "B": "8 AH (630 CE)",
+        "C": "10 AH (632 CE)",
+        "D": "2 AH (624 CE)"
+      },
+      "correct_answer": "B",
+      "explanation": "The Conquest of Makkah (Fath Makkah) occurred in 8 AH (630 CE), when the Prophet (SAW) led an army of 10,000 Muslims and entered Makkah with minimal resistance."
+    },
+    {
+      "id": 52,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The Prophet Muhammad (SAW) passed away in:",
+      "options": {
+        "A": "8 AH",
+        "B": "10 AH",
+        "C": "11 AH",
+        "D": "12 AH"
+      },
+      "correct_answer": "C",
+      "explanation": "Prophet Muhammad (SAW) passed away on 12 Rabi al-Awwal, 11 AH (June 8, 632 CE) in Madinah, at the age of approximately 63 years."
+    },
+    {
+      "id": 53,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The Night Journey and Ascension of Prophet Muhammad (SAW) is referred to as:",
+      "options": {
+        "A": "Hijrah",
+        "B": "Isra wal Miraj",
+        "C": "Laylat al-Qadr",
+        "D": "Fath al-Makkah"
+      },
+      "correct_answer": "B",
+      "explanation": "Isra wal Miraj refers to the miraculous night journey from Makkah to Jerusalem (Isra) and the ascent through the heavens to Allah's presence (Miraj), during which the five daily prayers were ordained."
+    },
+    {
+      "id": 54,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The treaty signed between the Muslims and the Quraysh of Makkah in 628 CE was called:",
+      "options": {
+        "A": "Treaty of Madinah",
+        "B": "Treaty of Hudaybiyyah",
+        "C": "Treaty of Tabuk",
+        "D": "Treaty of Khandaq"
+      },
+      "correct_answer": "B",
+      "explanation": "The Treaty of Hudaybiyyah (6 AH/628 CE) was a 10-year peace agreement between the Muslims and Makkans. Though apparently unfavorable, it allowed Islam to spread and led eventually to the Conquest of Makkah."
+    },
+    {
+      "id": 55,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The Farewell Pilgrimage (Hajjat al-Wada) was performed by the Prophet (SAW) in:",
+      "options": {
+        "A": "8 AH",
+        "B": "9 AH",
+        "C": "10 AH",
+        "D": "11 AH"
+      },
+      "correct_answer": "C",
+      "explanation": "The Prophet (SAW) performed his only Hajj, the Farewell Pilgrimage (Hajjat al-Wada), in 10 AH (632 CE). During this pilgrimage, he delivered the famous Farewell Sermon."
+    },
+    {
+      "id": 56,
+      "topic": "Islamic History - The Rightly Guided Caliphs",
+      "difficulty": "medium",
+      "question": "The first Caliph after the death of Prophet Muhammad (SAW) was:",
+      "options": {
+        "A": "Umar ibn al-Khattab",
+        "B": "Uthman ibn Affan",
+        "C": "Abu Bakr Al-Siddiq",
+        "D": "Ali ibn Abi Talib"
+      },
+      "correct_answer": "C",
+      "explanation": "Abu Bakr Al-Siddiq (RA) was the first Caliph (632-634 CE). He suppressed the Ridda (apostasy) wars, consolidated Islamic unity, and began the compilation of the Quran."
+    },
+    {
+      "id": 57,
+      "topic": "Islamic History - The Rightly Guided Caliphs",
+      "difficulty": "medium",
+      "question": "The Caliph who expanded the Islamic state most rapidly and introduced systematic governance (Diwan) was:",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Umar ibn al-Khattab",
+        "C": "Uthman ibn Affan",
+        "D": "Ali ibn Abi Talib"
+      },
+      "correct_answer": "B",
+      "explanation": "Umar ibn al-Khattab (RA), the second Caliph (634-644 CE), expanded Islam into Persia, Egypt, and Syria, established the Islamic calendar, created the Diwan (administrative register), and introduced systematic governance."
+    },
+    {
+      "id": 58,
+      "topic": "Islamic History - The Rightly Guided Caliphs",
+      "difficulty": "medium",
+      "question": "The Caliph who standardized the Quran into one official text was:",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Umar",
+        "C": "Uthman ibn Affan",
+        "D": "Ali"
+      },
+      "correct_answer": "C",
+      "explanation": "Uthman ibn Affan (RA), the third Caliph (644-656 CE), standardized the Quran into a single official copy (Uthmanic Mushaf) to prevent variant readings from spreading."
+    },
+    {
+      "id": 59,
+      "topic": "Islamic History - The Rightly Guided Caliphs",
+      "difficulty": "medium",
+      "question": "The period of the four Rightly Guided Caliphs (Khulafa al-Rashidun) lasted from:",
+      "options": {
+        "A": "610-632 CE",
+        "B": "632-661 CE",
+        "C": "661-750 CE",
+        "D": "750-1258 CE"
+      },
+      "correct_answer": "B",
+      "explanation": "The Khulafa al-Rashidun (Rightly Guided Caliphs) period lasted from 632 CE (death of the Prophet SAW) to 661 CE (assassination of Ali RA), covering the reigns of Abu Bakr, Umar, Uthman, and Ali."
+    },
+    {
+      "id": 60,
+      "topic": "Islamic History - The Rightly Guided Caliphs",
+      "difficulty": "medium",
+      "question": "The fourth Caliph and cousin/son-in-law of Prophet Muhammad (SAW) was:",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Umar",
+        "C": "Uthman",
+        "D": "Ali ibn Abi Talib"
+      },
+      "correct_answer": "D",
+      "explanation": "Ali ibn Abi Talib (RA) was the fourth Caliph (656-661 CE). He was both the cousin and son-in-law of the Prophet (SAW), married to the Prophet's daughter Fatimah (RA)."
+    },
+    {
+      "id": 61,
+      "topic": "Islamic History - Dynasties",
+      "difficulty": "medium",
+      "question": "The Umayyad Caliphate was founded by:",
+      "options": {
+        "A": "Muawiyah ibn Abi Sufyan",
+        "B": "Abu al-Abbas al-Saffah",
+        "C": "Harun al-Rashid",
+        "D": "Saladin"
+      },
+      "correct_answer": "A",
+      "explanation": "Muawiyah ibn Abi Sufyan founded the Umayyad Caliphate in 661 CE, moving the capital from Kufa to Damascus. The Umayyad dynasty ruled until 750 CE."
+    },
+    {
+      "id": 62,
+      "topic": "Islamic History - Dynasties",
+      "difficulty": "medium",
+      "question": "The Abbasid Caliphate was known as the golden age of Islamic civilization. Its capital was:",
+      "options": {
+        "A": "Damascus",
+        "B": "Cairo",
+        "C": "Baghdad",
+        "D": "Cordoba"
+      },
+      "correct_answer": "C",
+      "explanation": "The Abbasid Caliphate (750-1258 CE) established its capital at Baghdad (present-day Iraq), which became the greatest city of the medieval world and center of Islamic learning."
+    },
+    {
+      "id": 63,
+      "topic": "Islamic History - Dynasties",
+      "difficulty": "medium",
+      "question": "The Abbasid Caliphate ended with the Mongol destruction of Baghdad in:",
+      "options": {
+        "A": "1187 CE",
+        "B": "1258 CE",
+        "C": "1453 CE",
+        "D": "1492 CE"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mongols under Hulagu Khan destroyed Baghdad in 1258 CE, killing the last Abbasid Caliph Al-Musta'sim and ending the Abbasid Caliphate in Baghdad."
+    },
+    {
+      "id": 64,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "Islam was introduced to West Africa primarily through:",
+      "options": {
+        "A": "European missionaries",
+        "B": "Arab and Berber trans-Saharan traders and scholars",
+        "C": "military conquest from North Africa",
+        "D": "the Crusades"
+      },
+      "correct_answer": "B",
+      "explanation": "Islam spread to West Africa mainly through trans-Saharan trade routes, with Arab and Berber traders and Muslim scholars bringing the faith to trading centers like Timbuktu, Kano, and Kanem-Bornu."
+    },
+    {
+      "id": 65,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "The Sokoto Caliphate was founded by Usman Dan Fodio in:",
+      "options": {
+        "A": "1776",
+        "B": "1804",
+        "C": "1860",
+        "D": "1900"
+      },
+      "correct_answer": "B",
+      "explanation": "Usman Dan Fodio launched the Sokoto Jihad in 1804, establishing the Sokoto Caliphate in present-day Nigeria by 1809. It became one of the largest states in 19th-century Africa."
+    },
+    {
+      "id": 66,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "The Sokoto Jihad led by Usman Dan Fodio was primarily aimed at:",
+      "options": {
+        "A": "fighting against European colonialism",
+        "B": "purifying Islam from syncretic practices and establishing an Islamic state",
+        "C": "expanding trade routes across the Sahara",
+        "D": "uniting all African tribes"
+      },
+      "correct_answer": "B",
+      "explanation": "Usman Dan Fodio's Jihad aimed to purify Islam in the Hausa states from syncretic and un-Islamic practices and establish governance based on Sharia law."
+    },
+    {
+      "id": 67,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "The famous West African Muslim scholar and traveler who visited Mali in the 14th century was:",
+      "options": {
+        "A": "Usman Dan Fodio",
+        "B": "Mansa Musa",
+        "C": "Ibn Battuta",
+        "D": "Al-Bakri"
+      },
+      "correct_answer": "C",
+      "explanation": "Ibn Battuta, the famous Moroccan explorer, visited the Mali Empire in 1352-1353 CE and left detailed accounts of Islamic life in West Africa in his travel memoir, the Rihla."
+    },
+    {
+      "id": 68,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "The Malian king who made the famous pilgrimage to Makkah in 1324-1325 CE, distributing gold freely, was:",
+      "options": {
+        "A": "Sundiata Keita",
+        "B": "Mansa Musa",
+        "C": "Askia Muhammad",
+        "D": "Usman Dan Fodio"
+      },
+      "correct_answer": "B",
+      "explanation": "Mansa Musa, the emperor of the Mali Empire, made his famous Hajj pilgrimage to Makkah in 1324-1325 CE with a large entourage and distributed so much gold that he caused inflation in Egypt."
+    },
+    {
+      "id": 69,
+      "topic": "Islamic History in West Africa",
+      "difficulty": "medium",
+      "question": "The city that became the most important center of Islamic scholarship in West Africa was:",
+      "options": {
+        "A": "Kano",
+        "B": "Lagos",
+        "C": "Timbuktu",
+        "D": "Sokoto"
+      },
+      "correct_answer": "C",
+      "explanation": "Timbuktu (in present-day Mali) became the greatest center of Islamic learning in West Africa, housing Sankore University and thousands of scholars and manuscripts."
+    },
+    {
+      "id": 70,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "The concept of Akhlaq in Islam refers to:",
+      "options": {
+        "A": "Islamic law and jurisprudence",
+        "B": "Islamic moral character and ethics",
+        "C": "the study of the Quran",
+        "D": "the science of Hadith verification"
+      },
+      "correct_answer": "B",
+      "explanation": "Akhlaq (plural of Khuluq) refers to Islamic ethics, moral character, and virtuous behavior. The Prophet (SAW) said: 'I was sent to perfect good moral character.'"
+    },
+    {
+      "id": 71,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Honesty and truthfulness in Islam is expressed by the Arabic term:",
+      "options": {
+        "A": "Taqwa",
+        "B": "Sidq",
+        "C": "Amanah",
+        "D": "Sabr"
+      },
+      "correct_answer": "B",
+      "explanation": "Sidq (truthfulness/honesty) is a fundamental Islamic virtue. The Prophet (SAW) was known as 'Al-Sadiq' (the truthful) even before prophethood."
+    },
+    {
+      "id": 72,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Amanah in Islam refers to:",
+      "options": {
+        "A": "patience and perseverance",
+        "B": "trustworthiness and fulfilling obligations",
+        "C": "generosity and charity",
+        "D": "humility and modesty"
+      },
+      "correct_answer": "B",
+      "explanation": "Amanah means trustworthiness, fulfilling promises, and discharging entrusted responsibilities faithfully. It is a core Islamic virtue applied in all areas of life."
+    },
+    {
+      "id": 73,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Taqwa in Islam means:",
+      "options": {
+        "A": "generosity",
+        "B": "consciousness of Allah / God-fearing piety",
+        "C": "patience",
+        "D": "truthfulness"
+      },
+      "correct_answer": "B",
+      "explanation": "Taqwa is the Islamic concept of God-consciousness, piety, and fearing Allah. It involves being aware of Allah in all actions and avoiding what is displeasing to Him."
+    },
+    {
+      "id": 74,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "The concept of Sabr in Islam means:",
+      "options": {
+        "A": "thankfulness to Allah",
+        "B": "patience and steadfastness in the face of trials",
+        "C": "seeking forgiveness",
+        "D": "consulting others on decisions"
+      },
+      "correct_answer": "B",
+      "explanation": "Sabr is the Islamic virtue of patience, perseverance, and steadfastness when facing difficulties, hardships, or temptations. It is mentioned numerous times in the Quran."
+    },
+    {
+      "id": 75,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Shukr in Islam means:",
+      "options": {
+        "A": "seeking repentance",
+        "B": "patience and endurance",
+        "C": "gratitude and thankfulness to Allah",
+        "D": "performing extra prayers"
+      },
+      "correct_answer": "C",
+      "explanation": "Shukr means gratitude and thankfulness to Allah for His blessings. The Quran states: 'If you are grateful, I will surely increase you in favor' (14:7)."
+    },
+    {
+      "id": 76,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Tawbah (repentance) in Islam requires:",
+      "options": {
+        "A": "paying Zakah as expiation",
+        "B": "sincere regret, stopping the sin, resolving not to repeat it, and making amends if rights were violated",
+        "C": "performing Hajj",
+        "D": "fasting for 60 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Valid Tawbah requires: (1) genuine remorse for the sin, (2) ceasing the sin immediately, (3) firm resolve not to return to it, and (4) restoring the rights of others if violated."
+    },
+    {
+      "id": 77,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "Tawadu (humility) in Islam means:",
+      "options": {
+        "A": "excessive pride in one's achievements",
+        "B": "submissiveness and freedom from arrogance",
+        "C": "generosity to the poor",
+        "D": "seeking knowledge tirelessly"
+      },
+      "correct_answer": "B",
+      "explanation": "Tawadu is humility — being free from arrogance and pride, acknowledging one's dependence on Allah and treating others respectfully regardless of status."
+    },
+    {
+      "id": 78,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "Wudu (ablution) is a prerequisite for which of the following acts of worship?",
+      "options": {
+        "A": "Zakah and Hajj",
+        "B": "Salah and touching the Quran",
+        "C": "Fasting and Zakah",
+        "D": "Dhikr and Dua"
+      },
+      "correct_answer": "B",
+      "explanation": "Wudu (ritual ablution) is required before performing Salah (prayer) and before touching or carrying the Quran. It involves washing specific parts of the body in the prescribed manner."
+    },
+    {
+      "id": 79,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "Ghusl (full ritual bath) is required in Islam after:",
+      "options": {
+        "A": "eating pork",
+        "B": "sexual intercourse, ejaculation, or the end of menstruation",
+        "C": "touching a dog",
+        "D": "sleeping"
+      },
+      "correct_answer": "B",
+      "explanation": "Ghusl (full body ritual purification) is obligatory after sexual intercourse, ejaculation, the completion of menstruation (Haid), and post-natal bleeding (Nifas)."
+    },
+    {
+      "id": 80,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "The Adhan is the Islamic call to:",
+      "options": {
+        "A": "Zakah payment",
+        "B": "prayer (Salah)",
+        "C": "Hajj pilgrimage",
+        "D": "fasting"
+      },
+      "correct_answer": "B",
+      "explanation": "The Adhan (call to prayer) is the verbal announcement that it is time for Salah. It is called from the minaret of the mosque by the Muadhdhin (caller to prayer)."
+    },
+    {
+      "id": 81,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "The direction Muslims face during Salah (prayer) is towards:",
+      "options": {
+        "A": "Jerusalem",
+        "B": "Madinah",
+        "C": "The Kaabah in Makkah (Qiblah)",
+        "D": "East"
+      },
+      "correct_answer": "C",
+      "explanation": "Muslims face the Kaabah (the sacred house in Makkah) during Salah. This direction is called the Qiblah. Initially Muslims prayed towards Jerusalem before the Qiblah was changed."
+    },
+    {
+      "id": 82,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "The Friday congregational prayer (Jumu'ah) replaces which daily prayer?",
+      "options": {
+        "A": "Fajr",
+        "B": "Dhuhr",
+        "C": "Asr",
+        "D": "Maghrib"
+      },
+      "correct_answer": "B",
+      "explanation": "The Friday Jumu'ah prayer replaces the midday Dhuhr prayer for adult male Muslims who are resident and healthy. It includes a Khutbah (sermon) delivered by the Imam."
+    },
+    {
+      "id": 83,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "The prayer performed for the deceased Muslim before burial is called:",
+      "options": {
+        "A": "Salat al-Istisqa",
+        "B": "Salat al-Janazah",
+        "C": "Salat al-Khusuf",
+        "D": "Salat al-Eid"
+      },
+      "correct_answer": "B",
+      "explanation": "Salat al-Janazah is the funeral prayer performed for a deceased Muslim as a communal obligation (Fard Kifayah). It consists of four Takbirat without bowing or prostration."
+    },
+    {
+      "id": 84,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "The Night of Power (Laylat al-Qadr), better than a thousand months, falls in which period?",
+      "options": {
+        "A": "First ten days of Ramadan",
+        "B": "Middle ten days of Ramadan",
+        "C": "Last ten nights of Ramadan",
+        "D": "The night of Eid al-Fitr"
+      },
+      "correct_answer": "C",
+      "explanation": "Laylat al-Qadr (the Night of Power) falls in one of the odd-numbered nights of the last ten nights of Ramadan. Muslims are encouraged to increase worship during this period."
+    },
+    {
+      "id": 85,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "Eid al-Adha is celebrated on the:",
+      "options": {
+        "A": "1st of Shawwal",
+        "B": "10th of Dhul Hijjah",
+        "C": "27th of Ramadan",
+        "D": "12th of Rabi al-Awwal"
+      },
+      "correct_answer": "B",
+      "explanation": "Eid al-Adha (Festival of Sacrifice) is celebrated on the 10th of Dhul Hijjah (the month of Hajj), commemorating Prophet Ibrahim's (AS) willingness to sacrifice his son Ismail (AS)."
+    },
+    {
+      "id": 86,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "Eid al-Fitr is celebrated on the:",
+      "options": {
+        "A": "1st of Shawwal",
+        "B": "10th of Dhul Hijjah",
+        "C": "Last day of Ramadan",
+        "D": "15th of Sha'ban"
+      },
+      "correct_answer": "A",
+      "explanation": "Eid al-Fitr (Festival of Breaking the Fast) is celebrated on the 1st of Shawwal, the first day after Ramadan ends, to mark the successful completion of a month of fasting."
+    },
+    {
+      "id": 87,
+      "topic": "Islamic Worship (Ibadah)",
+      "difficulty": "medium",
+      "question": "Itikaf is an act of worship that involves:",
+      "options": {
+        "A": "voluntary fasting on Mondays and Thursdays",
+        "B": "seclusion in the mosque for worship, especially in the last ten days of Ramadan",
+        "C": "pilgrimage to Madinah",
+        "D": "giving extra Sadaqah in Ramadan"
+      },
+      "correct_answer": "B",
+      "explanation": "Itikaf is the Sunnah practice of staying in seclusion in the mosque, especially during the last ten days of Ramadan, devoting oneself entirely to worship and seeking Laylat al-Qadr."
+    },
+    {
+      "id": 88,
+      "topic": "Hajj",
+      "difficulty": "medium",
+      "question": "The state of ritual purity and consecration entered upon starting Hajj or Umrah is called:",
+      "options": {
+        "A": "Wudu",
+        "B": "Ihram",
+        "C": "Tawaf",
+        "D": "Sa'i"
+      },
+      "correct_answer": "B",
+      "explanation": "Ihram is the sacred state of ritual purity assumed for Hajj or Umrah, marked by wearing two plain white seamless garments (for men) and following specific prohibitions."
+    },
+    {
+      "id": 89,
+      "topic": "Hajj",
+      "difficulty": "medium",
+      "question": "Tawaf during Hajj refers to:",
+      "options": {
+        "A": "walking between Safa and Marwa",
+        "B": "the ritual circling of the Kaabah seven times counter-clockwise",
+        "C": "standing on the plain of Arafat",
+        "D": "throwing stones at the Jamarat"
+      },
+      "correct_answer": "B",
+      "explanation": "Tawaf is the ritual of circumambulating (walking around) the Kaabah seven times in a counter-clockwise direction, beginning and ending at the Black Stone (Hajar al-Aswad)."
+    },
+    {
+      "id": 90,
+      "topic": "Hajj",
+      "difficulty": "medium",
+      "question": "The Sa'i ritual during Hajj commemorates the action of:",
+      "options": {
+        "A": "Ibrahim (AS) building the Kaabah",
+        "B": "Hajar (Hagar) running between Safa and Marwa in search of water for her son Ismail",
+        "C": "the Prophet (SAW) circumambulating the Kaabah",
+        "D": "Adam and Hawwa meeting on Mount Arafat"
+      },
+      "correct_answer": "B",
+      "explanation": "Sa'i (walking seven times between Safa and Marwa) commemorates Hajar's (Hagar's) desperate search for water for baby Ismail. The spring of Zamzam miraculously appeared as a result."
+    },
+    {
+      "id": 91,
+      "topic": "Hajj",
+      "difficulty": "medium",
+      "question": "The most important pillar of Hajj, without which the Hajj is invalid, is:",
+      "options": {
+        "A": "Tawaf al-Ifadah",
+        "B": "Wuquf at Arafat (standing on the plain of Arafat)",
+        "C": "Throwing stones at Jamarat",
+        "D": "Sa'i between Safa and Marwa"
+      },
+      "correct_answer": "B",
+      "explanation": "Wuquf (standing) at the plain of Arafat on the 9th of Dhul Hijjah is the essential pillar of Hajj. The Prophet (SAW) said: 'Hajj is Arafat.' Missing it invalidates the Hajj."
+    },
+    {
+      "id": 92,
+      "topic": "Hajj",
+      "difficulty": "medium",
+      "question": "The stoning of the Jamarat during Hajj symbolizes:",
+      "options": {
+        "A": "cleansing of sins",
+        "B": "Ibrahim's (AS) rejection of Satan's temptations",
+        "C": "the conquest of Makkah",
+        "D": "the Prophet's farewell sermon"
+      },
+      "correct_answer": "B",
+      "explanation": "The stoning of the three pillars (Jamarat) symbolizes the rejection of Satan's whispers, as Ibrahim (AS) threw stones at the devil when he tried to dissuade Ibrahim from obeying Allah."
+    },
+    {
+      "id": 93,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "In Islamic marriage (Nikah), the Mahr (dowry) is:",
+      "options": {
+        "A": "a gift from the bride to the groom",
+        "B": "a mandatory gift from the groom to the bride",
+        "C": "a payment from the bride's family to the groom",
+        "D": "optional and not obligatory"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mahr is a mandatory gift or sum of money that the groom must pay to the bride as part of the marriage contract. It is her exclusive right and property."
+    },
+    {
+      "id": 94,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "The conditions for a valid Islamic marriage (Nikah) include all of the following EXCEPT:",
+      "options": {
+        "A": "offer and acceptance",
+        "B": "Mahr (dowry)",
+        "C": "two competent witnesses",
+        "D": "approval of the government"
+      },
+      "correct_answer": "D",
+      "explanation": "Essential conditions for valid Nikah are: offer (Ijab) and acceptance (Qabul), Mahr, two competent Muslim witnesses, and the bride's guardian (Wali). Government approval is not an Islamic requirement."
+    },
+    {
+      "id": 95,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "Polygamy in Islam allows a Muslim man to marry up to a maximum of:",
+      "options": {
+        "A": "two wives",
+        "B": "three wives",
+        "C": "four wives",
+        "D": "unlimited wives"
+      },
+      "correct_answer": "C",
+      "explanation": "The Quran (4:3) allows a man to marry up to four wives, but only on the strict condition of treating them all with absolute justice and equity. If he cannot do so, he must marry only one."
+    },
+    {
+      "id": 96,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "Talaq in Islamic law refers to:",
+      "options": {
+        "A": "Islamic marriage contract",
+        "B": "divorce initiated by the husband",
+        "C": "the bride's dowry",
+        "D": "the wife's guardian"
+      },
+      "correct_answer": "B",
+      "explanation": "Talaq is the Islamic form of divorce initiated by the husband by pronouncing the formula of divorce. It may be revocable (Talaq Raj'i) or irrevocable (Talaq Ba'in)."
+    },
+    {
+      "id": 97,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "Khul' in Islamic law is:",
+      "options": {
+        "A": "divorce initiated by the husband",
+        "B": "divorce initiated by the wife by returning the Mahr",
+        "C": "a type of Islamic marriage",
+        "D": "the period of waiting after divorce"
+      },
+      "correct_answer": "B",
+      "explanation": "Khul' is a form of divorce where the wife initiates separation by returning the Mahr (or agreed compensation) to the husband. It is her right under Islamic law."
+    },
+    {
+      "id": 98,
+      "topic": "Islamic Family Law",
+      "difficulty": "medium",
+      "question": "The waiting period (Iddah) after divorce for a woman who is pregnant is:",
+      "options": {
+        "A": "three menstrual cycles",
+        "B": "four months and ten days",
+        "C": "until she gives birth",
+        "D": "one year"
+      },
+      "correct_answer": "C",
+      "explanation": "For a pregnant woman, the Iddah (waiting period) after divorce or death of husband is until she gives birth (Quran 65:4). For a non-pregnant woman, it is three menstrual cycles."
+    },
+    {
+      "id": 99,
+      "topic": "Islamic Inheritance Law",
+      "difficulty": "medium",
+      "question": "Islamic inheritance law (Mirath/Fara'id) distributes an estate primarily based on:",
+      "options": {
+        "A": "the deceased's will alone",
+        "B": "Quranic prescriptions of fixed shares (Fard) for specific heirs",
+        "C": "government regulations",
+        "D": "tribal customs"
+      },
+      "correct_answer": "B",
+      "explanation": "Islamic inheritance law (Fara'id/Ilm al-Mirath) is based on Quranic verses (4:11-12, 4:176) that specify fixed shares (Fard) for designated heirs like spouse, children, and parents."
+    },
+    {
+      "id": 100,
+      "topic": "Islamic Inheritance Law",
+      "difficulty": "medium",
+      "question": "In Islamic inheritance, a daughter receives what fraction of a son's share?",
+      "options": {
+        "A": "The same share",
+        "B": "Twice the share",
+        "C": "Half the share of the son",
+        "D": "One-third of the son's share"
+      },
+      "correct_answer": "C",
+      "explanation": "Quran 4:11 states that a son receives twice the share of a daughter. This is because a son has financial obligations (Nafaqah) to support his wife and family, while a woman's inheritance is her own."
+    },
+    {
+      "id": 101,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The first prophet in Islam is believed to be:",
+      "options": {
+        "A": "Ibrahim (Abraham)",
+        "B": "Nuh (Noah)",
+        "C": "Adam",
+        "D": "Musa (Moses)"
+      },
+      "correct_answer": "C",
+      "explanation": "Adam (AS) is considered the first human being and the first prophet in Islamic belief. He was created by Allah and taught the names of all things."
+    },
+    {
+      "id": 102,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet known as 'Khalilullah' (Friend of Allah) is:",
+      "options": {
+        "A": "Musa (Moses)",
+        "B": "Isa (Jesus)",
+        "C": "Ibrahim (Abraham)",
+        "D": "Dawud (David)"
+      },
+      "correct_answer": "C",
+      "explanation": "Ibrahim (Abraham, AS) is given the title 'Khalilullah' (Friend of Allah) because of his complete submission to Allah and absolute trust in Him."
+    },
+    {
+      "id": 103,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet known as 'Kalimullah' (One who spoke directly to Allah) is:",
+      "options": {
+        "A": "Ibrahim",
+        "B": "Musa (Moses)",
+        "C": "Isa (Jesus)",
+        "D": "Yusuf (Joseph)"
+      },
+      "correct_answer": "B",
+      "explanation": "Musa (Moses, AS) is called 'Kalimullah' because Allah spoke to him directly without an intermediary, as described in Surah Al-Nisa (4:164) and other places in the Quran."
+    },
+    {
+      "id": 104,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet known as 'Ruhullah' (Spirit of Allah) is:",
+      "options": {
+        "A": "Jibril",
+        "B": "Ibrahim",
+        "C": "Isa (Jesus)",
+        "D": "Yahya (John)"
+      },
+      "correct_answer": "C",
+      "explanation": "Isa (Jesus, AS) is referred to as 'Ruhullah' (a Spirit from Allah) and 'Kalimatullah' (Word of Allah) in the Quran, referring to his miraculous virgin birth."
+    },
+    {
+      "id": 105,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet who was swallowed by a whale is:",
+      "options": {
+        "A": "Yunus (Jonah)",
+        "B": "Ayyub (Job)",
+        "C": "Yusuf (Joseph)",
+        "D": "Sulayman (Solomon)"
+      },
+      "correct_answer": "A",
+      "explanation": "Prophet Yunus (Jonah, AS), also known as Dhul-Nun (owner of the whale), was swallowed by a large fish after leaving his mission without permission. He prayed to Allah from within the whale."
+    },
+    {
+      "id": 106,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet known for his extreme patience during prolonged illness is:",
+      "options": {
+        "A": "Yunus",
+        "B": "Ibrahim",
+        "C": "Ayyub (Job)",
+        "D": "Nuh"
+      },
+      "correct_answer": "C",
+      "explanation": "Prophet Ayyub (Job, AS) is renowned for his extraordinary patience (Sabr) during a prolonged period of illness and suffering. He is the exemplar of patience in Islamic tradition."
+    },
+    {
+      "id": 107,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet sent to the people of 'Ad was:",
+      "options": {
+        "A": "Hud",
+        "B": "Salih",
+        "C": "Shu'ayb",
+        "D": "Lut"
+      },
+      "correct_answer": "A",
+      "explanation": "Prophet Hud (AS) was sent to the people of 'Ad, a powerful civilization in ancient Arabia. They rejected him and were destroyed by a violent windstorm (Quran 7:65-72)."
+    },
+    {
+      "id": 108,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet sent to the people of Thamud was:",
+      "options": {
+        "A": "Hud",
+        "B": "Salih",
+        "C": "Shu'ayb",
+        "D": "Ibrahim"
+      },
+      "correct_answer": "B",
+      "explanation": "Prophet Salih (AS) was sent to the Thamud people. He was given a she-camel as a miracle. When they killed the camel, they were destroyed by a thunderous blast."
+    },
+    {
+      "id": 109,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The total number of prophets mentioned by name in the Quran is:",
+      "options": {
+        "A": "10",
+        "B": "25",
+        "C": "40",
+        "D": "124,000"
+      },
+      "correct_answer": "B",
+      "explanation": "The Quran mentions 25 prophets by name. Islamic tradition holds that Allah sent 124,000 prophets throughout history, but only 25 are named in the Quran."
+    },
+    {
+      "id": 110,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "Prophet Muhammad (SAW) is described in the Quran as:",
+      "options": {
+        "A": "the first prophet",
+        "B": "the seal (last) of the prophets (Khatam al-Nabiyyin)",
+        "C": "the prophet only to the Arabs",
+        "D": "the prophet of the Jews"
+      },
+      "correct_answer": "B",
+      "explanation": "The Quran (33:40) describes Prophet Muhammad (SAW) as 'Khatam al-Nabiyyin' (the Seal of the Prophets), meaning he is the last and final prophet — no prophet will come after him."
+    },
+    {
+      "id": 111,
+      "topic": "Islamic Calendar",
+      "difficulty": "medium",
+      "question": "The Islamic calendar (Hijri calendar) is a:",
+      "options": {
+        "A": "solar calendar",
+        "B": "lunisolar calendar",
+        "C": "purely lunar calendar",
+        "D": "Julian calendar"
+      },
+      "correct_answer": "C",
+      "explanation": "The Islamic Hijri calendar is a purely lunar calendar, with each month starting with the sighting of the new crescent moon. The lunar year is approximately 354 days (11 days shorter than the solar year)."
+    },
+    {
+      "id": 112,
+      "topic": "Islamic Calendar",
+      "difficulty": "medium",
+      "question": "The Islamic Hijri calendar starts from the year of the Prophet's (SAW):",
+      "options": {
+        "A": "birth",
+        "B": "first revelation",
+        "C": "migration (Hijrah) from Makkah to Madinah",
+        "D": "death"
+      },
+      "correct_answer": "C",
+      "explanation": "The Hijri calendar begins from the year of the Prophet's (SAW) migration (Hijrah) from Makkah to Madinah in 622 CE, as established by the second Caliph Umar ibn al-Khattab (RA)."
+    },
+    {
+      "id": 113,
+      "topic": "Islamic Calendar",
+      "difficulty": "medium",
+      "question": "The first month of the Islamic calendar is:",
+      "options": {
+        "A": "Ramadan",
+        "B": "Dhul Hijjah",
+        "C": "Muharram",
+        "D": "Safar"
+      },
+      "correct_answer": "C",
+      "explanation": "Muharram is the first month of the Islamic lunar calendar. It is one of the four sacred months (along with Rajab, Dhul Qa'dah, and Dhul Hijjah)."
+    },
+    {
+      "id": 114,
+      "topic": "Islamic Calendar",
+      "difficulty": "medium",
+      "question": "The Day of Ashura falls on which date of Muharram?",
+      "options": {
+        "A": "1st",
+        "B": "5th",
+        "C": "10th",
+        "D": "15th"
+      },
+      "correct_answer": "C",
+      "explanation": "Ashura is on the 10th of Muharram. It is the day Allah saved Musa (Moses, AS) and the Children of Israel from Pharaoh. Fasting on this day is recommended (Sunnah)."
+    },
+    {
+      "id": 115,
+      "topic": "Islamic Calendar",
+      "difficulty": "medium",
+      "question": "The month in which the Prophet Muhammad (SAW) is traditionally believed to have been born is:",
+      "options": {
+        "A": "Muharram",
+        "B": "Rajab",
+        "C": "Ramadan",
+        "D": "Rabi al-Awwal"
+      },
+      "correct_answer": "D",
+      "explanation": "Prophet Muhammad (SAW) is traditionally believed to have been born on the 12th of Rabi al-Awwal (the third month of the Islamic calendar), the event commemorated as Mawlid al-Nabi."
+    },
+    {
+      "id": 116,
+      "topic": "Islamic Economics",
+      "difficulty": "medium",
+      "question": "Riba (usury/interest) in Islam refers to:",
+      "options": {
+        "A": "legitimate profit from trade",
+        "B": "the prohibited practice of charging or paying interest on loans",
+        "C": "Zakah payment",
+        "D": "price inflation"
+      },
+      "correct_answer": "B",
+      "explanation": "Riba is the Arabic term for any excess or unjust increase in a loan transaction (interest). The Quran strictly prohibits Riba (2:275-279) as it is considered exploitative."
+    },
+    {
+      "id": 117,
+      "topic": "Islamic Economics",
+      "difficulty": "medium",
+      "question": "Waqf in Islamic economics is:",
+      "options": {
+        "A": "the collection of Zakah",
+        "B": "a voluntary charitable endowment of property for a religious or charitable purpose",
+        "C": "the Islamic banking system",
+        "D": "tax paid to the Islamic state"
+      },
+      "correct_answer": "B",
+      "explanation": "Waqf is an Islamic endowment — voluntary dedication of property (buildings, land, or assets) for perpetual charitable or religious use. Its benefits are given to the community while the property is preserved."
+    },
+    {
+      "id": 118,
+      "topic": "Islamic Economics",
+      "difficulty": "medium",
+      "question": "Murabaha in Islamic banking is:",
+      "options": {
+        "A": "an interest-bearing loan",
+        "B": "a cost-plus-profit sale where the bank buys and resells an asset at a disclosed profit margin",
+        "C": "a form of Zakah",
+        "D": "profit-sharing between partners"
+      },
+      "correct_answer": "B",
+      "explanation": "Murabaha is an Islamic finance arrangement where a bank purchases an asset and resells it to the client at a higher price (cost + agreed profit), paid in installments. No interest is charged."
+    },
+    {
+      "id": 119,
+      "topic": "Islamic Economics",
+      "difficulty": "medium",
+      "question": "Musharakah in Islamic finance refers to:",
+      "options": {
+        "A": "a charitable donation",
+        "B": "a partnership where all partners contribute capital and share profits and losses",
+        "C": "an interest-free loan",
+        "D": "sale with deferred payment"
+      },
+      "correct_answer": "B",
+      "explanation": "Musharakah (partnership) is an Islamic finance contract where two or more parties contribute capital to a business venture and share profits and losses according to agreed ratios."
+    },
+    {
+      "id": 120,
+      "topic": "Islamic Economics",
+      "difficulty": "medium",
+      "question": "Sadaqah differs from Zakah in that Sadaqah is:",
+      "options": {
+        "A": "obligatory charity with fixed rates",
+        "B": "voluntary charity given at any time with no fixed amount",
+        "C": "the annual pilgrimage tax",
+        "D": "inheritance distribution"
+      },
+      "correct_answer": "B",
+      "explanation": "Sadaqah is voluntary charity given at any time, for any amount, to any worthy cause. Zakah is the obligatory annual charity with specific rules on amount, eligibility, and recipients."
+    },
+    {
+      "id": 121,
+      "topic": "Islamic Concept of Jihad",
+      "difficulty": "medium",
+      "question": "The greater Jihad (Al-Jihad al-Akbar) refers to:",
+      "options": {
+        "A": "armed conflict against enemies of Islam",
+        "B": "the internal struggle against one's own desires and ego",
+        "C": "spreading Islam through preaching",
+        "D": "resisting oppressive rulers"
+      },
+      "correct_answer": "B",
+      "explanation": "The greater Jihad is the internal, spiritual struggle against one's own nafs (ego, desires, and sinful inclinations). The Prophet (SAW) described it as greater than physical warfare."
+    },
+    {
+      "id": 122,
+      "topic": "Islamic Concept of Jihad",
+      "difficulty": "medium",
+      "question": "The lesser Jihad (Al-Jihad al-Asghar) refers to:",
+      "options": {
+        "A": "spiritual self-improvement",
+        "B": "armed struggle in defence of Islam under specific conditions",
+        "C": "spreading Islam through dialogue",
+        "D": "performing extra prayers"
+      },
+      "correct_answer": "B",
+      "explanation": "The lesser Jihad refers to armed struggle (Qital) in the path of Allah under strict conditions and rules. Islam governs warfare extensively through Islamic laws of Jihad."
+    },
+    {
+      "id": 123,
+      "topic": "Quran - Selected Surahs",
+      "difficulty": "medium",
+      "question": "Surah Al-Fatiha is also called 'Umm al-Quran' meaning:",
+      "options": {
+        "A": "the heart of the Quran",
+        "B": "the mother/essence of the Quran",
+        "C": "the beginning of revelation",
+        "D": "the cure of the Quran"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Fatiha is called 'Umm al-Quran' (Mother of the Quran) because it encapsulates the essential themes of the entire Quran: praise of Allah, His attributes, guidance, and the Day of Judgment."
+    },
+    {
+      "id": 124,
+      "topic": "Quran - Selected Surahs",
+      "difficulty": "medium",
+      "question": "Ayat al-Kursi (Verse of the Throne) is found in Surah:",
+      "options": {
+        "A": "Al-Fatiha",
+        "B": "Al-Baqarah (2:255)",
+        "C": "Al-Ikhlas",
+        "D": "Al-Imran"
+      },
+      "correct_answer": "B",
+      "explanation": "Ayat al-Kursi (2:255) is found in Surah Al-Baqarah. It is considered the greatest verse in the Quran and describes Allah's attributes of all-knowingness and sovereignty over creation."
+    },
+    {
+      "id": 125,
+      "topic": "Quran - Selected Surahs",
+      "difficulty": "medium",
+      "question": "The two Surahs of seeking refuge (Mu'awwidhatayn) are:",
+      "options": {
+        "A": "Al-Fatiha and Al-Baqarah",
+        "B": "Al-Falaq and Al-Nas",
+        "C": "Al-Ikhlas and Al-Kafirun",
+        "D": "Al-Fil and Quraysh"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mu'awwidhatayn are Surah Al-Falaq (113) and Surah Al-Nas (114), the last two Surahs of the Quran, revealed for protection from evil, black magic, and Satan's whispers."
+    },
+    {
+      "id": 126,
+      "topic": "Quran - Selected Surahs",
+      "difficulty": "medium",
+      "question": "Surah Yasin is often called the 'heart of the Quran' because it:",
+      "options": {
+        "A": "is the middle chapter",
+        "B": "deals comprehensively with resurrection, divine power, and the fundamental themes of faith",
+        "C": "is the shortest Surah",
+        "D": "was revealed first"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Yasin (36) is called the 'heart of the Quran' (as mentioned in Hadith) because it deals with core Quranic themes: resurrection, the power of Allah, prophethood, and faith."
+    },
+    {
+      "id": 127,
+      "topic": "Quran - Selected Surahs",
+      "difficulty": "medium",
+      "question": "Surah Al-Kahf contains the story of which group of young men who sought refuge in a cave?",
+      "options": {
+        "A": "The Companions of the Prophet (SAW)",
+        "B": "The People of the Cave (Ashab al-Kahf)",
+        "C": "The followers of Musa (AS)",
+        "D": "The warriors of Badr"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Kahf (Chapter 18) tells the story of the People of the Cave (Ashab al-Kahf) — pious young men who fled from a polytheistic society and were put to sleep by Allah for 309 years."
+    },
+    {
+      "id": 128,
+      "topic": "Islamic Cleanliness (Taharah)",
+      "difficulty": "medium",
+      "question": "Tayammum is the dry ablution using clean earth and is permitted when:",
+      "options": {
+        "A": "one is too tired to perform Wudu",
+        "B": "water is unavailable or its use would cause harm to one's health",
+        "C": "one is traveling",
+        "D": "one is fasting"
+      },
+      "correct_answer": "B",
+      "explanation": "Tayammum (dry purification with clean earth/dust) is a concession allowed when water is unavailable or when using water would be harmful to one's health. It temporarily replaces Wudu and Ghusl."
+    },
+    {
+      "id": 129,
+      "topic": "Islamic Cleanliness (Taharah)",
+      "difficulty": "medium",
+      "question": "The concept of Najasah in Islam refers to:",
+      "options": {
+        "A": "ritual purity",
+        "B": "ritual impurity — substances that are considered physically and ritually unclean",
+        "C": "voluntary fasting",
+        "D": "recommended prayers"
+      },
+      "correct_answer": "B",
+      "explanation": "Najasah refers to ritually impure substances (like blood, urine, feces, pork, alcohol). Removing Najasah is required for prayer and proper Islamic practice."
+    },
+    {
+      "id": 130,
+      "topic": "Islamic Cleanliness (Taharah)",
+      "difficulty": "medium",
+      "question": "Istinja in Islam refers to:",
+      "options": {
+        "A": "performing the full bath",
+        "B": "cleaning oneself after answering the call of nature",
+        "C": "performing ablution before prayer",
+        "D": "washing clothes"
+      },
+      "correct_answer": "B",
+      "explanation": "Istinja is the practice of cleaning oneself after using the toilet — using water and/or permissible materials to remove impurities from the private parts. It is obligatory in Islam."
+    },
+    {
+      "id": 131,
+      "topic": "Seerah - Companions",
+      "difficulty": "medium",
+      "question": "The Companions of the Prophet (SAW) are called:",
+      "options": {
+        "A": "Tabi'un",
+        "B": "Sahabah",
+        "C": "Awliya",
+        "D": "Mujahidun"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sahabah (singular: Sahabi) are the companions — Muslims who personally met Prophet Muhammad (SAW), believed in him, and died as Muslims. They are highly revered in Islamic tradition."
+    },
+    {
+      "id": 132,
+      "topic": "Seerah - Companions",
+      "difficulty": "medium",
+      "question": "The ten Companions given glad tidings of Paradise (Al-Ashratu al-Mubashsharun) include all of the following EXCEPT:",
+      "options": {
+        "A": "Abu Bakr Al-Siddiq",
+        "B": "Umar ibn al-Khattab",
+        "C": "Abdullah ibn Masud",
+        "D": "Sa'd ibn Abi Waqqas"
+      },
+      "correct_answer": "C",
+      "explanation": "The ten blessed Companions (Al-Ashratu al-Mubashsharun) are: Abu Bakr, Umar, Uthman, Ali, Talhah, Zubayr, Abd al-Rahman ibn Awf, Sa'd ibn Abi Waqqas, Sa'id ibn Zayd, and Abu Ubayda. Abdullah ibn Masud is not in this list."
+    },
+    {
+      "id": 133,
+      "topic": "Seerah - Companions",
+      "difficulty": "medium",
+      "question": "The companion known as 'Sayf Allah al-Maslul' (the drawn sword of Allah) was:",
+      "options": {
+        "A": "Umar ibn al-Khattab",
+        "B": "Khalid ibn al-Walid",
+        "C": "Ali ibn Abi Talib",
+        "D": "Hamzah ibn Abd al-Muttalib"
+      },
+      "correct_answer": "B",
+      "explanation": "Khalid ibn al-Walid (RA) was given the title 'Sayf Allah al-Maslul' (Drawn Sword of Allah) by the Prophet (SAW) for his extraordinary military victories and leadership."
+    },
+    {
+      "id": 134,
+      "topic": "Seerah - Companions",
+      "difficulty": "medium",
+      "question": "The companion known as 'The Lion of Allah' (Asadullah) was:",
+      "options": {
+        "A": "Ali ibn Abi Talib",
+        "B": "Hamzah ibn Abd al-Muttalib",
+        "C": "Khalid ibn al-Walid",
+        "D": "Abu Bakr Al-Siddiq"
+      },
+      "correct_answer": "B",
+      "explanation": "Hamzah ibn Abd al-Muttalib (RA), the Prophet's uncle, was known as 'Asadullah' (Lion of Allah) and 'Sayyid al-Shuhada' (Master of Martyrs). He was martyred at the Battle of Uhud."
+    },
+    {
+      "id": 135,
+      "topic": "Seerah - Companions",
+      "difficulty": "medium",
+      "question": "The first Muadhdhin (caller to prayer) in Islam was:",
+      "options": {
+        "A": "Abu Bakr",
+        "B": "Bilal ibn Rabah",
+        "C": "Abdullah ibn Masud",
+        "D": "Salman al-Farisi"
+      },
+      "correct_answer": "B",
+      "explanation": "Bilal ibn Rabah (RA), a formerly enslaved Abyssinian Muslim, was chosen by the Prophet (SAW) as the first Muadhdhin (caller to prayer), renowned for his powerful voice and steadfast faith."
+    },
+    {
+      "id": 136,
+      "topic": "Islamic Education",
+      "difficulty": "medium",
+      "question": "The importance of seeking knowledge in Islam is emphasized by the Prophet's (SAW) saying:",
+      "options": {
+        "A": "'Prayer is the pillar of religion'",
+        "B": "'Seeking knowledge is obligatory upon every Muslim'",
+        "C": "'The best of you is he who learns the Quran and teaches it'",
+        "D": "'Charity extinguishes sin as water extinguishes fire'"
+      },
+      "correct_answer": "B",
+      "explanation": "The Prophet (SAW) said: 'Seeking knowledge is an obligation upon every Muslim.' This Hadith establishes that acquiring Islamic knowledge is a religious duty for all Muslims."
+    },
+    {
+      "id": 137,
+      "topic": "Islamic Education",
+      "difficulty": "medium",
+      "question": "The Dar al-Hikmah (House of Wisdom) established during the Abbasid period was famous as:",
+      "options": {
+        "A": "a mosque for Friday prayers",
+        "B": "a great center of translation, learning, and scientific research",
+        "C": "the first Islamic bank",
+        "D": "the headquarters of the Caliphate"
+      },
+      "correct_answer": "B",
+      "explanation": "The Bayt al-Hikmah (House of Wisdom) in Baghdad under the Abbasids (particularly Caliph Harun al-Rashid and Al-Ma'mun) was a renowned center of scholarship, translation, and scientific advancement."
+    },
+    {
+      "id": 138,
+      "topic": "Islamic Scholars",
+      "difficulty": "medium",
+      "question": "Imam Al-Ghazali's most famous work 'Ihya Ulum al-Din' (Revival of the Religious Sciences) deals with:",
+      "options": {
+        "A": "Islamic jurisprudence only",
+        "B": "the revival of Islamic spiritual, moral, and practical religious life",
+        "C": "Islamic astronomy",
+        "D": "Arabic grammar"
+      },
+      "correct_answer": "B",
+      "explanation": "Imam Abu Hamid al-Ghazali's 'Ihya Ulum al-Din' is a comprehensive guide to Islamic spirituality, ethics, and practice, covering worship, social conduct, and spiritual development."
+    },
+    {
+      "id": 139,
+      "topic": "Islamic Scholars",
+      "difficulty": "medium",
+      "question": "Ibn Khaldun, the Muslim scholar who pioneered sociology and historiography, was from:",
+      "options": {
+        "A": "Egypt",
+        "B": "Persia",
+        "C": "North Africa (Tunisia)",
+        "D": "Spain (Andalus)"
+      },
+      "correct_answer": "C",
+      "explanation": "Ibn Khaldun (1332-1406 CE), one of the greatest intellectuals in history, was born in Tunis (Tunisia). His Muqaddimah pioneered the philosophy of history and sociology."
+    },
+    {
+      "id": 140,
+      "topic": "Islamic Scholars",
+      "difficulty": "medium",
+      "question": "The Muslim physician and philosopher known as 'Shaykh al-Ra'is' (Prince of Physicians) who wrote 'Al-Qanun fi al-Tibb' was:",
+      "options": {
+        "A": "Al-Razi",
+        "B": "Ibn Rushd (Averroes)",
+        "C": "Ibn Sina (Avicenna)",
+        "D": "Al-Biruni"
+      },
+      "correct_answer": "C",
+      "explanation": "Ibn Sina (Avicenna, 980-1037 CE) was a Persian polymath whose 'Al-Qanun fi al-Tibb' (Canon of Medicine) was the standard medical textbook in Europe and the Islamic world for centuries."
+    },
+    {
+      "id": 141,
+      "topic": "Islamic Scholars",
+      "difficulty": "medium",
+      "question": "The scholar who founded the Hanafi school of jurisprudence was:",
+      "options": {
+        "A": "Imam Malik ibn Anas",
+        "B": "Imam Muhammad ibn Idris al-Shafi'i",
+        "C": "Imam Abu Hanifa al-Numan",
+        "D": "Imam Ahmad ibn Hanbal"
+      },
+      "correct_answer": "C",
+      "explanation": "Imam Abu Hanifa al-Numan (699-767 CE) founded the Hanafi Madhab, one of the four major Sunni schools of jurisprudence. The Hanafi school is followed widely in Turkey, Central Asia, and South Asia."
+    },
+    {
+      "id": 142,
+      "topic": "Islamic Scholars",
+      "difficulty": "medium",
+      "question": "Imam Malik ibn Anas authored which famous legal compendium?",
+      "options": {
+        "A": "Sahih al-Bukhari",
+        "B": "Al-Risalah",
+        "C": "Al-Muwatta",
+        "D": "Al-Umm"
+      },
+      "correct_answer": "C",
+      "explanation": "Imam Malik ibn Anas compiled Al-Muwatta, one of the earliest collections of Hadith and Islamic law, which forms the basis of the Maliki Madhab (widely followed in North and West Africa)."
+    },
+    {
+      "id": 143,
+      "topic": "Islamic Social Issues",
+      "difficulty": "medium",
+      "question": "The Islamic principle of Shura means:",
+      "options": {
+        "A": "the absolute authority of the ruler",
+        "B": "consultation and mutual advice in decision-making",
+        "C": "following the majority opinion always",
+        "D": "democratic elections"
+      },
+      "correct_answer": "B",
+      "explanation": "Shura (consultation) is the Islamic principle of seeking counsel from qualified people in decision-making. The Quran (42:38) mentions it as a key characteristic of the Muslim community."
+    },
+    {
+      "id": 144,
+      "topic": "Islamic Social Issues",
+      "difficulty": "medium",
+      "question": "The Islamic concept of Ummah refers to:",
+      "options": {
+        "A": "the Arabic nation only",
+        "B": "the global community of Muslims united by faith",
+        "C": "the Muslim scholars",
+        "D": "the first generation of Muslims"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ummah is the worldwide Muslim community — the brotherhood and sisterhood of all believers regardless of race, nationality, or language, united by Islam."
+    },
+    {
+      "id": 145,
+      "topic": "Islamic Social Issues",
+      "difficulty": "medium",
+      "question": "The concept of Hisbah in Islamic governance refers to:",
+      "options": {
+        "A": "the collection of Zakah",
+        "B": "the institution for ensuring Islamic moral standards and market regulation",
+        "C": "the appointment of judges",
+        "D": "the declaration of Jihad"
+      },
+      "correct_answer": "B",
+      "explanation": "Hisbah is the Islamic institution of moral accountability — ensuring that Islamic ethical standards are maintained in the community and markets, managed by the Muhtasib (market inspector)."
+    },
+    {
+      "id": 146,
+      "topic": "Islamic Dietary Laws",
+      "difficulty": "medium",
+      "question": "Halal food in Islam refers to food that is:",
+      "options": {
+        "A": "expensive and of high quality",
+        "B": "lawful and permissible according to Islamic law",
+        "C": "vegetarian only",
+        "D": "produced only in Muslim countries"
+      },
+      "correct_answer": "B",
+      "explanation": "Halal (lawful) food must meet Islamic requirements: slaughtered in Allah's name, free from prohibited substances (pork, blood, alcohol), and prepared in a clean manner."
+    },
+    {
+      "id": 147,
+      "topic": "Islamic Dietary Laws",
+      "difficulty": "medium",
+      "question": "Which of the following is clearly prohibited (Haram) in Islam?",
+      "options": {
+        "A": "Beef",
+        "B": "Fish",
+        "C": "Pork",
+        "D": "Chicken"
+      },
+      "correct_answer": "C",
+      "explanation": "The Quran (2:173, 5:3) explicitly prohibits consuming pork (swine), blood, carrion (dead meat), and food dedicated to other than Allah. Beef, fish, and chicken are generally Halal."
+    },
+    {
+      "id": 148,
+      "topic": "Islamic Dietary Laws",
+      "difficulty": "medium",
+      "question": "Dhabh (Islamic slaughter) requires that the animal be slaughtered by:",
+      "options": {
+        "A": "any method that kills quickly",
+        "B": "cutting the jugular vein, carotid arteries, and windpipe swiftly while invoking Allah's name",
+        "C": "being stunned first",
+        "D": "a government-approved slaughterhouse only"
+      },
+      "correct_answer": "B",
+      "explanation": "Islamic Dhabh requires: a swift cut through the jugular vein, carotid arteries, and windpipe; invoking 'Bismillah, Allahu Akbar'; performed by a Muslim; the animal must be alive and healthy."
+    },
+    {
+      "id": 149,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "Nifaq (hypocrisy) in Islam refers to:",
+      "options": {
+        "A": "moderate belief in Islam",
+        "B": "outwardly professing Islam while inwardly disbelieving or concealing evil intentions",
+        "C": "excessive strictness in religion",
+        "D": "committing major sins"
+      },
+      "correct_answer": "B",
+      "explanation": "Nifaq is hypocrisy — outwardly claiming faith while inwardly rejecting or conspiring against Islam. The Quran severely warns against the Munafiqun (hypocrites) in Surah Al-Munafiqun."
+    },
+    {
+      "id": 150,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "Kufr in Islam means:",
+      "options": {
+        "A": "committing major sins",
+        "B": "unbelief — rejection of Allah, the Prophet, or the fundamental tenets of Islam",
+        "C": "hypocrisy",
+        "D": "associating partners with Allah"
+      },
+      "correct_answer": "B",
+      "explanation": "Kufr means disbelief or rejection — denying the existence of Allah, rejecting prophethood, or rejecting fundamental articles of faith. It is the opposite of Iman (faith)."
+    },
+    {
+      "id": 151,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "Iman (faith) in Islam is composed of:",
+      "options": {
+        "A": "belief in the heart only",
+        "B": "belief in the heart, confession by the tongue, and action by the limbs",
+        "C": "performance of the five pillars alone",
+        "D": "verbal declaration only"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Islamic theology, Iman consists of three components: conviction in the heart (Tasdiq), verbal declaration by the tongue (Iqrar), and action by the limbs (Amal)."
+    },
+    {
+      "id": 152,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "The Islamic concept of Barzakh refers to:",
+      "options": {
+        "A": "the bridge over hellfire",
+        "B": "the intermediate state between death and resurrection",
+        "C": "a type of prayer",
+        "D": "the final judgment"
+      },
+      "correct_answer": "B",
+      "explanation": "Barzakh is the intermediate realm between death and the Day of Resurrection. Souls remain in Barzakh (experiencing either bliss or punishment) until the Day of Judgment."
+    },
+    {
+      "id": 153,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "The questioning in the grave by two angels (Munkar and Nakir) is about:",
+      "options": {
+        "A": "one's wealth and possessions",
+        "B": "one's Lord, religion, and prophet",
+        "C": "one's deeds and sins only",
+        "D": "one's family"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Hadith, after burial the angels Munkar and Nakir ask the deceased: 'Who is your Lord? What is your religion? Who is your prophet?' The answers reveal the person's true faith."
+    },
+    {
+      "id": 154,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "The Mizan (balance/scales) on the Day of Judgment is used to:",
+      "options": {
+        "A": "weigh the deceased person physically",
+        "B": "weigh the deeds of people — good deeds on one side and bad on the other",
+        "C": "measure the entry to Paradise",
+        "D": "distribute wealth equitably"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mizan (scale) on the Day of Judgment will weigh each person's deeds. Those whose good deeds outweigh the bad will be rewarded; those whose bad deeds outweigh the good will face punishment."
+    },
+    {
+      "id": 155,
+      "topic": "Aqeedah (Islamic Creed)",
+      "difficulty": "medium",
+      "question": "According to Islamic belief, the Sirat is:",
+      "options": {
+        "A": "the record of deeds",
+        "B": "a bridge over Hellfire that all people must cross on the Day of Judgment",
+        "C": "a river in Paradise",
+        "D": "the trial of the grave"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sirat is a bridge stretched over Hell that everyone must cross on the Day of Judgment. Believers will cross with varying speeds; the wicked will fall into Hell."
+    },
+    {
+      "id": 156,
+      "topic": "Islamic Manners (Adab)",
+      "difficulty": "medium",
+      "question": "The Islamic greeting 'As-Salamu Alaykum' means:",
+      "options": {
+        "A": "May Allah bless you",
+        "B": "Peace be upon you",
+        "C": "Welcome to Islam",
+        "D": "In the name of Allah"
+      },
+      "correct_answer": "B",
+      "explanation": "'As-Salamu Alaykum' means 'Peace be upon you.' The complete response is 'Wa Alaykum al-Salam wa Rahmatullahi wa Barakatuh' (And upon you be peace, mercy, and blessings of Allah)."
+    },
+    {
+      "id": 157,
+      "topic": "Islamic Manners (Adab)",
+      "difficulty": "medium",
+      "question": "The expression 'Bismillah' (In the name of Allah) should be said before:",
+      "options": {
+        "A": "Salah only",
+        "B": "beginning any good action such as eating, drinking, or starting work",
+        "C": "sleeping only",
+        "D": "entering the mosque"
+      },
+      "correct_answer": "B",
+      "explanation": "'Bismillah al-Rahman al-Rahim' (In the name of Allah, the Most Gracious, the Most Merciful) is recommended before all good actions: eating, drinking, reading, beginning any work."
+    },
+    {
+      "id": 158,
+      "topic": "Islamic Manners (Adab)",
+      "difficulty": "medium",
+      "question": "The expression 'Alhamdulillah' (All praise is due to Allah) is said:",
+      "options": {
+        "A": "only after prayer",
+        "B": "when expressing gratitude for any blessing or upon completing an action",
+        "C": "only during Hajj",
+        "D": "when entering the mosque"
+      },
+      "correct_answer": "B",
+      "explanation": "'Alhamdulillah' (Praise be to Allah) is said as an expression of gratitude for blessings, after good events, upon completing an action, after sneezing, and generally to acknowledge Allah's favours."
+    },
+    {
+      "id": 159,
+      "topic": "Islamic Manners (Adab)",
+      "difficulty": "medium",
+      "question": "The expression 'Insha'Allah' means:",
+      "options": {
+        "A": "All praise is to Allah",
+        "B": "If Allah wills / God willing",
+        "C": "Allah is the greatest",
+        "D": "In the name of Allah"
+      },
+      "correct_answer": "B",
+      "explanation": "'Insha'Allah' (If Allah wills) is said when making plans for the future, acknowledging that all future events depend on Allah's will. The Quran commands this in Surah Al-Kahf (18:23-24)."
+    },
+    {
+      "id": 160,
+      "topic": "Islamic Manners (Adab)",
+      "difficulty": "medium",
+      "question": "Sunan al-Fitra (innate natural practices in Islam) include all of the following EXCEPT:",
+      "options": {
+        "A": "circumcision",
+        "B": "trimming the moustache",
+        "C": "growing the beard",
+        "D": "wearing expensive clothes"
+      },
+      "correct_answer": "D",
+      "explanation": "The Sunan al-Fitra (natural practices) include circumcision, trimming the moustache, trimming nails, shaving pubic hair, removing armpit hair, and using the miswak (tooth stick)."
+    },
+    {
+      "id": 161,
+      "topic": "Islamic Law - Hudud",
+      "difficulty": "medium",
+      "question": "Hudud in Islamic law refers to:",
+      "options": {
+        "A": "civil law disputes",
+        "B": "fixed punishments prescribed by the Quran and Sunnah for specific major offences",
+        "C": "voluntary religious practices",
+        "D": "financial transactions"
+      },
+      "correct_answer": "B",
+      "explanation": "Hudud are the fixed punishments prescribed by Allah in the Quran and Sunnah for specific major crimes: theft (amputation of hand), adultery (100 lashes or stoning), false accusation (80 lashes), etc."
+    },
+    {
+      "id": 162,
+      "topic": "Islamic Law - Hudud",
+      "difficulty": "medium",
+      "question": "Qisas in Islamic law means:",
+      "options": {
+        "A": "blood money paid as compensation",
+        "B": "equal retaliation for bodily harm or murder",
+        "C": "fixed punishments for major crimes",
+        "D": "inheritance rules"
+      },
+      "correct_answer": "B",
+      "explanation": "Qisas is the principle of equal retaliation under Islamic law — 'an eye for an eye.' Alternatively, the victim or their family can choose to accept Diyya (blood money) or forgive."
+    },
+    {
+      "id": 163,
+      "topic": "Islamic Law - Hudud",
+      "difficulty": "medium",
+      "question": "Diyya in Islamic law is:",
+      "options": {
+        "A": "a form of prayer",
+        "B": "blood money paid as compensation for killing or wounding",
+        "C": "the punishment for theft",
+        "D": "a charitable endowment"
+      },
+      "correct_answer": "B",
+      "explanation": "Diyya is financial compensation paid to the victim or their family as an alternative to retaliation (Qisas). The standard Diyya for taking a life is traditionally 100 camels or its monetary equivalent."
+    },
+    {
+      "id": 164,
+      "topic": "Islamic Political Thought",
+      "difficulty": "medium",
+      "question": "The Caliphate (Khilafah) in Islamic political thought is:",
+      "options": {
+        "A": "a democratic republic",
+        "B": "the system of Islamic governance representing the succession to the Prophet's (SAW) political leadership",
+        "C": "a monarchy passed hereditarily",
+        "D": "a military dictatorship"
+      },
+      "correct_answer": "B",
+      "explanation": "The Caliphate is the Islamic form of governance where the Caliph (Khalifah) serves as the political successor to the Prophet (SAW) in leading the Muslim community according to Islamic principles."
+    },
+    {
+      "id": 165,
+      "topic": "Islamic Political Thought",
+      "difficulty": "medium",
+      "question": "The Treaty of Madinah (Constitution of Madinah), established by the Prophet (SAW), was an agreement between:",
+      "options": {
+        "A": "Muslims and Byzantine Christians",
+        "B": "Muslims, Jewish tribes, and other inhabitants of Madinah",
+        "C": "Muslims and Quraysh of Makkah",
+        "D": "Muslims and the Persian Empire"
+      },
+      "correct_answer": "B",
+      "explanation": "The Constitution of Madinah (c. 622 CE) was a charter drafted by the Prophet (SAW) establishing rights and obligations for the Muslim emigrants, Madinah's Arab tribes, and Jewish communities."
+    },
+    {
+      "id": 166,
+      "topic": "Islamic Sciences",
+      "difficulty": "medium",
+      "question": "Ilm al-Kalam (Islamic theology) is the discipline that deals with:",
+      "options": {
+        "A": "the rules of Arabic grammar",
+        "B": "rational defense and elaboration of Islamic beliefs using logical arguments",
+        "C": "the science of Hadith classification",
+        "D": "Islamic jurisprudence"
+      },
+      "correct_answer": "B",
+      "explanation": "Ilm al-Kalam (science of discourse/theology) defends Islamic beliefs using rational and philosophical arguments. Major schools include the Ash'ari, Maturidi, and Mu'tazili."
+    },
+    {
+      "id": 167,
+      "topic": "Islamic Sciences",
+      "difficulty": "medium",
+      "question": "Ulumul Quran (the sciences of the Quran) includes the study of:",
+      "options": {
+        "A": "Hadith classification only",
+        "B": "everything related to the Quran including revelation, compilation, interpretation, and recitation",
+        "C": "Islamic philosophy",
+        "D": "Arabic language only"
+      },
+      "correct_answer": "B",
+      "explanation": "Ulumul Quran encompasses all disciplines related to the Quran: Asbab al-Nuzul, Nasikh wal Mansukh (abrogation), Makki wal Madani Surahs, Tajweed, Tafsir, and i'jaz (inimitability)."
+    },
+    {
+      "id": 168,
+      "topic": "Islamic Sciences",
+      "difficulty": "medium",
+      "question": "Nasikh wal Mansukh in Quranic sciences refers to:",
+      "options": {
+        "A": "the circumstances of revelation",
+        "B": "the abrogating and abrogated verses — later verses that supersede earlier ones",
+        "C": "the division of the Quran into parts",
+        "D": "the compilation of the Quran"
+      },
+      "correct_answer": "B",
+      "explanation": "Nasikh (abrogating) refers to later Quranic verses that supersede or modify earlier ones (Mansukh/abrogated). For example, the prohibition of alcohol came gradually through several verses."
+    },
+    {
+      "id": 169,
+      "topic": "Sufism",
+      "difficulty": "medium",
+      "question": "Tasawwuf (Sufism) in Islam is primarily concerned with:",
+      "options": {
+        "A": "Islamic jurisprudence",
+        "B": "the spiritual and inner dimension of Islamic practice — purification of the soul",
+        "C": "military Jihad",
+        "D": "political governance"
+      },
+      "correct_answer": "B",
+      "explanation": "Tasawwuf (Sufism) focuses on the inner, spiritual dimension of Islam — purifying the soul (Tazkiyat al-Nafs), developing closeness to Allah, and cultivating noble moral qualities."
+    },
+    {
+      "id": 170,
+      "topic": "Sufism",
+      "difficulty": "medium",
+      "question": "The concept of Dhikr (remembrance of Allah) is central to Sufi practice. The Quran instructs:",
+      "options": {
+        "A": "to remember Allah occasionally",
+        "B": "to remember Allah abundantly (kathiran)",
+        "C": "to remember Allah only in Salah",
+        "D": "to remember Allah silently"
+      },
+      "correct_answer": "B",
+      "explanation": "The Quran (33:41) commands: 'O you who believe! Remember Allah with much remembrance (Dhikran kathiran).' Dhikr is the constant remembrance of Allah through His names and praises."
+    },
+    {
+      "id": 171,
+      "topic": "Islamic History - Spain",
+      "difficulty": "medium",
+      "question": "Islamic civilization in Spain (Al-Andalus) lasted for approximately:",
+      "options": {
+        "A": "100 years",
+        "B": "300 years",
+        "C": "800 years",
+        "D": "1000 years"
+      },
+      "correct_answer": "C",
+      "explanation": "Islamic rule in Spain (Al-Andalus) lasted approximately 800 years (711-1492 CE), during which Cordoba became one of the greatest centers of learning, art, and science in the world."
+    },
+    {
+      "id": 172,
+      "topic": "Islamic History - Spain",
+      "difficulty": "medium",
+      "question": "The Muslim commander who led the conquest of Spain (711 CE) was:",
+      "options": {
+        "A": "Musa ibn Nusayr",
+        "B": "Tariq ibn Ziyad",
+        "C": "Uqbah ibn Nafi",
+        "D": "Khalid ibn al-Walid"
+      },
+      "correct_answer": "B",
+      "explanation": "Tariq ibn Ziyad led the Muslim forces that crossed the Strait of Gibraltar into Spain in 711 CE. The Rock of Gibraltar (Jabal Tariq — Mountain of Tariq) is named after him."
+    },
+    {
+      "id": 173,
+      "topic": "The Quran - Makki and Madani",
+      "difficulty": "medium",
+      "question": "Makki Surahs (revealed in Makkah) are generally characterized by:",
+      "options": {
+        "A": "detailed legal rulings on family and criminal law",
+        "B": "focus on Tawheed, stories of prophets, the afterlife, and fundamental beliefs",
+        "C": "long verses and comprehensive legal discussions",
+        "D": "detailed financial regulations"
+      },
+      "correct_answer": "B",
+      "explanation": "Makki Surahs (revealed before Hijrah) typically focus on Tawheed, Iman, stories of prophets, the Day of Judgment, and establishing fundamental beliefs. Madinan Surahs focus on legislation and community building."
+    },
+    {
+      "id": 174,
+      "topic": "The Quran - Makki and Madani",
+      "difficulty": "medium",
+      "question": "Madinan Surahs (revealed after Hijrah) are generally characterized by:",
+      "options": {
+        "A": "short verses and focus on Tawheed",
+        "B": "detailed legal, social, and political legislation for the Muslim community",
+        "C": "stories of ancient civilizations",
+        "D": "exclusively addressing disbelievers"
+      },
+      "correct_answer": "B",
+      "explanation": "Madinan Surahs (revealed after the Hijrah) focus on Islamic law (marriage, divorce, inheritance, criminal law), social justice, relations with non-Muslims, and consolidating the Muslim community."
+    },
+    {
+      "id": 175,
+      "topic": "Islamic History - Early Muslim Scholars",
+      "difficulty": "medium",
+      "question": "Which scholar is known as 'Imam al-Muhadditheen' (Imam of Hadith scholars)?",
+      "options": {
+        "A": "Imam Abu Hanifa",
+        "B": "Imam Malik ibn Anas",
+        "C": "Imam Ahmad ibn Hanbal",
+        "D": "Imam Muhammad ibn Ismail al-Bukhari"
+      },
+      "correct_answer": "D",
+      "explanation": "Imam Muhammad ibn Ismail al-Bukhari is often titled 'Imam al-Muhadditheen' (Imam of Hadith scholars) for his unmatched rigorous standards in authenticating Hadith and compiling Sahih al-Bukhari."
+    },
+    {
+      "id": 176,
+      "topic": "Islamic Worship - Dua",
+      "difficulty": "medium",
+      "question": "Dua (supplication) in Islam is considered:",
+      "options": {
+        "A": "optional and rarely practiced",
+        "B": "the essence of worship — a direct connection between the believer and Allah",
+        "C": "only valid if made in Arabic",
+        "D": "only made during Salah"
+      },
+      "correct_answer": "B",
+      "explanation": "The Prophet (SAW) said: 'Dua is worship (al-Ibadah).' Dua represents the believer's direct communication with Allah at any time, expressing dependence, gratitude, and hope."
+    },
+    {
+      "id": 177,
+      "topic": "Zakah",
+      "difficulty": "medium",
+      "question": "The eight categories of people entitled to receive Zakah are specified in:",
+      "options": {
+        "A": "Sahih al-Bukhari",
+        "B": "Surah Al-Tawbah (9:60) of the Quran",
+        "C": "the Sunnah of the Prophet (SAW) only",
+        "D": "the decisions of the first Caliph"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Tawbah (9:60) specifies the eight categories of Zakah recipients: the poor, the needy, those employed to collect it, those whose hearts need reconciling, freeing captives, debtors, the cause of Allah, and stranded travelers."
+    },
+    {
+      "id": 178,
+      "topic": "Zakah",
+      "difficulty": "medium",
+      "question": "Zakat al-Fitr (Sadaqat al-Fitr) is obligatory:",
+      "options": {
+        "A": "at the start of Ramadan",
+        "B": "before the Eid al-Fitr prayer, at the end of Ramadan",
+        "C": "during Hajj season",
+        "D": "annually at the same time as regular Zakah"
+      },
+      "correct_answer": "B",
+      "explanation": "Zakat al-Fitr (Fitrah) must be paid before the Eid al-Fitr prayer for every Muslim (including dependants) capable of doing so. It is a food donation (or equivalent) to purify the fast."
+    },
+    {
+      "id": 179,
+      "topic": "Islamic History - The Ottoman Empire",
+      "difficulty": "medium",
+      "question": "The Ottoman Empire, which claimed the Islamic Caliphate for centuries, was based in:",
+      "options": {
+        "A": "Cairo, Egypt",
+        "B": "Istanbul (Constantinople), Turkey",
+        "C": "Baghdad, Iraq",
+        "D": "Makkah, Arabia"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ottoman Empire, which lasted from c.1299 to 1922 CE, was based in Istanbul (formerly Constantinople). The Ottomans claimed the Caliphate from the 16th century until its formal abolition in 1924."
+    },
+    {
+      "id": 180,
+      "topic": "Islamic History - The Ottoman Empire",
+      "difficulty": "medium",
+      "question": "The Ottoman Sultan who conquered Constantinople (Istanbul) in 1453 CE was:",
+      "options": {
+        "A": "Suleiman the Magnificent",
+        "B": "Mehmed II (the Conqueror)",
+        "C": "Selim I",
+        "D": "Osman I"
+      },
+      "correct_answer": "B",
+      "explanation": "Sultan Mehmed II (Mehmed the Conqueror) captured Constantinople from the Byzantine Empire on May 29, 1453 CE, fulfilling a prophecy of the Prophet (SAW) about the city's conquest."
+    },
+    {
+      "id": 181,
+      "topic": "Quran - Famous Verses",
+      "difficulty": "medium",
+      "question": "The verse 'There is no compulsion in religion' is found in Surah:",
+      "options": {
+        "A": "Al-Fatiha",
+        "B": "Al-Baqarah",
+        "C": "Al-Kafirun",
+        "D": "Al-Hujurat"
+      },
+      "correct_answer": "B",
+      "explanation": "The famous verse 'La ikraha fi al-din' (There is no compulsion in religion, 2:256) is found in Surah Al-Baqarah. It affirms that faith cannot be forced."
+    },
+    {
+      "id": 182,
+      "topic": "Quran - Famous Verses",
+      "difficulty": "medium",
+      "question": "The verse 'Indeed, with hardship comes ease' (Inna ma'al-usri yusra) is from Surah:",
+      "options": {
+        "A": "Al-Baqarah",
+        "B": "Al-Inshirah (Al-Sharh)",
+        "C": "Al-Fajr",
+        "D": "Al-Asr"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Inshirah (94:5-6) contains this comforting verse twice: 'Fa inna ma'al-usri yusra, inna ma'al-usri yusra' (So verily, with hardship comes ease, verily with hardship comes ease)."
+    },
+    {
+      "id": 183,
+      "topic": "Quran - Famous Verses",
+      "difficulty": "medium",
+      "question": "The verse on modesty and lowering the gaze is addressed to both men and women in Surah:",
+      "options": {
+        "A": "Al-Ahzab",
+        "B": "Al-Nur",
+        "C": "Al-Baqarah",
+        "D": "Al-Nisa"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Nur (Chapter 24) contains the verses (24:30-31) instructing both believing men and women to lower their gazes and guard their chastity."
+    },
+    {
+      "id": 184,
+      "topic": "Islamic History - Nigeria",
+      "difficulty": "medium",
+      "question": "The founder of the Tijaniyyah Sufi order, which is widely practiced in Nigeria, was:",
+      "options": {
+        "A": "Usman Dan Fodio",
+        "B": "Sheikh Ahmad al-Tijani",
+        "C": "Sheikh Ibrahim Niasse",
+        "D": "Ahmadu Bello"
+      },
+      "correct_answer": "B",
+      "explanation": "The Tijaniyyah Sufi order was founded by Sheikh Ahmad al-Tijani (1737-1815 CE) in Morocco. It spread widely in West Africa and is one of the most popular Sufi orders in Nigeria."
+    },
+    {
+      "id": 185,
+      "topic": "Islamic History - Nigeria",
+      "difficulty": "medium",
+      "question": "The first Sultan of Sokoto was:",
+      "options": {
+        "A": "Muhammad Bello",
+        "B": "Usman Dan Fodio",
+        "C": "Atiku Abubakar",
+        "D": "Ahmadu Bello"
+      },
+      "correct_answer": "B",
+      "explanation": "Usman Dan Fodio (Sheikh Uthman ibn Fudi) was the leader of the Sokoto Jihad and the first commander of the Sokoto Caliphate. His son Muhammad Bello became the first Sultan and administrative head."
+    },
+    {
+      "id": 186,
+      "topic": "Islamic History - Nigeria",
+      "difficulty": "medium",
+      "question": "The Qadiriyyah Sufi order in Nigeria is associated with which prominent leader?",
+      "options": {
+        "A": "Usman Dan Fodio",
+        "B": "Sheikh Ibrahim Niasse",
+        "C": "Ahmad al-Tijani",
+        "D": "Ahmadu Bello"
+      },
+      "correct_answer": "A",
+      "explanation": "Usman Dan Fodio and the Sokoto Caliphate are associated with the Qadiriyyah Sufi order (founded by Abd al-Qadir al-Jilani). Dan Fodio later embraced elements of Tijaniyyah."
+    },
+    {
+      "id": 187,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet known for being given the Psalms (Zabur) was:",
+      "options": {
+        "A": "Sulayman (Solomon)",
+        "B": "Dawud (David)",
+        "C": "Musa (Moses)",
+        "D": "Isa (Jesus)"
+      },
+      "correct_answer": "B",
+      "explanation": "Prophet Dawud (David, AS) was given the Zabur (Psalms). He was also a king and was granted by Allah the ability to soften iron and communicate with birds and animals."
+    },
+    {
+      "id": 188,
+      "topic": "Prophets in Islam",
+      "difficulty": "medium",
+      "question": "The prophet whose story of patience and trials is detailed in Surah Yusuf (Joseph) is considered:",
+      "options": {
+        "A": "the prophet who spoke to animals",
+        "B": "the most beautiful of prophets and a model of chastity and patience",
+        "C": "the prophet who built the Ark",
+        "D": "the first prophet"
+      },
+      "correct_answer": "B",
+      "explanation": "Prophet Yusuf (Joseph, AS) is renowned for his extraordinary beauty, patience with his brothers' betrayal, and steadfast chastity when tempted by the wife of Al-Aziz. Surah Yusuf is called 'the best of stories.'"
+    },
+    {
+      "id": 189,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Maslahah Mursalah in Islamic jurisprudence refers to:",
+      "options": {
+        "A": "consensus of scholars",
+        "B": "consideration of public interest when no specific text addresses an issue",
+        "C": "following a particular scholar's opinion",
+        "D": "analogical reasoning"
+      },
+      "correct_answer": "B",
+      "explanation": "Maslahah Mursalah (unrestricted public interest) is a secondary legal principle used to derive rulings based on public benefit when no specific Quranic or Sunnah text addresses the issue directly."
+    },
+    {
+      "id": 190,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The year in which the Prophet (SAW) and the early Muslims boycotted in Makkah, enduring severe hardship, is called:",
+      "options": {
+        "A": "Year of Grief",
+        "B": "Year of the Elephant",
+        "C": "Year of Delegations",
+        "D": "Year of Boycott"
+      },
+      "correct_answer": "D",
+      "explanation": "The Quraysh imposed a social and economic boycott on the Prophet (SAW) and Banu Hashim for approximately three years (616-619 CE), causing severe hardship. This is known as the Year of Boycott."
+    },
+    {
+      "id": 191,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The 'Year of Grief' (Aam al-Huzn) refers to the year in which:",
+      "options": {
+        "A": "the Prophet (SAW) migrated to Madinah",
+        "B": "the Prophet (SAW) lost both his beloved wife Khadijah and uncle Abu Talib",
+        "C": "the Muslims were defeated at Uhud",
+        "D": "Makkah was conquered"
+      },
+      "correct_answer": "B",
+      "explanation": "The Year of Grief (619 CE/10 BH) was when the Prophet (SAW) lost both his beloved wife Khadijah (RA) and his protective uncle Abu Talib within a short period, weakening his position in Makkah."
+    },
+    {
+      "id": 192,
+      "topic": "Seerah (Life of the Prophet)",
+      "difficulty": "medium",
+      "question": "The first pledge of Aqabah (Bay'at al-Aqabah al-Ula) was made by:",
+      "options": {
+        "A": "the Companions of Badr",
+        "B": "a group of 12 people from Madinah (Yathrib)",
+        "C": "the Quraysh of Makkah",
+        "D": "the Jewish tribes of Madinah"
+      },
+      "correct_answer": "B",
+      "explanation": "The First Pledge of Aqabah (621 CE) was made by 12 men from Yathrib (Madinah) who pledged to the Prophet (SAW) to worship only Allah, avoid major sins, and obey him in good matters."
+    },
+    {
+      "id": 193,
+      "topic": "Islamic Belief",
+      "difficulty": "medium",
+      "question": "The concept of Tawakkul in Islam means:",
+      "options": {
+        "A": "fear of Allah",
+        "B": "complete reliance and trust in Allah while taking the necessary means",
+        "C": "seeking forgiveness from Allah",
+        "D": "thankfulness to Allah"
+      },
+      "correct_answer": "B",
+      "explanation": "Tawakkul is the Islamic concept of placing complete trust and reliance on Allah while still taking all necessary practical steps. It does not mean passivity but confident action combined with trust in Allah."
+    },
+    {
+      "id": 194,
+      "topic": "Islamic Belief",
+      "difficulty": "medium",
+      "question": "Khushu in Salah means:",
+      "options": {
+        "A": "completing the prayer quickly",
+        "B": "humility, concentration, and complete presence of heart and mind during prayer",
+        "C": "making the prayer long",
+        "D": "praying in congregation"
+      },
+      "correct_answer": "B",
+      "explanation": "Khushu is the state of humble concentration, reverence, and presence of heart during Salah — being fully focused on the prayer and aware of standing before Allah. It is the soul of prayer."
+    },
+    {
+      "id": 195,
+      "topic": "Islamic Jurisprudence (Fiqh)",
+      "difficulty": "medium",
+      "question": "Maqasid al-Sharia (objectives of Islamic law) are meant to protect which five essential things?",
+      "options": {
+        "A": "Faith, life, intellect, lineage, and property",
+        "B": "Prayer, fasting, Zakah, Hajj, and Jihad",
+        "C": "Quran, Sunnah, Ijma, Qiyas, and Ijtihad",
+        "D": "Justice, equality, freedom, democracy, and peace"
+      },
+      "correct_answer": "A",
+      "explanation": "Al-Ghazali and later scholars identified five Maqasid (objectives) of Sharia: protection of Deen (faith), Nafs (life), Aql (intellect/mind), Nasl (lineage/progeny), and Mal (property/wealth)."
+    },
+    {
+      "id": 196,
+      "topic": "Quran - Science and Knowledge",
+      "difficulty": "medium",
+      "question": "The Quran refers to the creation of the universe through a big expansion event, which some relate to the Big Bang, in Surah:",
+      "options": {
+        "A": "Al-Baqarah",
+        "B": "Al-Anbiya (21:30)",
+        "C": "Al-Fatiha",
+        "D": "Al-Ikhlas"
+      },
+      "correct_answer": "B",
+      "explanation": "Surah Al-Anbiya (21:30) states: 'Do the disbelievers not see that the heavens and earth were a joined entity, and We separated them?' This is often discussed in the context of the Big Bang theory."
+    },
+    {
+      "id": 197,
+      "topic": "Islamic History",
+      "difficulty": "medium",
+      "question": "The Battle of Karbala (680 CE), in which Husayn ibn Ali (RA) was martyred, led to the major split between:",
+      "options": {
+        "A": "Arabs and Persians",
+        "B": "Sunni and Shia Muslims",
+        "C": "Muslims and Christians",
+        "D": "Umayyads and Abbasids"
+      },
+      "correct_answer": "B",
+      "explanation": "The massacre at Karbala where Husayn ibn Ali (RA) and his companions were killed by Yazid's forces deepened the Sunni-Shia divide that had begun with the dispute over Ali's caliphate."
+    },
+    {
+      "id": 198,
+      "topic": "Islamic History",
+      "difficulty": "medium",
+      "question": "The Crusades were Christian military campaigns primarily aimed at recovering:",
+      "options": {
+        "A": "Egypt from Muslim rule",
+        "B": "the Holy Land (Jerusalem) from Muslim control",
+        "C": "Spain from the Muslims",
+        "D": "Constantinople from the Ottomans"
+      },
+      "correct_answer": "B",
+      "explanation": "The Crusades (1095-1291 CE) were a series of religious wars launched by European Christians to recapture the Holy Land (especially Jerusalem) from Muslim control."
+    },
+    {
+      "id": 199,
+      "topic": "Islamic History",
+      "difficulty": "medium",
+      "question": "The Muslim leader who recaptured Jerusalem from the Crusaders in 1187 CE was:",
+      "options": {
+        "A": "Nur al-Din Zangi",
+        "B": "Saladin (Salah al-Din al-Ayyubi)",
+        "C": "Baybars",
+        "D": "Mehmed II"
+      },
+      "correct_answer": "B",
+      "explanation": "Saladin (Salah al-Din al-Ayyubi, 1137-1193 CE) defeated the Crusaders at the Battle of Hattin and recaptured Jerusalem in 1187 CE. He was renowned for his chivalry and justice."
+    },
+    {
+      "id": 200,
+      "topic": "Islamic Ethics and Morality",
+      "difficulty": "medium",
+      "question": "The concept of Al-Amr bil Ma'ruf wa al-Nahy 'anil Munkar in Islam means:",
+      "options": {
+        "A": "performing the five pillars diligently",
+        "B": "commanding what is good and forbidding what is evil",
+        "C": "seeking Islamic knowledge",
+        "D": "performing extra voluntary prayers"
+      },
+      "correct_answer": "B",
+      "explanation": "Al-Amr bil Ma'ruf wa al-Nahy 'anil Munkar (enjoining good and forbidding evil) is a collective duty of the Muslim community. The Quran (3:110) describes this as a characteristic of the best community."
+    }
+  ]
+}

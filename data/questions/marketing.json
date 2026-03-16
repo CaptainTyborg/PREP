@@ -1,0 +1,2806 @@
+{
+  "subject": "Marketing",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "Which of the following BEST defines marketing?",
+      "options": {
+        "A": "The process of selling goods to customers",
+        "B": "All activities involved in identifying, anticipating, and satisfying customer needs profitably",
+        "C": "The advertising of products through various media",
+        "D": "The distribution of goods from producer to consumer"
+      },
+      "correct_answer": "B",
+      "explanation": "Marketing encompasses all activities from identifying customer needs, developing products, pricing, promoting, and distributing them to satisfy those needs profitably."
+    },
+    {
+      "id": 2,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The marketing concept holds that",
+      "options": {
+        "A": "Producing in large quantities reduces cost and increases profit",
+        "B": "A firm should focus on the needs and wants of customers and satisfy them better than competitors",
+        "C": "Aggressive selling is the key to business success",
+        "D": "Firms should produce high-quality products regardless of customer needs"
+      },
+      "correct_answer": "B",
+      "explanation": "The marketing concept is a customer-centred philosophy that prioritises identifying and satisfying customer needs profitably."
+    },
+    {
+      "id": 3,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The selling concept differs from the marketing concept in that the selling concept",
+      "options": {
+        "A": "Focuses on customer satisfaction above everything else",
+        "B": "Starts with customer needs and works backward to the product",
+        "C": "Focuses on aggressively selling whatever is produced rather than what customers want",
+        "D": "Emphasises long-term customer relationships"
+      },
+      "correct_answer": "C",
+      "explanation": "The selling concept assumes consumers must be persuaded to buy what firms produce. The marketing concept starts with customer needs."
+    },
+    {
+      "id": 4,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT one of the traditional 4Ps of the marketing mix?",
+      "options": {
+        "A": "Product",
+        "B": "People",
+        "C": "Price",
+        "D": "Promotion"
+      },
+      "correct_answer": "B",
+      "explanation": "The traditional 4Ps are Product, Price, Place, and Promotion. 'People' is part of the extended 7Ps used for services marketing."
+    },
+    {
+      "id": 5,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The extended marketing mix for services (7Ps) adds which three additional elements to the traditional 4Ps?",
+      "options": {
+        "A": "Planning, Positioning, Packaging",
+        "B": "People, Process, Physical Evidence",
+        "C": "Publicity, Partnerships, Packaging",
+        "D": "Profit, Public Relations, Penetration"
+      },
+      "correct_answer": "B",
+      "explanation": "The 7Ps extend the 4Ps with People (staff and customers), Process (service delivery systems), and Physical Evidence (tangible cues of service quality)."
+    },
+    {
+      "id": 6,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "A market is BEST described in marketing as",
+      "options": {
+        "A": "A physical location where goods are bought and sold",
+        "B": "All actual and potential buyers who share a need that can be satisfied through exchange",
+        "C": "A government-regulated trading zone",
+        "D": "Only consumers who have already purchased a product"
+      },
+      "correct_answer": "B",
+      "explanation": "In marketing, a market comprises all actual and potential buyers who share a need that can be met through exchange."
+    },
+    {
+      "id": 7,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "Societal marketing extends the marketing concept by also considering",
+      "options": {
+        "A": "The profits of shareholders",
+        "B": "The long-term well-being of consumers and society, not just immediate wants",
+        "C": "Only the needs of business customers",
+        "D": "Government regulations on advertising"
+      },
+      "correct_answer": "B",
+      "explanation": "The societal marketing concept balances three considerations: company profits, consumer wants, and society's long-run interests."
+    },
+    {
+      "id": 8,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "A need in marketing is",
+      "options": {
+        "A": "A desire for something not currently possessed",
+        "B": "A basic state of felt deprivation — physical, social, or individual",
+        "C": "A demand backed by purchasing power",
+        "D": "A specific product wanted by a consumer"
+      },
+      "correct_answer": "B",
+      "explanation": "A need is a basic state of felt deprivation. A want is a need shaped by culture. A demand is a want backed by purchasing power."
+    },
+    {
+      "id": 9,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "Exchange in marketing refers to",
+      "options": {
+        "A": "Returning goods to a seller for a refund",
+        "B": "The act of obtaining a desired object from someone by offering something in return",
+        "C": "Currency exchange between buyers and sellers in different countries",
+        "D": "The transfer of ownership of goods between businesses"
+      },
+      "correct_answer": "B",
+      "explanation": "Exchange is the core concept of marketing — obtaining a desired product by offering something of value in return."
+    },
+    {
+      "id": 10,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The production concept assumes that consumers prefer products that are",
+      "options": {
+        "A": "Heavily advertised and promoted",
+        "B": "Widely available and affordable, so the firm focuses on high production efficiency",
+        "C": "Unique and customised to individual needs",
+        "D": "Ecologically sustainable"
+      },
+      "correct_answer": "B",
+      "explanation": "The production concept holds that consumers favour products that are available and affordable, so management focuses on improving production and distribution efficiency."
+    },
+    {
+      "id": 11,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The product concept assumes that consumers favour products that",
+      "options": {
+        "A": "Are the cheapest available",
+        "B": "Offer the most quality, performance, and features, leading firms to focus on continuous product improvement",
+        "C": "Are most widely distributed",
+        "D": "Are aggressively advertised"
+      },
+      "correct_answer": "B",
+      "explanation": "The product concept assumes buyers want the highest quality, so firms focus on making superior products (marketing myopia risk: ignoring the broader customer need)."
+    },
+    {
+      "id": 12,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "A market-oriented firm consistently focuses on",
+      "options": {
+        "A": "Producing goods as efficiently as possible",
+        "B": "The needs of customers and coordinates all activities to satisfy those needs profitably",
+        "C": "Setting prices based on what the market will bear",
+        "D": "Placing products in as many locations as possible"
+      },
+      "correct_answer": "B",
+      "explanation": "A market-oriented firm puts the customer at the centre of all business decisions, conducting research, designing products, and setting prices based on customer needs."
+    },
+    {
+      "id": 13,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "Demarketing refers to marketing aimed at",
+      "options": {
+        "A": "Eliminating marketing expenses to save costs",
+        "B": "Reducing demand for a product — used when demand exceeds supply or to discourage unhealthy behaviour",
+        "C": "Marketing products that have been withdrawn from the market",
+        "D": "Marketing products below cost to reduce stock levels"
+      },
+      "correct_answer": "B",
+      "explanation": "Demarketing deliberately tries to reduce demand — e.g., governments discouraging smoking or utilities discouraging peak-time energy use."
+    },
+    {
+      "id": 14,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The ultimate goal of marketing is to",
+      "options": {
+        "A": "Maximise advertising expenditure",
+        "B": "Create and deliver superior value to customers while achieving the organisation's objectives",
+        "C": "Eliminate competition from the market",
+        "D": "Produce goods at the lowest possible cost"
+      },
+      "correct_answer": "B",
+      "explanation": "The ultimate goal of marketing is to create superior customer value — satisfying customers better than competitors — while achieving the organisation's financial and strategic objectives."
+    },
+    {
+      "id": 15,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Marketing research is BEST defined as",
+      "options": {
+        "A": "The systematic gathering, recording, and analysis of data about problems relating to the marketing of goods and services",
+        "B": "The process of interviewing customers about their preferences",
+        "C": "The study of competitor pricing and promotional strategies",
+        "D": "The development of new products based on existing technology"
+      },
+      "correct_answer": "A",
+      "explanation": "Marketing research is the systematic design, collection, analysis, and reporting of data relevant to a specific marketing situation."
+    },
+    {
+      "id": 16,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Primary data in marketing research refers to",
+      "options": {
+        "A": "Data collected from published government statistics",
+        "B": "Original data collected for the specific research problem at hand",
+        "C": "Data obtained from competitors' reports",
+        "D": "Information from industry trade associations"
+      },
+      "correct_answer": "B",
+      "explanation": "Primary data is original, first-hand information collected specifically for the current research problem through surveys, interviews, focus groups, or observation."
+    },
+    {
+      "id": 17,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Secondary data in marketing research is",
+      "options": {
+        "A": "Data collected through personal interviews with customers",
+        "B": "Data that already exists and was collected for a different purpose but is relevant to the current research",
+        "C": "Data collected through experimental methods",
+        "D": "The second set of data collected to confirm primary findings"
+      },
+      "correct_answer": "B",
+      "explanation": "Secondary data is existing information — internal (company records) or external (government statistics, trade publications). It is cheaper and faster to obtain than primary data."
+    },
+    {
+      "id": 18,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "A focus group in marketing research is",
+      "options": {
+        "A": "A large-scale quantitative survey of thousands of respondents",
+        "B": "A small group of selected individuals brought together to discuss a product or topic in depth",
+        "C": "A panel of marketing experts who evaluate new products",
+        "D": "A group of sales representatives reporting on customer reactions"
+      },
+      "correct_answer": "B",
+      "explanation": "A focus group is a qualitative method where 6-12 selected participants discuss a topic in depth, guided by a moderator, providing rich insights into attitudes and motivations."
+    },
+    {
+      "id": 19,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Test marketing involves",
+      "options": {
+        "A": "Testing a product concept with a small focus group",
+        "B": "Introducing a product to a limited market to evaluate its performance before a full national launch",
+        "C": "Testing the durability of a product in a laboratory",
+        "D": "Comparing a product's features with competitor products"
+      },
+      "correct_answer": "B",
+      "explanation": "Test marketing launches a new product in selected markets to assess consumer response and identify problems before a full national rollout."
+    },
+    {
+      "id": 20,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Random sampling means",
+      "options": {
+        "A": "The researcher selects whoever is convenient to interview",
+        "B": "Every member of the population has an equal chance of being selected",
+        "C": "The researcher selects respondents based on specific characteristics",
+        "D": "A sample is chosen from each segment proportionally"
+      },
+      "correct_answer": "B",
+      "explanation": "In random (probability) sampling, every member of the target population has an equal and known chance of being included, reducing bias."
+    },
+    {
+      "id": 21,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Quota sampling is a type of non-probability sampling where",
+      "options": {
+        "A": "Respondents are selected randomly from a list",
+        "B": "Interviewers are given quotas of respondents to interview from specified groups",
+        "C": "Every nth person on a list is selected",
+        "D": "All members of a specific group are interviewed"
+      },
+      "correct_answer": "B",
+      "explanation": "In quota sampling, interviewers fill predetermined quotas from defined subgroups. It is non-random and cheaper than probability sampling."
+    },
+    {
+      "id": 22,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Quantitative research in marketing collects",
+      "options": {
+        "A": "In-depth opinions and feelings through small samples",
+        "B": "Numerical data from large samples that can be statistically analysed",
+        "C": "Information from company financial records",
+        "D": "Data through informal conversations with a few customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Quantitative research gathers numerical data through surveys with large samples, enabling statistical analysis and generalisation."
+    },
+    {
+      "id": 23,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Qualitative research in marketing collects",
+      "options": {
+        "A": "Large volumes of numerical data for statistical analysis",
+        "B": "In-depth, non-numerical insights into attitudes and motivations through small samples",
+        "C": "Data from government census records",
+        "D": "Sales figures and market share statistics"
+      },
+      "correct_answer": "B",
+      "explanation": "Qualitative research gathers non-numerical insights — understanding why people think and behave as they do — through focus groups, depth interviews, and observation."
+    },
+    {
+      "id": 24,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Observation as a method of marketing research involves",
+      "options": {
+        "A": "Asking customers to complete a written questionnaire",
+        "B": "Recording the behaviour of consumers without directly questioning them",
+        "C": "Discussing products with a small group of consumers",
+        "D": "Testing a new product concept with potential buyers"
+      },
+      "correct_answer": "B",
+      "explanation": "Observation research watches and records consumer behaviour without asking questions — e.g., tracking eye movements on websites or watching shoppers in a store."
+    },
+    {
+      "id": 25,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "A consumer panel in marketing research is",
+      "options": {
+        "A": "A group of consumers recruited to discuss a product in a single session",
+        "B": "A fixed group who provide data on their purchases or attitudes at regular intervals over time",
+        "C": "A group of marketing experts who evaluate advertising campaigns",
+        "D": "A committee of government officials who regulate consumer complaints"
+      },
+      "correct_answer": "B",
+      "explanation": "A consumer panel is a standing group that regularly provides data on purchases or attitudes, enabling tracking of trends over time."
+    },
+    {
+      "id": 26,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Market segmentation is defined as",
+      "options": {
+        "A": "Dividing a market into distinct groups of buyers who have different needs and may require separate products or marketing mixes",
+        "B": "Setting different prices for different customers",
+        "C": "The process of identifying the best market for a product",
+        "D": "Reducing the size of a market through advertising"
+      },
+      "correct_answer": "A",
+      "explanation": "Market segmentation divides a heterogeneous market into smaller, homogeneous segments of buyers with similar needs, allowing targeted marketing."
+    },
+    {
+      "id": 27,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Which of the following is a basis for demographic segmentation?",
+      "options": {
+        "A": "Lifestyle and personality",
+        "B": "Geographical region",
+        "C": "Age, gender, income, and family size",
+        "D": "Purchase behaviour and brand loyalty"
+      },
+      "correct_answer": "C",
+      "explanation": "Demographic segmentation divides the market based on measurable population characteristics — age, gender, income, education, occupation, and family size."
+    },
+    {
+      "id": 28,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Psychographic segmentation divides the market based on",
+      "options": {
+        "A": "Age and gender",
+        "B": "Geographic location",
+        "C": "Lifestyle, values, personality, and social class",
+        "D": "Purchase frequency and brand loyalty"
+      },
+      "correct_answer": "C",
+      "explanation": "Psychographic segmentation uses psychological characteristics — lifestyle, values, attitudes, and personality — to create meaningful consumer segments."
+    },
+    {
+      "id": 29,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Behavioural segmentation divides buyers based on",
+      "options": {
+        "A": "Their age, income, and education level",
+        "B": "Their geographic location and climate",
+        "C": "Their knowledge, attitudes, usage, or responses to a product",
+        "D": "Their cultural values and lifestyle"
+      },
+      "correct_answer": "C",
+      "explanation": "Behavioural segmentation groups buyers by their behaviour toward products — occasions, benefits sought, usage rate, loyalty status, and buyer readiness stage."
+    },
+    {
+      "id": 30,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "A niche market is",
+      "options": {
+        "A": "A very large mass market with millions of consumers",
+        "B": "A small, well-defined segment with specific needs not adequately served by mainstream products",
+        "C": "A market for luxury goods sold at premium prices",
+        "D": "A new market not yet discovered by competitors"
+      },
+      "correct_answer": "B",
+      "explanation": "A niche market is a narrowly defined segment with specific needs. Niche marketers focus on serving a small segment extremely well, often achieving high margins."
+    },
+    {
+      "id": 31,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Targeting in marketing refers to",
+      "options": {
+        "A": "Setting sales targets for the sales force",
+        "B": "Evaluating market segments and selecting one or more to enter",
+        "C": "Promoting products to all consumers",
+        "D": "Setting a price that targets a specific profit margin"
+      },
+      "correct_answer": "B",
+      "explanation": "Targeting involves evaluating each segment's attractiveness and selecting which segment(s) the firm will serve."
+    },
+    {
+      "id": 32,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Undifferentiated (mass) marketing strategy involves",
+      "options": {
+        "A": "Creating different products for different market segments",
+        "B": "Targeting several segments with different marketing mixes",
+        "C": "Targeting the whole market with one product and one marketing mix",
+        "D": "Focusing on a single narrow market segment"
+      },
+      "correct_answer": "C",
+      "explanation": "Mass marketing ignores segment differences and targets the whole market with one offering — e.g., petrol, salt, basic commodities."
+    },
+    {
+      "id": 33,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Differentiated marketing strategy involves",
+      "options": {
+        "A": "Targeting the whole market with a single product",
+        "B": "Targeting several market segments with different marketing mixes tailored to each",
+        "C": "Focusing on one narrow market segment only",
+        "D": "Selling the same product at different prices to different customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Differentiated marketing targets multiple segments with separate offers for each, increasing total sales but also costs."
+    },
+    {
+      "id": 34,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Concentrated marketing (niche marketing) means",
+      "options": {
+        "A": "Using heavy advertising to reach the entire market",
+        "B": "Focusing all marketing effort on one small but well-defined market segment",
+        "C": "Concentrating on price competition in the market",
+        "D": "Using only one distribution channel to reach consumers"
+      },
+      "correct_answer": "B",
+      "explanation": "Concentrated marketing commits all resources to serving one segment extremely well, often achieving higher margins but concentrating risk."
+    },
+    {
+      "id": 35,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Geographic segmentation divides the market by",
+      "options": {
+        "A": "Income level and social class",
+        "B": "Region, city size, climate, and urban/rural location",
+        "C": "Age, gender, and family size",
+        "D": "Lifestyle and personality"
+      },
+      "correct_answer": "B",
+      "explanation": "Geographic segmentation divides the market based on location — country, region, city size, density, or climate."
+    },
+    {
+      "id": 36,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "The requirements for effective market segmentation include all EXCEPT",
+      "options": {
+        "A": "The segment must be measurable",
+        "B": "The segment must be accessible",
+        "C": "The segment must be profitable enough to serve",
+        "D": "The segment must contain only one type of consumer product"
+      },
+      "correct_answer": "D",
+      "explanation": "For effective segmentation, segments must be measurable, accessible, substantial, differentiable, and actionable. The type of products within the segment is not a requirement."
+    },
+    {
+      "id": 37,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Micromarketing (one-to-one marketing) involves",
+      "options": {
+        "A": "Targeting all consumers with one standard message",
+        "B": "Tailoring products and programmes to the individual level",
+        "C": "Focusing on the smallest viable market segment",
+        "D": "Marketing products designed for microorganisms"
+      },
+      "correct_answer": "B",
+      "explanation": "Micromarketing treats each customer as a unique segment, using CRM technology and data to personalise offerings and communications."
+    },
+    {
+      "id": 38,
+      "topic": "Positioning",
+      "difficulty": "medium",
+      "question": "Market positioning refers to",
+      "options": {
+        "A": "The physical location of a product on a retail shelf",
+        "B": "The place a product occupies in consumers' minds relative to competing products",
+        "C": "The geographic distribution of a product",
+        "D": "The pricing strategy used to position a product"
+      },
+      "correct_answer": "B",
+      "explanation": "Positioning is about creating a distinct, desired image in consumers' minds relative to competing products."
+    },
+    {
+      "id": 39,
+      "topic": "Positioning",
+      "difficulty": "medium",
+      "question": "A perceptual map in marketing is used to",
+      "options": {
+        "A": "Map out the geographic distribution of customers",
+        "B": "Visually show how consumers perceive competing brands on two or more key attributes",
+        "C": "Plan the layout of a retail store",
+        "D": "Show the stages in the product life cycle"
+      },
+      "correct_answer": "B",
+      "explanation": "A perceptual (positioning) map shows how consumers perceive competing products on key attributes — helping identify positioning gaps and competitive positions."
+    },
+    {
+      "id": 40,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "The core product refers to",
+      "options": {
+        "A": "The physical good itself — its features and design",
+        "B": "The fundamental benefit or problem-solving service the buyer is really purchasing",
+        "C": "The brand name and reputation associated with the product",
+        "D": "The after-sales service and warranty provided"
+      },
+      "correct_answer": "B",
+      "explanation": "The core product is the central benefit sought — e.g., when buying a drill, the core product is the hole (the solution), not the drill itself."
+    },
+    {
+      "id": 41,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "The augmented product includes",
+      "options": {
+        "A": "Only the physical features and design of the product",
+        "B": "Additional services and benefits beyond the core product — such as warranty, after-sales service, and delivery",
+        "C": "The packaging and labelling only",
+        "D": "The brand name and logo only"
+      },
+      "correct_answer": "B",
+      "explanation": "The augmented product adds value through installation, after-sales service, warranty, and delivery, creating differentiation and competitive advantage."
+    },
+    {
+      "id": 42,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "A product line is",
+      "options": {
+        "A": "A single product offered in one version",
+        "B": "A group of closely related products that function similarly, sold to the same customers, and marketed through the same channels",
+        "C": "All the products offered by a company",
+        "D": "A product being phased out of the market"
+      },
+      "correct_answer": "B",
+      "explanation": "A product line is a group of related products — e.g., a range of shampoos by the same brand. Product mix refers to all product lines a company offers."
+    },
+    {
+      "id": 43,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a consumer convenience good?",
+      "options": {
+        "A": "A house",
+        "B": "A luxury car",
+        "C": "A loaf of bread",
+        "D": "An industrial machine"
+      },
+      "correct_answer": "C",
+      "explanation": "Convenience goods (bread, soap, newspapers) are frequently purchased, low-cost items bought with minimum effort and comparison."
+    },
+    {
+      "id": 44,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Shopping goods are products that",
+      "options": {
+        "A": "Are bought frequently with little thought",
+        "B": "Consumers compare carefully on suitability, quality, price, and style before buying",
+        "C": "Have unique characteristics for which buyers make a special purchase effort",
+        "D": "Consumers do not know about or do not think to buy"
+      },
+      "correct_answer": "B",
+      "explanation": "Shopping goods (clothing, furniture, electronics) require more time and comparison before purchase."
+    },
+    {
+      "id": 45,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Specialty goods are",
+      "options": {
+        "A": "Products bought frequently at low cost",
+        "B": "Products with unique characteristics for which buyers make a special effort and will not accept substitutes",
+        "C": "Industrial goods used in manufacturing",
+        "D": "Goods consumers are unaware of"
+      },
+      "correct_answer": "B",
+      "explanation": "Specialty goods (luxury cars, designer items) have unique features for which buyers will make special purchase effort with little comparison shopping."
+    },
+    {
+      "id": 46,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Branding gives a product",
+      "options": {
+        "A": "A higher manufacturing cost",
+        "B": "A name, term, sign, symbol, or design that identifies it and differentiates it from competitors",
+        "C": "A government trademark that prevents copying",
+        "D": "Automatic price leadership in the market"
+      },
+      "correct_answer": "B",
+      "explanation": "A brand is a name, term, sign, symbol, or design that identifies the products of one seller and differentiates them from competitors."
+    },
+    {
+      "id": 47,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Brand equity refers to",
+      "options": {
+        "A": "The cost of registering a brand name",
+        "B": "The added value a well-known brand name gives to a product beyond its functional value",
+        "C": "The number of products sold under a brand name",
+        "D": "The advertising budget allocated to a brand"
+      },
+      "correct_answer": "B",
+      "explanation": "Brand equity is the positive differential effect that knowing the brand name has on customer response — allowing premium pricing and building loyalty."
+    },
+    {
+      "id": 48,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Packaging serves which of the following functions?",
+      "options": {
+        "A": "Only to protect the product during transit",
+        "B": "Protection, convenience, communication, and promotion of the product",
+        "C": "To increase the cost of the product",
+        "D": "Only to attract children to the product"
+      },
+      "correct_answer": "B",
+      "explanation": "Packaging protects the product, provides convenience, communicates information, and promotes the brand through design and colour at the point of sale."
+    },
+    {
+      "id": 49,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Product mix width refers to",
+      "options": {
+        "A": "The number of variants within each product line",
+        "B": "The total number of product lines offered by the company",
+        "C": "The total number of individual products in all lines",
+        "D": "The quality range within each product line"
+      },
+      "correct_answer": "B",
+      "explanation": "Product mix width is the number of different product lines a company offers. Depth refers to variants per line; length to total items."
+    },
+    {
+      "id": 50,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Product differentiation means",
+      "options": {
+        "A": "Reducing product quality to lower costs",
+        "B": "Making a product meaningfully different from competitors' products in the minds of buyers",
+        "C": "Offering the same product at different prices in different markets",
+        "D": "Developing several versions of a product for different income groups"
+      },
+      "correct_answer": "B",
+      "explanation": "Product differentiation creates perceived differences through features, quality, design, brand, or service — justifying a price premium and building loyalty."
+    },
+    {
+      "id": 51,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "The product life cycle (PLC) describes",
+      "options": {
+        "A": "The physical lifespan of a product until it breaks down",
+        "B": "The course of a product's sales and profits over its lifetime — from introduction to decline",
+        "C": "The time taken to manufacture a product from raw materials",
+        "D": "The warranty period offered with a product"
+      },
+      "correct_answer": "B",
+      "explanation": "The PLC shows how a product's sales and profits evolve through Introduction, Growth, Maturity, and Decline stages, each requiring different marketing strategies."
+    },
+    {
+      "id": 52,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "During the introduction stage of the product life cycle",
+      "options": {
+        "A": "Sales are at their peak and profits are high",
+        "B": "Sales grow slowly, profits are low or negative, and heavy promotion is needed to create awareness",
+        "C": "Competition is intense and firms focus on price cuts",
+        "D": "The firm begins to discontinue the product"
+      },
+      "correct_answer": "B",
+      "explanation": "In the introduction stage, sales grow slowly, heavy promotion investment is needed, costs are high, and the product usually runs at a loss initially."
+    },
+    {
+      "id": 53,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "In the growth stage of the product life cycle",
+      "options": {
+        "A": "Sales fall rapidly and the product is withdrawn",
+        "B": "Sales rise rapidly, profits increase, and new competitors enter the market",
+        "C": "Sales are stable and focus is on maintaining market share",
+        "D": "The product is introduced to the market for the first time"
+      },
+      "correct_answer": "B",
+      "explanation": "During growth, sales and profits rise rapidly as more customers adopt the product and new competitors are attracted."
+    },
+    {
+      "id": 54,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "The maturity stage of the product life cycle is characterised by",
+      "options": {
+        "A": "Rapid sales growth and high profits",
+        "B": "Declining sales and heavy losses",
+        "C": "Sales growth slowing, profits stabilising, and intense competition",
+        "D": "The product being newly introduced to the market"
+      },
+      "correct_answer": "C",
+      "explanation": "In maturity, sales level off, competition intensifies, prices and profits decline, and firms focus on market defence and differentiation."
+    },
+    {
+      "id": 55,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "During the decline stage of the product life cycle, a firm may choose to",
+      "options": {
+        "A": "Invest heavily in advertising to revive sales",
+        "B": "Harvest or divest — reducing costs and milking remaining sales, or withdrawing the product",
+        "C": "Lower prices aggressively to maintain market share",
+        "D": "Expand distribution to new markets"
+      },
+      "correct_answer": "B",
+      "explanation": "In decline, firms typically harvest (reduce costs, maintain price) or divest (discontinue). Some may attempt revitalisation through innovation."
+    },
+    {
+      "id": 56,
+      "topic": "Product Life Cycle",
+      "difficulty": "medium",
+      "question": "Extension strategies for a product in the decline stage include",
+      "options": {
+        "A": "Withdrawing the product from the market immediately",
+        "B": "Finding new uses, new markets, new customers, or modifying the product to extend its life",
+        "C": "Increasing the price to maximise profit before withdrawal",
+        "D": "Reducing quality to cut costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Extension strategies delay decline by finding new markets, new uses, or by modifying/repositioning the product."
+    },
+    {
+      "id": 57,
+      "topic": "New Product Development",
+      "difficulty": "medium",
+      "question": "The first stage in the new product development (NPD) process is",
+      "options": {
+        "A": "Concept testing",
+        "B": "Idea generation",
+        "C": "Business analysis",
+        "D": "Test marketing"
+      },
+      "correct_answer": "B",
+      "explanation": "NPD begins with idea generation, followed by screening, concept testing, business analysis, product development, test marketing, and commercialisation."
+    },
+    {
+      "id": 58,
+      "topic": "New Product Development",
+      "difficulty": "medium",
+      "question": "Concept testing in NPD involves",
+      "options": {
+        "A": "Testing the physical prototype of the product",
+        "B": "Testing the product concept with a group of target consumers to gauge their reaction",
+        "C": "Testing the product in a limited geographic market",
+        "D": "Testing the manufacturing process for quality"
+      },
+      "correct_answer": "B",
+      "explanation": "Concept testing presents a product concept to target consumers to assess interest and purchase intent before expensive product development begins."
+    },
+    {
+      "id": 59,
+      "topic": "New Product Development",
+      "difficulty": "medium",
+      "question": "The innovation adoption curve classifies consumers. 'Early adopters' are",
+      "options": {
+        "A": "The very first consumers to try a new product",
+        "B": "Opinion leaders who adopt early and influence others — the second group after innovators",
+        "C": "The last group to adopt a new product",
+        "D": "Consumers who try a product only after the majority has adopted it"
+      },
+      "correct_answer": "B",
+      "explanation": "Early adopters (13.5%) are opinion leaders who adopt early and influence the early majority. The sequence is: Innovators → Early Adopters → Early Majority → Late Majority → Laggards."
+    },
+    {
+      "id": 60,
+      "topic": "New Product Development",
+      "difficulty": "medium",
+      "question": "Which of the following is a common reason for new product failure?",
+      "options": {
+        "A": "Too much investment in market research",
+        "B": "Overestimated market size, poor marketing, or poor product quality",
+        "C": "Setting the price too low",
+        "D": "Entering the market too early before competitors"
+      },
+      "correct_answer": "B",
+      "explanation": "Common causes of new product failure include overestimated market size, poor positioning, design problems, aggressive competitive response, or insufficient marketing support."
+    },
+    {
+      "id": 61,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Which of the following is a cost-based pricing method?",
+      "options": {
+        "A": "Competitive pricing",
+        "B": "Perceived value pricing",
+        "C": "Cost-plus (mark-up) pricing",
+        "D": "Psychological pricing"
+      },
+      "correct_answer": "C",
+      "explanation": "Cost-plus pricing adds a standard mark-up to the cost of producing or buying the product, ensuring all costs are covered."
+    },
+    {
+      "id": 62,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "A price skimming strategy involves",
+      "options": {
+        "A": "Setting a very low initial price to attract many buyers quickly",
+        "B": "Setting a high initial price when launching a new product, targeting early adopters willing to pay a premium",
+        "C": "Setting prices at the same level as major competitors",
+        "D": "Setting price based on consumer psychology"
+      },
+      "correct_answer": "B",
+      "explanation": "Price skimming sets a high launch price and skims maximum revenue from each segment willing to pay. Common for innovative or luxury products."
+    },
+    {
+      "id": 63,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "A penetration pricing strategy involves",
+      "options": {
+        "A": "Setting a very high initial price to signal premium quality",
+        "B": "Setting a low initial price to penetrate the market quickly and gain market share",
+        "C": "Setting prices above competitors to signal superior quality",
+        "D": "Setting prices equal to competitors"
+      },
+      "correct_answer": "B",
+      "explanation": "Penetration pricing sets a low launch price to rapidly gain market share, effective in price-sensitive markets with economies of scale."
+    },
+    {
+      "id": 64,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Psychological pricing uses prices like ₦999 instead of ₦1,000 because",
+      "options": {
+        "A": "It reduces tax paid by the seller",
+        "B": "Consumers perceive ₦999 as significantly cheaper even though the difference is minimal",
+        "C": "It is cheaper to print prices ending in 9",
+        "D": "Government regulations require prices ending in odd numbers"
+      },
+      "correct_answer": "B",
+      "explanation": "Psychological (odd-even) pricing exploits the perception that ₦999 is much less than ₦1,000. Consumers process the left digit first, making the price seem meaningfully cheaper."
+    },
+    {
+      "id": 65,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Price discrimination refers to",
+      "options": {
+        "A": "Charging higher prices for superior quality goods",
+        "B": "Charging different prices to different customer segments for the same product",
+        "C": "Setting prices based on the cost of serving different segments",
+        "D": "Reducing prices during sale periods"
+      },
+      "correct_answer": "B",
+      "explanation": "Price discrimination involves charging different prices to different buyers for the same product — e.g., different cinema prices for adults and students — to maximise revenue."
+    },
+    {
+      "id": 66,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Break-even pricing sets a price at which",
+      "options": {
+        "A": "The firm makes maximum profit",
+        "B": "Total revenue equals total costs — no profit or loss is made",
+        "C": "The price is equal to the competitor's price",
+        "D": "The firm recovers only variable costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Break-even pricing finds the price at which total revenue equals total costs and is used as a starting point for pricing decisions."
+    },
+    {
+      "id": 67,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Value-based pricing sets price based on",
+      "options": {
+        "A": "The cost of producing the product",
+        "B": "The buyer's perceived value of the product rather than production costs",
+        "C": "The prices set by the leading competitor",
+        "D": "The price that achieves break-even fastest"
+      },
+      "correct_answer": "B",
+      "explanation": "Value-based pricing sets prices based on what customers believe the product is worth, requiring deep understanding of customer value perceptions."
+    },
+    {
+      "id": 68,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Captive product pricing (razor-and-blades pricing) involves",
+      "options": {
+        "A": "Pricing a product below cost to attract customers",
+        "B": "Setting a low price for a core product but charging a high price for required accessories or supplies",
+        "C": "Setting different prices in different countries",
+        "D": "Bundling several products together at a combined price"
+      },
+      "correct_answer": "B",
+      "explanation": "Captive product pricing charges a low price for the main product but high prices for the captive consumable accessories — e.g., cheap printers but expensive ink cartridges."
+    },
+    {
+      "id": 69,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Bundle pricing involves",
+      "options": {
+        "A": "Charging different prices to different customer groups",
+        "B": "Combining several products and selling them at a single reduced price",
+        "C": "Offering a product at a temporarily reduced price",
+        "D": "Setting a very low initial price and raising it later"
+      },
+      "correct_answer": "B",
+      "explanation": "Bundle pricing combines products into one package at a lower combined price — e.g., a meal deal. It encourages purchase of multiple items and increases total revenue."
+    },
+    {
+      "id": 70,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Loss-leader pricing involves",
+      "options": {
+        "A": "Setting prices below cost on selected items to attract customers who then buy other profitable items",
+        "B": "Setting the lowest possible price to eliminate all competitors",
+        "C": "Setting prices at a loss to remain competitive",
+        "D": "Pricing new products at a loss until break-even"
+      },
+      "correct_answer": "A",
+      "explanation": "Loss-leader pricing sets prices below cost on key items to attract customers to the store, where they buy other full-priced items that generate profit."
+    },
+    {
+      "id": 71,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Promotional pricing includes which of the following?",
+      "options": {
+        "A": "Setting a permanent low price for the product",
+        "B": "Temporarily reducing prices through special offers, discounts, and sales events to boost short-term sales",
+        "C": "Setting prices based on government subsidy rates",
+        "D": "Using cost-plus pricing for all promotional products"
+      },
+      "correct_answer": "B",
+      "explanation": "Promotional pricing involves temporary price reductions — seasonal sales, BOGOF, loss-leader pricing — to stimulate short-term purchases."
+    },
+    {
+      "id": 72,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Price elasticity of demand measures",
+      "options": {
+        "A": "The speed at which prices change in response to cost increases",
+        "B": "The degree to which demand for a product changes in response to a change in price",
+        "C": "The flexibility of a firm's pricing policy",
+        "D": "The difference between wholesale and retail prices"
+      },
+      "correct_answer": "B",
+      "explanation": "PED = % change in quantity demanded ÷ % change in price. If PED > 1, demand is elastic; if PED < 1, demand is inelastic. Pricing strategy depends heavily on PED."
+    },
+    {
+      "id": 73,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "If a product has inelastic demand, a price increase will",
+      "options": {
+        "A": "Cause a large fall in quantity demanded",
+        "B": "Cause a small fall in quantity demanded and increase total revenue",
+        "C": "Not change total revenue at all",
+        "D": "Cause buyers to switch to alternatives immediately"
+      },
+      "correct_answer": "B",
+      "explanation": "With inelastic demand (PED < 1), a price increase leads to a proportionally smaller decrease in quantity, so total revenue increases."
+    },
+    {
+      "id": 74,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Contribution pricing means",
+      "options": {
+        "A": "Setting a price that covers all costs and contributes to charity",
+        "B": "Setting a price above variable cost so the product makes a positive contribution to covering fixed costs and profit",
+        "C": "Setting prices based on contributions from shareholders",
+        "D": "Pricing below cost to generate customer loyalty"
+      },
+      "correct_answer": "B",
+      "explanation": "Contribution pricing ensures the selling price exceeds variable cost, so each unit sold contributes to covering fixed costs. Useful for marginal decisions."
+    },
+    {
+      "id": 75,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Competitive pricing means",
+      "options": {
+        "A": "Setting prices below all competitors",
+        "B": "Setting prices based on what competitors charge in the market",
+        "C": "Setting prices based on production cost",
+        "D": "Setting different prices for different customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Competitive (going-rate) pricing sets prices based on competitors' prices. Common in oligopolies where price leadership exists."
+    },
+    {
+      "id": 76,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Skimming pricing is most appropriate for products that are",
+      "options": {
+        "A": "Widely available commodities with many substitutes",
+        "B": "New, innovative products with few substitutes and early adopters willing to pay a premium",
+        "C": "Basic necessities that all consumers need",
+        "D": "Products in the decline stage with falling demand"
+      },
+      "correct_answer": "B",
+      "explanation": "Price skimming works when the product is innovative with few substitutes, a segment of buyers is willing to pay a premium, and the firm wants to recoup R&D investment quickly."
+    },
+    {
+      "id": 77,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "A distribution channel (marketing channel) is",
+      "options": {
+        "A": "A television or radio channel used for advertising",
+        "B": "A set of interdependent organisations involved in making a product available to the consumer",
+        "C": "The pipeline through which goods are physically transported",
+        "D": "A government-approved route for distributing essential goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A distribution (marketing) channel is the network of intermediaries that move a product from the producer to the final consumer."
+    },
+    {
+      "id": 78,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Intensive distribution means",
+      "options": {
+        "A": "Selling through only one exclusive retailer in each area",
+        "B": "Stocking the product in as many outlets as possible to maximise availability",
+        "C": "Selling through a carefully selected number of outlets",
+        "D": "Distributing goods directly from manufacturer to consumer"
+      },
+      "correct_answer": "B",
+      "explanation": "Intensive distribution places the product in as many retail outlets as possible — e.g., soft drinks, cigarettes — to ensure maximum availability."
+    },
+    {
+      "id": 79,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Exclusive distribution means",
+      "options": {
+        "A": "Only high-income customers can buy the product",
+        "B": "The manufacturer grants only one retailer or dealer in a given area the right to sell the product",
+        "C": "The product is only available online",
+        "D": "The product is restricted to government-approved retailers"
+      },
+      "correct_answer": "B",
+      "explanation": "Exclusive distribution grants a single dealer exclusive rights in a territory, building a prestigious image and giving better control over marketing — e.g., luxury cars, designer goods."
+    },
+    {
+      "id": 80,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Selective distribution involves",
+      "options": {
+        "A": "Distributing through all available retail outlets",
+        "B": "Using a carefully chosen limited number of retailers who meet specific criteria",
+        "C": "Selling exclusively through one distributor per region",
+        "D": "Distributing only to qualifying customers based on income"
+      },
+      "correct_answer": "B",
+      "explanation": "Selective distribution uses more than one but fewer than all willing outlets, balancing coverage and prestige — e.g., branded electrical appliances in selected stores."
+    },
+    {
+      "id": 81,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "A direct marketing channel (zero-level channel) is one where",
+      "options": {
+        "A": "All goods are sold through agents",
+        "B": "The producer sells directly to the consumer with no intermediaries",
+        "C": "Goods pass through wholesaler and retailer to reach the consumer",
+        "D": "The manufacturer uses an agent to reach retailers"
+      },
+      "correct_answer": "B",
+      "explanation": "A zero-level (direct) channel means the manufacturer sells directly to end consumers through its own stores, websites, or sales force."
+    },
+    {
+      "id": 82,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Which of the following is an advantage of using intermediaries in the distribution channel?",
+      "options": {
+        "A": "The manufacturer has more control over final prices",
+        "B": "Intermediaries reduce the number of transactions and provide wider market reach at lower cost",
+        "C": "The manufacturer builds closer relationships with end consumers",
+        "D": "Intermediaries guarantee a fixed level of sales"
+      },
+      "correct_answer": "B",
+      "explanation": "Intermediaries reduce the total number of transactions, provide specialised services, and give manufacturers wider geographic reach than they could achieve alone."
+    },
+    {
+      "id": 83,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Physical distribution management is concerned with",
+      "options": {
+        "A": "The design and placement of advertising billboards",
+        "B": "The efficient movement and storage of goods from producer to consumer — including transport, warehousing, and inventory management",
+        "C": "The management of the sales force",
+        "D": "The hiring and training of distribution staff"
+      },
+      "correct_answer": "B",
+      "explanation": "Physical distribution (logistics) management involves planning the efficient movement of goods from origin to consumer — transport, warehousing, order processing, and inventory control."
+    },
+    {
+      "id": 84,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Supply chain management involves",
+      "options": {
+        "A": "Managing the company's financial resources efficiently",
+        "B": "Coordinating the flow of materials, information, and finances from suppliers through production to the final customer",
+        "C": "Selecting the most suitable advertising media",
+        "D": "Managing relationships with individual consumers"
+      },
+      "correct_answer": "B",
+      "explanation": "SCM optimises the entire chain from raw material sourcing to end-consumer delivery — improving efficiency, reducing costs, and enhancing customer satisfaction."
+    },
+    {
+      "id": 85,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "E-commerce as a distribution channel has which of the following advantages?",
+      "options": {
+        "A": "It limits the geographic reach of the seller",
+        "B": "It eliminates the need for any marketing effort",
+        "C": "It reduces distribution costs, extends geographic reach, and allows 24/7 trading",
+        "D": "It guarantees higher profit margins than physical stores"
+      },
+      "correct_answer": "C",
+      "explanation": "E-commerce reduces overhead costs, allows global reach, operates around the clock, and can personalise the shopping experience."
+    },
+    {
+      "id": 86,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "A Vertical Marketing System (VMS) is",
+      "options": {
+        "A": "A distribution system where all channel members act independently",
+        "B": "A distribution system where producers, wholesalers, and retailers act as a unified system with one channel leader",
+        "C": "A distribution system that only sells through vending machines",
+        "D": "A system that sells products both vertically and horizontally"
+      },
+      "correct_answer": "B",
+      "explanation": "A VMS is a professionally managed, unified distribution system where one channel member leads and coordinates the entire channel for efficiency and marketing impact."
+    },
+    {
+      "id": 87,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Channel conflict occurs when",
+      "options": {
+        "A": "A company uses too many distribution channels simultaneously",
+        "B": "Channel members disagree over goals, roles, or rewards — one member feels another is hurting their interests",
+        "C": "A product fails to reach consumers on time due to transport disruption",
+        "D": "Two competitors use the same distribution channels"
+      },
+      "correct_answer": "B",
+      "explanation": "Channel conflict arises when one member's actions adversely affect another — e.g., a manufacturer selling directly online at lower prices than its retailers."
+    },
+    {
+      "id": 88,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "The promotional mix (communications mix) consists of",
+      "options": {
+        "A": "Product, price, place, and promotion",
+        "B": "Advertising, personal selling, sales promotion, public relations, and direct marketing",
+        "C": "Television, radio, newspapers, and social media",
+        "D": "Discounts, coupons, samples, and competitions"
+      },
+      "correct_answer": "B",
+      "explanation": "The promotional mix includes: advertising, personal selling, sales promotion, public relations, and direct marketing — each with different strengths."
+    },
+    {
+      "id": 89,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Advertising is defined as",
+      "options": {
+        "A": "A face-to-face interaction between a salesperson and a prospect",
+        "B": "Any paid form of non-personal presentation and promotion of ideas, goods, or services by an identified sponsor",
+        "C": "A temporary price reduction to boost sales",
+        "D": "Publicity generated by press releases and media coverage"
+      },
+      "correct_answer": "B",
+      "explanation": "Advertising is paid, non-personal communication through mass media by an identified sponsor. It builds awareness and reaches large audiences simultaneously."
+    },
+    {
+      "id": 90,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Personal selling is",
+      "options": {
+        "A": "Placing advertisements in national newspapers",
+        "B": "The personal interaction between a salesperson and a customer to make a sale and build a relationship",
+        "C": "Selling products through vending machines",
+        "D": "Using a website to sell products to individual customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Personal selling involves direct, person-to-person interaction where the salesperson presents the product, overcomes objections, and closes the sale."
+    },
+    {
+      "id": 91,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Sales promotion includes",
+      "options": {
+        "A": "Long-term brand-building advertising",
+        "B": "Short-term incentives to encourage immediate purchase — such as coupons, discounts, competitions, and free samples",
+        "C": "Press releases and editorial coverage",
+        "D": "Direct mail campaigns sent to existing customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Sales promotion comprises short-term incentives that stimulate quick purchases — BOGOF, coupons, competitions, loyalty points, and in-store demonstrations."
+    },
+    {
+      "id": 92,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Public relations (PR) in marketing involves",
+      "options": {
+        "A": "Paying for advertising space in newspapers",
+        "B": "Building good relations with publics by obtaining favourable publicity and managing unfavourable events",
+        "C": "Recruiting and training the salesforce",
+        "D": "Setting prices that maintain the company's public image"
+      },
+      "correct_answer": "B",
+      "explanation": "PR builds and maintains a favourable image through press releases, events, sponsorships, and community relations. Unlike advertising, good PR coverage is unpaid (earned media)."
+    },
+    {
+      "id": 93,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Direct marketing involves",
+      "options": {
+        "A": "Selling goods through retail stores only",
+        "B": "Communicating directly with targeted individual consumers to obtain an immediate response",
+        "C": "Using only mass media such as television and radio",
+        "D": "Distributing goods directly from manufacturer to consumer"
+      },
+      "correct_answer": "B",
+      "explanation": "Direct marketing bypasses intermediaries to communicate directly with consumers through direct mail, email, telemarketing, and online targeted ads."
+    },
+    {
+      "id": 94,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "A push strategy in promotion involves",
+      "options": {
+        "A": "Advertising heavily to consumers to pull products through the distribution channel",
+        "B": "Promoting the product to intermediaries who then push it to consumers",
+        "C": "Setting a low price to push consumers to buy",
+        "D": "Using social media to push notifications to consumers"
+      },
+      "correct_answer": "B",
+      "explanation": "A push strategy directs promotional effort at the distribution channel — trade promotions and personal selling to retailers/wholesalers — encouraging them to stock and recommend the product."
+    },
+    {
+      "id": 95,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "A pull strategy in promotion involves",
+      "options": {
+        "A": "Giving discounts to wholesalers and retailers",
+        "B": "Advertising heavily to end consumers to create demand that pulls the product through the distribution channel",
+        "C": "Using a sales force to push products to retailers",
+        "D": "Reducing price to attract bulk purchases from distributors"
+      },
+      "correct_answer": "B",
+      "explanation": "A pull strategy directs promotional effort at consumers through advertising, creating demand that 'pulls' products through the channel — consumers ask retailers for the product."
+    },
+    {
+      "id": 96,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "The AIDA model in advertising stands for",
+      "options": {
+        "A": "Awareness, Influence, Demand, Action",
+        "B": "Attention, Interest, Desire, Action",
+        "C": "Advertising, Image, Distribution, Appeal",
+        "D": "Attraction, Information, Display, Attitude"
+      },
+      "correct_answer": "B",
+      "explanation": "AIDA describes the stages a consumer goes through: Attention (awareness), Interest (interest in the product), Desire (wanting the product), and Action (making the purchase)."
+    },
+    {
+      "id": 97,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Above-the-line (ATL) advertising refers to",
+      "options": {
+        "A": "Advertising using paid mass media — television, radio, newspapers, and outdoor billboards",
+        "B": "Below-the-line promotional activities such as discounts and coupons",
+        "C": "Advertising directed only at B2B customers",
+        "D": "Advertising above legal limits set by government"
+      },
+      "correct_answer": "A",
+      "explanation": "Above-the-line advertising uses paid mass media channels (TV, radio, press, cinema, outdoor). Below-the-line includes sales promotions, direct mail, and POS materials."
+    },
+    {
+      "id": 98,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Which of the following is a disadvantage of television advertising?",
+      "options": {
+        "A": "It reaches only a small audience",
+        "B": "It cannot use both sight and sound",
+        "C": "It is very expensive to produce and broadcast",
+        "D": "It is not suitable for consumer goods"
+      },
+      "correct_answer": "C",
+      "explanation": "Television advertising is powerful but very expensive to produce and air, making it inaccessible to small businesses."
+    },
+    {
+      "id": 99,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Reach in advertising refers to",
+      "options": {
+        "A": "The depth of emotional impact of an advertisement",
+        "B": "The total number of different people exposed to an advertisement at least once",
+        "C": "The number of times an advertisement is repeated to the same audience",
+        "D": "The geographic distance over which an advertisement is broadcast"
+      },
+      "correct_answer": "B",
+      "explanation": "Reach is the unduplicated number of different people exposed to an ad at least once during a campaign. Frequency is how many times those people see the ad."
+    },
+    {
+      "id": 100,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Frequency in advertising refers to",
+      "options": {
+        "A": "How many different people see an advertisement",
+        "B": "The average number of times a person is exposed to an advertisement during a campaign",
+        "C": "How often a product is advertised in a year",
+        "D": "The number of advertising media used in a campaign"
+      },
+      "correct_answer": "B",
+      "explanation": "Frequency measures how many times the average person in the target audience is exposed to an advertisement. Higher frequency builds recall but risks ad fatigue."
+    },
+    {
+      "id": 101,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Institutional advertising aims to",
+      "options": {
+        "A": "Promote a specific product or brand",
+        "B": "Promote the image, reputation, or ideas of a company rather than a specific product",
+        "C": "Advertise goods donated to charitable institutions",
+        "D": "Promote products sold exclusively through government institutions"
+      },
+      "correct_answer": "B",
+      "explanation": "Institutional (corporate) advertising promotes the company as a whole — its values, reputation, and corporate identity — building goodwill and long-term brand equity."
+    },
+    {
+      "id": 102,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "The objective of reminder advertising is to",
+      "options": {
+        "A": "Introduce a product to consumers for the first time",
+        "B": "Keep a well-established product in consumers' minds and sustain purchase behaviour",
+        "C": "Persuade consumers to switch from a competing brand",
+        "D": "Build corporate reputation and goodwill"
+      },
+      "correct_answer": "B",
+      "explanation": "Reminder advertising is used in the maturity stage to keep consumers aware of the product and maintain brand salience."
+    },
+    {
+      "id": 103,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Consumer behaviour is defined as",
+      "options": {
+        "A": "The study of how products are manufactured and distributed",
+        "B": "The study of how individuals and groups select, buy, use, and dispose of goods and services to satisfy needs",
+        "C": "The study of how consumers respond to advertising",
+        "D": "The legal obligations of consumers when purchasing products"
+      },
+      "correct_answer": "B",
+      "explanation": "Consumer behaviour examines the buying decision process — what motivates people to buy, how they gather information, evaluate alternatives, purchase, and assess post-purchase satisfaction."
+    },
+    {
+      "id": 104,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Maslow's hierarchy of needs, from the most basic to the highest, is",
+      "options": {
+        "A": "Social, safety, physiological, esteem, self-actualisation",
+        "B": "Physiological, safety, social (love/belonging), esteem, self-actualisation",
+        "C": "Safety, physiological, esteem, social, self-actualisation",
+        "D": "Esteem, physiological, social, safety, self-actualisation"
+      },
+      "correct_answer": "B",
+      "explanation": "Maslow's hierarchy (1943): (1) Physiological, (2) Safety, (3) Social (love/belonging), (4) Esteem, (5) Self-actualisation."
+    },
+    {
+      "id": 105,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "The buying decision process involves which steps in order?",
+      "options": {
+        "A": "Purchase, evaluation, need recognition, information search, alternatives evaluation",
+        "B": "Need recognition, information search, evaluation of alternatives, purchase decision, post-purchase behaviour",
+        "C": "Information search, need recognition, purchase, evaluation, alternatives",
+        "D": "Purchase, need recognition, information search, evaluation, post-purchase"
+      },
+      "correct_answer": "B",
+      "explanation": "The five-stage buyer decision process: (1) Need recognition, (2) Information search, (3) Evaluation of alternatives, (4) Purchase decision, (5) Post-purchase behaviour."
+    },
+    {
+      "id": 106,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Cognitive dissonance in buying behaviour occurs when",
+      "options": {
+        "A": "A consumer is unable to decide between two products",
+        "B": "A buyer experiences discomfort after a purchase, questioning whether they made the right choice",
+        "C": "A consumer becomes addicted to buying unnecessary products",
+        "D": "A consumer changes their mind before completing a purchase"
+      },
+      "correct_answer": "B",
+      "explanation": "Cognitive dissonance (post-purchase dissonance) is buyer's remorse — discomfort felt when the product does not fully match expectations or when the consumer second-guesses their decision."
+    },
+    {
+      "id": 107,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Brand loyalty exists when",
+      "options": {
+        "A": "A consumer buys a brand once and is satisfied",
+        "B": "A consumer consistently and repeatedly purchases the same brand over time, even when alternatives are available",
+        "C": "A brand has high awareness in the market",
+        "D": "A consumer recommends a brand to friends on one occasion"
+      },
+      "correct_answer": "B",
+      "explanation": "Brand loyalty is consistent preference for and repeat purchase of a specific brand. Loyal customers are less price-sensitive and often act as brand advocates."
+    },
+    {
+      "id": 108,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Reference groups influence consumer behaviour by",
+      "options": {
+        "A": "Setting government regulations on what can be purchased",
+        "B": "Acting as comparison points that directly or indirectly influence attitudes and buying behaviour",
+        "C": "Providing credit to help consumers purchase expensive items",
+        "D": "Setting the price of goods in the market"
+      },
+      "correct_answer": "B",
+      "explanation": "Reference groups (family, friends, celebrities) influence perceptions, aspirations, and brand choices — especially for socially visible products."
+    },
+    {
+      "id": 109,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Habitual buying behaviour occurs when",
+      "options": {
+        "A": "A consumer carefully evaluates many alternatives before buying",
+        "B": "A consumer buys a product repeatedly with little involvement or brand comparison",
+        "C": "A consumer makes a high-involvement, infrequent purchase",
+        "D": "A consumer feels significant dissonance after buying"
+      },
+      "correct_answer": "B",
+      "explanation": "Habitual buying involves low involvement and little brand differentiation — consumers buy out of habit without much thought."
+    },
+    {
+      "id": 110,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Culture influences buying behaviour because",
+      "options": {
+        "A": "Culture sets the legal framework for commerce",
+        "B": "Cultural values, beliefs, and customs shape what people want, how they buy, and what they consider acceptable",
+        "C": "Culture determines the prices consumers are willing to pay",
+        "D": "Cultural factors are controllable by marketers"
+      },
+      "correct_answer": "B",
+      "explanation": "Culture is the most fundamental determinant of a person's wants and behaviour. Values and preferences learned from family and society shape consumer choices."
+    },
+    {
+      "id": 111,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Post-purchase evaluation determines",
+      "options": {
+        "A": "Whether a consumer will buy the same product again",
+        "B": "How satisfied the consumer is after purchase, influencing repeat buying and word-of-mouth",
+        "C": "The discount the consumer can negotiate on their next purchase",
+        "D": "The government rating of the product's safety"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-purchase evaluation compares actual product performance to expectations. Satisfaction drives repurchase; dissatisfaction leads to returns, negative word-of-mouth, and brand switching."
+    },
+    {
+      "id": 112,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Involvement in consumer behaviour refers to",
+      "options": {
+        "A": "The number of people involved in a group purchase decision",
+        "B": "The level of personal importance and interest attached to a product or purchase decision",
+        "C": "The consumer's financial investment in a product",
+        "D": "The degree to which a consumer participates in market research"
+      },
+      "correct_answer": "B",
+      "explanation": "Involvement is the degree of personal relevance in a product. High involvement (cars, laptops) leads to extensive information search; low involvement (salt, soap) results in habitual buying."
+    },
+    {
+      "id": 113,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "The macro environment (PESTEL factors) includes",
+      "options": {
+        "A": "The company, suppliers, intermediaries, and competitors",
+        "B": "Political, economic, social, technological, environmental, and legal factors affecting all firms",
+        "C": "Only factors that the firm can directly control",
+        "D": "The firm's internal strengths and weaknesses"
+      },
+      "correct_answer": "B",
+      "explanation": "PESTEL examines macro environment external factors affecting all organisations. Firms cannot control these but must adapt to them."
+    },
+    {
+      "id": 114,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "The microenvironment in marketing consists of",
+      "options": {
+        "A": "Broad societal forces affecting all firms",
+        "B": "Forces close to the company — suppliers, marketing intermediaries, customers, competitors, and publics",
+        "C": "Government policies that regulate the industry",
+        "D": "Technological changes that affect production methods"
+      },
+      "correct_answer": "B",
+      "explanation": "The microenvironment includes actors close to the company that affect its ability to serve customers: suppliers, intermediaries, customer markets, competitors, and publics."
+    },
+    {
+      "id": 115,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "SWOT analysis in marketing examines",
+      "options": {
+        "A": "Political, economic, social, and technological factors only",
+        "B": "Internal strengths and weaknesses, and external opportunities and threats",
+        "C": "Supplier, wholesale, operations, and trade factors",
+        "D": "Sales, wages, overheads, and trade performance"
+      },
+      "correct_answer": "B",
+      "explanation": "SWOT evaluates the firm's internal Strengths and Weaknesses and external Opportunities and Threats, informing strategic decisions."
+    },
+    {
+      "id": 116,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "A competitor analysis in marketing assesses",
+      "options": {
+        "A": "The company's own strengths and weaknesses",
+        "B": "The strategies, strengths, weaknesses, and likely responses of key competitors",
+        "C": "The performance of the company's sales team",
+        "D": "Government policies that restrict competition"
+      },
+      "correct_answer": "B",
+      "explanation": "Competitor analysis identifies key rivals, analyses their strategies, and anticipates their actions — helping firms position and build competitive advantages."
+    },
+    {
+      "id": 117,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "Technological factors in the marketing environment include",
+      "options": {
+        "A": "Interest rates, inflation, and exchange rates",
+        "B": "New inventions, automation, AI, digital platforms, and the pace of technological change",
+        "C": "Government policies and regulations",
+        "D": "Demographic shifts and cultural changes"
+      },
+      "correct_answer": "B",
+      "explanation": "Technological factors create opportunities and threats — disrupting industries, enabling new products, changing consumer expectations, and transforming distribution and communication."
+    },
+    {
+      "id": 118,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "The BCG (Boston Consulting Group) matrix classifies products based on",
+      "options": {
+        "A": "Price and quality",
+        "B": "Market share and market growth rate",
+        "C": "Profit margin and sales volume",
+        "D": "Target market and distribution channel"
+      },
+      "correct_answer": "B",
+      "explanation": "The BCG matrix classifies products into Stars (high growth, high share), Cash Cows (low growth, high share), Question Marks (high growth, low share), and Dogs (low growth, low share)."
+    },
+    {
+      "id": 119,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "A 'cash cow' in the BCG matrix is a product that",
+      "options": {
+        "A": "Has high market share and high market growth",
+        "B": "Has high market share but low market growth — generating stable cash flow",
+        "C": "Has low market share and low market growth",
+        "D": "Has low market share but high market growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Cash cows are products in mature markets with high share. They generate more cash than they consume, providing funds to invest in stars or question marks."
+    },
+    {
+      "id": 120,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "A 'dog' in the BCG matrix is a product that",
+      "options": {
+        "A": "Generates high cash but requires little investment",
+        "B": "Has low market share and low market growth — typically generating little profit",
+        "C": "Is new to the market and growing rapidly",
+        "D": "Has high potential but lacks market share"
+      },
+      "correct_answer": "B",
+      "explanation": "Dogs have low share in low-growth markets. They usually generate barely enough to maintain themselves. Strategic recommendation is often to harvest or divest."
+    },
+    {
+      "id": 121,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "The BCG matrix 'star' product is characterised by",
+      "options": {
+        "A": "High market share and low market growth",
+        "B": "High market share and high market growth — requiring heavy investment but generating strong returns",
+        "C": "Low market share and high market growth",
+        "D": "Low market share and low market growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Stars have high market share in fast-growing markets. They generate strong returns but need heavy investment to maintain position. They may become cash cows as growth slows."
+    },
+    {
+      "id": 122,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Ansoff's matrix growth strategy involving selling existing products to existing markets is called",
+      "options": {
+        "A": "Market development",
+        "B": "Product development",
+        "C": "Market penetration",
+        "D": "Diversification"
+      },
+      "correct_answer": "C",
+      "explanation": "Ansoff's matrix: Market penetration = existing products, existing markets (lowest risk). Market development = existing products, new markets. Product development = new products, existing markets. Diversification = new products, new markets (highest risk)."
+    },
+    {
+      "id": 123,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Diversification in Ansoff's matrix involves",
+      "options": {
+        "A": "Selling more of an existing product in current markets",
+        "B": "Launching new products in new markets — the highest-risk growth strategy",
+        "C": "Introducing a new product to an existing market",
+        "D": "Selling an existing product in new geographic markets"
+      },
+      "correct_answer": "B",
+      "explanation": "Diversification is the most risky growth strategy — entering new markets with new products. It requires new capabilities but can provide the greatest growth opportunities."
+    },
+    {
+      "id": 124,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "A competitive advantage means",
+      "options": {
+        "A": "Being the largest firm in the market",
+        "B": "Having a superior position over competitors that allows a firm to generate greater value for its customers",
+        "C": "Having the lowest production cost in the industry",
+        "D": "Being the first firm to enter a market"
+      },
+      "correct_answer": "B",
+      "explanation": "A competitive advantage — through cost leadership, differentiation, or focus — enables a firm to outperform rivals and earn above-average returns."
+    },
+    {
+      "id": 125,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Cost leadership strategy means",
+      "options": {
+        "A": "Setting prices lower than all competitors regardless of costs",
+        "B": "Becoming the lowest-cost producer in the industry to compete on price",
+        "C": "Focusing on reducing marketing costs to increase profit",
+        "D": "Outsourcing all production to the cheapest supplier"
+      },
+      "correct_answer": "B",
+      "explanation": "Cost leadership means achieving the lowest cost of production — through economies of scale, efficiency, and cost control — enabling lower prices or higher margins."
+    },
+    {
+      "id": 126,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Differentiation strategy means",
+      "options": {
+        "A": "Producing many different products for many different markets",
+        "B": "Creating products or services with unique features that customers value and are willing to pay more for",
+        "C": "Selling products at different prices to different customers",
+        "D": "Using different distribution channels to reach different customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Differentiation means creating a product perceived as unique — through quality, features, design, service, or brand image — commanding a premium price and building loyalty."
+    },
+    {
+      "id": 127,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "Brand extension involves",
+      "options": {
+        "A": "Registering a brand in a new country",
+        "B": "Using an existing, successful brand name to launch a new product in a different category",
+        "C": "Extending the warranty period of a brand",
+        "D": "Increasing the advertising budget for an existing brand"
+      },
+      "correct_answer": "B",
+      "explanation": "Brand extension uses the equity of an established brand to launch a new product in a different category, reducing launch risk and marketing costs."
+    },
+    {
+      "id": 128,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "A private label (own brand) is",
+      "options": {
+        "A": "A brand sold exclusively through vending machines",
+        "B": "A brand developed and owned by a retailer or distributor rather than a manufacturer",
+        "C": "A luxury brand available only to private club members",
+        "D": "A brand name registered but not yet launched"
+      },
+      "correct_answer": "B",
+      "explanation": "Private labels (store brands) are developed by retailers, usually priced below national brands, helping retailers build loyalty and improve margins."
+    },
+    {
+      "id": 129,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "Co-branding involves",
+      "options": {
+        "A": "A single company using the same brand name across all its products",
+        "B": "Two or more brands joining together on a single product to leverage each other's equity",
+        "C": "A company launching a second brand to compete with itself",
+        "D": "Using the same brand name in multiple countries"
+      },
+      "correct_answer": "B",
+      "explanation": "Co-branding combines two or more well-known brands in a single product — e.g., Nike + Apple for fitness tracking. Each brand lends its equity to the combined offering."
+    },
+    {
+      "id": 130,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "Brand positioning involves",
+      "options": {
+        "A": "Physically placing branded items at the front of a retail store",
+        "B": "Designing the company's offering and image to occupy a distinct and valued place in the target customer's mind relative to competitors",
+        "C": "Registering a brand name with the intellectual property office",
+        "D": "Allocating a brand to a specific geographic territory"
+      },
+      "correct_answer": "B",
+      "explanation": "Brand positioning deliberately creates a specific perception of a brand in consumers' minds. A clear positioning statement differentiates the brand and guides all marketing decisions."
+    },
+    {
+      "id": 131,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "Rebranding involves",
+      "options": {
+        "A": "Launching a product under a brand name for the first time",
+        "B": "Changing a brand's identity — name, logo, positioning — to refresh its image or appeal to new markets",
+        "C": "Registering a brand trademark in a new country",
+        "D": "Extending a brand into a new product category"
+      },
+      "correct_answer": "B",
+      "explanation": "Rebranding changes the brand's identity to better reflect current values, attract new audiences, shed a negative image, or signal a strategic shift."
+    },
+    {
+      "id": 132,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Which characteristic of services means they cannot be stored or inventoried?",
+      "options": {
+        "A": "Intangibility",
+        "B": "Inseparability",
+        "C": "Perishability",
+        "D": "Variability"
+      },
+      "correct_answer": "C",
+      "explanation": "Perishability means services cannot be stored — an empty airline seat or hotel room is revenue lost forever. This makes supply-demand management critical."
+    },
+    {
+      "id": 133,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Intangibility of services means",
+      "options": {
+        "A": "Services are always delivered at low quality",
+        "B": "Services cannot be seen, touched, tasted, or felt before purchase",
+        "C": "Services are produced and consumed simultaneously",
+        "D": "Services vary in quality from one delivery to the next"
+      },
+      "correct_answer": "B",
+      "explanation": "Unlike physical products, services are intangible — they cannot be seen or touched before purchase. Marketers address this through tangible cues."
+    },
+    {
+      "id": 134,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Inseparability in services means",
+      "options": {
+        "A": "Services are identical each time they are delivered",
+        "B": "Services are produced and consumed simultaneously — provider and customer must be present",
+        "C": "Services cannot be broken down into separate components",
+        "D": "Services cannot be separated from their price"
+      },
+      "correct_answer": "B",
+      "explanation": "Inseparability means services are produced and consumed at the same time in the presence of both provider and customer, limiting mass production."
+    },
+    {
+      "id": 135,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Variability (heterogeneity) of services means",
+      "options": {
+        "A": "Services are the same every time they are delivered",
+        "B": "The quality of services may vary depending on who provides them, when, where, and how",
+        "C": "Services can be stored and used at a later time",
+        "D": "Service prices vary unpredictably"
+      },
+      "correct_answer": "B",
+      "explanation": "Variability means services are inconsistent — quality depends on provider, customer interaction, and context. Service firms standardise processes and train staff to reduce variability."
+    },
+    {
+      "id": 136,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "The 'physical evidence' element of the 7Ps of services marketing refers to",
+      "options": {
+        "A": "The physical fitness of service employees",
+        "B": "Tangible cues in the service environment — decor, uniforms, brochures, and ambience — that signal quality",
+        "C": "The legal evidence required to operate a service business",
+        "D": "The company's physical assets on the balance sheet"
+      },
+      "correct_answer": "B",
+      "explanation": "Physical evidence is the environment in which the service is delivered and tangible representations that help consumers evaluate and experience the service."
+    },
+    {
+      "id": 137,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "The 'process' element of the 7Ps of services marketing refers to",
+      "options": {
+        "A": "The manufacturing process for producing physical goods",
+        "B": "The procedures, flow of activities, and mechanisms through which a service is delivered to the customer",
+        "C": "The customer complaints handling process",
+        "D": "The process of hiring and training service staff"
+      },
+      "correct_answer": "B",
+      "explanation": "Process in services marketing refers to how the service is delivered — the steps, flow, and mechanisms that affect customer experience."
+    },
+    {
+      "id": 138,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Service quality is often measured using the SERVQUAL model, which assesses five dimensions. Which of the following is NOT one of them?",
+      "options": {
+        "A": "Reliability",
+        "B": "Responsiveness",
+        "C": "Profitability",
+        "D": "Empathy"
+      },
+      "correct_answer": "C",
+      "explanation": "SERVQUAL measures: Reliability, Responsiveness, Assurance, Empathy, and Tangibles. Profitability is not a service quality dimension."
+    },
+    {
+      "id": 139,
+      "topic": "Relationship Marketing",
+      "difficulty": "medium",
+      "question": "Relationship marketing focuses on",
+      "options": {
+        "A": "Making a single large sale to the customer",
+        "B": "Building long-term, mutually beneficial relationships with customers and other stakeholders",
+        "C": "Acquiring as many new customers as possible through aggressive promotion",
+        "D": "Setting prices that maintain a stable long-term revenue stream"
+      },
+      "correct_answer": "B",
+      "explanation": "Relationship marketing builds long-term customer relationships — increasing lifetime value, loyalty, and advocacy through superior service and personalised communication."
+    },
+    {
+      "id": 140,
+      "topic": "Relationship Marketing",
+      "difficulty": "medium",
+      "question": "Customer Relationship Management (CRM) is",
+      "options": {
+        "A": "A government regulatory system for managing consumer complaints",
+        "B": "A strategy and technology for managing all company interactions with current and potential customers to improve relationships and retention",
+        "C": "A method of setting prices based on customer feedback",
+        "D": "A distribution management system for key retail accounts"
+      },
+      "correct_answer": "B",
+      "explanation": "CRM uses data and technology to understand and manage customer interactions, tailor communications, and build loyalty — increasing retention and lifetime value."
+    },
+    {
+      "id": 141,
+      "topic": "Relationship Marketing",
+      "difficulty": "medium",
+      "question": "Customer lifetime value (CLV) is",
+      "options": {
+        "A": "The total purchases a customer makes in a single transaction",
+        "B": "The total net profit a company expects to earn from a customer over the entire relationship",
+        "C": "The number of years a customer remains loyal to a brand",
+        "D": "The marketing cost of acquiring one new customer"
+      },
+      "correct_answer": "B",
+      "explanation": "CLV is the present value of all future profits from a customer relationship. It justifies investment in customer acquisition and retention."
+    },
+    {
+      "id": 142,
+      "topic": "Relationship Marketing",
+      "difficulty": "medium",
+      "question": "Customer acquisition cost (CAC) is",
+      "options": {
+        "A": "The cost of producing a product for a new customer",
+        "B": "The total marketing and sales cost divided by the number of new customers acquired",
+        "C": "The price increase needed to cover customer service costs",
+        "D": "The distribution cost of delivering to a new customer"
+      },
+      "correct_answer": "B",
+      "explanation": "CAC = Total marketing and sales costs ÷ Number of new customers acquired. It is compared with CLV to assess whether customer acquisition is worthwhile."
+    },
+    {
+      "id": 143,
+      "topic": "Industrial/B2B Marketing",
+      "difficulty": "medium",
+      "question": "Industrial (B2B) markets differ from consumer markets mainly because",
+      "options": {
+        "A": "They have more buyers and smaller transaction volumes",
+        "B": "Purchases are made by organisations for production, operations, or resale, involving formal buying processes and larger transaction values",
+        "C": "Products are always more expensive than consumer goods",
+        "D": "Marketing is not required in industrial markets"
+      },
+      "correct_answer": "B",
+      "explanation": "B2B markets involve fewer but larger buyers, professional purchasing with formal procedures, longer decision cycles, and more complex buyer-seller relationships."
+    },
+    {
+      "id": 144,
+      "topic": "Industrial/B2B Marketing",
+      "difficulty": "medium",
+      "question": "Derived demand in industrial markets means",
+      "options": {
+        "A": "Demand derived from competitor pricing",
+        "B": "Demand for industrial goods is derived from the demand for the consumer goods they help produce",
+        "C": "Demand artificially stimulated through aggressive marketing",
+        "D": "Demand that does not change with price"
+      },
+      "correct_answer": "B",
+      "explanation": "Derived demand means B2B demand depends on consumer demand — e.g., demand for steel is derived from demand for cars. Consumer demand changes ripple back through the supply chain."
+    },
+    {
+      "id": 145,
+      "topic": "International Marketing",
+      "difficulty": "medium",
+      "question": "Globalisation in marketing means",
+      "options": {
+        "A": "Selling products only in African markets",
+        "B": "The trend toward a more integrated and interdependent world economy — firms marketing across national boundaries",
+        "C": "Using global pricing to set the same price in all countries",
+        "D": "Manufacturing products in the cheapest country only"
+      },
+      "correct_answer": "B",
+      "explanation": "Globalisation is the increasing integration of world markets — firms can source, produce, and sell in multiple countries, opening new markets but also increasing competition."
+    },
+    {
+      "id": 146,
+      "topic": "International Marketing",
+      "difficulty": "medium",
+      "question": "An adapted marketing strategy for international markets involves",
+      "options": {
+        "A": "Using exactly the same product and promotion in every country",
+        "B": "Adjusting the product, pricing, promotion, or distribution to suit the specific needs of each target country",
+        "C": "Selling products only in countries with similar cultures",
+        "D": "Using the same distributor in all international markets"
+      },
+      "correct_answer": "B",
+      "explanation": "An adapted strategy tailors the marketing mix to each country's cultural, economic, regulatory, and competitive environment."
+    },
+    {
+      "id": 147,
+      "topic": "Marketing Planning",
+      "difficulty": "medium",
+      "question": "A marketing plan is a document that",
+      "options": {
+        "A": "Shows a company's annual financial performance",
+        "B": "Sets out marketing objectives and strategies to achieve them within a specified time frame",
+        "C": "Lists all products offered by the company with their prices",
+        "D": "Records all sales made by the company during the year"
+      },
+      "correct_answer": "B",
+      "explanation": "A marketing plan outlines marketing objectives, strategies, and tactics along with budgets and performance measures, typically for one year."
+    },
+    {
+      "id": 148,
+      "topic": "Marketing Planning",
+      "difficulty": "medium",
+      "question": "A marketing objective should be SMART, meaning",
+      "options": {
+        "A": "Strategic, Measurable, Achievable, Resourced, Timed",
+        "B": "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "C": "Simple, Monitored, Aggressive, Reasonable, Tactical",
+        "D": "Suitable, Manageable, Accurate, Realistic, Tested"
+      },
+      "correct_answer": "B",
+      "explanation": "SMART objectives are Specific, Measurable, Achievable, Relevant, and Time-bound — e.g., 'Increase market share from 10% to 15% within 12 months.'"
+    },
+    {
+      "id": 149,
+      "topic": "Marketing Planning",
+      "difficulty": "medium",
+      "question": "Gap analysis in marketing planning identifies",
+      "options": {
+        "A": "Gaps in the company's product portfolio",
+        "B": "The difference between desired future performance and projected current performance — indicating the need for new strategies",
+        "C": "Missing pages in a marketing plan document",
+        "D": "The gap between a firm's price and the market price"
+      },
+      "correct_answer": "B",
+      "explanation": "Gap analysis identifies the strategic gap between where the company wants to be and where it is projected to be — highlighting the need for growth strategies."
+    },
+    {
+      "id": 150,
+      "topic": "Marketing Planning",
+      "difficulty": "medium",
+      "question": "The marketing audit is",
+      "options": {
+        "A": "A financial audit of the marketing department's expenditure",
+        "B": "A comprehensive, systematic examination of the marketing environment, objectives, strategies, and activities",
+        "C": "An assessment of each salesperson's performance targets",
+        "D": "A review of advertising campaign expenditure"
+      },
+      "correct_answer": "B",
+      "explanation": "A marketing audit is a systematic review of all aspects of marketing — external environment, internal performance, strategy, and organisation — to identify strengths, weaknesses, opportunities, and threats."
+    },
+    {
+      "id": 151,
+      "topic": "Ethics in Marketing",
+      "difficulty": "medium",
+      "question": "Ethical marketing requires that firms",
+      "options": {
+        "A": "Maximise profits at all costs",
+        "B": "Market products in a way that is honest, fair, and responsible to consumers and society",
+        "C": "Only market products approved by the government",
+        "D": "Avoid all forms of advertising"
+      },
+      "correct_answer": "B",
+      "explanation": "Ethical marketing involves honesty in advertising, fair pricing, responsible targeting, and consideration of social and environmental impacts — building long-term trust and brand reputation."
+    },
+    {
+      "id": 152,
+      "topic": "Ethics in Marketing",
+      "difficulty": "medium",
+      "question": "False advertising (misleading claims) is unethical because",
+      "options": {
+        "A": "It reduces the cost of marketing for companies",
+        "B": "It deceives consumers, causing them to make decisions based on inaccurate information",
+        "C": "It is less effective than truthful advertising",
+        "D": "It is prohibited by competitors' associations"
+      },
+      "correct_answer": "B",
+      "explanation": "False advertising misleads consumers, violates their right to accurate information, and can cause financial harm. It is regulated by consumer protection laws."
+    },
+    {
+      "id": 153,
+      "topic": "Digital Marketing",
+      "difficulty": "medium",
+      "question": "Search Engine Optimisation (SEO) is a digital marketing technique that",
+      "options": {
+        "A": "Pays search engines to display advertisements at the top of results",
+        "B": "Improves a website's visibility in organic (unpaid) search engine results by optimising content and structure",
+        "C": "Sends promotional emails to potential customers",
+        "D": "Creates viral content for social media platforms"
+      },
+      "correct_answer": "B",
+      "explanation": "SEO optimises website content and structure to rank higher in organic search results. Unlike paid search (PPC), SEO generates unpaid (earned) traffic."
+    },
+    {
+      "id": 154,
+      "topic": "Digital Marketing",
+      "difficulty": "medium",
+      "question": "Content marketing involves",
+      "options": {
+        "A": "Paying for promotional content in newspapers",
+        "B": "Creating and sharing valuable, relevant content (blogs, videos, guides) to attract and engage a target audience",
+        "C": "Producing product packaging that communicates the product's content",
+        "D": "Using celebrities to create content about a product"
+      },
+      "correct_answer": "B",
+      "explanation": "Content marketing creates and distributes valuable content to attract a defined audience, building trust and authority — ultimately driving profitable customer action."
+    },
+    {
+      "id": 155,
+      "topic": "Digital Marketing",
+      "difficulty": "medium",
+      "question": "Social media marketing uses platforms to",
+      "options": {
+        "A": "Only broadcast one-way messages to consumers",
+        "B": "Build brand awareness, engage audiences, run targeted ads, and drive traffic or sales through platforms like Facebook, Instagram, and TikTok",
+        "C": "Send bulk emails to all customers simultaneously",
+        "D": "Only market to business clients"
+      },
+      "correct_answer": "B",
+      "explanation": "Social media marketing uses various platforms to build brand awareness, engage audiences, run ads, and drive traffic or sales — enabling two-way communication with consumers."
+    },
+    {
+      "id": 156,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Sponsorship as a promotional tool involves",
+      "options": {
+        "A": "Paying celebrities to endorse products on social media",
+        "B": "A company financially supporting an event, activity, or person in exchange for brand visibility and positive association",
+        "C": "Offering free samples to consumers at retail outlets",
+        "D": "Providing trade discounts to retailers for prominent display"
+      },
+      "correct_answer": "B",
+      "explanation": "Sponsorship provides financial support for events (sports, arts, education) in return for brand exposure and favourable association — building awareness and enhancing brand image."
+    },
+    {
+      "id": 157,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Viral marketing is a strategy that",
+      "options": {
+        "A": "Uses computer viruses to send promotional messages",
+        "B": "Encourages consumers to pass on marketing messages to others, creating rapid, exponential spread through networks",
+        "C": "Places advertisements on highly trafficked websites",
+        "D": "Uses biological metaphors in advertising copy"
+      },
+      "correct_answer": "B",
+      "explanation": "Viral marketing creates compelling content that consumers voluntarily share, achieving exponential reach at low cost."
+    },
+    {
+      "id": 158,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Word-of-mouth (WOM) is considered highly effective because",
+      "options": {
+        "A": "It is the most expensive form of promotion",
+        "B": "It comes from trusted sources (friends, family) and is perceived as more credible than paid advertising",
+        "C": "It can be fully controlled by the marketer",
+        "D": "It reaches the largest number of people simultaneously"
+      },
+      "correct_answer": "B",
+      "explanation": "Word-of-mouth is highly credible because it comes from people the recipient knows and trusts, not from a paid source."
+    },
+    {
+      "id": 159,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Influencer marketing involves",
+      "options": {
+        "A": "Using well-known personalities to set industry prices",
+        "B": "Partnering with individuals who have a significant and engaged social media following to promote products",
+        "C": "Using government officials to endorse public service products",
+        "D": "Advertising in influential national newspapers only"
+      },
+      "correct_answer": "B",
+      "explanation": "Influencer marketing leverages social media personalities who have authority, credibility, and engaged followers in a niche area — their endorsements are seen as more authentic."
+    },
+    {
+      "id": 160,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "A loyalty programme (reward scheme) is designed to",
+      "options": {
+        "A": "Attract new customers through heavy advertising",
+        "B": "Reward existing customers for repeat purchases, increasing retention and lifetime value",
+        "C": "Give discounts to low-income customers only",
+        "D": "Promote corporate social responsibility activities"
+      },
+      "correct_answer": "B",
+      "explanation": "Loyalty programmes reward customers for repeat purchases, increasing switching costs, boosting retention, and gathering valuable purchase data."
+    },
+    {
+      "id": 161,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Consumer sales promotion tools include",
+      "options": {
+        "A": "Trade allowances and cooperative advertising",
+        "B": "Coupons, free samples, competitions, loyalty schemes, and buy-one-get-one-free offers",
+        "C": "Sales force incentives and trade shows",
+        "D": "Press releases and editorial features"
+      },
+      "correct_answer": "B",
+      "explanation": "Consumer promotions are directed at end buyers to stimulate purchase: coupons, samples, cash-back, competitions, point-of-purchase displays, and loyalty programmes."
+    },
+    {
+      "id": 162,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Trade sales promotion tools are directed at",
+      "options": {
+        "A": "Final consumers to encourage immediate purchase",
+        "B": "Retailers and wholesalers to encourage them to stock, display, and promote the manufacturer's products",
+        "C": "The media to generate editorial coverage",
+        "D": "The company's sales representatives"
+      },
+      "correct_answer": "B",
+      "explanation": "Trade promotions target intermediaries — offering discounts, free goods, cooperative advertising, and display allowances to encourage distributors and retailers to support the product."
+    },
+    {
+      "id": 163,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Guerrilla marketing involves",
+      "options": {
+        "A": "Using military strategy to defeat competitors",
+        "B": "Unconventional, low-cost, high-impact promotional tactics that create surprise, curiosity, or buzz",
+        "C": "Aggressive door-to-door sales campaigns",
+        "D": "Placing advertisements in unexpected locations without permission"
+      },
+      "correct_answer": "B",
+      "explanation": "Guerrilla marketing uses surprise, creativity, and unconventional tactics — flash mobs, unusual installations — to create maximum impact on minimal budget."
+    },
+    {
+      "id": 164,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Telemarketing is a form of direct marketing that involves",
+      "options": {
+        "A": "Marketing products through television advertisements",
+        "B": "Using the telephone to sell products or services directly to potential customers",
+        "C": "Marketing through mobile apps and SMS only",
+        "D": "Automated marketing through pre-recorded messages only"
+      },
+      "correct_answer": "B",
+      "explanation": "Telemarketing uses telephone calls to promote products, generate leads, or take orders directly from consumers."
+    },
+    {
+      "id": 165,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "Event marketing involves",
+      "options": {
+        "A": "Placing advertisements at sports events only",
+        "B": "Creating, sponsoring, or participating in events to promote a brand and engage directly with the target audience",
+        "C": "Setting up events to train the sales force",
+        "D": "Marketing events management services to corporate clients"
+      },
+      "correct_answer": "B",
+      "explanation": "Event marketing promotes a brand by creating brand experiences at events — product launches, festivals, trade shows — generating excitement and direct consumer engagement."
+    },
+    {
+      "id": 166,
+      "topic": "Competition and Market",
+      "difficulty": "medium",
+      "question": "Market share is defined as",
+      "options": {
+        "A": "The number of products sold by a company in a year",
+        "B": "A company's sales as a percentage of total industry sales",
+        "C": "The share of advertising budget spent relative to competitors",
+        "D": "The proportion of customers who are loyal to a brand"
+      },
+      "correct_answer": "B",
+      "explanation": "Market share = (Company's sales ÷ Total industry sales) × 100. It measures a firm's competitive position within its industry."
+    },
+    {
+      "id": 167,
+      "topic": "Competition and Market",
+      "difficulty": "medium",
+      "question": "A market leader is a firm that",
+      "options": {
+        "A": "Was first to enter the market",
+        "B": "Holds the largest market share and sets the tone for pricing, distribution, and promotion",
+        "C": "Has the most employees in the industry",
+        "D": "Has the highest profit margin in the market"
+      },
+      "correct_answer": "B",
+      "explanation": "The market leader holds the largest market share, often sets industry prices, and leads in new products. Examples: Coca-Cola in soft drinks."
+    },
+    {
+      "id": 168,
+      "topic": "Competition and Market",
+      "difficulty": "medium",
+      "question": "Porter's Five Forces model analyses",
+      "options": {
+        "A": "The four elements of the marketing mix",
+        "B": "The five competitive forces that determine the profitability and attractiveness of an industry",
+        "C": "Five strategies for international market entry",
+        "D": "The five stages of the consumer buying process"
+      },
+      "correct_answer": "B",
+      "explanation": "Porter's Five Forces: (1) Threat of new entrants, (2) Threat of substitutes, (3) Bargaining power of buyers, (4) Bargaining power of suppliers, (5) Rivalry among existing competitors."
+    },
+    {
+      "id": 169,
+      "topic": "Competition and Market",
+      "difficulty": "medium",
+      "question": "A seller's market is one in which",
+      "options": {
+        "A": "There are more buyers than sellers, giving sellers an advantage",
+        "B": "There are more sellers than buyers, giving buyers an advantage",
+        "C": "Supply equals demand in perfect equilibrium",
+        "D": "Government controls prices to protect sellers"
+      },
+      "correct_answer": "A",
+      "explanation": "A seller's market has more demand than supply — sellers have market power to charge higher prices. A buyer's market has excess supply, giving buyers negotiating power."
+    },
+    {
+      "id": 170,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Longitudinal research in marketing involves",
+      "options": {
+        "A": "Collecting data from a large number of respondents at a single point in time",
+        "B": "Collecting data from the same respondents repeatedly over a long period to track changes",
+        "C": "Conducting research across multiple countries simultaneously",
+        "D": "Studying the long-term effects of advertising"
+      },
+      "correct_answer": "B",
+      "explanation": "Longitudinal research tracks the same subjects over time to study trends and changes in behaviour, attitudes, or brand perceptions — used in brand tracking studies and consumer panels."
+    },
+    {
+      "id": 171,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Ethnographic research in marketing involves",
+      "options": {
+        "A": "Studying the ethnic composition of a target market",
+        "B": "Researchers immersing themselves in consumers' natural environments to observe their behaviour and lifestyles firsthand",
+        "C": "Using ethnic groups as focus groups for product testing",
+        "D": "Analysing the cultural dimensions of international markets through secondary data"
+      },
+      "correct_answer": "B",
+      "explanation": "Ethnographic research involves observing consumers in their natural settings over time to gain deep insights into behaviour, habits, and cultural influences."
+    },
+    {
+      "id": 172,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "The research hypothesis in marketing research is",
+      "options": {
+        "A": "The final conclusion of the research",
+        "B": "A testable statement about the expected relationship between variables in the research",
+        "C": "A list of research questions to be answered",
+        "D": "The researcher's personal opinion about the topic"
+      },
+      "correct_answer": "B",
+      "explanation": "A research hypothesis is a tentative, testable statement predicting a relationship between variables — e.g., 'Increasing advertising spend will increase brand awareness.'"
+    },
+    {
+      "id": 173,
+      "topic": "Marketing Research",
+      "difficulty": "medium",
+      "question": "Cluster sampling is a probability sampling technique where",
+      "options": {
+        "A": "Every nth person on a list is chosen",
+        "B": "The population is divided into clusters, a random sample of clusters is selected, then members of selected clusters are included",
+        "C": "The researcher fills predetermined quotas from specified subgroups",
+        "D": "Every member of the population has an equal chance of selection"
+      },
+      "correct_answer": "B",
+      "explanation": "Cluster sampling divides the population into clusters and randomly selects clusters. It is more economical for geographically dispersed populations."
+    },
+    {
+      "id": 174,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Product standardisation means",
+      "options": {
+        "A": "Setting government quality standards for products",
+        "B": "Offering the same product with no modifications to all markets or customer segments",
+        "C": "Producing goods to a minimum quality standard only",
+        "D": "Testing products against industry benchmarks"
+      },
+      "correct_answer": "B",
+      "explanation": "Product standardisation delivers the same product globally without adaptation, achieving economies of scale and consistent branding."
+    },
+    {
+      "id": 175,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "The concept of product obsolescence refers to",
+      "options": {
+        "A": "A product becoming unsafe for consumer use",
+        "B": "A product becoming out of date, unfashionable, or replaced by superior alternatives",
+        "C": "The process of recycling old products",
+        "D": "A legal restriction on selling outdated products"
+      },
+      "correct_answer": "B",
+      "explanation": "Product obsolescence occurs when a product is no longer desirable because of changing tastes, newer technology, or better alternatives. Planned obsolescence is a deliberate marketing strategy."
+    },
+    {
+      "id": 176,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "A product recall occurs when",
+      "options": {
+        "A": "A product is returned to the warehouse after the sales season ends",
+        "B": "A company retrieves a product from the market due to a safety defect or quality problem",
+        "C": "A retailer returns unsold goods to the manufacturer",
+        "D": "A consumer returns a product for a refund"
+      },
+      "correct_answer": "B",
+      "explanation": "A product recall is a request by a manufacturer to return a product due to safety concerns or defects. It protects consumers but damages brand reputation if not managed well."
+    },
+    {
+      "id": 177,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Product labelling serves which functions?",
+      "options": {
+        "A": "Only to comply with legal requirements",
+        "B": "To identify the product, describe its contents, provide usage instructions, and promote the brand",
+        "C": "To increase the weight and size of the product",
+        "D": "To make the product more expensive for consumers"
+      },
+      "correct_answer": "B",
+      "explanation": "Labels identify the product and brand, describe contents, ingredients and expiry dates, provide instructions, promote the brand, and comply with legal requirements."
+    },
+    {
+      "id": 178,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Geographic pricing adjusts prices based on",
+      "options": {
+        "A": "The time of day the product is purchased",
+        "B": "The buyer's location — covering delivery costs or reflecting different market conditions in different regions",
+        "C": "The age and income of the buyer",
+        "D": "The volume of the order placed by the buyer"
+      },
+      "correct_answer": "B",
+      "explanation": "Geographic pricing accounts for differences in location to ensure fair pricing relative to delivery costs and local market conditions."
+    },
+    {
+      "id": 179,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Tender pricing is used when",
+      "options": {
+        "A": "A firm wants to set the lowest possible price in the market",
+        "B": "A firm submits a sealed bid price to win a specific contract, often in public procurement",
+        "C": "A firm sets prices based on customer demand patterns",
+        "D": "Prices are set by government regulatory authorities"
+      },
+      "correct_answer": "B",
+      "explanation": "Tender (sealed bid) pricing is used when companies submit competitive bids for contracts, balancing a low enough price to win with a high enough price to make profit."
+    },
+    {
+      "id": 180,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Price leadership occurs when",
+      "options": {
+        "A": "The cheapest firm sets the price for all competitors",
+        "B": "A dominant firm sets the price that other firms in the industry tend to follow",
+        "C": "The government sets prices for all firms in an industry",
+        "D": "All firms simultaneously raise their prices"
+      },
+      "correct_answer": "B",
+      "explanation": "Price leadership is when the market leader sets the price and competitors follow, avoiding price wars in oligopolistic markets."
+    },
+    {
+      "id": 181,
+      "topic": "Marketing Environment",
+      "difficulty": "medium",
+      "question": "Demographic factors that affect marketing decisions include",
+      "options": {
+        "A": "Interest rates and inflation",
+        "B": "Population size, age structure, urbanisation, and household composition",
+        "C": "Government regulations and trade policies",
+        "D": "Technological innovation and digital transformation"
+      },
+      "correct_answer": "B",
+      "explanation": "Demographic factors (population size, age distribution, urban/rural split, birth rates, household size) directly affect demand for products and help firms target the right segments."
+    },
+    {
+      "id": 182,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "The family life cycle influences buying behaviour because",
+      "options": {
+        "A": "Families have more buying power than individuals",
+        "B": "Consumers' needs, priorities, and spending patterns change as they move through different life stages",
+        "C": "Families always buy more expensive products",
+        "D": "Family members always agree on what to buy"
+      },
+      "correct_answer": "B",
+      "explanation": "The family life cycle (young single, young married, parents, empty nesters, retired) influences buying behaviour — priorities and spending patterns change at each stage."
+    },
+    {
+      "id": 183,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "Opinion leaders influence consumer behaviour because they",
+      "options": {
+        "A": "Set the prices of goods in the market",
+        "B": "Are trusted sources whose views and recommendations are respected by their social groups",
+        "C": "Are government officials who approve advertising",
+        "D": "Manufacture the products that consumers buy"
+      },
+      "correct_answer": "B",
+      "explanation": "Opinion leaders are influential members of reference groups whose views are respected. Word-of-mouth from opinion leaders is one of the most powerful forms of promotion."
+    },
+    {
+      "id": 184,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Market development in Ansoff's matrix involves",
+      "options": {
+        "A": "Selling more of an existing product in existing markets",
+        "B": "Selling existing products to new markets or new segments",
+        "C": "Introducing new products to existing markets",
+        "D": "Launching new products in new markets"
+      },
+      "correct_answer": "B",
+      "explanation": "Market development = existing products to new markets (new geographic regions, new customer segments). It is the second-lowest risk Ansoff strategy after market penetration."
+    },
+    {
+      "id": 185,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "Product development in Ansoff's matrix involves",
+      "options": {
+        "A": "Selling existing products to new markets",
+        "B": "Developing new products for existing markets",
+        "C": "Entering new markets with new products",
+        "D": "Increasing sales of existing products in existing markets"
+      },
+      "correct_answer": "B",
+      "explanation": "Product development = new or modified products offered to existing markets. It leverages existing customer relationships while introducing new products."
+    },
+    {
+      "id": 186,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "A wholesaler adds value in the distribution channel by",
+      "options": {
+        "A": "Setting the final price consumers pay for products",
+        "B": "Performing sorting, storing, transporting, financing, risk-bearing, and information-sharing functions",
+        "C": "Manufacturing goods on behalf of retailers",
+        "D": "Advertising directly to consumers to drive traffic to retailers"
+      },
+      "correct_answer": "B",
+      "explanation": "Wholesalers add value through bulk-breaking, storage, credit financing for retailers, risk-bearing, transportation, and market information, enabling manufacturers to reach widely dispersed retailers efficiently."
+    },
+    {
+      "id": 187,
+      "topic": "Promotion",
+      "difficulty": "medium",
+      "question": "The advertising agency's creative brief is a document that",
+      "options": {
+        "A": "Summarises the agency's billing to the client",
+        "B": "Outlines the objectives, target audience, key message, tone, and deliverables for an advertising campaign",
+        "C": "Describes the media plan for distributing an advertisement",
+        "D": "Provides a legal agreement between the agency and the client"
+      },
+      "correct_answer": "B",
+      "explanation": "A creative brief outlines campaign objectives, target audience, key insight, message, tone, and executional requirements — guiding the creative team in developing the advertisement."
+    },
+    {
+      "id": 188,
+      "topic": "Marketing Metrics",
+      "difficulty": "medium",
+      "question": "Return on Marketing Investment (ROMI) measures",
+      "options": {
+        "A": "The total profit generated by the company in a financial year",
+        "B": "The financial return generated by marketing activities relative to the cost of those activities",
+        "C": "The return on investment from advertising only",
+        "D": "The total market value of a company's brand portfolio"
+      },
+      "correct_answer": "B",
+      "explanation": "ROMI = (Revenue attributed to marketing – Marketing costs) ÷ Marketing costs × 100. It assesses the efficiency of marketing spending in generating revenue."
+    },
+    {
+      "id": 189,
+      "topic": "Branding",
+      "difficulty": "medium",
+      "question": "A brand mark (logo) is",
+      "options": {
+        "A": "The spoken part of the brand — the name",
+        "B": "The visual symbol or design that identifies the brand and cannot be spoken",
+        "C": "The registered trademark number of the brand",
+        "D": "The slogan used in advertising the brand"
+      },
+      "correct_answer": "B",
+      "explanation": "A brand mark is the visual element (logo, symbol, icon) that identifies the brand but cannot be spoken — e.g., Nike's swoosh or Apple's bitten apple."
+    },
+    {
+      "id": 190,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "A want in marketing is defined as",
+      "options": {
+        "A": "A basic state of felt deprivation",
+        "B": "A human need shaped by culture, personality, and individual experience",
+        "C": "A demand backed by purchasing power",
+        "D": "A government regulation on what consumers must buy"
+      },
+      "correct_answer": "B",
+      "explanation": "A want is a need shaped by culture and individual personality — e.g., a need for food becomes a want for a specific cuisine. Wants become demands when backed by purchasing power."
+    },
+    {
+      "id": 191,
+      "topic": "Market Segmentation",
+      "difficulty": "medium",
+      "question": "Positioning statement defines",
+      "options": {
+        "A": "Where a product will be sold geographically",
+        "B": "The target segment and the key benefit or difference a brand offers relative to competitors",
+        "C": "The price at which a product will be positioned in the market",
+        "D": "The advertising budget allocated to promote a product"
+      },
+      "correct_answer": "B",
+      "explanation": "A positioning statement communicates the target market, frame of reference, point of difference, and why consumers should believe the brand's claim."
+    },
+    {
+      "id": 192,
+      "topic": "Product",
+      "difficulty": "medium",
+      "question": "Product depth refers to",
+      "options": {
+        "A": "The number of different product lines in a company's mix",
+        "B": "The number of versions or variants offered within each product line",
+        "C": "The total number of individual products in all product lines",
+        "D": "The quality level of a product compared to competitors"
+      },
+      "correct_answer": "B",
+      "explanation": "Product depth refers to the number of variants in a product line — e.g., a shampoo line offered in 5 sizes and 3 formulations has a depth of 15 items."
+    },
+    {
+      "id": 193,
+      "topic": "Pricing",
+      "difficulty": "medium",
+      "question": "Optional product pricing involves",
+      "options": {
+        "A": "Selling a main product at a low price and making profit on optional extras",
+        "B": "Offering the same product at different prices in different markets",
+        "C": "Setting no fixed price — allowing customers to decide what to pay",
+        "D": "Pricing products as part of a bundle"
+      },
+      "correct_answer": "A",
+      "explanation": "Optional product pricing charges a base price for a product and extra for optional accessories or features — the main product generates traffic; the extras generate profit."
+    },
+    {
+      "id": 194,
+      "topic": "Services Marketing",
+      "difficulty": "medium",
+      "question": "Which of the following marketing strategies can help manage the perishability of services?",
+      "options": {
+        "A": "Using more attractive product packaging",
+        "B": "Differential pricing, advance reservations, and demand stimulation during off-peak periods",
+        "C": "Increasing product inventory during peak demand",
+        "D": "Reducing the number of service outlets"
+      },
+      "correct_answer": "B",
+      "explanation": "To manage perishability, service marketers use differential pricing (e.g., off-peak discounts), advance reservations, and demand stimulation during slow periods — matching supply and demand."
+    },
+    {
+      "id": 195,
+      "topic": "Advertising",
+      "difficulty": "medium",
+      "question": "Digital (online) advertising advantages over traditional media include",
+      "options": {
+        "A": "Higher production costs and longer lead times",
+        "B": "Precise targeting, real-time performance tracking, interactivity, and lower minimum budgets",
+        "C": "Guaranteed high viewership regardless of content quality",
+        "D": "Inability to measure return on investment"
+      },
+      "correct_answer": "B",
+      "explanation": "Digital advertising enables precise audience targeting, real-time tracking of clicks and conversions, interactive formats, and lower entry costs compared to TV or print."
+    },
+    {
+      "id": 196,
+      "topic": "Marketing Planning",
+      "difficulty": "medium",
+      "question": "The marketing budget is",
+      "options": {
+        "A": "The total profit target of the marketing department",
+        "B": "The financial plan allocating resources to different marketing activities over a specified period",
+        "C": "The government's allocation to national marketing campaigns",
+        "D": "The revenue generated by the marketing department in a year"
+      },
+      "correct_answer": "B",
+      "explanation": "The marketing budget specifies how funds are allocated across marketing activities — advertising, research, sales force, promotions, PR — aligning spending with strategic priorities."
+    },
+    {
+      "id": 197,
+      "topic": "Distribution",
+      "difficulty": "medium",
+      "question": "Franchising as a distribution method means",
+      "options": {
+        "A": "Selling goods on credit to retailers",
+        "B": "The franchisor grants franchisees the right to use its brand and business system in exchange for fees",
+        "C": "A manufacturer selling directly to consumers",
+        "D": "Distributing goods through government-approved agents only"
+      },
+      "correct_answer": "B",
+      "explanation": "In a franchise distribution system, the franchisor grants the franchisee the right to sell its products using its brand, systems, and support — in return for fees and royalties."
+    },
+    {
+      "id": 198,
+      "topic": "Consumer Behaviour",
+      "difficulty": "medium",
+      "question": "The psychological factor of perception influences buying because",
+      "options": {
+        "A": "It determines how much money consumers are willing to spend",
+        "B": "Consumers select, organise, and interpret information in ways that create a personal picture of the world — affecting what they buy and how they respond to marketing",
+        "C": "Perception is the same for all consumers in a market",
+        "D": "It only affects consumer choices for luxury goods"
+      },
+      "correct_answer": "B",
+      "explanation": "Perception is the process by which people select and interpret stimuli — two consumers can have different perceptions of the same product, affecting their buying decisions differently."
+    },
+    {
+      "id": 199,
+      "topic": "Marketing Strategy",
+      "difficulty": "medium",
+      "question": "The term 'first mover advantage' in marketing means",
+      "options": {
+        "A": "The benefit of being the first company to reduce prices in a market",
+        "B": "The competitive advantage gained by being the first to enter a new market or introduce a new product",
+        "C": "The advantage of being the first company to advertise on a new media platform",
+        "D": "The benefit of being the first retailer to open in a new geographic area"
+      },
+      "correct_answer": "B",
+      "explanation": "First mover advantage is the competitive edge gained by entering a market early — establishing brand recognition, customer loyalty, and resource control before competitors arrive."
+    },
+    {
+      "id": 200,
+      "topic": "Introduction to Marketing",
+      "difficulty": "medium",
+      "question": "The marketing mix is described as 'controllable' variables because",
+      "options": {
+        "A": "They are set by government regulations",
+        "B": "They are internal factors that the firm can adjust and control to achieve its marketing objectives",
+        "C": "They control the behaviour of consumers in the market",
+        "D": "They are fixed once a marketing plan is developed"
+      },
+      "correct_answer": "B",
+      "explanation": "The marketing mix (4Ps/7Ps) consists of variables within the firm's control — unlike external PESTEL and competitive forces. Firms adjust the mix to respond to market conditions and customer needs."
+    }
+  ]
+}

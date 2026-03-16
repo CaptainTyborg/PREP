@@ -1,0 +1,2806 @@
+{
+  "subject": "Financial Accounting",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following BEST defines accounting?",
+      "options": {
+        "A": "The process of recording only cash transactions of a business",
+        "B": "The art of recording, classifying, summarising, and interpreting financial transactions",
+        "C": "The preparation of tax returns for a business",
+        "D": "The management of a company's investments"
+      },
+      "correct_answer": "B",
+      "explanation": "Accounting involves recording, classifying, summarising, and communicating financial information to help users make economic decisions."
+    },
+    {
+      "id": 2,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The going concern concept assumes that",
+      "options": {
+        "A": "A business will be liquidated in the near future",
+        "B": "A business will continue to operate indefinitely",
+        "C": "All assets must be recorded at their current market value",
+        "D": "Profits should be recognised only when cash is received"
+      },
+      "correct_answer": "B",
+      "explanation": "The going concern concept assumes that a business will continue to operate for the foreseeable future, so assets are valued at cost rather than liquidation value."
+    },
+    {
+      "id": 3,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The accruals (matching) concept requires that",
+      "options": {
+        "A": "Revenue and expenses are recorded only when cash changes hands",
+        "B": "Revenue and expenses are matched to the period in which they are earned or incurred",
+        "C": "All expenses must be paid before year end",
+        "D": "Revenue must exceed expenses in every accounting period"
+      },
+      "correct_answer": "B",
+      "explanation": "The accruals concept states that income and expenditure should be recognised in the period they are earned or incurred, not when cash is received or paid."
+    },
+    {
+      "id": 4,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The prudence (conservatism) concept states that",
+      "options": {
+        "A": "Profits should be recognised as early as possible",
+        "B": "Anticipated profits should not be recorded but anticipated losses should be provided for",
+        "C": "Assets should always be recorded at their highest possible value",
+        "D": "All expenses, whether certain or not, should be charged immediately"
+      },
+      "correct_answer": "B",
+      "explanation": "Prudence requires accountants not to overstate profits or assets — anticipated losses are recognised immediately but anticipated gains are only recorded when certain."
+    },
+    {
+      "id": 5,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The consistency concept in accounting means that",
+      "options": {
+        "A": "A business must use the same accounting methods from one period to the next",
+        "B": "All accountants in a company must use the same methods",
+        "C": "Financial statements must be prepared on the same day each year",
+        "D": "A business must use internationally recognised accounting standards"
+      },
+      "correct_answer": "A",
+      "explanation": "The consistency concept requires that once a business adopts an accounting method (e.g., depreciation method), it continues to use the same method in subsequent periods, enabling meaningful comparisons."
+    },
+    {
+      "id": 6,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The business entity concept requires that",
+      "options": {
+        "A": "All businesses in the same industry use the same accounting methods",
+        "B": "The business is treated as separate from its owners for accounting purposes",
+        "C": "Only large businesses need to prepare financial statements",
+        "D": "A business must register with the government before recording transactions"
+      },
+      "correct_answer": "B",
+      "explanation": "The business entity concept treats the business as a separate entity from its owners. The owner's personal transactions are kept separate from those of the business."
+    },
+    {
+      "id": 7,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The money measurement concept states that",
+      "options": {
+        "A": "Only transactions denominated in foreign currency are recorded",
+        "B": "Only transactions that can be expressed in monetary terms are recorded in the accounts",
+        "C": "All assets must be valued at their current money value",
+        "D": "Money paid for assets is more important than their replacement cost"
+      },
+      "correct_answer": "B",
+      "explanation": "The money measurement concept means accounting only records transactions that can be expressed in monetary terms. Non-monetary items like staff morale or reputation are not recorded."
+    },
+    {
+      "id": 8,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "Capital expenditure is expenditure on",
+      "options": {
+        "A": "Day-to-day running costs of a business such as rent and wages",
+        "B": "Acquiring fixed assets or improving their earning capacity",
+        "C": "Purchasing goods for resale",
+        "D": "Paying dividends to shareholders"
+      },
+      "correct_answer": "B",
+      "explanation": "Capital expenditure is spending on fixed assets (e.g., buying machinery, vehicles) or improving existing assets. It appears on the balance sheet, not the profit and loss account."
+    },
+    {
+      "id": 9,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "Revenue expenditure is expenditure on",
+      "options": {
+        "A": "The purchase of fixed assets for use in the business",
+        "B": "Day-to-day running expenses of the business",
+        "C": "Extending or improving a fixed asset",
+        "D": "Repaying long-term loans"
+      },
+      "correct_answer": "B",
+      "explanation": "Revenue expenditure covers the day-to-day operating costs of a business (rent, wages, electricity, repairs). It is charged to the profit and loss account in the period incurred."
+    },
+    {
+      "id": 10,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The dual aspect (duality) concept states that",
+      "options": {
+        "A": "A business must have two bank accounts",
+        "B": "Every transaction has two equal and opposite effects — a debit and a credit",
+        "C": "All accounts must be balanced twice a year",
+        "D": "Financial statements must be prepared in two currencies"
+      },
+      "correct_answer": "B",
+      "explanation": "The dual aspect (double-entry) concept means every transaction affects at least two accounts — for every debit there is an equal credit, maintaining the accounting equation: Assets = Liabilities + Capital."
+    },
+    {
+      "id": 11,
+      "topic": "Source Documents",
+      "difficulty": "medium",
+      "question": "A source document is",
+      "options": {
+        "A": "The final account prepared at year end",
+        "B": "The original written evidence for a business transaction",
+        "C": "A summary of all ledger accounts",
+        "D": "The auditor's report on the financial statements"
+      },
+      "correct_answer": "B",
+      "explanation": "A source document is the original evidence of a business transaction — examples include invoices, receipts, credit notes, cheque stubs, and bank statements."
+    },
+    {
+      "id": 12,
+      "topic": "Source Documents",
+      "difficulty": "medium",
+      "question": "Which source document is used to record a credit sale?",
+      "options": {
+        "A": "Debit note",
+        "B": "Receipt",
+        "C": "Sales invoice",
+        "D": "Credit note"
+      },
+      "correct_answer": "C",
+      "explanation": "A sales invoice is issued by the seller to the buyer for goods sold on credit. It is the source document used to record a credit sale in the sales day book."
+    },
+    {
+      "id": 13,
+      "topic": "Source Documents",
+      "difficulty": "medium",
+      "question": "A credit note is used to record",
+      "options": {
+        "A": "A cash payment made by the business",
+        "B": "Goods returned by a customer or an overcharge to a customer",
+        "C": "Interest charged on an overdue account",
+        "D": "A new credit sale made to a customer"
+      },
+      "correct_answer": "B",
+      "explanation": "A credit note is issued by the seller when goods are returned by the buyer or when the buyer was overcharged. It reduces the amount the buyer owes."
+    },
+    {
+      "id": 14,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The sales day book (journal) is used to record",
+      "options": {
+        "A": "All sales, both cash and credit",
+        "B": "Only credit sales of goods",
+        "C": "Cash received from customers",
+        "D": "Returns of goods by customers"
+      },
+      "correct_answer": "B",
+      "explanation": "The sales day book records all credit sales of goods only. Cash sales are recorded directly in the cash book, not the sales day book."
+    },
+    {
+      "id": 15,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The purchases day book is used to record",
+      "options": {
+        "A": "All purchases, both cash and credit",
+        "B": "Only credit purchases of goods for resale",
+        "C": "Cash paid to suppliers",
+        "D": "Goods returned to suppliers"
+      },
+      "correct_answer": "B",
+      "explanation": "The purchases day book records only credit purchases of goods for resale. Cash purchases go directly to the cash book."
+    },
+    {
+      "id": 16,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The returns inwards (sales returns) day book records",
+      "options": {
+        "A": "Goods purchased and returned to the supplier",
+        "B": "Goods returned by customers to the business",
+        "C": "Cash refunds given to customers",
+        "D": "Damaged goods written off by the business"
+      },
+      "correct_answer": "B",
+      "explanation": "Returns inwards (sales returns) are goods returned by customers. They are recorded in the returns inwards day book and are posted as a debit to sales returns account and a credit to the customer's account."
+    },
+    {
+      "id": 17,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The journal proper (general journal) is used to record",
+      "options": {
+        "A": "All daily cash transactions",
+        "B": "Transactions that do not fit in any other book of original entry — such as correction of errors and opening entries",
+        "C": "Monthly summaries of all ledger accounts",
+        "D": "Bank transactions only"
+      },
+      "correct_answer": "B",
+      "explanation": "The journal proper (general journal) records unusual or non-routine transactions including: opening entries, correction of errors, purchase/sale of fixed assets on credit, depreciation, and bad debts written off."
+    },
+    {
+      "id": 18,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The cash book serves as both a book of original entry and a",
+      "options": {
+        "A": "Trial balance",
+        "B": "Ledger account (the cash account and bank account in the ledger)",
+        "C": "Final account",
+        "D": "Source document"
+      },
+      "correct_answer": "B",
+      "explanation": "The cash book is a book of prime entry for all cash and bank transactions. It also serves as the cash account and bank account in the ledger — making it both a book of original entry and a ledger account."
+    },
+    {
+      "id": 19,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "A petty cash book is maintained to record",
+      "options": {
+        "A": "Large payments made by cheque",
+        "B": "Small cash payments for minor expenses",
+        "C": "All transactions involving foreign currency",
+        "D": "Monthly salaries paid to employees"
+      },
+      "correct_answer": "B",
+      "explanation": "A petty cash book records small, routine cash payments (e.g., postage, stationery, bus fares). It operates on the imprest system — a fixed float is topped up to the same amount at the start of each period."
+    },
+    {
+      "id": 20,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "Under the imprest system of petty cash, the petty cashier is reimbursed",
+      "options": {
+        "A": "A fixed amount at the beginning of every month",
+        "B": "The exact amount spent during the period to restore the float to its original level",
+        "C": "All cash collected from customers",
+        "D": "The total of all receipts during the period"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the imprest system, the petty cashier is given a fixed float. At the end of the period, the main cashier reimburses exactly the amount spent, restoring the float to its original level."
+    },
+    {
+      "id": 21,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "In double-entry bookkeeping, which of the following is correct?",
+      "options": {
+        "A": "All debits are on the right side of an account",
+        "B": "For every debit entry there is a corresponding credit entry of equal value",
+        "C": "Only liabilities are credited",
+        "D": "Cash accounts are always debited"
+      },
+      "correct_answer": "B",
+      "explanation": "Double-entry bookkeeping requires that every transaction is recorded as a debit in one account and an equal credit in another account, keeping the accounting equation in balance."
+    },
+    {
+      "id": 22,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "When a business purchases goods for cash, the correct double entry is",
+      "options": {
+        "A": "Debit purchases account; Credit cash account",
+        "B": "Debit cash account; Credit purchases account",
+        "C": "Debit sales account; Credit cash account",
+        "D": "Debit cash account; Credit sales account"
+      },
+      "correct_answer": "A",
+      "explanation": "Purchasing goods increases the purchases account (debit) and decreases cash (credit). Rule: Debit what comes in; Credit what goes out — but for nominal accounts, debit all expenses."
+    },
+    {
+      "id": 23,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "When a business sells goods on credit to a customer, the double entry is",
+      "options": {
+        "A": "Debit sales account; Credit debtor's account",
+        "B": "Debit debtor's account; Credit sales account",
+        "C": "Debit cash account; Credit sales account",
+        "D": "Debit sales account; Credit cash account"
+      },
+      "correct_answer": "B",
+      "explanation": "A credit sale creates a debtor (asset increases — debit) and recognises revenue (sales account — credit). Debit the debtor's account; Credit the sales account."
+    },
+    {
+      "id": 24,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "The accounting equation is expressed as",
+      "options": {
+        "A": "Assets = Revenue – Expenses",
+        "B": "Assets = Capital + Liabilities",
+        "C": "Assets = Liabilities – Capital",
+        "D": "Capital = Assets + Liabilities"
+      },
+      "correct_answer": "B",
+      "explanation": "The fundamental accounting equation is: Assets = Capital + Liabilities. Every transaction maintains this equality through the double-entry system."
+    },
+    {
+      "id": 25,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "A debit balance on a ledger account indicates",
+      "options": {
+        "A": "The account has a credit balance brought forward",
+        "B": "The account has more debits than credits — typically an asset or expense",
+        "C": "The account belongs to a creditor",
+        "D": "The business owes money to the account holder"
+      },
+      "correct_answer": "B",
+      "explanation": "A debit balance (total debits > total credits) typically indicates an asset, expense, or drawings account. A credit balance typically indicates a liability, income, or capital account."
+    },
+    {
+      "id": 26,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "When rent is paid by cheque, the double entry is",
+      "options": {
+        "A": "Debit bank account; Credit rent account",
+        "B": "Debit rent account; Credit bank account",
+        "C": "Debit rent account; Credit cash account",
+        "D": "Debit capital account; Credit rent account"
+      },
+      "correct_answer": "B",
+      "explanation": "Paying rent is an expense (debit rent account) and reduces the bank balance (credit bank account)."
+    },
+    {
+      "id": 27,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "Drawing cash from the bank for office use requires",
+      "options": {
+        "A": "Debit bank account; Credit cash account",
+        "B": "Debit cash account; Credit bank account",
+        "C": "Debit capital account; Credit bank account",
+        "D": "Debit drawings account; Credit bank account"
+      },
+      "correct_answer": "B",
+      "explanation": "Withdrawing cash from the bank for office use: cash increases (debit cash account) and bank decreases (credit bank account). This is a contra entry in the cash book."
+    },
+    {
+      "id": 28,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "When a debtor pays by cheque, the double entry is",
+      "options": {
+        "A": "Debit debtor's account; Credit bank account",
+        "B": "Debit bank account; Credit debtor's account",
+        "C": "Debit cash account; Credit debtor's account",
+        "D": "Debit sales account; Credit bank account"
+      },
+      "correct_answer": "B",
+      "explanation": "When a debtor pays by cheque: bank increases (debit bank account) and the debtor's balance is reduced (credit debtor's account)."
+    },
+    {
+      "id": 29,
+      "topic": "Trial Balance",
+      "difficulty": "medium",
+      "question": "A trial balance is prepared to",
+      "options": {
+        "A": "Show the financial position of a business",
+        "B": "Verify that total debits equal total credits in the ledger",
+        "C": "Calculate the profit for the year",
+        "D": "Show cash balances only"
+      },
+      "correct_answer": "B",
+      "explanation": "A trial balance is extracted from the ledger to check the arithmetic accuracy of the double-entry system — if total debits equal total credits, the ledger is in balance (though some errors may still exist)."
+    },
+    {
+      "id": 30,
+      "topic": "Trial Balance",
+      "difficulty": "medium",
+      "question": "Which of the following errors will NOT be revealed by a trial balance?",
+      "options": {
+        "A": "A transaction posted to the wrong side of an account",
+        "B": "An error of omission — a transaction completely omitted from the books",
+        "C": "An arithmetic error in totalling a ledger account",
+        "D": "A transposition error in posting an amount"
+      },
+      "correct_answer": "B",
+      "explanation": "A trial balance will NOT detect errors of omission (both debit and credit omitted), errors of commission (wrong account but correct side), errors of principle, and compensating errors, because they leave the trial balance still balanced."
+    },
+    {
+      "id": 31,
+      "topic": "Trial Balance",
+      "difficulty": "medium",
+      "question": "Which of the following items appears on the debit side of a trial balance?",
+      "options": {
+        "A": "Capital",
+        "B": "Trade creditors",
+        "C": "Carriage inwards",
+        "D": "Bank overdraft"
+      },
+      "correct_answer": "C",
+      "explanation": "Debit balances include assets, expenses, and drawings. Carriage inwards is an expense (debit). Capital, creditors, and bank overdraft are credit balances."
+    },
+    {
+      "id": 32,
+      "topic": "Trial Balance",
+      "difficulty": "medium",
+      "question": "A provision for bad debts account has a credit balance because",
+      "options": {
+        "A": "It represents cash received from debtors",
+        "B": "It is a reduction of the asset (debtors) on the balance sheet",
+        "C": "It is an income item in the profit and loss account",
+        "D": "It represents money owed by the business"
+      },
+      "correct_answer": "B",
+      "explanation": "A provision for bad debts is a credit balance — it is a contra asset account that reduces the value of debtors on the balance sheet to reflect the amount expected to be collected."
+    },
+    {
+      "id": 33,
+      "topic": "Bank Reconciliation",
+      "difficulty": "medium",
+      "question": "A bank reconciliation statement is prepared to",
+      "options": {
+        "A": "Show the profit made from bank transactions",
+        "B": "Reconcile the difference between the cash book bank balance and the bank statement balance",
+        "C": "Confirm the amount owed to the bank",
+        "D": "Show all transactions processed by the bank in the year"
+      },
+      "correct_answer": "B",
+      "explanation": "A bank reconciliation statement explains the differences between the balance in the firm's cash book and the balance shown on the bank statement, due to timing differences and bank errors."
+    },
+    {
+      "id": 34,
+      "topic": "Bank Reconciliation",
+      "difficulty": "medium",
+      "question": "Unpresented (outstanding) cheques are cheques that",
+      "options": {
+        "A": "Have been returned by the bank due to insufficient funds",
+        "B": "Have been written and recorded in the cash book but not yet presented to the bank for payment",
+        "C": "Have been cancelled by the drawer before being cashed",
+        "D": "Were issued in the previous accounting period"
+      },
+      "correct_answer": "B",
+      "explanation": "Unpresented cheques have been issued and recorded in the cash book as a credit, but have not yet been presented to the bank. They cause the cash book balance to be lower than the bank statement balance."
+    },
+    {
+      "id": 35,
+      "topic": "Bank Reconciliation",
+      "difficulty": "medium",
+      "question": "Outstanding lodgements (uncleared deposits) are amounts that",
+      "options": {
+        "A": "Have been credited in the cash book but not yet credited by the bank on the statement",
+        "B": "Have been debited by the bank but not yet recorded in the cash book",
+        "C": "Are disputed transactions between the firm and the bank",
+        "D": "Represent dishonoured cheques returned by the bank"
+      },
+      "correct_answer": "A",
+      "explanation": "Outstanding lodgements (deposits in transit) are cash/cheques recorded as debits in the firm's cash book but not yet shown as credits on the bank statement because the bank has not processed them yet."
+    },
+    {
+      "id": 36,
+      "topic": "Bank Reconciliation",
+      "difficulty": "medium",
+      "question": "Bank charges appear on the bank statement but not in the cash book. When updating the cash book, bank charges should be",
+      "options": {
+        "A": "Added to the cash book balance",
+        "B": "Deducted from the cash book balance (credited in the cash book)",
+        "C": "Ignored as they are a bank error",
+        "D": "Added to the bank statement balance"
+      },
+      "correct_answer": "B",
+      "explanation": "Bank charges are debited by the bank on the bank statement. To update the cash book, they are recorded as a credit in the cash book (reducing the cash book balance)."
+    },
+    {
+      "id": 37,
+      "topic": "Control Accounts",
+      "difficulty": "medium",
+      "question": "A sales ledger control account (debtors control account) is used to",
+      "options": {
+        "A": "Record all credit purchases from suppliers",
+        "B": "Provide a summary total of all individual debtors' balances as a check on the sales ledger",
+        "C": "Record cash sales made during the period",
+        "D": "Control the amount of credit given to each customer"
+      },
+      "correct_answer": "B",
+      "explanation": "The sales ledger control account contains summary totals of all transactions affecting debtors. Its closing balance should equal the sum of all individual debtors' account balances in the sales ledger."
+    },
+    {
+      "id": 38,
+      "topic": "Control Accounts",
+      "difficulty": "medium",
+      "question": "Which of the following will be debited in the purchases ledger control account?",
+      "options": {
+        "A": "Credit purchases during the period",
+        "B": "Returns outwards (goods returned to suppliers)",
+        "C": "Discount received from suppliers",
+        "D": "Payments made to suppliers"
+      },
+      "correct_answer": "D",
+      "explanation": "The purchases ledger control account is credited with credit purchases (increasing what we owe) and debited with payments to suppliers, returns outwards, and discounts received (reducing what we owe)."
+    },
+    {
+      "id": 39,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "An error of commission occurs when",
+      "options": {
+        "A": "A transaction is completely omitted from the books",
+        "B": "A transaction is posted to the correct side but to the wrong personal account",
+        "C": "A transaction is recorded using the wrong accounting principle",
+        "D": "Two errors cancel each other out"
+      },
+      "correct_answer": "B",
+      "explanation": "An error of commission is when the correct amount is posted to the correct side (debit/credit) but to the wrong account — e.g., posting a sale to the account of the wrong customer."
+    },
+    {
+      "id": 40,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "An error of principle occurs when",
+      "options": {
+        "A": "A transaction is posted to the wrong personal account",
+        "B": "A transaction is entered in the wrong class of account — e.g., treating capital expenditure as revenue expenditure",
+        "C": "Both debit and credit entries for a transaction are omitted",
+        "D": "The wrong amount is entered on both sides of a transaction"
+      },
+      "correct_answer": "B",
+      "explanation": "An error of principle is when a transaction is recorded in the wrong type of account — e.g., debiting repairs (revenue) instead of machinery (capital). The trial balance still balances."
+    },
+    {
+      "id": 41,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "A compensating error occurs when",
+      "options": {
+        "A": "An error on one account is cancelled by an equal error on another account",
+        "B": "A transaction is recorded twice in the books",
+        "C": "The correct amount is posted to the wrong account",
+        "D": "A transaction is posted to the wrong side of the correct account"
+      },
+      "correct_answer": "A",
+      "explanation": "Compensating errors are two or more errors that cancel each other out — one error is equal and opposite to another, so the trial balance still agrees despite the errors."
+    },
+    {
+      "id": 42,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "A suspense account is opened when",
+      "options": {
+        "A": "A new business is started",
+        "B": "The trial balance does not balance — to hold the difference temporarily until errors are found",
+        "C": "The business wants to defer payment of a liability",
+        "D": "An accountant is unsure whether to record a transaction"
+      },
+      "correct_answer": "B",
+      "explanation": "When the trial balance does not agree, the difference is placed in a suspense account. As errors are found and corrected, journal entries are made to clear the suspense account until its balance becomes zero."
+    },
+    {
+      "id": 43,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "The reversal of entries error occurs when",
+      "options": {
+        "A": "A transaction is completely omitted from the books",
+        "B": "The correct amounts are entered but the debit and credit are reversed",
+        "C": "Two transactions are merged into one entry",
+        "D": "The same transaction is recorded in two different books"
+      },
+      "correct_answer": "B",
+      "explanation": "A reversal of entries error means the correct accounts are used and the correct amounts recorded, but the debit and credit are swapped — e.g., debiting the creditor instead of crediting, and crediting purchases instead of debiting."
+    },
+    {
+      "id": 44,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "Depreciation is defined as",
+      "options": {
+        "A": "The physical wear and tear of a fixed asset only",
+        "B": "The systematic allocation of the cost of a fixed asset over its useful economic life",
+        "C": "The reduction in market value of an asset due to inflation",
+        "D": "The cost of repairing a fixed asset"
+      },
+      "correct_answer": "B",
+      "explanation": "Depreciation is the process of spreading the cost of a fixed asset over its useful life. It matches the cost of the asset against the revenues it helps generate."
+    },
+    {
+      "id": 45,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "Under the straight-line method of depreciation, the annual depreciation charge is",
+      "options": {
+        "A": "Higher in the early years and reduces over time",
+        "B": "A constant amount each year throughout the asset's useful life",
+        "C": "Based on the asset's net book value at the start of each year",
+        "D": "Variable depending on the usage of the asset each year"
+      },
+      "correct_answer": "B",
+      "explanation": "The straight-line method charges an equal (fixed) amount of depreciation each year: Annual depreciation = (Cost – Residual value) ÷ Useful life."
+    },
+    {
+      "id": 46,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "The reducing balance (diminishing balance) method of depreciation charges",
+      "options": {
+        "A": "The same amount of depreciation every year",
+        "B": "A fixed percentage of the asset's net book value each year — higher in early years and decreasing over time",
+        "C": "Depreciation only in the years the asset is used",
+        "D": "Depreciation based on the units produced by the asset"
+      },
+      "correct_answer": "B",
+      "explanation": "The reducing balance method applies a fixed percentage to the asset's net book value (cost less accumulated depreciation). This gives higher depreciation in early years, which reduces over time."
+    },
+    {
+      "id": 47,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "A machine costs ₦50,000, has a residual value of ₦5,000, and a useful life of 5 years. Annual depreciation using the straight-line method is",
+      "options": {
+        "A": "₦10,000",
+        "B": "₦9,000",
+        "C": "₦8,000",
+        "D": "₦11,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Annual depreciation = (Cost – Residual value) ÷ Useful life = (₦50,000 – ₦5,000) ÷ 5 = ₦45,000 ÷ 5 = ₦9,000 per year."
+    },
+    {
+      "id": 48,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "The net book value (NBV) of an asset is",
+      "options": {
+        "A": "The current market value of the asset",
+        "B": "The cost of the asset less accumulated depreciation to date",
+        "C": "The insurance value of the asset",
+        "D": "The residual value of the asset at the end of its life"
+      },
+      "correct_answer": "B",
+      "explanation": "Net Book Value (NBV) = Cost of asset – Accumulated depreciation. It represents the carrying amount of the asset in the books."
+    },
+    {
+      "id": 49,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "When an asset is disposed of at a profit (more than its book value), the double entry is",
+      "options": {
+        "A": "Debit asset account; Credit disposal account",
+        "B": "Debit disposal account; Credit profit on disposal in P&L account",
+        "C": "Debit profit on disposal; Credit disposal account",
+        "D": "Debit disposal account; Credit bank; and debit bank; Credit profit on disposal"
+      },
+      "correct_answer": "B",
+      "explanation": "When the proceeds exceed the net book value, a profit on disposal arises. The profit is credited to the profit and loss account. The disposal account collects all entries relating to the asset's disposal."
+    },
+    {
+      "id": 50,
+      "topic": "Bad Debts",
+      "difficulty": "medium",
+      "question": "A bad debt is",
+      "options": {
+        "A": "A debt that is very large in amount",
+        "B": "A debt that is considered irrecoverable and is written off",
+        "C": "A debt that is overdue by more than 30 days",
+        "D": "A debt owed to the business by a foreign customer"
+      },
+      "correct_answer": "B",
+      "explanation": "A bad debt is a debt from a debtor that the business is certain will never be collected. It is written off by debiting the bad debts account and crediting the debtor's account."
+    },
+    {
+      "id": 51,
+      "topic": "Bad Debts",
+      "difficulty": "medium",
+      "question": "When a bad debt is written off, the double entry is",
+      "options": {
+        "A": "Debit debtor's account; Credit bad debts account",
+        "B": "Debit bad debts account; Credit debtor's account",
+        "C": "Debit bad debts account; Credit provision for bad debts account",
+        "D": "Debit sales account; Credit debtor's account"
+      },
+      "correct_answer": "B",
+      "explanation": "Writing off a bad debt: Debit bad debts account (expense increases) and Credit debtor's account (asset decreases — the amount owed is removed)."
+    },
+    {
+      "id": 52,
+      "topic": "Bad Debts",
+      "difficulty": "medium",
+      "question": "A provision for doubtful debts is created to",
+      "options": {
+        "A": "Write off all bad debts immediately",
+        "B": "Estimate and provide for debts that may not be collected in the future",
+        "C": "Record cash received from previously bad debts",
+        "D": "Increase the profit of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "A provision for doubtful debts is an estimate of debts that may not be collected. It is created by debiting the profit and loss account and crediting the provision for doubtful debts account."
+    },
+    {
+      "id": 53,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "The gross profit is calculated as",
+      "options": {
+        "A": "Net sales minus all expenses",
+        "B": "Net sales minus cost of goods sold",
+        "C": "Total revenue minus total expenses",
+        "D": "Sales minus purchases"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross profit = Net sales – Cost of Goods Sold (COGS). COGS = Opening stock + Purchases + Carriage inwards – Returns outwards – Closing stock."
+    },
+    {
+      "id": 54,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Carriage inwards is",
+      "options": {
+        "A": "The cost of delivering goods to customers",
+        "B": "The transport cost of bringing goods purchased into the business — included in cost of goods sold",
+        "C": "Income earned from delivering goods to customers",
+        "D": "The cost of transporting fixed assets to the business"
+      },
+      "correct_answer": "B",
+      "explanation": "Carriage inwards is the cost of transporting purchased goods to the business. It is included in the trading account (cost of goods sold) as it is a direct cost of obtaining the goods."
+    },
+    {
+      "id": 55,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Carriage outwards is",
+      "options": {
+        "A": "A direct cost included in the trading account",
+        "B": "The cost of delivering goods to customers — charged as an expense in the profit and loss account",
+        "C": "The transport cost of returning goods to suppliers",
+        "D": "Income received from customers for delivery services"
+      },
+      "correct_answer": "B",
+      "explanation": "Carriage outwards is the cost of delivering goods to customers. It is an indirect selling expense charged in the profit and loss account (not the trading account)."
+    },
+    {
+      "id": 56,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Net profit is calculated as",
+      "options": {
+        "A": "Gross profit minus returns inwards",
+        "B": "Gross profit minus all other operating expenses (indirect expenses)",
+        "C": "Total income minus cost of goods sold",
+        "D": "Sales minus all liabilities"
+      },
+      "correct_answer": "B",
+      "explanation": "Net profit = Gross profit – Indirect (operating) expenses. Indirect expenses include: rent, wages, salaries, insurance, depreciation, bad debts, advertising, carriage outwards, etc."
+    },
+    {
+      "id": 57,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Opening stock ₦10,000; Purchases ₦40,000; Returns outwards ₦2,000; Closing stock ₦8,000. Cost of goods sold is",
+      "options": {
+        "A": "₦40,000",
+        "B": "₦42,000",
+        "C": "₦38,000",
+        "D": "₦40,000"
+      },
+      "correct_answer": "A",
+      "explanation": "COGS = Opening stock + Net purchases – Closing stock = ₦10,000 + (₦40,000 – ₦2,000) – ₦8,000 = ₦10,000 + ₦38,000 – ₦8,000 = ₦40,000."
+    },
+    {
+      "id": 58,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Sales ₦100,000; Cost of goods sold ₦60,000; Operating expenses ₦25,000. Net profit is",
+      "options": {
+        "A": "₦40,000",
+        "B": "₦15,000",
+        "C": "₦75,000",
+        "D": "₦35,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross profit = ₦100,000 – ₦60,000 = ₦40,000. Net profit = ₦40,000 – ₦25,000 = ₦15,000."
+    },
+    {
+      "id": 59,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "A balance sheet shows",
+      "options": {
+        "A": "The profit or loss made during an accounting period",
+        "B": "The financial position of a business at a specific date — assets, liabilities, and capital",
+        "C": "The cash flows of a business during a period",
+        "D": "The revenues and expenses of a business for a year"
+      },
+      "correct_answer": "B",
+      "explanation": "A balance sheet (statement of financial position) is a snapshot of a business's financial position at a specific date, showing assets, liabilities, and owner's capital."
+    },
+    {
+      "id": 60,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Current liabilities are obligations that",
+      "options": {
+        "A": "Are due for payment in more than one year",
+        "B": "Are due for payment within one year or the normal operating cycle",
+        "C": "Are secured against fixed assets",
+        "D": "Are owed to the owners of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "Current liabilities are short-term debts payable within one year — examples include trade creditors, bank overdraft, accruals, and short-term loans."
+    },
+    {
+      "id": 61,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Which of the following is a non-current (fixed) asset?",
+      "options": {
+        "A": "Stock/inventory",
+        "B": "Trade debtors",
+        "C": "Land and buildings",
+        "D": "Prepaid expenses"
+      },
+      "correct_answer": "C",
+      "explanation": "Non-current (fixed) assets are long-term assets used in the business — land, buildings, machinery, vehicles, furniture. Stock, debtors, and prepayments are current assets."
+    },
+    {
+      "id": 62,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "The owner's equity (capital) section of a balance sheet includes",
+      "options": {
+        "A": "Long-term loans and debentures",
+        "B": "Opening capital plus net profit minus drawings",
+        "C": "Current liabilities and accruals",
+        "D": "Fixed assets and current assets"
+      },
+      "correct_answer": "B",
+      "explanation": "Owner's equity = Opening capital + Net profit (or – Net loss) – Drawings. It represents the owner's claim on the net assets of the business."
+    },
+    {
+      "id": 63,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Accrued expenses (accruals) on the balance sheet represent",
+      "options": {
+        "A": "Expenses paid in advance for a future period",
+        "B": "Expenses incurred but not yet paid at the balance sheet date",
+        "C": "Income earned but not yet received",
+        "D": "Cash held in the business at year end"
+      },
+      "correct_answer": "B",
+      "explanation": "Accruals are expenses that have been incurred in the period but not yet paid — e.g., accrued wages, accrued rent. They appear as current liabilities on the balance sheet."
+    },
+    {
+      "id": 64,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Prepaid expenses on the balance sheet represent",
+      "options": {
+        "A": "Expenses incurred but not yet paid",
+        "B": "Expenses paid in advance that relate to a future accounting period",
+        "C": "Income received in advance from customers",
+        "D": "Goods purchased but not yet delivered"
+      },
+      "correct_answer": "B",
+      "explanation": "Prepayments are payments made for expenses that relate to a future period — e.g., insurance paid in advance. They are treated as current assets on the balance sheet."
+    },
+    {
+      "id": 65,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Deferred income (income received in advance) on the balance sheet is treated as",
+      "options": {
+        "A": "Current asset",
+        "B": "Non-current asset",
+        "C": "Current liability",
+        "D": "Long-term liability"
+      },
+      "correct_answer": "C",
+      "explanation": "Income received in advance (deferred income) is a current liability because the business has received payment but has not yet provided the goods or services — an obligation remains."
+    },
+    {
+      "id": 66,
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "A business pays rent of ₦24,000 for the year, but only ₦18,000 relates to the current year. The prepayment is",
+      "options": {
+        "A": "₦18,000",
+        "B": "₦24,000",
+        "C": "₦6,000",
+        "D": "₦42,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Prepayment = Amount paid – Amount relating to current year = ₦24,000 – ₦18,000 = ₦6,000. This ₦6,000 is a current asset on the balance sheet."
+    },
+    {
+      "id": 67,
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "If electricity for a year is ₦12,000 but only ₦9,000 has been paid by year end, the charge to the profit and loss account is",
+      "options": {
+        "A": "₦9,000",
+        "B": "₦12,000",
+        "C": "₦3,000",
+        "D": "₦21,000"
+      },
+      "correct_answer": "B",
+      "explanation": "The full ₦12,000 is charged to the P&L account for the year (accruals concept). The unpaid ₦3,000 is an accrual (current liability) on the balance sheet."
+    },
+    {
+      "id": 68,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "The statement of affairs is used in incomplete records to",
+      "options": {
+        "A": "Calculate the gross profit of the business",
+        "B": "Determine the opening or closing capital when proper records are not kept",
+        "C": "Show all transactions for the year",
+        "D": "Reconcile cash book differences"
+      },
+      "correct_answer": "B",
+      "explanation": "A statement of affairs is a simplified balance sheet used in incomplete records to calculate capital: Capital = Assets – Liabilities. It is used when a proper balance sheet is not available."
+    },
+    {
+      "id": 69,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "In incomplete records, net profit is calculated as",
+      "options": {
+        "A": "Total sales minus total purchases",
+        "B": "Closing capital – Opening capital + Drawings – Additional capital introduced",
+        "C": "Total receipts minus total payments",
+        "D": "Gross profit minus operating expenses"
+      },
+      "correct_answer": "B",
+      "explanation": "In incomplete records: Net profit = Closing capital – Opening capital + Drawings – Additional capital introduced. This is the capital comparison method."
+    },
+    {
+      "id": 70,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "Mark-up in trading refers to",
+      "options": {
+        "A": "Profit as a percentage of selling price",
+        "B": "Profit as a percentage of cost price",
+        "C": "The difference between list price and selling price",
+        "D": "The percentage increase in sales from one year to the next"
+      },
+      "correct_answer": "B",
+      "explanation": "Mark-up = (Gross profit ÷ Cost of goods sold) × 100. It expresses profit as a percentage of the cost price."
+    },
+    {
+      "id": 71,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "Margin (gross profit margin) is",
+      "options": {
+        "A": "Profit as a percentage of cost of goods sold",
+        "B": "Profit as a percentage of sales (selling price)",
+        "C": "The absolute value of gross profit",
+        "D": "The ratio of net profit to gross profit"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross profit margin = (Gross profit ÷ Sales) × 100. It expresses profit as a percentage of the selling price."
+    },
+    {
+      "id": 72,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "A partnership appropriation account is used to",
+      "options": {
+        "A": "Record the profits and losses from trading activities",
+        "B": "Show how net profit is divided among partners — salaries, interest on capital, and profit shares",
+        "C": "Record drawings made by each partner",
+        "D": "Calculate the total capital invested by all partners"
+      },
+      "correct_answer": "B",
+      "explanation": "The partnership appropriation account (profit distribution account) shows how the net profit is allocated among partners: first deducting partners' salaries and interest on capital, then sharing the remainder in the agreed profit-sharing ratio."
+    },
+    {
+      "id": 73,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "Interest on capital in a partnership is",
+      "options": {
+        "A": "A charge against the business to reward partners for their capital contributions",
+        "B": "Interest paid to the bank on partner loans",
+        "C": "A penalty charged when partners withdraw capital",
+        "D": "Tax paid on the partnership's profits"
+      },
+      "correct_answer": "A",
+      "explanation": "Interest on capital is an appropriation of profit (not an expense) that rewards partners for the capital they have contributed to the partnership."
+    },
+    {
+      "id": 74,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "A partner's current account records",
+      "options": {
+        "A": "The permanent capital contributed by the partner",
+        "B": "Transactions between the partner and the partnership — salaries, interest, drawings, and profit shares",
+        "C": "Only the drawings made by the partner",
+        "D": "The share of losses borne by the partner"
+      },
+      "correct_answer": "B",
+      "explanation": "A partner's current account records appropriations (salaries, interest on capital, profit shares) as credits and drawings and interest on drawings as debits. It shows the day-to-day fluctuating balance owed to or by each partner."
+    },
+    {
+      "id": 75,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "Goodwill in a partnership is recorded when",
+      "options": {
+        "A": "The business makes extra profit in a year",
+        "B": "A new partner joins or an existing partner leaves — to compensate existing partners for the value built up",
+        "C": "The business purchases a new fixed asset",
+        "D": "The partnership takes out an insurance policy"
+      },
+      "correct_answer": "B",
+      "explanation": "Goodwill represents the value of the partnership's reputation and customer base. It is recognised when there is a change in profit-sharing ratios, a new partner is admitted, or a partner retires/dies."
+    },
+    {
+      "id": 76,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "Partners' fixed capital accounts record",
+      "options": {
+        "A": "All transactions between partners and the firm including drawings",
+        "B": "Only the original permanent capital contributed and any additional capital formally introduced",
+        "C": "Interest on capital only",
+        "D": "Profit and loss shares of each partner"
+      },
+      "correct_answer": "B",
+      "explanation": "Fixed capital accounts record only the permanent capital contributed by each partner. All other transactions (drawings, interest, profit shares) are recorded in the current account."
+    },
+    {
+      "id": 77,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "In the absence of a partnership agreement, the Partnership Act provides that",
+      "options": {
+        "A": "Profits are shared in proportion to capital contributions",
+        "B": "No partner receives a salary and profits are shared equally",
+        "C": "Interest at 5% is charged on all drawings",
+        "D": "The senior partner receives a higher share of profits"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the Partnership Act (in the absence of a deed), profits and losses are shared equally, no partner receives a salary, and no interest is paid on capital or charged on drawings."
+    },
+    {
+      "id": 78,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Share premium account arises when",
+      "options": {
+        "A": "Shares are issued at below their nominal (par) value",
+        "B": "Shares are issued at above their nominal (par) value",
+        "C": "A company earns unusually high profits",
+        "D": "A company revalues its fixed assets upwards"
+      },
+      "correct_answer": "B",
+      "explanation": "Share premium is the amount received above the nominal (par/face) value of shares when they are issued. E.g., if a ₦1 share is issued for ₦1.50, the ₦0.50 excess goes to the share premium account."
+    },
+    {
+      "id": 79,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "A bonus (scrip/capitalisation) issue of shares means",
+      "options": {
+        "A": "New shares are offered to existing shareholders at a discount",
+        "B": "Free shares are issued to existing shareholders from reserves, with no cash received by the company",
+        "C": "New shares are offered to the general public",
+        "D": "Directors receive extra shares as a bonus"
+      },
+      "correct_answer": "B",
+      "explanation": "A bonus issue (capitalisation issue) converts reserves (e.g., share premium, retained earnings) into issued share capital by distributing free shares to existing shareholders in proportion to their holdings. No cash is received."
+    },
+    {
+      "id": 80,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Retained earnings (reserves) in a company's balance sheet represent",
+      "options": {
+        "A": "Cash held in the company's bank account",
+        "B": "Accumulated profits that have not been distributed as dividends",
+        "C": "Capital raised from the public through share issues",
+        "D": "Loans made by shareholders to the company"
+      },
+      "correct_answer": "B",
+      "explanation": "Retained earnings are the cumulative net profits of the company that have been retained (not paid out as dividends). They form part of shareholders' equity on the balance sheet."
+    },
+    {
+      "id": 81,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Debenture interest is charged",
+      "options": {
+        "A": "To the appropriation account after tax",
+        "B": "As an expense in the profit and loss account before calculating net profit",
+        "C": "As a deduction from shareholders' equity",
+        "D": "Only when the company makes a profit"
+      },
+      "correct_answer": "B",
+      "explanation": "Debenture interest is a fixed interest charge on a loan (debt), not a distribution of profit. It is an expense charged in the profit and loss account before arriving at net profit, unlike dividends."
+    },
+    {
+      "id": 82,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "The receipts and payments account of a club shows",
+      "options": {
+        "A": "Only the income and expenditure of the club for the year",
+        "B": "All actual cash receipts and payments during the period — regardless of whether they relate to the current period",
+        "C": "The financial position of the club at a given date",
+        "D": "The profit or loss of the club's trading activities"
+      },
+      "correct_answer": "B",
+      "explanation": "The receipts and payments account is a simple summary of all actual cash received and paid during the period. It includes capital items (asset purchases) and does not apply the accruals concept."
+    },
+    {
+      "id": 83,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "The income and expenditure account of a non-profit organisation is equivalent to the",
+      "options": {
+        "A": "Balance sheet of a trading business",
+        "B": "Profit and loss account of a trading business",
+        "C": "Trading account of a trading business",
+        "D": "Cash flow statement of a trading business"
+      },
+      "correct_answer": "B",
+      "explanation": "The income and expenditure account of a club/society is the equivalent of the profit and loss account of a trading business. Instead of profit or loss, it shows a surplus or deficit for the period."
+    },
+    {
+      "id": 84,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "The accumulated fund of a non-profit organisation is the equivalent of",
+      "options": {
+        "A": "The share capital of a company",
+        "B": "The owner's capital in a sole trader business",
+        "C": "The debenture account in a company",
+        "D": "The profit and loss reserve of a company"
+      },
+      "correct_answer": "B",
+      "explanation": "The accumulated fund (general fund) of a club is equivalent to the owner's capital in a business. It represents the difference between total assets and total liabilities of the club."
+    },
+    {
+      "id": 85,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "A club's bar trading account shows",
+      "options": {
+        "A": "The club's overall surplus or deficit for the year",
+        "B": "The profit or loss from the club's bar operations specifically",
+        "C": "All cash received and paid by the bar",
+        "D": "Members' subscriptions received in the year"
+      },
+      "correct_answer": "B",
+      "explanation": "Clubs often have separate trading activities (bar, restaurant, shop). A bar trading account is prepared to determine the profit or loss from bar operations, which is then transferred to the income and expenditure account."
+    },
+    {
+      "id": 86,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "A manufacturing account is prepared to determine",
+      "options": {
+        "A": "The profit from selling manufactured goods",
+        "B": "The total cost of goods manufactured during the period",
+        "C": "The value of closing stock of finished goods",
+        "D": "The cost of raw materials purchased"
+      },
+      "correct_answer": "B",
+      "explanation": "A manufacturing account calculates the total (factory) cost of production, including raw materials consumed, direct labour, and factory overhead — known as the cost of production or cost of goods manufactured."
+    },
+    {
+      "id": 87,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "Prime cost in a manufacturing account consists of",
+      "options": {
+        "A": "All production costs including factory overheads",
+        "B": "Direct materials + Direct labour + Direct expenses",
+        "C": "Factory overhead costs only",
+        "D": "Selling and distribution costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Prime cost is the total of all direct costs: Direct materials consumed + Direct labour (wages) + Direct expenses (e.g., royalties). It is the first subtotal in a manufacturing account."
+    },
+    {
+      "id": 88,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "Factory overhead costs are",
+      "options": {
+        "A": "Direct costs that can be traced to individual units of production",
+        "B": "Indirect manufacturing costs such as factory rent, factory depreciation, and supervisors' wages",
+        "C": "Selling and administrative expenses",
+        "D": "The cost of raw materials wasted in production"
+      },
+      "correct_answer": "B",
+      "explanation": "Factory overheads (works overhead, factory indirect costs) include: factory rent, rates, insurance, factory depreciation, indirect labour (supervisors), factory power, and maintenance."
+    },
+    {
+      "id": 89,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "Work-in-progress (WIP) refers to",
+      "options": {
+        "A": "Raw materials not yet used in production",
+        "B": "Partially completed goods that are still in the production process at year end",
+        "C": "Finished goods awaiting sale",
+        "D": "Goods returned by customers that need repair"
+      },
+      "correct_answer": "B",
+      "explanation": "Work-in-progress (WIP) represents partially completed units at various stages of manufacture at the year-end date. It is valued at the cost incurred to date."
+    },
+    {
+      "id": 90,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "The current ratio is calculated as",
+      "options": {
+        "A": "Current assets ÷ Current liabilities",
+        "B": "Current liabilities ÷ Current assets",
+        "C": "Fixed assets ÷ Current liabilities",
+        "D": "Total assets ÷ Total liabilities"
+      },
+      "correct_answer": "A",
+      "explanation": "Current ratio = Current assets ÷ Current liabilities. It measures a business's ability to pay its short-term debts with its short-term assets. A ratio of 2:1 is considered healthy."
+    },
+    {
+      "id": 91,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "The acid test (quick) ratio is calculated as",
+      "options": {
+        "A": "(Current assets – Stock) ÷ Current liabilities",
+        "B": "Current assets ÷ Current liabilities",
+        "C": "(Current assets – Debtors) ÷ Current liabilities",
+        "D": "Net profit ÷ Sales × 100"
+      },
+      "correct_answer": "A",
+      "explanation": "Acid test ratio = (Current assets – Stock) ÷ Current liabilities. Stock is excluded because it is the least liquid current asset. A ratio of at least 1:1 is generally considered safe."
+    },
+    {
+      "id": 92,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "The gross profit margin is calculated as",
+      "options": {
+        "A": "(Net profit ÷ Sales) × 100",
+        "B": "(Gross profit ÷ Sales) × 100",
+        "C": "(Gross profit ÷ Cost of sales) × 100",
+        "D": "(Net profit ÷ Capital) × 100"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross profit margin = (Gross profit ÷ Sales) × 100. It shows what percentage of sales revenue remains after deducting the cost of goods sold."
+    },
+    {
+      "id": 93,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "Return on capital employed (ROCE) measures",
+      "options": {
+        "A": "How efficiently a business collects its debts",
+        "B": "The profit generated as a percentage of the capital employed in the business",
+        "C": "The proportion of assets financed by long-term debt",
+        "D": "How many times stock is turned over in a year"
+      },
+      "correct_answer": "B",
+      "explanation": "ROCE = (Net profit ÷ Capital employed) × 100. It measures the efficiency and profitability of capital employed in the business — the higher, the better."
+    },
+    {
+      "id": 94,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "Stock turnover ratio is calculated as",
+      "options": {
+        "A": "Sales ÷ Closing stock",
+        "B": "Cost of goods sold ÷ Average stock",
+        "C": "Gross profit ÷ Stock",
+        "D": "Closing stock ÷ Cost of goods sold × 365"
+      },
+      "correct_answer": "B",
+      "explanation": "Stock turnover = Cost of goods sold ÷ Average stock. It shows how many times stock is sold and replaced during a year. A higher ratio indicates faster-moving stock."
+    },
+    {
+      "id": 95,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "Debtors collection period is calculated as",
+      "options": {
+        "A": "(Debtors ÷ Sales) × 365",
+        "B": "(Creditors ÷ Purchases) × 365",
+        "C": "(Stock ÷ Cost of sales) × 365",
+        "D": "(Current assets ÷ Current liabilities) × 365"
+      },
+      "correct_answer": "A",
+      "explanation": "Debtors collection period = (Trade debtors ÷ Credit sales) × 365 days. It shows the average number of days it takes to collect payment from debtors. A lower figure is preferable."
+    },
+    {
+      "id": 96,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "If current assets are ₦80,000 and current liabilities are ₦40,000, the current ratio is",
+      "options": {
+        "A": "0.5:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "1.5:1"
+      },
+      "correct_answer": "B",
+      "explanation": "Current ratio = Current assets ÷ Current liabilities = ₦80,000 ÷ ₦40,000 = 2:1. This means for every ₦1 of current liabilities, there are ₦2 of current assets."
+    },
+    {
+      "id": 97,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "The net profit margin is calculated as",
+      "options": {
+        "A": "(Gross profit ÷ Sales) × 100",
+        "B": "(Net profit ÷ Sales) × 100",
+        "C": "(Net profit ÷ Cost of goods sold) × 100",
+        "D": "(Gross profit ÷ Capital) × 100"
+      },
+      "correct_answer": "B",
+      "explanation": "Net profit margin = (Net profit ÷ Sales) × 100. It shows what percentage of each naira of sales is converted to net profit after all expenses."
+    },
+    {
+      "id": 98,
+      "topic": "Cash Flow Statement",
+      "difficulty": "medium",
+      "question": "A cash flow statement shows",
+      "options": {
+        "A": "The profit earned by a business during a period",
+        "B": "The inflows and outflows of cash and cash equivalents during a period",
+        "C": "The financial position of a business at year end",
+        "D": "Only the investing activities of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "A cash flow statement (IAS 7) shows how cash was generated and used during a period, classified into operating, investing, and financing activities."
+    },
+    {
+      "id": 99,
+      "topic": "Cash Flow Statement",
+      "difficulty": "medium",
+      "question": "Which of the following is classified as a financing activity in a cash flow statement?",
+      "options": {
+        "A": "Cash paid to purchase machinery",
+        "B": "Cash received from customers",
+        "C": "Issue of new shares or debentures for cash",
+        "D": "Interest received on investments"
+      },
+      "correct_answer": "C",
+      "explanation": "Financing activities relate to changes in the capital structure — issuing shares, repaying loans, paying dividends. Operating activities involve trading; investing activities involve buying/selling long-term assets."
+    },
+    {
+      "id": 100,
+      "topic": "Cash Flow Statement",
+      "difficulty": "medium",
+      "question": "Depreciation is added back to net profit in the operating activities section of a cash flow statement because",
+      "options": {
+        "A": "It is an income item for the business",
+        "B": "It is a non-cash expense that reduced net profit but did not involve any cash outflow",
+        "C": "It represents cash set aside for replacing assets",
+        "D": "It is a financing activity, not an operating one"
+      },
+      "correct_answer": "B",
+      "explanation": "Depreciation is a non-cash expense deducted in arriving at net profit. Since no cash was paid, it is added back to net profit when calculating cash flow from operating activities."
+    },
+    {
+      "id": 101,
+      "topic": "Consignment Accounts",
+      "difficulty": "medium",
+      "question": "In a consignment arrangement, the consignor is",
+      "options": {
+        "A": "The person who receives and sells goods on behalf of another",
+        "B": "The person who sends goods to an agent to be sold on their behalf",
+        "C": "The customer who buys goods from the consignee",
+        "D": "The bank that finances the shipment of goods"
+      },
+      "correct_answer": "B",
+      "explanation": "The consignor is the owner of goods who sends them to a consignee (agent) to be sold on their behalf. The consignor retains ownership until the goods are sold."
+    },
+    {
+      "id": 102,
+      "topic": "Consignment Accounts",
+      "difficulty": "medium",
+      "question": "Del credere commission is paid to a consignee who",
+      "options": {
+        "A": "Sells goods above the agreed minimum price",
+        "B": "Guarantees to pay the consignor even if the buyer defaults on payment",
+        "C": "Returns unsold goods before the agreed period",
+        "D": "Finds new customers for the consignor"
+      },
+      "correct_answer": "B",
+      "explanation": "Del credere commission is additional commission paid to the consignee for guaranteeing the payment of debts — if the buyer defaults, the consignee bears the loss, not the consignor."
+    },
+    {
+      "id": 103,
+      "topic": "Hire Purchase Accounts",
+      "difficulty": "medium",
+      "question": "In hire purchase accounting, the asset is recorded in the buyer's books at",
+      "options": {
+        "A": "The cash price of the asset",
+        "B": "The total hire purchase price including all interest",
+        "C": "The deposit paid only",
+        "D": "The second-hand value of the asset"
+      },
+      "correct_answer": "A",
+      "explanation": "The asset is recorded at its cash (cost) price in the buyer's books. The difference between the total hire purchase price and the cash price is the interest (hire purchase charges) which is allocated over the period."
+    },
+    {
+      "id": 104,
+      "topic": "Hire Purchase Accounts",
+      "difficulty": "medium",
+      "question": "The total hire purchase price minus the cash price equals",
+      "options": {
+        "A": "The deposit paid",
+        "B": "The total interest (HP charges) payable over the hire purchase period",
+        "C": "The insurance premium on the asset",
+        "D": "The residual value of the asset"
+      },
+      "correct_answer": "B",
+      "explanation": "HP charges (interest) = Total HP price – Cash price. This interest is spread over the HP period as a finance charge in the profit and loss account."
+    },
+    {
+      "id": 105,
+      "topic": "Branch Accounts",
+      "difficulty": "medium",
+      "question": "In branch accounting, when goods are sent from head office to a branch at cost price plus loading, the loading represents",
+      "options": {
+        "A": "The profit already recognised by head office on the goods",
+        "B": "An unrealised profit element in closing stock at branch, which must be eliminated",
+        "C": "The carriage cost of sending goods to the branch",
+        "D": "Insurance charges on goods in transit to the branch"
+      },
+      "correct_answer": "B",
+      "explanation": "Loading is the mark-up added to the cost price of goods transferred from head office to branch. It represents an unrealised (notional) profit that must be eliminated in the consolidated accounts when the branch still holds unsold stock."
+    },
+    {
+      "id": 106,
+      "topic": "Departmental Accounts",
+      "difficulty": "medium",
+      "question": "Departmental accounts are prepared to",
+      "options": {
+        "A": "Show the overall profit of the entire business",
+        "B": "Show the profit or loss of each department separately to assess performance",
+        "C": "Calculate the tax liability of each department",
+        "D": "Show the wages paid to staff in each department"
+      },
+      "correct_answer": "B",
+      "explanation": "Departmental accounts help management assess the performance of each department individually. Common expenses (rent, salaries) are apportioned to each department on a reasonable basis."
+    },
+    {
+      "id": 107,
+      "topic": "Accounting Standards",
+      "difficulty": "medium",
+      "question": "IFRS stands for",
+      "options": {
+        "A": "International Financial Regulation Standards",
+        "B": "International Financial Reporting Standards",
+        "C": "Internal Financial Recording System",
+        "D": "International Federation of Revenue Standards"
+      },
+      "correct_answer": "B",
+      "explanation": "IFRS (International Financial Reporting Standards) are global accounting standards issued by the International Accounting Standards Board (IASB) to ensure consistency and transparency in financial reporting."
+    },
+    {
+      "id": 108,
+      "topic": "Accounting Standards",
+      "difficulty": "medium",
+      "question": "The Financial Reporting Council of Nigeria (FRCN) is responsible for",
+      "options": {
+        "A": "Collecting corporate taxes on behalf of the government",
+        "B": "Setting and enforcing accounting and auditing standards in Nigeria",
+        "C": "Regulating the activities of commercial banks",
+        "D": "Managing the Nigerian Stock Exchange"
+      },
+      "correct_answer": "B",
+      "explanation": "The FRCN (established 2011) promotes and enforces accounting, auditing, and financial reporting standards in Nigeria, replacing the Nigerian Accounting Standards Board (NASB)."
+    },
+    {
+      "id": 109,
+      "topic": "Ledger Accounts",
+      "difficulty": "medium",
+      "question": "A nominal (income statement) account records",
+      "options": {
+        "A": "Assets and liabilities of the business",
+        "B": "Incomes and expenses of the business",
+        "C": "Personal accounts of debtors and creditors",
+        "D": "The owner's capital account"
+      },
+      "correct_answer": "B",
+      "explanation": "Nominal accounts record incomes (sales, rent received, interest received) and expenses (wages, rent paid, depreciation). They are closed off to the profit and loss account at the end of the period."
+    },
+    {
+      "id": 110,
+      "topic": "Ledger Accounts",
+      "difficulty": "medium",
+      "question": "A real account records",
+      "options": {
+        "A": "Transactions with named persons (debtors and creditors)",
+        "B": "Assets of the business — both tangible and intangible",
+        "C": "Revenues and expenses of the business",
+        "D": "The capital and drawings of the owner"
+      },
+      "correct_answer": "B",
+      "explanation": "Real accounts record assets of the business — tangible assets (buildings, machinery, stock) and intangible assets (goodwill, patents). They have a continuing balance carried forward."
+    },
+    {
+      "id": 111,
+      "topic": "Closing Entries",
+      "difficulty": "medium",
+      "question": "At year end, the balance on the purchases account is transferred to",
+      "options": {
+        "A": "The balance sheet",
+        "B": "The trading account",
+        "C": "The profit and loss account",
+        "D": "The capital account"
+      },
+      "correct_answer": "B",
+      "explanation": "The purchases account balance is transferred to the trading (cost of goods sold) account to calculate gross profit."
+    },
+    {
+      "id": 112,
+      "topic": "Closing Entries",
+      "difficulty": "medium",
+      "question": "At year end, the balance on the rent expense account is transferred to",
+      "options": {
+        "A": "The trading account",
+        "B": "The balance sheet",
+        "C": "The profit and loss account",
+        "D": "The debtors account"
+      },
+      "correct_answer": "C",
+      "explanation": "Rent is an indirect (operating) expense. It is closed off to the profit and loss account at year end, where it is deducted from gross profit to arrive at net profit."
+    },
+    {
+      "id": 113,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "The purchase of a motor vehicle on credit is recorded as",
+      "options": {
+        "A": "Debit motor vehicle account; Credit cash account",
+        "B": "Debit motor vehicle account; Credit creditor's (supplier's) account",
+        "C": "Debit creditor's account; Credit motor vehicle account",
+        "D": "Debit purchases account; Credit creditor's account"
+      },
+      "correct_answer": "B",
+      "explanation": "Buying a fixed asset on credit: the asset increases (debit motor vehicle account) and a liability is created (credit creditor's account). Note: assets purchased on credit go to creditors, not purchases account."
+    },
+    {
+      "id": 114,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "When the owner withdraws cash for personal use (drawings), the double entry is",
+      "options": {
+        "A": "Debit cash account; Credit drawings account",
+        "B": "Debit drawings account; Credit cash account",
+        "C": "Debit capital account; Credit cash account",
+        "D": "Debit expenses account; Credit capital account"
+      },
+      "correct_answer": "B",
+      "explanation": "Drawings reduce the owner's equity. Debit drawings account (reducing capital) and credit cash account (cash leaves the business)."
+    },
+    {
+      "id": 115,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "Discount allowed is a discount given to",
+      "options": {
+        "A": "Suppliers for early payment",
+        "B": "Customers to encourage prompt payment — it is an expense for the business",
+        "C": "Employees as a staff benefit",
+        "D": "Government agencies as a contractual obligation"
+      },
+      "correct_answer": "B",
+      "explanation": "Discount allowed is given by the business to its customers (debtors) to encourage prompt payment. It is an expense (debit discount allowed; credit debtor's account)."
+    },
+    {
+      "id": 116,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "Discount received is a discount given to the business by",
+      "options": {
+        "A": "Customers for buying in bulk",
+        "B": "Suppliers for prompt payment — it is income for the business",
+        "C": "The government as a tax relief",
+        "D": "The bank on interest charges"
+      },
+      "correct_answer": "B",
+      "explanation": "Discount received is given by suppliers (creditors) to the business for early payment. It is income for the business (debit creditor's account; credit discount received account)."
+    },
+    {
+      "id": 117,
+      "topic": "Cash Book",
+      "difficulty": "medium",
+      "question": "In a three-column cash book, the discount column records",
+      "options": {
+        "A": "Cash discounts given and received by the business",
+        "B": "Trade discounts given to customers",
+        "C": "Interest charged on overdue accounts",
+        "D": "The difference between list price and invoice price"
+      },
+      "correct_answer": "A",
+      "explanation": "A three-column cash book has columns for discount, cash, and bank. The discount columns (debit for discount allowed; credit for discount received) are memorandum columns — they are not part of the double entry but are totalled and posted to the respective discount accounts."
+    },
+    {
+      "id": 118,
+      "topic": "Cash Book",
+      "difficulty": "medium",
+      "question": "A contra entry in the cash book occurs when",
+      "options": {
+        "A": "Cash is paid to a creditor by cheque",
+        "B": "Money is transferred between the cash account and the bank account within the business",
+        "C": "A dishonoured cheque is received from a debtor",
+        "D": "Interest is received from the bank"
+      },
+      "correct_answer": "B",
+      "explanation": "A contra entry is when cash is deposited into the bank (credit cash, debit bank — marked 'C') or cash is withdrawn from the bank (debit cash, credit bank). Both sides are in the same cash book."
+    },
+    {
+      "id": 119,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "An error of original entry occurs when",
+      "options": {
+        "A": "A transaction is entered in the wrong ledger account",
+        "B": "The wrong amount is entered in both the debit and credit sides of a transaction",
+        "C": "A transaction is completely omitted from the books",
+        "D": "A debit entry is made instead of a credit entry"
+      },
+      "correct_answer": "B",
+      "explanation": "An error of original entry is when the wrong amount is used for both the debit and credit entries. The trial balance still agrees because both sides are wrong by the same amount."
+    },
+    {
+      "id": 120,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "The journal entry to correct an error where purchases were understated by ₦5,000 is",
+      "options": {
+        "A": "Debit purchases ₦5,000; Credit suspense ₦5,000",
+        "B": "Debit suspense ₦5,000; Credit purchases ₦5,000",
+        "C": "Debit purchases ₦10,000; Credit suspense ₦10,000",
+        "D": "Debit suspense ₦2,500; Credit purchases ₦2,500"
+      },
+      "correct_answer": "A",
+      "explanation": "If purchases were understated (recorded as less than actual), purchases must be increased (debited) and the suspense account is credited to clear the difference."
+    },
+    {
+      "id": 121,
+      "topic": "Stock Valuation",
+      "difficulty": "medium",
+      "question": "Stock should be valued at",
+      "options": {
+        "A": "Selling price at year end",
+        "B": "The lower of cost and net realisable value (NRV)",
+        "C": "The higher of cost and net realisable value",
+        "D": "The replacement cost of the stock"
+      },
+      "correct_answer": "B",
+      "explanation": "IAS 2 requires stock (inventory) to be valued at the lower of cost and net realisable value (NRV). NRV is the estimated selling price less costs to complete and sell."
+    },
+    {
+      "id": 122,
+      "topic": "Stock Valuation",
+      "difficulty": "medium",
+      "question": "The FIFO (First In First Out) method of stock valuation assumes that",
+      "options": {
+        "A": "The most recently purchased goods are sold first",
+        "B": "The oldest (earliest purchased) goods are sold first",
+        "C": "All goods in stock are identical and any unit can be treated as sold first",
+        "D": "Stock is valued at the most recent purchase price"
+      },
+      "correct_answer": "B",
+      "explanation": "FIFO assumes the first goods purchased are the first to be sold. Closing stock is valued at the most recent purchase prices. In a period of rising prices, FIFO gives a higher closing stock value and higher profit."
+    },
+    {
+      "id": 123,
+      "topic": "Stock Valuation",
+      "difficulty": "medium",
+      "question": "The weighted average cost (AVCO) method of stock valuation",
+      "options": {
+        "A": "Uses the cost of the most recently purchased items to value all stock",
+        "B": "Calculates the average cost by dividing the total cost of goods available by the total units available, recomputed after each purchase",
+        "C": "Assigns the cost of the oldest items to goods sold",
+        "D": "Values stock at current replacement cost"
+      },
+      "correct_answer": "B",
+      "explanation": "AVCO calculates a new weighted average cost per unit each time a new batch is purchased. All issues of stock are at this average cost."
+    },
+    {
+      "id": 124,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "A high stock turnover ratio generally indicates",
+      "options": {
+        "A": "The business is holding too much stock",
+        "B": "The business is selling its stock quickly and efficiently",
+        "C": "The business has slow-moving or obsolete stock",
+        "D": "The business is making high profits"
+      },
+      "correct_answer": "B",
+      "explanation": "A high stock turnover ratio means stock is being sold and replaced rapidly — indicating efficient management of inventory and strong sales performance."
+    },
+    {
+      "id": 125,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "Creditors payment period is calculated as",
+      "options": {
+        "A": "(Creditors ÷ Sales) × 365",
+        "B": "(Creditors ÷ Credit purchases) × 365",
+        "C": "(Debtors ÷ Sales) × 365",
+        "D": "(Stock ÷ Purchases) × 365"
+      },
+      "correct_answer": "B",
+      "explanation": "Creditors payment period = (Trade creditors ÷ Credit purchases) × 365 days. It shows the average number of days the business takes to pay its suppliers."
+    },
+    {
+      "id": 126,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "The gearing ratio measures",
+      "options": {
+        "A": "How efficiently a business uses its working capital",
+        "B": "The proportion of a business financed by debt compared to equity",
+        "C": "The speed at which debtors pay the business",
+        "D": "The profitability of the business relative to its sales"
+      },
+      "correct_answer": "B",
+      "explanation": "Gearing = Long-term debt ÷ Capital employed (or equity). A highly geared company has a large proportion of debt financing, which increases financial risk."
+    },
+    {
+      "id": 127,
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "If insurance paid is ₦18,000 for 12 months but the financial year ends after 9 months of the policy, the prepayment is",
+      "options": {
+        "A": "₦13,500",
+        "B": "₦4,500",
+        "C": "₦18,000",
+        "D": "₦9,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Amount relating to current period = 9/12 × ₦18,000 = ₦13,500. Prepayment (relating to next period) = 3/12 × ₦18,000 = ₦4,500."
+    },
+    {
+      "id": 128,
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "Accrued income (income receivable) on the balance sheet represents",
+      "options": {
+        "A": "Income that has been received in advance",
+        "B": "Income earned in the current period but not yet received in cash",
+        "C": "Expenses incurred but not yet paid",
+        "D": "Cash held in the business at year end"
+      },
+      "correct_answer": "B",
+      "explanation": "Accrued income (income receivable) is income earned but not yet received — it is a current asset on the balance sheet. Example: interest earned but not yet received from the bank."
+    },
+    {
+      "id": 129,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "Which of the following items is shown on the credit side of a trading account?",
+      "options": {
+        "A": "Purchases",
+        "B": "Opening stock",
+        "C": "Sales revenue",
+        "D": "Carriage inwards"
+      },
+      "correct_answer": "C",
+      "explanation": "The credit side of the trading account shows sales revenue (and closing stock). The debit side shows opening stock, purchases, returns outwards, and carriage inwards."
+    },
+    {
+      "id": 130,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "Returns inwards (sales returns) in the trading account are",
+      "options": {
+        "A": "Added to sales",
+        "B": "Deducted from sales to give net sales",
+        "C": "Deducted from purchases",
+        "D": "Added to opening stock"
+      },
+      "correct_answer": "B",
+      "explanation": "Returns inwards are goods returned by customers. They are deducted from gross sales to give net sales (Net sales = Gross sales – Returns inwards)."
+    },
+    {
+      "id": 131,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "If gross profit is ₦45,000 and the gross profit margin is 30%, what are the sales?",
+      "options": {
+        "A": "₦135,000",
+        "B": "₦150,000",
+        "C": "₦13,500",
+        "D": "₦175,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross profit margin = Gross profit ÷ Sales. So Sales = Gross profit ÷ Gross profit margin = ₦45,000 ÷ 0.30 = ₦150,000."
+    },
+    {
+      "id": 132,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "If the mark-up is 25% and cost of goods sold is ₦80,000, what is the gross profit?",
+      "options": {
+        "A": "₦16,000",
+        "B": "₦20,000",
+        "C": "₦25,000",
+        "D": "₦64,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Mark-up = Gross profit ÷ Cost of goods sold. Gross profit = 25% × ₦80,000 = ₦20,000."
+    },
+    {
+      "id": 133,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "A machine purchased for ₦100,000 is depreciated at 20% reducing balance. Net book value at end of year 2 is",
+      "options": {
+        "A": "₦60,000",
+        "B": "₦64,000",
+        "C": "₦80,000",
+        "D": "₦70,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Year 1 depreciation = 20% × ₦100,000 = ₦20,000. NBV after year 1 = ₦80,000. Year 2 depreciation = 20% × ₦80,000 = ₦16,000. NBV after year 2 = ₦80,000 – ₦16,000 = ₦64,000."
+    },
+    {
+      "id": 134,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "The provision for depreciation account has a",
+      "options": {
+        "A": "Debit balance",
+        "B": "Credit balance",
+        "C": "Nil balance at year end",
+        "D": "Balance transferred to the profit and loss account annually"
+      },
+      "correct_answer": "B",
+      "explanation": "The provision for depreciation (accumulated depreciation) account has a credit balance. It accumulates year after year and is deducted from the asset's cost on the balance sheet to show the net book value."
+    },
+    {
+      "id": 135,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "In a partnership, interest on drawings is",
+      "options": {
+        "A": "Credited to the appropriation account and debited to partners' current accounts",
+        "B": "An extra source of capital for the partnership",
+        "C": "Charged to the profit and loss account as an expense",
+        "D": "An amount paid by the partnership to its bankers"
+      },
+      "correct_answer": "A",
+      "explanation": "Interest on drawings is a charge against partners to discourage excessive withdrawals. It is a credit to the appropriation account (income for the partnership) and a debit to each partner's current account."
+    },
+    {
+      "id": 136,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "A partner's loan to the partnership is entitled to interest at what rate per annum in the absence of a partnership agreement?",
+      "options": {
+        "A": "No interest is payable",
+        "B": "5% per annum",
+        "C": "10% per annum",
+        "D": "The bank's current lending rate"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the Partnership Act (UK/Nigeria), in the absence of a deed, a partner who lends money to the firm beyond their capital is entitled to 5% interest per annum on the loan. This is an expense in the P&L account."
+    },
+    {
+      "id": 137,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "Dissolution of a partnership means",
+      "options": {
+        "A": "The admission of a new partner to the firm",
+        "B": "The legal ending and winding up of the partnership business",
+        "C": "The conversion of the partnership into a limited company",
+        "D": "One partner retiring while the firm continues"
+      },
+      "correct_answer": "B",
+      "explanation": "Dissolution is the legal winding up of the partnership — assets are sold, liabilities are paid, and any remaining balance is distributed to partners according to their capital balances."
+    },
+    {
+      "id": 138,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "A rights issue is when a company",
+      "options": {
+        "A": "Issues shares to the public for the first time",
+        "B": "Offers new shares to existing shareholders at a price below the current market price, in proportion to their holdings",
+        "C": "Issues bonus shares from reserves",
+        "D": "Repurchases its own shares from the market"
+      },
+      "correct_answer": "B",
+      "explanation": "A rights issue gives existing shareholders the right to buy new shares at a discounted price in proportion to their current holdings — they can exercise the right, sell it, or let it lapse."
+    },
+    {
+      "id": 139,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Preference shares that are cumulative mean",
+      "options": {
+        "A": "They carry more than one vote per share",
+        "B": "Unpaid dividends accumulate and must be paid before ordinary shareholders receive anything",
+        "C": "They are always redeemable after a fixed period",
+        "D": "Dividends increase each year at a fixed rate"
+      },
+      "correct_answer": "B",
+      "explanation": "Cumulative preference shares mean that if the dividend is not paid in a year (due to insufficient profits), the arrears accumulate and must be paid in full before any dividend can be paid to ordinary shareholders."
+    },
+    {
+      "id": 140,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "In a company's balance sheet, proposed dividends are shown as",
+      "options": {
+        "A": "Non-current liabilities",
+        "B": "A deduction from retained earnings in equity",
+        "C": "Current liabilities (as an obligation to shareholders)",
+        "D": "An asset of the company"
+      },
+      "correct_answer": "C",
+      "explanation": "A proposed (declared but unpaid) dividend is an obligation of the company to its shareholders and is therefore shown as a current liability in the balance sheet."
+    },
+    {
+      "id": 141,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "Total debtors account is used in incomplete records to calculate",
+      "options": {
+        "A": "Total purchases for the period",
+        "B": "Total credit sales for the period",
+        "C": "Total cash paid to creditors",
+        "D": "Opening capital of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "The total debtors (sales ledger control) account is used to find the missing figure for credit sales: Opening debtors + Credit sales – Cash received from debtors – Discount allowed – Bad debts = Closing debtors."
+    },
+    {
+      "id": 142,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "Total creditors account is used in incomplete records to calculate",
+      "options": {
+        "A": "Total sales for the period",
+        "B": "Total credit purchases for the period",
+        "C": "Cash received from customers",
+        "D": "Closing capital of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "The total creditors (purchases ledger control) account is used to find credit purchases: Opening creditors + Credit purchases – Cash paid to creditors – Discount received = Closing creditors."
+    },
+    {
+      "id": 143,
+      "topic": "Bad Debts",
+      "difficulty": "medium",
+      "question": "When a bad debt previously written off is recovered, the accounting entry is",
+      "options": {
+        "A": "Debit bad debts recovered; Credit debtor's account",
+        "B": "Debit cash/bank account; Credit bad debts recovered account (income)",
+        "C": "Debit provision for bad debts; Credit cash account",
+        "D": "Debit capital account; Credit bad debts account"
+      },
+      "correct_answer": "B",
+      "explanation": "When a previously written-off bad debt is recovered: first reinstate the debtor (Debit debtor; Credit bad debts recovered), then record the cash receipt (Debit cash; Credit debtor). The net effect is Debit cash; Credit bad debts recovered (income)."
+    },
+    {
+      "id": 144,
+      "topic": "Bad Debts",
+      "difficulty": "medium",
+      "question": "If the provision for bad debts is increased, the effect on profit is",
+      "options": {
+        "A": "Profit increases",
+        "B": "Profit decreases — the increase in provision is charged to P&L account",
+        "C": "No effect on profit",
+        "D": "Only the balance sheet is affected"
+      },
+      "correct_answer": "B",
+      "explanation": "An increase in the provision for bad debts requires an additional charge to the profit and loss account (debit P&L; credit provision for bad debts), thereby reducing net profit."
+    },
+    {
+      "id": 145,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "The cost of production transferred to the trading account is",
+      "options": {
+        "A": "The prime cost of goods produced",
+        "B": "The total factory cost of goods completed and transferred to finished goods store",
+        "C": "Only the direct material cost of goods produced",
+        "D": "The selling price less profit margin"
+      },
+      "correct_answer": "B",
+      "explanation": "The cost of production (or cost of goods manufactured) includes prime cost plus factory overheads, adjusted for opening and closing WIP. This is the cost charged to the trading account for goods completed."
+    },
+    {
+      "id": 146,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "If direct materials used are ₦30,000, direct wages ₦20,000, and factory overheads ₦10,000, the factory cost of production is",
+      "options": {
+        "A": "₦50,000",
+        "B": "₦60,000",
+        "C": "₦30,000",
+        "D": "₦40,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Factory cost = Prime cost + Factory overheads = (₦30,000 + ₦20,000) + ₦10,000 = ₦50,000 + ₦10,000 = ₦60,000."
+    },
+    {
+      "id": 147,
+      "topic": "Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The materiality concept means",
+      "options": {
+        "A": "Only physical (tangible) assets are recorded",
+        "B": "Minor items may be treated in the simplest and most convenient way — only significant items need strict accounting treatment",
+        "C": "Only transactions above a fixed monetary amount are recorded",
+        "D": "All accounting information must be presented in writing"
+      },
+      "correct_answer": "B",
+      "explanation": "Materiality means that only significant items (material in amount or nature) need strict accounting treatment. Immaterial items can be dealt with simply — e.g., cheap items expensed rather than capitalised."
+    },
+    {
+      "id": 148,
+      "topic": "Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The realisation concept states that",
+      "options": {
+        "A": "Profits are recognised when cash is received",
+        "B": "Profit is recognised when a sale is made (i.e., when the goods/services are delivered and revenue is earned)",
+        "C": "Expenses are recognised when they are paid",
+        "D": "Assets must be revalued every year to reflect their true value"
+      },
+      "correct_answer": "B",
+      "explanation": "The realisation concept states that revenue (profit) is recognised when it is earned — when goods are delivered or services performed — not necessarily when cash is received."
+    },
+    {
+      "id": 149,
+      "topic": "Payroll Accounting",
+      "difficulty": "medium",
+      "question": "Gross pay is",
+      "options": {
+        "A": "The amount an employee receives after all deductions",
+        "B": "The total earnings of an employee before any deductions",
+        "C": "The employer's contribution to pension only",
+        "D": "The basic salary excluding overtime and bonuses"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross pay is total pay before any deductions (PAYE income tax, pension contributions, NHF, etc.). Net pay (take-home pay) = Gross pay – Deductions."
+    },
+    {
+      "id": 150,
+      "topic": "Payroll Accounting",
+      "difficulty": "medium",
+      "question": "PAYE in payroll accounting stands for",
+      "options": {
+        "A": "Pay As You Earn — income tax deducted by the employer from employees' wages",
+        "B": "Pay All Your Expenses",
+        "C": "Pension and Year-End contribution",
+        "D": "Payment Against Year-End assessment"
+      },
+      "correct_answer": "A",
+      "explanation": "PAYE (Pay As You Earn) is the system through which income tax (and sometimes other levies) are deducted at source from employees' wages by the employer and remitted to the tax authority."
+    },
+    {
+      "id": 151,
+      "topic": "VAT Accounting",
+      "difficulty": "medium",
+      "question": "In accounting for VAT, output VAT is",
+      "options": {
+        "A": "VAT paid by the business on its purchases",
+        "B": "VAT collected by the business on its sales — a liability owed to the government",
+        "C": "VAT reclaimed by the business from the government",
+        "D": "The net VAT position of the business"
+      },
+      "correct_answer": "B",
+      "explanation": "Output VAT is the VAT a business charges its customers on sales. It is collected on behalf of the government and is a liability. Input VAT is paid on purchases. VAT payable = Output VAT – Input VAT."
+    },
+    {
+      "id": 152,
+      "topic": "VAT Accounting",
+      "difficulty": "medium",
+      "question": "Input VAT is",
+      "options": {
+        "A": "VAT charged by the business on goods it sells",
+        "B": "VAT paid by the business on its purchases — which it can reclaim from the government",
+        "C": "VAT charged on imported goods only",
+        "D": "VAT on capital goods only"
+      },
+      "correct_answer": "B",
+      "explanation": "Input VAT is the VAT paid by a VAT-registered business on its purchases. It is recoverable (offset) against output VAT, so the business only remits the difference to the tax authority."
+    },
+    {
+      "id": 153,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "The purchase of equipment for office use on credit should be recorded in",
+      "options": {
+        "A": "The purchases day book",
+        "B": "The general journal (journal proper)",
+        "C": "The cash book",
+        "D": "The sales day book"
+      },
+      "correct_answer": "B",
+      "explanation": "The purchase of a fixed asset (equipment) on credit is not a credit purchase of goods for resale, so it does not go in the purchases day book. It is recorded in the general journal with a debit to equipment and a credit to the supplier."
+    },
+    {
+      "id": 154,
+      "topic": "Books of Original Entry",
+      "difficulty": "medium",
+      "question": "Writing off a bad debt in the books requires an entry in",
+      "options": {
+        "A": "The sales day book",
+        "B": "The returns inwards day book",
+        "C": "The general journal",
+        "D": "The cash book"
+      },
+      "correct_answer": "C",
+      "explanation": "Writing off a bad debt is a non-routine transaction that does not appear in the other books of original entry. It is recorded in the general journal (Debit bad debts; Credit debtor's account)."
+    },
+    {
+      "id": 155,
+      "topic": "Ledger Accounts",
+      "difficulty": "medium",
+      "question": "The totals of the sales day book are posted to the ledger as",
+      "options": {
+        "A": "Debit to individual debtors' accounts; Credit to sales account",
+        "B": "Debit to sales account; Credit to debtors control account",
+        "C": "Debit to debtors control account; Credit to sales account",
+        "D": "Debit to cash account; Credit to sales account"
+      },
+      "correct_answer": "C",
+      "explanation": "From the sales day book: individual transactions are posted to personal debtors' accounts (debit). The total is posted as debit to the sales ledger control account and credit to the sales account."
+    },
+    {
+      "id": 156,
+      "topic": "Ledger Accounts",
+      "difficulty": "medium",
+      "question": "The totals of the purchases day book are posted to the ledger as",
+      "options": {
+        "A": "Debit to purchases account; Credit to creditors control account",
+        "B": "Debit to creditors control account; Credit to purchases account",
+        "C": "Debit to cash account; Credit to purchases account",
+        "D": "Debit to purchases account; Credit to cash account"
+      },
+      "correct_answer": "A",
+      "explanation": "From the purchases day book: purchases account is debited (expense increases) and the purchases ledger control account (creditors) is credited (liability increases)."
+    },
+    {
+      "id": 157,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The historical cost concept requires that",
+      "options": {
+        "A": "Assets are recorded at their current replacement cost",
+        "B": "Assets are recorded at their original purchase (acquisition) cost",
+        "C": "Assets are updated to fair value at each balance sheet date",
+        "D": "Only fixed assets are recorded at historical cost"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the historical cost concept, assets are recorded at the price paid to acquire them (original cost), not at current market value. This provides objective, verifiable figures."
+    },
+    {
+      "id": 158,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The objectivity concept in accounting requires that",
+      "options": {
+        "A": "Accountants must be members of a professional body",
+        "B": "Accounting information must be based on verifiable evidence and free from bias",
+        "C": "All financial statements must be audited annually",
+        "D": "Accountants must use government-approved software"
+      },
+      "correct_answer": "B",
+      "explanation": "The objectivity concept means financial information should be based on objective, verifiable evidence (like invoices and receipts) rather than personal opinions, ensuring reliability."
+    },
+    {
+      "id": 159,
+      "topic": "Suspense Account",
+      "difficulty": "medium",
+      "question": "If the trial balance shows total debits of ₦500,000 and total credits of ₦498,000, the suspense account is",
+      "options": {
+        "A": "Credited with ₦2,000",
+        "B": "Debited with ₦2,000",
+        "C": "Credited with ₦1,000",
+        "D": "Debited with ₦998,000"
+      },
+      "correct_answer": "B",
+      "explanation": "When total debits (₦500,000) exceed total credits (₦498,000) by ₦2,000, the suspense account is debited with ₦2,000 to make the trial balance agree. This indicates credits are understated or debits are overstated."
+    },
+    {
+      "id": 160,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "A revaluation account in a partnership is used when",
+      "options": {
+        "A": "The partnership earns unusually high profits in a year",
+        "B": "Assets and liabilities are revalued on a change in the profit-sharing structure — to ensure fair treatment of partners",
+        "C": "A partner borrows money from the firm",
+        "D": "The firm converts to a limited company"
+      },
+      "correct_answer": "B",
+      "explanation": "A revaluation account is used when assets and liabilities are revalued upon a change in the partnership (new partner, retirement, etc.). Profits or losses on revaluation are shared among the partners in the old profit-sharing ratio."
+    },
+    {
+      "id": 161,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "A business with current assets of ₦120,000, stock of ₦50,000, and current liabilities of ₦60,000 has an acid test ratio of",
+      "options": {
+        "A": "2:1",
+        "B": "1.17:1",
+        "C": "0.83:1",
+        "D": "1:1"
+      },
+      "correct_answer": "B",
+      "explanation": "Acid test ratio = (Current assets – Stock) ÷ Current liabilities = (₦120,000 – ₦50,000) ÷ ₦60,000 = ₦70,000 ÷ ₦60,000 = 1.17:1."
+    },
+    {
+      "id": 162,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "If net profit is ₦30,000 and capital employed is ₦150,000, the ROCE is",
+      "options": {
+        "A": "5%",
+        "B": "20%",
+        "C": "50%",
+        "D": "500%"
+      },
+      "correct_answer": "B",
+      "explanation": "ROCE = (Net profit ÷ Capital employed) × 100 = (₦30,000 ÷ ₦150,000) × 100 = 20%."
+    },
+    {
+      "id": 163,
+      "topic": "Cash Book",
+      "difficulty": "medium",
+      "question": "A dishonoured cheque in the cash book means",
+      "options": {
+        "A": "The cheque is valid but has not been presented yet",
+        "B": "The bank has returned the cheque unpaid — usually due to insufficient funds",
+        "C": "The cheque is post-dated and cannot be cashed yet",
+        "D": "The cheque has been cancelled by the drawer"
+      },
+      "correct_answer": "B",
+      "explanation": "A dishonoured (bounced) cheque is returned unpaid by the bank. The cash book debit (receipt) must be reversed — the debtor's account is debited again, restoring the original debt."
+    },
+    {
+      "id": 164,
+      "topic": "Control Accounts",
+      "difficulty": "medium",
+      "question": "A debit balance on the purchases ledger control account indicates",
+      "options": {
+        "A": "The business owes money to its suppliers",
+        "B": "The business has overpaid a supplier or received a refund — a debtor balance",
+        "C": "Purchases exceed the cash payments made",
+        "D": "There is an error in the purchases day book"
+      },
+      "correct_answer": "B",
+      "explanation": "The purchases ledger control account normally has a credit balance (money owed to creditors). A debit balance is unusual and indicates the business has overpaid a supplier or received goods on credit notes in excess of purchases."
+    },
+    {
+      "id": 165,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "The capital redemption reserve arises when",
+      "options": {
+        "A": "A company issues new shares to the public",
+        "B": "A company redeems (buys back) its own preference shares, maintaining the capital base by transferring from distributable reserves",
+        "C": "A company revalues its fixed assets upward",
+        "D": "A company converts preference shares to ordinary shares"
+      },
+      "correct_answer": "B",
+      "explanation": "When a company redeems redeemable preference shares, it must maintain its capital base by transferring from distributable reserves (retained earnings) to the capital redemption reserve — a non-distributable reserve."
+    },
+    {
+      "id": 166,
+      "topic": "Stock Valuation",
+      "difficulty": "medium",
+      "question": "Net Realisable Value (NRV) of stock is",
+      "options": {
+        "A": "The historical cost of acquiring the stock",
+        "B": "The estimated selling price less all costs to complete and sell the stock",
+        "C": "The replacement cost of the stock at year end",
+        "D": "The book value of stock after depreciation"
+      },
+      "correct_answer": "B",
+      "explanation": "NRV = Estimated selling price – Estimated costs of completion – Estimated selling costs. Stock is valued at the lower of cost and NRV under IAS 2."
+    },
+    {
+      "id": 167,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Debentures are shown on the balance sheet as",
+      "options": {
+        "A": "Current liabilities",
+        "B": "Non-current (long-term) liabilities",
+        "C": "Shareholders' equity",
+        "D": "Current assets"
+      },
+      "correct_answer": "B",
+      "explanation": "Debentures are long-term borrowings (loans) of a company. They are shown as non-current liabilities on the balance sheet as they are usually repayable after more than one year."
+    },
+    {
+      "id": 168,
+      "topic": "Trading and Profit & Loss Account",
+      "difficulty": "medium",
+      "question": "Which of the following items is included in the trading account?",
+      "options": {
+        "A": "Salaries and wages",
+        "B": "Rent and rates",
+        "C": "Returns inwards and returns outwards",
+        "D": "Advertising expenses"
+      },
+      "correct_answer": "C",
+      "explanation": "The trading account includes: sales, returns inwards, cost of goods sold (opening stock, purchases, returns outwards, carriage inwards, closing stock). Salaries, rent, and advertising are P&L account items."
+    },
+    {
+      "id": 169,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Intangible fixed assets include",
+      "options": {
+        "A": "Land and buildings",
+        "B": "Motor vehicles",
+        "C": "Goodwill and patents",
+        "D": "Fixtures and fittings"
+      },
+      "correct_answer": "C",
+      "explanation": "Intangible fixed assets are non-physical long-term assets — examples include goodwill, patents, trademarks, copyrights, and brand names. Land, vehicles, and fixtures are tangible fixed assets."
+    },
+    {
+      "id": 170,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Long-term liabilities on a balance sheet include",
+      "options": {
+        "A": "Trade creditors",
+        "B": "Bank overdraft",
+        "C": "Accruals",
+        "D": "Mortgage loans and debentures"
+      },
+      "correct_answer": "D",
+      "explanation": "Long-term (non-current) liabilities are obligations payable after more than one year — examples include mortgages, debentures, and long-term bank loans. Trade creditors, overdrafts, and accruals are current liabilities."
+    },
+    {
+      "id": 171,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "Partners A, B, and C share profits in the ratio 3:2:1. If net profit is ₦60,000, what is C's share?",
+      "options": {
+        "A": "₦30,000",
+        "B": "₦20,000",
+        "C": "₦10,000",
+        "D": "₦15,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Total parts = 3+2+1 = 6. C's share = 1/6 × ₦60,000 = ₦10,000."
+    },
+    {
+      "id": 172,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "The purpose of charging interest on drawings is to",
+      "options": {
+        "A": "Increase the firm's income",
+        "B": "Discourage partners from making excessive drawings early in the year",
+        "C": "Compensate creditors for late payment",
+        "D": "Provide funds for replacing worn-out assets"
+      },
+      "correct_answer": "B",
+      "explanation": "Interest on drawings compensates the partnership for partners taking money out early, as it reduces the working capital available to the business. It is charged to partners' current accounts."
+    },
+    {
+      "id": 173,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "A company's authorised share capital is ₦500,000 and issued share capital is ₦300,000. The unissued share capital is",
+      "options": {
+        "A": "₦800,000",
+        "B": "₦300,000",
+        "C": "₦200,000",
+        "D": "₦500,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Unissued share capital = Authorised share capital – Issued share capital = ₦500,000 – ₦300,000 = ₦200,000."
+    },
+    {
+      "id": 174,
+      "topic": "Company Accounts",
+      "difficulty": "medium",
+      "question": "Called-up share capital refers to",
+      "options": {
+        "A": "The full amount of shares issued to shareholders",
+        "B": "The portion of issued share capital that shareholders have been asked to pay",
+        "C": "Shares that have been fully paid",
+        "D": "Shares that have not yet been allotted to shareholders"
+      },
+      "correct_answer": "B",
+      "explanation": "Called-up capital is the portion of issued share capital that the company has requested shareholders to pay. Shares may be issued but not yet fully called up (e.g., only 75p per £1 share may be called)."
+    },
+    {
+      "id": 175,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "An increase in a liability is recorded as",
+      "options": {
+        "A": "A debit entry",
+        "B": "A credit entry",
+        "C": "Both a debit and a credit entry",
+        "D": "Only in the journal"
+      },
+      "correct_answer": "B",
+      "explanation": "According to double-entry rules, liabilities are increased by credit entries. When a liability increases, credit the liability account. Debit entries decrease liabilities."
+    },
+    {
+      "id": 176,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "Revenue (income) is recorded as a",
+      "options": {
+        "A": "Debit entry to increase it",
+        "B": "Credit entry to increase it",
+        "C": "Debit entry to decrease it",
+        "D": "Posting to the balance sheet only"
+      },
+      "correct_answer": "B",
+      "explanation": "Revenue accounts are increased by credit entries. When a sale is made, the sales (revenue) account is credited. This increases profit, which increases capital."
+    },
+    {
+      "id": 177,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "The substance over form concept means that",
+      "options": {
+        "A": "The legal form of a transaction always overrides its economic substance",
+        "B": "Transactions are accounted for according to their economic reality rather than their strict legal form",
+        "C": "Financial statements must use standardised forms approved by the government",
+        "D": "Only formal written contracts are recorded in the books"
+      },
+      "correct_answer": "B",
+      "explanation": "Substance over form means that financial reporting reflects the economic reality of transactions, even if this differs from the strict legal form. E.g., assets acquired under finance leases are recorded as assets despite not legally being owned."
+    },
+    {
+      "id": 178,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "A machine costs ₦40,000 with a residual value of ₦4,000 and useful life of 4 years. Annual depreciation using straight-line method is",
+      "options": {
+        "A": "₦10,000",
+        "B": "₦9,000",
+        "C": "₦8,000",
+        "D": "₦11,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Annual depreciation = (Cost – Residual value) ÷ Useful life = (₦40,000 – ₦4,000) ÷ 4 = ₦36,000 ÷ 4 = ₦9,000."
+    },
+    {
+      "id": 179,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "A sole trader's capital at the start of the year is ₦80,000. During the year, net profit is ₦25,000 and drawings are ₦10,000. The closing capital is",
+      "options": {
+        "A": "₦95,000",
+        "B": "₦105,000",
+        "C": "₦115,000",
+        "D": "₦80,000"
+      },
+      "correct_answer": "A",
+      "explanation": "Closing capital = Opening capital + Net profit – Drawings = ₦80,000 + ₦25,000 – ₦10,000 = ₦95,000."
+    },
+    {
+      "id": 180,
+      "topic": "Bank Reconciliation",
+      "difficulty": "medium",
+      "question": "If the cash book shows a balance of ₦12,000 and the bank statement shows ₦15,000, and there are no bank charges or direct credits, the most likely cause is",
+      "options": {
+        "A": "Outstanding deposits (uncleared lodgements) of ₦3,000",
+        "B": "Unpresented cheques of ₦3,000",
+        "C": "Bank charges of ₦3,000",
+        "D": "An error in the cash book of ₦3,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Unpresented cheques of ₦3,000 have been recorded in the cash book as credits (reducing cash book balance) but have not yet been presented to the bank. So the bank statement balance (₦15,000) is higher than the cash book (₦12,000). ₦15,000 – ₦3,000 = ₦12,000."
+    },
+    {
+      "id": 181,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "Subscriptions received in advance by a club are treated as",
+      "options": {
+        "A": "Income in the current year's income and expenditure account",
+        "B": "A current liability on the balance sheet",
+        "C": "A current asset on the balance sheet",
+        "D": "A reduction of the accumulated fund"
+      },
+      "correct_answer": "B",
+      "explanation": "Subscriptions received in advance relate to the next period. They are a current liability (deferred income) because the club has an obligation to provide membership services in the future."
+    },
+    {
+      "id": 182,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "Subscriptions in arrears (unpaid by members at year end) are",
+      "options": {
+        "A": "Ignored in the income and expenditure account",
+        "B": "Treated as a current asset (income receivable) on the balance sheet",
+        "C": "Written off as a bad debt immediately",
+        "D": "Deducted from the accumulated fund"
+      },
+      "correct_answer": "B",
+      "explanation": "Subscriptions in arrears are income earned but not yet received. Under the accruals concept, they are included in the income and expenditure account and shown as a current asset (debtor) on the balance sheet."
+    },
+    {
+      "id": 183,
+      "topic": "Accounting Standards",
+      "difficulty": "medium",
+      "question": "IAS 16 deals with",
+      "options": {
+        "A": "Inventory (stock) valuation",
+        "B": "Property, Plant and Equipment (PPE) — its recognition, measurement, and depreciation",
+        "C": "Presentation of financial statements",
+        "D": "Revenue recognition"
+      },
+      "correct_answer": "B",
+      "explanation": "IAS 16 (Property, Plant and Equipment) prescribes the accounting treatment for most fixed assets — their recognition, measurement (cost or revaluation model), depreciation, and disposal."
+    },
+    {
+      "id": 184,
+      "topic": "Accounting Standards",
+      "difficulty": "medium",
+      "question": "IAS 2 deals with",
+      "options": {
+        "A": "Accounting for fixed assets",
+        "B": "Accounting for inventories (stock) — including valuation rules",
+        "C": "Presentation of financial statements",
+        "D": "Accounting for leases"
+      },
+      "correct_answer": "B",
+      "explanation": "IAS 2 (Inventories) prescribes the accounting treatment for inventories, including cost measurement, the lower of cost/NRV rule, and approved cost formulas (FIFO, AVCO)."
+    },
+    {
+      "id": 185,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "Sales are ₦200,000 and cost of goods sold is ₦140,000. The gross profit margin is",
+      "options": {
+        "A": "30%",
+        "B": "40%",
+        "C": "70%",
+        "D": "143%"
+      },
+      "correct_answer": "A",
+      "explanation": "Gross profit = ₦200,000 – ₦140,000 = ₦60,000. Gross profit margin = (₦60,000 ÷ ₦200,000) × 100 = 30%."
+    },
+    {
+      "id": 186,
+      "topic": "Incomplete Records",
+      "difficulty": "medium",
+      "question": "Opening capital is ₦50,000; closing capital is ₦72,000; additional capital introduced is ₦5,000; drawings are ₦8,000. Net profit for the year is",
+      "options": {
+        "A": "₦27,000",
+        "B": "₦25,000",
+        "C": "₦22,000",
+        "D": "₦30,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Net profit = Closing capital – Opening capital + Drawings – Capital introduced = ₦72,000 – ₦50,000 + ₦8,000 – ₦5,000 = ₦25,000."
+    },
+    {
+      "id": 187,
+      "topic": "Double Entry Bookkeeping",
+      "difficulty": "medium",
+      "question": "Goods taken by the owner for personal use are recorded as",
+      "options": {
+        "A": "Debit sales account; Credit drawings account",
+        "B": "Debit drawings account; Credit purchases account",
+        "C": "Debit expenses account; Credit drawings account",
+        "D": "Debit capital account; Credit purchases account"
+      },
+      "correct_answer": "B",
+      "explanation": "Goods taken by the owner are drawings at cost. Debit drawings account (reduces capital) and credit purchases account (reduces cost of purchases). This ensures profit is not understated."
+    },
+    {
+      "id": 188,
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "A business pays salaries of ₦60,000 per month. At year end, one month's salary is outstanding. The charge to the P&L account for salaries is",
+      "options": {
+        "A": "₦60,000",
+        "B": "₦660,000",
+        "C": "₦720,000",
+        "D": "₦600,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Salaries charged to P&L = 12 months × ₦60,000 = ₦720,000. The outstanding ₦60,000 is an accrual (current liability). If only ₦660,000 was paid, the accrual ensures the full year's expense is charged."
+    },
+    {
+      "id": 189,
+      "topic": "Trial Balance",
+      "difficulty": "medium",
+      "question": "Which of the following has a credit balance in the trial balance?",
+      "options": {
+        "A": "Machinery account",
+        "B": "Drawings account",
+        "C": "Capital account",
+        "D": "Carriage inwards account"
+      },
+      "correct_answer": "C",
+      "explanation": "Capital account has a credit balance (owner's claim on the business). Machinery, drawings, and carriage inwards are debit balances — assets, contra-equity, and expenses respectively."
+    },
+    {
+      "id": 190,
+      "topic": "Partnership Accounts",
+      "difficulty": "medium",
+      "question": "On the admission of a new partner, any existing goodwill should be",
+      "options": {
+        "A": "Retained in the books at its original cost",
+        "B": "Raised in the books (debit goodwill; credit old partners' capital accounts in the old ratio) and then written off against all partners in the new ratio",
+        "C": "Written off directly against profits for the year",
+        "D": "Transferred to the new partner's capital account"
+      },
+      "correct_answer": "B",
+      "explanation": "On admission of a new partner: goodwill is raised by debiting the goodwill account and crediting old partners in their old ratio (compensating them). It is then immediately written off by debiting all partners (new ratio) and crediting goodwill."
+    },
+    {
+      "id": 191,
+      "topic": "Final Accounts",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT shown in a profit and loss account?",
+      "options": {
+        "A": "Depreciation",
+        "B": "Bad debts",
+        "C": "Drawings",
+        "D": "Wages and salaries"
+      },
+      "correct_answer": "C",
+      "explanation": "Drawings are not an expense of the business — they are the owner's withdrawal of capital or profits. They appear as a deduction from capital on the balance sheet, not in the profit and loss account."
+    },
+    {
+      "id": 192,
+      "topic": "Balance Sheet",
+      "difficulty": "medium",
+      "question": "Net current assets (working capital) on a balance sheet is",
+      "options": {
+        "A": "Fixed assets minus current liabilities",
+        "B": "Current assets minus current liabilities",
+        "C": "Total assets minus total liabilities",
+        "D": "Current assets plus current liabilities"
+      },
+      "correct_answer": "B",
+      "explanation": "Net current assets (working capital) = Current assets – Current liabilities. This represents the liquidity cushion available to meet short-term obligations."
+    },
+    {
+      "id": 193,
+      "topic": "Depreciation",
+      "difficulty": "medium",
+      "question": "The units of production (output) method of depreciation charges",
+      "options": {
+        "A": "The same amount each year",
+        "B": "More in early years and less later",
+        "C": "Depreciation based on the actual output produced by the asset in the period",
+        "D": "Depreciation based on the remaining years of useful life"
+      },
+      "correct_answer": "C",
+      "explanation": "The units of production method calculates depreciation per unit and charges it based on actual output: Depreciation per unit = (Cost – Residual value) ÷ Total expected output."
+    },
+    {
+      "id": 194,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "Capital introduced in cash by the owner is recorded as",
+      "options": {
+        "A": "Debit cash account; Credit drawings account",
+        "B": "Debit cash account; Credit capital account",
+        "C": "Debit capital account; Credit cash account",
+        "D": "Debit bank account; Credit profit and loss account"
+      },
+      "correct_answer": "B",
+      "explanation": "When an owner introduces cash capital: cash increases (debit cash account) and the owner's capital increases (credit capital account)."
+    },
+    {
+      "id": 195,
+      "topic": "Cash Book",
+      "difficulty": "medium",
+      "question": "The balance carried down on the credit side of a cash book indicates",
+      "options": {
+        "A": "A favourable bank balance",
+        "B": "A bank overdraft — the business owes money to the bank",
+        "C": "Cash held in the business till",
+        "D": "Interest earned on the bank account"
+      },
+      "correct_answer": "B",
+      "explanation": "A credit balance on the bank column of the cash book means the bank account is overdrawn — the business owes money to the bank (bank overdraft). This is a liability."
+    },
+    {
+      "id": 196,
+      "topic": "Errors and Their Correction",
+      "difficulty": "medium",
+      "question": "A transposition error occurs when",
+      "options": {
+        "A": "A transaction is completely missed from the records",
+        "B": "The digits of a number are accidentally reversed — e.g., ₦2,400 recorded as ₦4,200",
+        "C": "The same transaction is entered twice in the books",
+        "D": "A debit entry is made in place of a credit entry"
+      },
+      "correct_answer": "B",
+      "explanation": "A transposition error involves accidentally reversing the order of digits — e.g., writing 4,200 instead of 2,400. The difference between the two is always divisible by 9 (4,200 – 2,400 = 1,800; 1,800 ÷ 9 = 200)."
+    },
+    {
+      "id": 197,
+      "topic": "Manufacturing Accounts",
+      "difficulty": "medium",
+      "question": "The cost of raw materials consumed in production is calculated as",
+      "options": {
+        "A": "Opening raw material stock + Purchases of raw materials – Closing raw material stock",
+        "B": "Opening raw material stock + Purchases – Returns outwards",
+        "C": "Total purchases of raw materials during the year",
+        "D": "Closing raw material stock – Opening raw material stock"
+      },
+      "correct_answer": "A",
+      "explanation": "Raw materials consumed = Opening stock of raw materials + Purchases of raw materials – Closing stock of raw materials."
+    },
+    {
+      "id": 198,
+      "topic": "Club and Society Accounts",
+      "difficulty": "medium",
+      "question": "The life membership fund received by a club should be",
+      "options": {
+        "A": "Credited to income and expenditure account in full in the year received",
+        "B": "Treated as a long-term liability or credited to accumulated fund over the member's lifetime",
+        "C": "Debited to the cash account only",
+        "D": "Returned to the member at the end of the year"
+      },
+      "correct_answer": "B",
+      "explanation": "Life membership fees are not fully credited to income in the year received. They are credited to a life membership fund (long-term liability or part of accumulated fund) and transferred to income gradually or in total when the member dies."
+    },
+    {
+      "id": 199,
+      "topic": "Ratio Analysis",
+      "difficulty": "medium",
+      "question": "If a business has sales of ₦250,000 and closing debtors of ₦50,000, the debtors collection period (days) is",
+      "options": {
+        "A": "5 days",
+        "B": "73 days",
+        "C": "50 days",
+        "D": "365 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Debtors collection period = (Debtors ÷ Sales) × 365 = (₦50,000 ÷ ₦250,000) × 365 = 0.2 × 365 = 73 days."
+    },
+    {
+      "id": 200,
+      "topic": "Basic Accounting Concepts",
+      "difficulty": "medium",
+      "question": "Which accounting concept is applied when a business charges small items of stationery as an expense rather than capitalising them as fixed assets?",
+      "options": {
+        "A": "Consistency",
+        "B": "Going concern",
+        "C": "Materiality",
+        "D": "Prudence"
+      },
+      "correct_answer": "C",
+      "explanation": "The materiality concept allows immaterial (insignificant) items to be treated in the simplest convenient way. Small items of stationery are expensed (even though they could be fixed assets) because their cost is immaterial."
+    }
+  ]
+}

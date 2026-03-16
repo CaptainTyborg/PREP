@@ -1,0 +1,2806 @@
+{
+  "subject": "Geography",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to Geography",
+      "difficulty": "medium",
+      "question": "Geography is best defined as the study of:",
+      "options": {
+        "A": "the history of human civilizations",
+        "B": "the earth's surface, its features, inhabitants, and phenomena",
+        "C": "the movement of celestial bodies",
+        "D": "economic systems and trade routes"
+      },
+      "correct_answer": "B",
+      "explanation": "Geography is the study of the Earth's physical features, environment, and the relationship between people and their environments."
+    },
+    {
+      "id": 2,
+      "topic": "Introduction to Geography",
+      "difficulty": "medium",
+      "question": "The two main branches of Geography are:",
+      "options": {
+        "A": "Political Geography and Economic Geography",
+        "B": "Physical Geography and Human Geography",
+        "C": "Geomorphology and Climatology",
+        "D": "Historical Geography and Urban Geography"
+      },
+      "correct_answer": "B",
+      "explanation": "Geography is broadly divided into Physical Geography (natural environment: landforms, climate, soils) and Human Geography (people, culture, economy, settlement)."
+    },
+    {
+      "id": 3,
+      "topic": "The Earth",
+      "difficulty": "medium",
+      "question": "The Earth's shape is best described as:",
+      "options": {
+        "A": "a perfect sphere",
+        "B": "an oblate spheroid (slightly flattened at the poles and bulging at the equator)",
+        "C": "a prolate spheroid",
+        "D": "a perfect cylinder"
+      },
+      "correct_answer": "B",
+      "explanation": "The Earth is an oblate spheroid — it bulges slightly at the equator and is flattened at the poles due to its rotation."
+    },
+    {
+      "id": 4,
+      "topic": "The Earth",
+      "difficulty": "medium",
+      "question": "The Earth's internal structure from the surface inward consists of:",
+      "options": {
+        "A": "Crust, Mantle, Outer Core, Inner Core",
+        "B": "Crust, Core, Mantle, Lithosphere",
+        "C": "Outer Core, Mantle, Crust, Inner Core",
+        "D": "Lithosphere, Asthenosphere, Core"
+      },
+      "correct_answer": "A",
+      "explanation": "From surface to center: Crust (outermost), Mantle (largest layer), Outer Core (liquid iron and nickel), Inner Core (solid iron and nickel)."
+    },
+    {
+      "id": 5,
+      "topic": "The Earth",
+      "difficulty": "medium",
+      "question": "The layer of the atmosphere closest to the Earth's surface where weather occurs is the:",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Mesosphere",
+        "C": "Troposphere",
+        "D": "Thermosphere"
+      },
+      "correct_answer": "C",
+      "explanation": "The Troposphere is the lowest layer of the atmosphere (0–12 km) where all weather phenomena occur and where most of the atmosphere's mass is concentrated."
+    },
+    {
+      "id": 6,
+      "topic": "The Earth",
+      "difficulty": "medium",
+      "question": "The ozone layer that protects the Earth from harmful UV radiation is found in the:",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correct_answer": "B",
+      "explanation": "The ozone layer is concentrated in the Stratosphere (15–50 km above Earth's surface), absorbing most of the Sun's ultraviolet (UV) radiation."
+    },
+    {
+      "id": 7,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "A map scale of 1:50,000 means that 1 cm on the map represents:",
+      "options": {
+        "A": "50 metres on the ground",
+        "B": "500 metres on the ground",
+        "C": "5 kilometres on the ground",
+        "D": "50 kilometres on the ground"
+      },
+      "correct_answer": "B",
+      "explanation": "1:50,000 means 1 unit on the map = 50,000 units on the ground. So 1 cm = 50,000 cm = 500 m = 0.5 km on the ground."
+    },
+    {
+      "id": 8,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "Lines on a map joining places of equal height above sea level are called:",
+      "options": {
+        "A": "Isobars",
+        "B": "Isotherms",
+        "C": "Contour lines",
+        "D": "Isohyets"
+      },
+      "correct_answer": "C",
+      "explanation": "Contour lines connect points of equal altitude (elevation) above sea level on a topographic map. Closely spaced contours indicate steep slopes."
+    },
+    {
+      "id": 9,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "The vertical distance between consecutive contour lines on a map is called:",
+      "options": {
+        "A": "Map scale",
+        "B": "Relief",
+        "C": "Contour interval",
+        "D": "Gradient"
+      },
+      "correct_answer": "C",
+      "explanation": "The contour interval is the difference in elevation between successive contour lines. A small contour interval indicates a gentle slope; a large one indicates a steep slope."
+    },
+    {
+      "id": 10,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "Lines on a weather map joining places of equal atmospheric pressure are called:",
+      "options": {
+        "A": "Contours",
+        "B": "Isobars",
+        "C": "Isotherms",
+        "D": "Isohyets"
+      },
+      "correct_answer": "B",
+      "explanation": "Isobars are lines on a weather map connecting places with the same atmospheric pressure. Closely packed isobars indicate strong winds."
+    },
+    {
+      "id": 11,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "The cardinal points of a compass are:",
+      "options": {
+        "A": "North, South, East, West",
+        "B": "Northeast, Northwest, Southeast, Southwest",
+        "C": "North, East, South, West, Northeast",
+        "D": "Magnetic North, True North, South, East"
+      },
+      "correct_answer": "A",
+      "explanation": "The four cardinal points are North (N), South (S), East (E), and West (W). The intercardinal points are NE, NW, SE, and SW."
+    },
+    {
+      "id": 12,
+      "topic": "Map Reading and Interpretation",
+      "difficulty": "medium",
+      "question": "The grid reference system on topographic maps uses:",
+      "options": {
+        "A": "latitude and longitude only",
+        "B": "eastings (vertical lines) and northings (horizontal lines)",
+        "C": "contour lines and spot heights",
+        "D": "compass bearings"
+      },
+      "correct_answer": "B",
+      "explanation": "Grid references use eastings (lines running north-south, numbered west to east) and northings (lines running east-west, numbered south to north) to pinpoint locations."
+    },
+    {
+      "id": 13,
+      "topic": "Latitude and Longitude",
+      "difficulty": "medium",
+      "question": "Lines of latitude run:",
+      "options": {
+        "A": "from north to south",
+        "B": "from east to west (parallel to the equator)",
+        "C": "from pole to pole",
+        "D": "diagonally across the globe"
+      },
+      "correct_answer": "B",
+      "explanation": "Lines of latitude (parallels) run east-west, parallel to the equator. They measure the angular distance north or south of the equator (0° to 90°)."
+    },
+    {
+      "id": 14,
+      "topic": "Latitude and Longitude",
+      "difficulty": "medium",
+      "question": "The Prime Meridian (0° longitude) passes through:",
+      "options": {
+        "A": "Paris, France",
+        "B": "Greenwich, London, England",
+        "C": "Washington D.C., USA",
+        "D": "Cairo, Egypt"
+      },
+      "correct_answer": "B",
+      "explanation": "The Prime Meridian (0° longitude) passes through Greenwich, London, and divides the Earth into Eastern and Western Hemispheres."
+    },
+    {
+      "id": 15,
+      "topic": "Latitude and Longitude",
+      "difficulty": "medium",
+      "question": "The Tropic of Cancer is located at approximately:",
+      "options": {
+        "A": "23½°N latitude",
+        "B": "23½°S latitude",
+        "C": "66½°N latitude",
+        "D": "0° latitude"
+      },
+      "correct_answer": "A",
+      "explanation": "The Tropic of Cancer (23.5°N) is the northernmost latitude where the sun can be directly overhead (at the June solstice). The Tropic of Capricorn is at 23.5°S."
+    },
+    {
+      "id": 16,
+      "topic": "Latitude and Longitude",
+      "difficulty": "medium",
+      "question": "Nigeria lies approximately between latitudes:",
+      "options": {
+        "A": "4°N and 14°N",
+        "B": "0° and 10°N",
+        "C": "10°N and 20°N",
+        "D": "5°S and 15°N"
+      },
+      "correct_answer": "A",
+      "explanation": "Nigeria lies between approximately 4°N and 14°N latitude and 3°E and 15°E longitude, entirely within the tropics."
+    },
+    {
+      "id": 17,
+      "topic": "Latitude and Longitude",
+      "difficulty": "medium",
+      "question": "The International Date Line is located at approximately:",
+      "options": {
+        "A": "0° longitude",
+        "B": "90°E longitude",
+        "C": "180° longitude",
+        "D": "90°W longitude"
+      },
+      "correct_answer": "C",
+      "explanation": "The International Date Line runs roughly along the 180° meridian in the Pacific Ocean. Crossing it eastward means going back one calendar day; westward means gaining a day."
+    },
+    {
+      "id": 18,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "The process by which rocks are broken down into smaller pieces by physical, chemical, or biological means is called:",
+      "options": {
+        "A": "Erosion",
+        "B": "Weathering",
+        "C": "Deposition",
+        "D": "Transportation"
+      },
+      "correct_answer": "B",
+      "explanation": "Weathering is the in-situ breakdown of rocks by physical (mechanical), chemical, or biological processes. Erosion involves the removal and transport of weathered material."
+    },
+    {
+      "id": 19,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "A river meander is formed when:",
+      "options": {
+        "A": "a river flows in a straight line with high velocity",
+        "B": "a river erodes its banks sideways, forming bends and loops",
+        "C": "a river deposits material at its mouth",
+        "D": "a river flows over a waterfall"
+      },
+      "correct_answer": "B",
+      "explanation": "Meanders form as a river's lateral erosion creates sweeping bends. The outer bank is eroded while material is deposited on the inner bank (point bar), creating a sinuous channel."
+    },
+    {
+      "id": 20,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "An oxbow lake is formed when:",
+      "options": {
+        "A": "a river delta forms at the mouth",
+        "B": "a river meander is cut off from the main channel",
+        "C": "a waterfall retreats upstream",
+        "D": "a river is dammed by a landslide"
+      },
+      "correct_answer": "B",
+      "explanation": "An oxbow lake forms when a meander neck is cut through (neck cutoff), isolating the former meander loop as a crescent-shaped lake."
+    },
+    {
+      "id": 21,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "A delta is formed at the mouth of a river when:",
+      "options": {
+        "A": "the river erodes rapidly downward",
+        "B": "the river deposits sediment faster than it can be removed by sea currents or waves",
+        "C": "the river reaches its highest velocity",
+        "D": "the river flows underground"
+      },
+      "correct_answer": "B",
+      "explanation": "A delta forms at a river's mouth when it slows down and deposits its sediment load faster than waves, tides, or currents can remove it, building up triangular landforms."
+    },
+    {
+      "id": 22,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "The Niger Delta in Nigeria is a good example of which type of delta?",
+      "options": {
+        "A": "Arcuate (fan-shaped) delta",
+        "B": "Bird's foot delta",
+        "C": "Cuspate delta",
+        "D": "Inland delta"
+      },
+      "correct_answer": "A",
+      "explanation": "The Niger Delta is one of the world's largest arcuate (fan-shaped) deltas, formed by the Niger and Benue rivers depositing sediment into the Gulf of Guinea."
+    },
+    {
+      "id": 23,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "A watershed (divide) is:",
+      "options": {
+        "A": "a large waterfall",
+        "B": "the high ground separating adjacent river drainage basins",
+        "C": "the area where a river meets the sea",
+        "D": "a flat-floored river valley"
+      },
+      "correct_answer": "B",
+      "explanation": "A watershed (drainage divide) is the elevated boundary that separates two river basins — precipitation on either side flows into different river systems."
+    },
+    {
+      "id": 24,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "A rift valley is formed by:",
+      "options": {
+        "A": "folding of the Earth's crust",
+        "B": "the sinking (subsidence) of land between two parallel faults",
+        "C": "volcanic activity",
+        "D": "wind erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "A rift valley (graben) forms when a block of the Earth's crust subsides between two parallel faults. The East African Rift Valley is a major example."
+    },
+    {
+      "id": 25,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "A horst is:",
+      "options": {
+        "A": "a sunken block between two faults",
+        "B": "an uplifted block of land between two faults",
+        "C": "a volcanic mountain",
+        "D": "a coastal headland"
+      },
+      "correct_answer": "B",
+      "explanation": "A horst is an uplifted fault block — the opposite of a graben (rift valley). The Jos Plateau in Nigeria is an example of a horst plateau."
+    },
+    {
+      "id": 26,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "The Jos Plateau in Nigeria is formed mainly by:",
+      "options": {
+        "A": "river deposition",
+        "B": "volcanic and tectonic uplift",
+        "C": "coastal erosion",
+        "D": "wind deposition"
+      },
+      "correct_answer": "B",
+      "explanation": "The Jos Plateau is a high plateau in central Nigeria formed by tectonic uplifting and volcanic activity. It is composed largely of igneous rocks (granite and basalt)."
+    },
+    {
+      "id": 27,
+      "topic": "Geomorphology - Landforms",
+      "difficulty": "medium",
+      "question": "Inselbergs are:",
+      "options": {
+        "A": "submarine ridges",
+        "B": "isolated rocky hills rising abruptly from a relatively flat plain, common in tropical Africa",
+        "C": "coastal cliffs",
+        "D": "river islands"
+      },
+      "correct_answer": "B",
+      "explanation": "Inselbergs (German: 'island mountains') are isolated rocky outcrops that rise steeply from surrounding plains, common in the savanna regions of West Africa due to deep chemical weathering."
+    },
+    {
+      "id": 28,
+      "topic": "Coastal Landforms",
+      "difficulty": "medium",
+      "question": "A headland is formed when:",
+      "options": {
+        "A": "resistant rocks are eroded faster than soft rocks",
+        "B": "resistant rocks protrude into the sea while softer rocks on either side are eroded away",
+        "C": "sediment is deposited along the coast",
+        "D": "sea level rises"
+      },
+      "correct_answer": "B",
+      "explanation": "Headlands form where resistant rocks protrude into the sea between bays eroded from softer rocks. Differential erosion creates the alternating headland-bay pattern."
+    },
+    {
+      "id": 29,
+      "topic": "Coastal Landforms",
+      "difficulty": "medium",
+      "question": "A spit is a coastal feature formed by:",
+      "options": {
+        "A": "erosion of a headland",
+        "B": "longshore drift depositing material that extends as a narrow ridge from the coast into the sea",
+        "C": "volcanic activity beneath the sea",
+        "D": "tectonic uplift of the coastline"
+      },
+      "correct_answer": "B",
+      "explanation": "A spit is an elongated depositional landform of sand or gravel extending into the sea or across a bay mouth, formed by longshore drift depositing material where the coastline changes direction."
+    },
+    {
+      "id": 30,
+      "topic": "Coastal Landforms",
+      "difficulty": "medium",
+      "question": "A lagoon is a body of water separated from the sea by:",
+      "options": {
+        "A": "a river delta",
+        "B": "a bar, spit, or reef",
+        "C": "a cliff",
+        "D": "a mangrove swamp"
+      },
+      "correct_answer": "B",
+      "explanation": "A lagoon is a shallow coastal water body separated from the open sea by a barrier (sandbar, spit, or coral reef). The Lagos Lagoon in Nigeria is a classic example."
+    },
+    {
+      "id": 31,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "The difference between weather and climate is that climate is:",
+      "options": {
+        "A": "the same as weather",
+        "B": "the average atmospheric conditions of a place over a long period (at least 30 years)",
+        "C": "the daily atmospheric conditions",
+        "D": "the temperature of a place"
+      },
+      "correct_answer": "B",
+      "explanation": "Weather is the short-term atmospheric conditions at a specific time and place. Climate is the average of weather conditions over a long period (typically 30 years) for a region."
+    },
+    {
+      "id": 32,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "The Inter-Tropical Convergence Zone (ITCZ) is:",
+      "options": {
+        "A": "a cold ocean current",
+        "B": "the zone where the northeast and southeast trade winds meet near the equator",
+        "C": "the boundary between the troposphere and stratosphere",
+        "D": "a high pressure belt over the tropics"
+      },
+      "correct_answer": "B",
+      "explanation": "The ITCZ (also called the equatorial trough or doldrums) is a low-pressure zone near the equator where the northeast and southeast trade winds converge, causing rising air, clouds, and heavy rainfall."
+    },
+    {
+      "id": 33,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "The movement of the ITCZ northward and southward with the apparent movement of the sun is responsible for:",
+      "options": {
+        "A": "the occurrence of tropical cyclones",
+        "B": "the seasonal rainfall patterns in tropical West Africa",
+        "C": "desert formation",
+        "D": "ocean current circulation"
+      },
+      "correct_answer": "B",
+      "explanation": "As the sun moves between the tropics, the ITCZ follows, bringing rain to different latitudes at different times. This explains Nigeria's two rainy seasons in the south and one in the north."
+    },
+    {
+      "id": 34,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "The Harmattan wind in West Africa is:",
+      "options": {
+        "A": "a warm, moist wind from the southwest",
+        "B": "a dry, dusty wind that blows from the Sahara Desert toward the Gulf of Guinea in the dry season",
+        "C": "a sea breeze from the Atlantic Ocean",
+        "D": "a monsoon wind"
+      },
+      "correct_answer": "B",
+      "explanation": "The Harmattan is a dry, dusty, northeasterly wind that blows from the Sahara Desert across West Africa during the dry season (November-March), bringing dust haze and reduced visibility."
+    },
+    {
+      "id": 35,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "Rainfall resulting from the forced uplift of moist air over mountains is called:",
+      "options": {
+        "A": "Convectional rainfall",
+        "B": "Frontal (cyclonic) rainfall",
+        "C": "Orographic (relief) rainfall",
+        "D": "Advection rainfall"
+      },
+      "correct_answer": "C",
+      "explanation": "Orographic (relief) rainfall occurs when moist air is forced to rise over mountains, cools adiabatically, and condenses to form clouds and rain on the windward side."
+    },
+    {
+      "id": 36,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "Convectional rainfall is most common in:",
+      "options": {
+        "A": "polar regions",
+        "B": "tropical areas where intense surface heating causes air to rise rapidly",
+        "C": "temperate coastal regions",
+        "D": "desert areas"
+      },
+      "correct_answer": "B",
+      "explanation": "Convectional rainfall occurs in tropical areas when intense solar heating warms the ground, causing moist air to rise rapidly, cool, and condense into towering cumulonimbus clouds with heavy rain and thunder."
+    },
+    {
+      "id": 37,
+      "topic": "Climate and Weather",
+      "difficulty": "medium",
+      "question": "The rain shadow effect refers to:",
+      "options": {
+        "A": "the shadow cast by clouds on the Earth's surface",
+        "B": "the dry conditions on the leeward side of mountains due to descending, warming air",
+        "C": "reduced rainfall in cities due to pollution",
+        "D": "the area of heavy rainfall near the equator"
+      },
+      "correct_answer": "B",
+      "explanation": "The rain shadow is the dry zone on the leeward (downwind) side of mountains. As air descends, it warms and its relative humidity decreases, so little or no rain falls."
+    },
+    {
+      "id": 38,
+      "topic": "Climatic Regions of West Africa",
+      "difficulty": "medium",
+      "question": "The Equatorial (Tropical Rainforest) climate is characterized by:",
+      "options": {
+        "A": "high temperatures throughout the year and a distinct dry season",
+        "B": "high temperatures, heavy rainfall all year round, and high humidity",
+        "C": "cool temperatures and moderate rainfall",
+        "D": "very low temperatures and minimal rainfall"
+      },
+      "correct_answer": "B",
+      "explanation": "The equatorial climate (found near the equator) has high temperatures (around 27°C) throughout the year, heavy rainfall (over 2000mm annually) with no true dry season, and high humidity."
+    },
+    {
+      "id": 39,
+      "topic": "Climatic Regions of West Africa",
+      "difficulty": "medium",
+      "question": "The Sudan (Tropical Continental) climate zone in Nigeria is characterized by:",
+      "options": {
+        "A": "heavy rainfall all year and dense forest",
+        "B": "one rainy season and a long dry season with harmattan",
+        "C": "two rainy seasons and high humidity",
+        "D": "semi-desert conditions"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sudan climate (north of the Guinea Savanna) has one rainy season (May-September), a long dry season, lower rainfall (750-1000mm), and is strongly influenced by the Harmattan."
+    },
+    {
+      "id": 40,
+      "topic": "Climatic Regions of West Africa",
+      "difficulty": "medium",
+      "question": "The Sahel region is characterized by:",
+      "options": {
+        "A": "tropical rainforest vegetation",
+        "B": "semi-arid conditions with rainfall below 500mm per year and prone to drought",
+        "C": "Mediterranean climate",
+        "D": "equatorial climate"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sahel is a semi-arid transitional zone between the Sahara Desert and the Sudan savanna, with very low and unreliable rainfall (250-500mm), prone to drought and desertification."
+    },
+    {
+      "id": 41,
+      "topic": "Vegetation Zones",
+      "difficulty": "medium",
+      "question": "The tropical rainforest vegetation in West Africa is found in:",
+      "options": {
+        "A": "the northern parts of Nigeria",
+        "B": "the southern coastal regions with high rainfall",
+        "C": "semi-arid zones",
+        "D": "highland areas only"
+      },
+      "correct_answer": "B",
+      "explanation": "Tropical rainforest vegetation is found in the wetter southern coastal regions of West Africa (e.g., southern Nigeria, Ghana) where annual rainfall exceeds 1500-2000mm."
+    },
+    {
+      "id": 42,
+      "topic": "Vegetation Zones",
+      "difficulty": "medium",
+      "question": "The Guinea Savanna vegetation is characterized by:",
+      "options": {
+        "A": "dense tropical forest with tall trees",
+        "B": "mixed grassland and trees with two rainy seasons",
+        "C": "sparse grasses and thorny shrubs",
+        "D": "mangrove swamps"
+      },
+      "correct_answer": "B",
+      "explanation": "The Guinea Savanna (also called derived or southern Guinea savanna) has tall grasses mixed with trees, two rainy seasons, and represents a transition zone between forest and savanna."
+    },
+    {
+      "id": 43,
+      "topic": "Vegetation Zones",
+      "difficulty": "medium",
+      "question": "Mangrove vegetation is found in:",
+      "options": {
+        "A": "mountainous highland areas",
+        "B": "tidal coastal areas with brackish (mixed fresh and salt) water",
+        "C": "inland semi-arid zones",
+        "D": "plateau areas"
+      },
+      "correct_answer": "B",
+      "explanation": "Mangroves are salt-tolerant trees that grow in tidal coastal zones, river deltas, and estuaries where fresh and salt water mix. The Niger Delta has extensive mangrove vegetation."
+    },
+    {
+      "id": 44,
+      "topic": "Vegetation Zones",
+      "difficulty": "medium",
+      "question": "Deforestation in tropical regions leads to all of the following EXCEPT:",
+      "options": {
+        "A": "soil erosion and land degradation",
+        "B": "loss of biodiversity",
+        "C": "increased rainfall",
+        "D": "disruption of the water cycle"
+      },
+      "correct_answer": "C",
+      "explanation": "Deforestation leads to soil erosion, biodiversity loss, reduced transpiration (which reduces rainfall), disrupted water cycles, and increased CO₂ in the atmosphere. It does NOT increase rainfall."
+    },
+    {
+      "id": 45,
+      "topic": "Soils",
+      "difficulty": "medium",
+      "question": "Laterite soils (laterisation) are formed in:",
+      "options": {
+        "A": "temperate grasslands",
+        "B": "tropical regions with high temperatures and heavy rainfall that leach nutrients",
+        "C": "desert environments",
+        "D": "tundra regions"
+      },
+      "correct_answer": "B",
+      "explanation": "Laterite soils form in humid tropical regions where intense weathering and leaching remove silica and bases, leaving iron and aluminium oxides. They are hard, reddish, and infertile."
+    },
+    {
+      "id": 46,
+      "topic": "Soils",
+      "difficulty": "medium",
+      "question": "Humus in soil refers to:",
+      "options": {
+        "A": "mineral particles in the soil",
+        "B": "decomposed organic matter that improves soil fertility and water retention",
+        "C": "the water in the soil",
+        "D": "clay minerals"
+      },
+      "correct_answer": "B",
+      "explanation": "Humus is partially decomposed organic material (from dead plants and animals) in soil. It improves soil structure, water retention, nutrient supply, and microbial activity."
+    },
+    {
+      "id": 47,
+      "topic": "Soils",
+      "difficulty": "medium",
+      "question": "Soil erosion is worst when:",
+      "options": {
+        "A": "the soil is covered by dense vegetation",
+        "B": "soils are bare, slopes are steep, and rainfall is heavy and intense",
+        "C": "soil moisture is high",
+        "D": "trees are planted on slopes"
+      },
+      "correct_answer": "B",
+      "explanation": "Soil erosion is most severe when: (1) the soil surface is bare and unprotected, (2) slopes are steep, and (3) rainfall is intense. Vegetation cover is the best protection."
+    },
+    {
+      "id": 48,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "Population density is calculated as:",
+      "options": {
+        "A": "Total population × Area",
+        "B": "Total population ÷ Total land area",
+        "C": "Birth rate – Death rate",
+        "D": "Total population ÷ Total workforce"
+      },
+      "correct_answer": "B",
+      "explanation": "Population density = Total population ÷ Area (usually persons per km²). It measures how crowded a region is."
+    },
+    {
+      "id": 49,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "Natural population growth rate is determined by:",
+      "options": {
+        "A": "immigration minus emigration",
+        "B": "birth rate minus death rate",
+        "C": "total births in a year",
+        "D": "population density"
+      },
+      "correct_answer": "B",
+      "explanation": "Natural increase = Birth rate – Death rate. A positive rate means the population is growing naturally (ignoring migration). Natural increase + net migration = total population change."
+    },
+    {
+      "id": 50,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "Nigeria is one of the most populous countries in Africa. According to recent estimates, its population is approximately:",
+      "options": {
+        "A": "50 million",
+        "B": "100 million",
+        "C": "220 million",
+        "D": "300 million"
+      },
+      "correct_answer": "C",
+      "explanation": "Nigeria's population is estimated at approximately 200-230 million, making it the most populous country in Africa and the seventh most populous in the world."
+    },
+    {
+      "id": 51,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "The demographic transition model shows that as a country develops economically:",
+      "options": {
+        "A": "birth rates and death rates both rise",
+        "B": "death rates fall first, then birth rates fall, leading to population stabilization",
+        "C": "both birth and death rates remain constant",
+        "D": "birth rates fall before death rates"
+      },
+      "correct_answer": "B",
+      "explanation": "The demographic transition model describes how countries move from high birth/death rates to low birth/death rates as they develop. Death rates typically fall first (due to better medicine) before birth rates decline."
+    },
+    {
+      "id": 52,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "Overpopulation occurs when a country's population:",
+      "options": {
+        "A": "exceeds the optimum level, causing resources to be insufficient for the population",
+        "B": "is growing at 2% per year",
+        "C": "is below the optimum level",
+        "D": "has equal numbers of males and females"
+      },
+      "correct_answer": "A",
+      "explanation": "Overpopulation occurs when population exceeds the carrying capacity — the available resources, land, and services are insufficient to sustain the population at an adequate living standard."
+    },
+    {
+      "id": 53,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "Rural-urban migration in developing countries like Nigeria is mainly driven by:",
+      "options": {
+        "A": "political instability in cities",
+        "B": "push factors (poverty, lack of services in rural areas) and pull factors (jobs, education in cities)",
+        "C": "better agricultural conditions in cities",
+        "D": "government relocation programs"
+      },
+      "correct_answer": "B",
+      "explanation": "Rural-urban migration is driven by push factors (rural poverty, unemployment, lack of services) and pull factors (urban employment opportunities, education, healthcare, better infrastructure)."
+    },
+    {
+      "id": 54,
+      "topic": "Population Geography",
+      "difficulty": "medium",
+      "question": "A population pyramid with a wide base and narrow top indicates a population that is:",
+      "options": {
+        "A": "aging with low birth rates",
+        "B": "young with high birth rates and high death rates",
+        "C": "declining",
+        "D": "stable with equal age groups"
+      },
+      "correct_answer": "B",
+      "explanation": "A pyramid-shaped age structure (wide base = many young people; narrow top = few elderly) indicates a young, rapidly growing population with high birth rates and high death rates. Typical of developing countries."
+    },
+    {
+      "id": 55,
+      "topic": "Settlement Geography",
+      "difficulty": "medium",
+      "question": "A conurbation is:",
+      "options": {
+        "A": "a small rural settlement",
+        "B": "a large urban area formed by the merging of several towns and cities",
+        "C": "an industrial zone",
+        "D": "a planned city"
+      },
+      "correct_answer": "B",
+      "explanation": "A conurbation is a continuous urban area formed when several formerly separate towns and cities merge through urban expansion. Lagos is a conurbation in Nigeria."
+    },
+    {
+      "id": 56,
+      "topic": "Settlement Geography",
+      "difficulty": "medium",
+      "question": "The site of a settlement refers to:",
+      "options": {
+        "A": "the route connecting a settlement to other areas",
+        "B": "the actual land on which a settlement is built",
+        "C": "the location of a settlement relative to surrounding areas",
+        "D": "the economic function of a settlement"
+      },
+      "correct_answer": "B",
+      "explanation": "The site of a settlement is the specific land it occupies (local features: flat ground, near a river, hilltop for defense). Situation refers to the settlement's location relative to surrounding regions."
+    },
+    {
+      "id": 57,
+      "topic": "Settlement Geography",
+      "difficulty": "medium",
+      "question": "Urbanization refers to:",
+      "options": {
+        "A": "the building of new cities",
+        "B": "the increase in the proportion of a country's population living in urban areas",
+        "C": "the growth of rural settlements",
+        "D": "the improvement of urban infrastructure"
+      },
+      "correct_answer": "B",
+      "explanation": "Urbanization is the process by which an increasing proportion of the population lives in urban (city/town) areas, often resulting from rural-urban migration and natural increase."
+    },
+    {
+      "id": 58,
+      "topic": "Settlement Geography",
+      "difficulty": "medium",
+      "question": "A primate city is one that:",
+      "options": {
+        "A": "is the oldest city in the country",
+        "B": "is disproportionately large compared to the next largest cities in the country",
+        "C": "is the official capital of a country",
+        "D": "is the most industrialized city"
+      },
+      "correct_answer": "B",
+      "explanation": "A primate city is significantly larger (usually more than twice the size) of the second largest city. Lagos is Nigeria's primate city, dominating the urban hierarchy."
+    },
+    {
+      "id": 59,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "Shifting cultivation is an agricultural practice where:",
+      "options": {
+        "A": "farmers use modern machinery to grow crops",
+        "B": "farmers clear land, cultivate it for a few years, then move on as soil fertility declines",
+        "C": "crops are grown in permanent irrigated fields",
+        "D": "farmers grow the same crop year after year"
+      },
+      "correct_answer": "B",
+      "explanation": "Shifting cultivation (bush fallow) is a traditional practice where farmers clear land by burning, cultivate for 2-5 years until fertility declines, then move to a new area and allow the old one to regenerate."
+    },
+    {
+      "id": 60,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "Mixed farming involves:",
+      "options": {
+        "A": "growing only cash crops",
+        "B": "both crop cultivation and livestock rearing on the same farm",
+        "C": "growing crops in greenhouses",
+        "D": "cooperative farming by a group"
+      },
+      "correct_answer": "B",
+      "explanation": "Mixed farming combines arable (crop) farming with pastoral (livestock) farming on the same farm. Manure from animals fertilizes crops; crop residues feed animals."
+    },
+    {
+      "id": 61,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "Irrigation is most important in regions with:",
+      "options": {
+        "A": "excessive rainfall",
+        "B": "insufficient or unreliable rainfall for crop production",
+        "C": "tropical rainforest climate",
+        "D": "temperate oceanic climate"
+      },
+      "correct_answer": "B",
+      "explanation": "Irrigation artificially supplies water to agricultural land where rainfall is insufficient, unreliable, or seasonal. It is essential in semi-arid and arid regions like northern Nigeria."
+    },
+    {
+      "id": 62,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "The main cash crop of southwestern Nigeria is:",
+      "options": {
+        "A": "Groundnut",
+        "B": "Cotton",
+        "C": "Cocoa",
+        "D": "Sugarcane"
+      },
+      "correct_answer": "C",
+      "explanation": "Cocoa is the dominant cash crop of southwestern Nigeria (states like Ondo, Ogun, Cross River). Groundnut is associated with the north; cotton with the middle belt."
+    },
+    {
+      "id": 63,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "The Green Revolution refers to:",
+      "options": {
+        "A": "organic farming practices",
+        "B": "agricultural modernization through high-yielding seed varieties, fertilizers, and irrigation",
+        "C": "environmental conservation",
+        "D": "reforestation programs"
+      },
+      "correct_answer": "B",
+      "explanation": "The Green Revolution (1960s-70s) transformed agriculture in developing countries through high-yield crop varieties, chemical fertilizers, pesticides, and irrigation, dramatically increasing food production."
+    },
+    {
+      "id": 64,
+      "topic": "Agriculture",
+      "difficulty": "medium",
+      "question": "Crop rotation is the practice of:",
+      "options": {
+        "A": "growing the same crop repeatedly",
+        "B": "growing different crops on the same land in successive seasons to maintain soil fertility",
+        "C": "rotating the direction of plowing",
+        "D": "using different farmers in different seasons"
+      },
+      "correct_answer": "B",
+      "explanation": "Crop rotation grows different crops in sequence on the same land. It prevents nutrient depletion, controls pests and diseases, and maintains soil health. Including legumes fixes atmospheric nitrogen."
+    },
+    {
+      "id": 65,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "Nigeria's most important mineral resource and main source of foreign exchange is:",
+      "options": {
+        "A": "Coal",
+        "B": "Iron ore",
+        "C": "Crude oil (petroleum)",
+        "D": "Limestone"
+      },
+      "correct_answer": "C",
+      "explanation": "Crude oil (petroleum) is Nigeria's most valuable mineral resource, accounting for about 90% of export earnings and a significant portion of government revenue."
+    },
+    {
+      "id": 66,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "Nigeria's coal deposits are found mainly in:",
+      "options": {
+        "A": "Lagos State",
+        "B": "Enugu and Kogi States",
+        "C": "Kano State",
+        "D": "Rivers State"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's coal reserves are primarily located in Enugu State (Enugu coalfields) and Kogi State (Okaba coalfields). Enugu was historically Nigeria's coal capital."
+    },
+    {
+      "id": 67,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "The largest producer of crude oil in Africa is:",
+      "options": {
+        "A": "Libya",
+        "B": "Nigeria",
+        "C": "Angola",
+        "D": "Algeria"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria is Africa's largest oil producer and one of the world's top oil exporters. Nigeria's oil is found mainly in the Niger Delta region."
+    },
+    {
+      "id": 68,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "Renewable energy sources include all of the following EXCEPT:",
+      "options": {
+        "A": "Solar energy",
+        "B": "Wind energy",
+        "C": "Natural gas",
+        "D": "Hydroelectric power"
+      },
+      "correct_answer": "C",
+      "explanation": "Natural gas is a fossil fuel and therefore non-renewable. Solar, wind, hydroelectric, geothermal, and tidal energy are all renewable energy sources."
+    },
+    {
+      "id": 69,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "The Kainji Dam on the River Niger was built primarily for:",
+      "options": {
+        "A": "irrigation",
+        "B": "flood control",
+        "C": "hydroelectric power generation and navigation",
+        "D": "drinking water supply"
+      },
+      "correct_answer": "C",
+      "explanation": "The Kainji Dam (completed 1968) is Nigeria's first and largest hydroelectric dam, primarily built for electricity generation. It also facilitates navigation and controls flooding."
+    },
+    {
+      "id": 70,
+      "topic": "Natural Resources",
+      "difficulty": "medium",
+      "question": "Environmental problems associated with oil extraction in the Niger Delta include:",
+      "options": {
+        "A": "deforestation and soil erosion only",
+        "B": "oil spills, gas flaring, water pollution, and destruction of ecosystems",
+        "C": "increased rainfall",
+        "D": "desertification"
+      },
+      "correct_answer": "B",
+      "explanation": "Oil extraction in the Niger Delta has caused devastating environmental problems: oil spills contaminating water and farmland, gas flaring causing acid rain, air pollution, and destruction of mangroves and fisheries."
+    },
+    {
+      "id": 71,
+      "topic": "Industry",
+      "difficulty": "medium",
+      "question": "Heavy industries are characterized by:",
+      "options": {
+        "A": "small-scale production of consumer goods",
+        "B": "large-scale production of basic materials like steel, cement, and chemicals",
+        "C": "labor-intensive small workshops",
+        "D": "service sector activities"
+      },
+      "correct_answer": "B",
+      "explanation": "Heavy industries process large quantities of raw materials to produce basic goods (steel, cement, chemicals, petroleum products) using large capital investments and advanced technology."
+    },
+    {
+      "id": 72,
+      "topic": "Industry",
+      "difficulty": "medium",
+      "question": "The location of industries is influenced by all of the following EXCEPT:",
+      "options": {
+        "A": "proximity to raw materials",
+        "B": "availability of labor",
+        "C": "access to markets",
+        "D": "the nationality of the factory owner"
+      },
+      "correct_answer": "D",
+      "explanation": "Industrial location is determined by economic factors: raw material availability, energy, labor, transport, markets, government policy, and capital. The nationality of the owner is not a locational factor."
+    },
+    {
+      "id": 73,
+      "topic": "Industry",
+      "difficulty": "medium",
+      "question": "Ajaokuta Steel Mill in Kogi State was established to:",
+      "options": {
+        "A": "produce petroleum products",
+        "B": "produce steel from iron ore and coal for industrial development",
+        "C": "refine gold",
+        "D": "manufacture textiles"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ajaokuta Steel Mill was planned to use iron ore from Itakpe (Kogi State) and coal from Okaba to produce steel, but the project has faced persistent challenges and has not operated at full capacity."
+    },
+    {
+      "id": 74,
+      "topic": "Transport and Communication",
+      "difficulty": "medium",
+      "question": "The River Niger is navigable for much of its length and is important for:",
+      "options": {
+        "A": "deep-sea shipping",
+        "B": "inland waterway transport of goods and people",
+        "C": "generating electricity only",
+        "D": "irrigation in the south only"
+      },
+      "correct_answer": "B",
+      "explanation": "The River Niger and its tributaries serve as important inland waterways for the transportation of goods and people in Nigeria and other West African countries."
+    },
+    {
+      "id": 75,
+      "topic": "Transport and Communication",
+      "difficulty": "medium",
+      "question": "The main advantage of air transport over other modes of transport is its:",
+      "options": {
+        "A": "low cost",
+        "B": "ability to carry large volumes of heavy goods",
+        "C": "speed over long distances",
+        "D": "accessibility to all areas"
+      },
+      "correct_answer": "C",
+      "explanation": "Air transport's main advantage is its speed — it is by far the fastest mode of transport, especially for long distances. Its main disadvantage is high cost and limited accessibility."
+    },
+    {
+      "id": 76,
+      "topic": "Rivers and Water Bodies",
+      "difficulty": "medium",
+      "question": "The River Niger originates from:",
+      "options": {
+        "A": "the Tibesti Mountains in Chad",
+        "B": "the Futa Jallon Highlands in Guinea",
+        "C": "the Atlas Mountains in Morocco",
+        "D": "Mount Cameroon"
+      },
+      "correct_answer": "B",
+      "explanation": "The River Niger rises in the Futa Jallon Highlands of Guinea, flows northeast into Mali, then turns southeast through Niger and Nigeria before emptying into the Gulf of Guinea."
+    },
+    {
+      "id": 77,
+      "topic": "Rivers and Water Bodies",
+      "difficulty": "medium",
+      "question": "The River Niger enters the sea through the:",
+      "options": {
+        "A": "Gulf of Benin",
+        "B": "Niger Delta into the Gulf of Guinea",
+        "C": "Atlantic Ocean at Liberia",
+        "D": "Bight of Benin at Lagos"
+      },
+      "correct_answer": "B",
+      "explanation": "The River Niger empties into the Atlantic Ocean through the vast Niger Delta (in the Gulf of Guinea) in southern Nigeria, forming one of the world's largest river deltas."
+    },
+    {
+      "id": 78,
+      "topic": "Rivers and Water Bodies",
+      "difficulty": "medium",
+      "question": "Lake Chad is important to West Africa because:",
+      "options": {
+        "A": "it produces oil",
+        "B": "it supplies water for irrigation, fishing, and supports millions of people around its shores",
+        "C": "it is a major shipping route",
+        "D": "it provides hydroelectric power"
+      },
+      "correct_answer": "B",
+      "explanation": "Lake Chad (bordered by Nigeria, Niger, Chad, Cameroon) is vital for fresh water supply, fishing, and irrigation for tens of millions of people. Tragically, it has shrunk dramatically due to climate change and over-use."
+    },
+    {
+      "id": 79,
+      "topic": "Rivers and Water Bodies",
+      "difficulty": "medium",
+      "question": "The shrinking of Lake Chad is mainly caused by:",
+      "options": {
+        "A": "increasing rainfall",
+        "B": "reduced water inflow due to decreased rainfall and excessive irrigation withdrawals",
+        "C": "earthquakes",
+        "D": "oil pollution"
+      },
+      "correct_answer": "B",
+      "explanation": "Lake Chad has shrunk to about 10% of its 1960s size due to reduced rainfall (climate change) and massive water withdrawals for irrigation. It is one of the world's worst environmental disasters."
+    },
+    {
+      "id": 80,
+      "topic": "Erosion and Degradation",
+      "difficulty": "medium",
+      "question": "Desertification is the process by which:",
+      "options": {
+        "A": "fertile land becomes desert through natural and human activities",
+        "B": "deserts expand naturally due to climate change alone",
+        "C": "sand dunes form in coastal areas",
+        "D": "rivers dry up in summer"
+      },
+      "correct_answer": "A",
+      "explanation": "Desertification is the degradation of land in semi-arid and dry sub-humid areas caused by climatic variations and human activities (overgrazing, deforestation, over-cultivation), turning productive land into desert."
+    },
+    {
+      "id": 81,
+      "topic": "Erosion and Degradation",
+      "difficulty": "medium",
+      "question": "Gully erosion is the most severe form of water erosion and is characterized by:",
+      "options": {
+        "A": "a thin layer of soil removed uniformly from the surface",
+        "B": "deep channels cut into the earth by concentrated water flow",
+        "C": "wind removing fine particles from the surface",
+        "D": "coastal erosion by waves"
+      },
+      "correct_answer": "B",
+      "explanation": "Gully erosion involves the formation of deep, steep-sided channels cut by concentrated runoff. It is the most destructive form of water erosion and is widespread in southeastern Nigeria (Anambra, Enugu, Imo)."
+    },
+    {
+      "id": 82,
+      "topic": "Erosion and Degradation",
+      "difficulty": "medium",
+      "question": "Contour ploughing as a soil conservation method involves:",
+      "options": {
+        "A": "ploughing straight down the slope",
+        "B": "ploughing across the slope along contour lines to reduce runoff and soil erosion",
+        "C": "leaving the land bare to dry out",
+        "D": "applying chemical fertilizers to prevent erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Contour ploughing follows the natural contour lines across a slope, creating ridges that act as barriers to slow runoff and reduce soil erosion."
+    },
+    {
+      "id": 83,
+      "topic": "Geomorphology - Rocks",
+      "difficulty": "medium",
+      "question": "Igneous rocks are formed by:",
+      "options": {
+        "A": "the accumulation and compaction of sediment",
+        "B": "the cooling and solidification of molten magma",
+        "C": "the transformation of existing rocks by heat and pressure",
+        "D": "the chemical precipitation of minerals from water"
+      },
+      "correct_answer": "B",
+      "explanation": "Igneous rocks (Latin: 'fire') form when molten magma cools and solidifies. Intrusive igneous rocks (e.g., granite) cool slowly underground; extrusive (e.g., basalt) cool quickly at the surface."
+    },
+    {
+      "id": 84,
+      "topic": "Geomorphology - Rocks",
+      "difficulty": "medium",
+      "question": "Sedimentary rocks are formed by:",
+      "options": {
+        "A": "cooling of molten magma",
+        "B": "heat and pressure transformation of existing rocks",
+        "C": "compaction and cementation of layers of sediment",
+        "D": "volcanic eruption"
+      },
+      "correct_answer": "C",
+      "explanation": "Sedimentary rocks form when layers of sediment (fragments, organic material, or chemical precipitates) are compacted and cemented over time. Examples: sandstone, limestone, shale."
+    },
+    {
+      "id": 85,
+      "topic": "Geomorphology - Rocks",
+      "difficulty": "medium",
+      "question": "Metamorphic rocks are formed by:",
+      "options": {
+        "A": "cooling and solidification of magma",
+        "B": "sedimentation and compaction",
+        "C": "transformation of existing rocks by intense heat and pressure",
+        "D": "erosion and deposition"
+      },
+      "correct_answer": "C",
+      "explanation": "Metamorphic rocks form when existing rocks are transformed by extreme heat and/or pressure without melting. Examples: marble (from limestone), quartzite (from sandstone), schist (from shale)."
+    },
+    {
+      "id": 86,
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "question": "The theory of plate tectonics states that the Earth's crust is divided into:",
+      "options": {
+        "A": "one large continuous plate",
+        "B": "several large and small rigid plates that move on the semi-molten mantle",
+        "C": "three fixed continental masses",
+        "D": "two hemispheres"
+      },
+      "correct_answer": "B",
+      "explanation": "The theory of plate tectonics holds that the Earth's lithosphere is divided into rigid plates that move due to convection currents in the mantle, causing earthquakes, volcanoes, and mountain building."
+    },
+    {
+      "id": 87,
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "question": "When two continental plates collide, they typically form:",
+      "options": {
+        "A": "Rift valleys",
+        "B": "Volcanic islands",
+        "C": "Fold mountains",
+        "D": "Ocean trenches"
+      },
+      "correct_answer": "C",
+      "explanation": "When two continental plates converge and collide, neither can subduct, so the crust buckles upward to form fold mountain ranges. The Himalayas were formed by the collision of the Indian and Eurasian plates."
+    },
+    {
+      "id": 88,
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "question": "The 'Ring of Fire' around the Pacific Ocean is an area known for:",
+      "options": {
+        "A": "the highest rainfall in the world",
+        "B": "frequent volcanic eruptions and earthquakes due to plate tectonic activity",
+        "C": "major ocean currents",
+        "D": "extreme cold temperatures"
+      },
+      "correct_answer": "B",
+      "explanation": "The 'Ring of Fire' is a zone of intense tectonic activity around the Pacific Ocean, accounting for about 75% of the world's volcanoes and 90% of earthquakes due to plate subduction and collisions."
+    },
+    {
+      "id": 89,
+      "topic": "Ocean Currents",
+      "difficulty": "medium",
+      "question": "The Benguela Current along the west coast of southern Africa is a:",
+      "options": {
+        "A": "warm ocean current",
+        "B": "cold ocean current that brings cool, dry conditions",
+        "C": "neutral current with no climatic effect",
+        "D": "warm current that brings heavy rainfall"
+      },
+      "correct_answer": "B",
+      "explanation": "The Benguela is a cold ocean current flowing northward along the west coast of southern Africa. It brings cool, dry conditions and is responsible for the Namib Desert's coastal location."
+    },
+    {
+      "id": 90,
+      "topic": "Ocean Currents",
+      "difficulty": "medium",
+      "question": "Cold ocean currents generally affect adjacent coastal climates by:",
+      "options": {
+        "A": "increasing temperature and rainfall",
+        "B": "reducing temperature and causing dry, foggy conditions",
+        "C": "causing tropical storms",
+        "D": "increasing humidity and rainfall"
+      },
+      "correct_answer": "B",
+      "explanation": "Cold ocean currents cool adjacent coastal air, stabilizing it and reducing convection. This results in lower temperatures, fog, and dry conditions (as warm air holds more moisture than cold air)."
+    },
+    {
+      "id": 91,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The Amazon River Basin (Amazon Rainforest) is located primarily in:",
+      "options": {
+        "A": "Central Africa",
+        "B": "Southeast Asia",
+        "C": "South America (mainly Brazil)",
+        "D": "Central America"
+      },
+      "correct_answer": "C",
+      "explanation": "The Amazon Rainforest is the world's largest tropical rainforest, located mainly in Brazil in South America. The Amazon River is the world's largest river by discharge."
+    },
+    {
+      "id": 92,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The Sahara Desert, the world's largest hot desert, is located in:",
+      "options": {
+        "A": "Southern Africa",
+        "B": "North Africa",
+        "C": "Middle East",
+        "D": "Central Asia"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sahara Desert spans approximately 9.2 million km² across North Africa, covering countries including Algeria, Libya, Egypt, Sudan, Niger, Mali, and others."
+    },
+    {
+      "id": 93,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The highest mountain in Africa is:",
+      "options": {
+        "A": "Mount Kenya",
+        "B": "Mount Kilimanjaro",
+        "C": "Ruwenzori",
+        "D": "Drakensberg"
+      },
+      "correct_answer": "B",
+      "explanation": "Mount Kilimanjaro in Tanzania (5,895m) is the highest mountain in Africa. It is a dormant volcano and the world's highest free-standing mountain."
+    },
+    {
+      "id": 94,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The longest river in the world is the:",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Congo",
+        "D": "Mississippi"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nile River (approximately 6,650 km) is generally considered the world's longest river, flowing northward through northeastern Africa into the Mediterranean Sea."
+    },
+    {
+      "id": 95,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The world's largest ocean is the:",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Indian Ocean",
+        "C": "Pacific Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correct_answer": "C",
+      "explanation": "The Pacific Ocean is the world's largest and deepest ocean, covering approximately 165 million km² — larger than all the world's land area combined."
+    },
+    {
+      "id": 96,
+      "topic": "Environmental Issues",
+      "difficulty": "medium",
+      "question": "The greenhouse effect refers to:",
+      "options": {
+        "A": "growing plants in glass houses",
+        "B": "the trapping of heat in the Earth's atmosphere by greenhouse gases causing global warming",
+        "C": "the cooling of the Earth's surface",
+        "D": "the destruction of the ozone layer"
+      },
+      "correct_answer": "B",
+      "explanation": "The greenhouse effect occurs when greenhouse gases (CO₂, methane, water vapour) in the atmosphere absorb and re-radiate heat, warming the Earth's surface — like glass in a greenhouse."
+    },
+    {
+      "id": 97,
+      "topic": "Environmental Issues",
+      "difficulty": "medium",
+      "question": "Global warming is primarily caused by increased concentrations of:",
+      "options": {
+        "A": "Nitrogen and Oxygen",
+        "B": "Carbon Dioxide (CO₂) and other greenhouse gases from burning fossil fuels",
+        "C": "Ozone in the troposphere",
+        "D": "Water vapor from oceans"
+      },
+      "correct_answer": "B",
+      "explanation": "Global warming is primarily caused by the burning of fossil fuels (coal, oil, gas) which releases CO₂ and other greenhouse gases, enhancing the greenhouse effect and raising global temperatures."
+    },
+    {
+      "id": 98,
+      "topic": "Environmental Issues",
+      "difficulty": "medium",
+      "question": "Acid rain is caused by:",
+      "options": {
+        "A": "increased CO₂ in the atmosphere",
+        "B": "sulfur dioxide (SO₂) and nitrogen oxides (NOₓ) dissolving in rainwater",
+        "C": "ozone depletion",
+        "D": "deforestation"
+      },
+      "correct_answer": "B",
+      "explanation": "Acid rain forms when sulfur dioxide (from burning coal and oil) and nitrogen oxides (from vehicle exhausts) react with water in the atmosphere to form sulfuric and nitric acids."
+    },
+    {
+      "id": 99,
+      "topic": "Environmental Issues",
+      "difficulty": "medium",
+      "question": "The main cause of ozone layer depletion is:",
+      "options": {
+        "A": "carbon dioxide emissions",
+        "B": "chlorofluorocarbons (CFCs) from refrigerants and aerosols",
+        "C": "methane from livestock",
+        "D": "sulfur dioxide from factories"
+      },
+      "correct_answer": "B",
+      "explanation": "CFCs (chlorofluorocarbons) released from refrigerators, aerosol sprays, and industrial processes break down in the stratosphere, releasing chlorine atoms that catalytically destroy ozone molecules."
+    },
+    {
+      "id": 100,
+      "topic": "Environmental Issues",
+      "difficulty": "medium",
+      "question": "Sustainable development means:",
+      "options": {
+        "A": "maximizing current resource use for economic growth",
+        "B": "meeting present needs without compromising future generations' ability to meet theirs",
+        "C": "preserving all natural resources untouched",
+        "D": "developing only renewable energy sources"
+      },
+      "correct_answer": "B",
+      "explanation": "Sustainable development (Brundtland, 1987) balances economic development, social equity, and environmental protection so that current use of resources does not compromise future generations' needs."
+    },
+    {
+      "id": 101,
+      "topic": "Wind Systems",
+      "difficulty": "medium",
+      "question": "The trade winds in the Northern Hemisphere blow from the:",
+      "options": {
+        "A": "southwest",
+        "B": "northwest",
+        "C": "northeast",
+        "D": "southeast"
+      },
+      "correct_answer": "C",
+      "explanation": "In the Northern Hemisphere, trade winds blow from the northeast (northeast trade winds) toward the equatorial low pressure belt. In the Southern Hemisphere, they blow from the southeast."
+    },
+    {
+      "id": 102,
+      "topic": "Wind Systems",
+      "difficulty": "medium",
+      "question": "Monsoon winds in West Africa are characterized by:",
+      "options": {
+        "A": "cold dry winds blowing from the northeast all year",
+        "B": "southwest maritime winds bringing rainfall in summer and dry northeast winds in winter",
+        "C": "westerly winds all year",
+        "D": "equatorial calms"
+      },
+      "correct_answer": "B",
+      "explanation": "West Africa experiences a monsoon pattern: moisture-laden southwest winds (from the Atlantic) during the wet season, and dry northeast Harmattan winds during the dry season."
+    },
+    {
+      "id": 103,
+      "topic": "Wind Systems",
+      "difficulty": "medium",
+      "question": "A land breeze blows:",
+      "options": {
+        "A": "from the sea to the land during the day",
+        "B": "from the land to the sea at night",
+        "C": "from the sea to the land at night",
+        "D": "from the land to the sea during the day"
+      },
+      "correct_answer": "B",
+      "explanation": "At night, land cools faster than the sea, creating high pressure over land. Air flows from this high pressure (land) to the low pressure over the warmer sea — a land breeze."
+    },
+    {
+      "id": 104,
+      "topic": "Wind Systems",
+      "difficulty": "medium",
+      "question": "A sea breeze blows:",
+      "options": {
+        "A": "from the land to the sea during the day",
+        "B": "from the sea to the land during the day",
+        "C": "from the land to the sea at night",
+        "D": "from the sea to the land at night"
+      },
+      "correct_answer": "B",
+      "explanation": "During the day, land heats up faster than the sea, creating low pressure over land. Cooler sea air flows toward this low pressure — a sea breeze blowing from sea to land."
+    },
+    {
+      "id": 105,
+      "topic": "Humidity and Precipitation",
+      "difficulty": "medium",
+      "question": "Relative humidity is defined as:",
+      "options": {
+        "A": "the actual amount of water vapour in the air",
+        "B": "the ratio of actual water vapour in the air to the maximum possible at the same temperature, expressed as a percentage",
+        "C": "the amount of rainfall in a year",
+        "D": "the temperature at which dew forms"
+      },
+      "correct_answer": "B",
+      "explanation": "Relative humidity (RH) = (Actual water vapour content ÷ Maximum water vapour capacity at same temperature) × 100%. 100% RH means the air is saturated."
+    },
+    {
+      "id": 106,
+      "topic": "Humidity and Precipitation",
+      "difficulty": "medium",
+      "question": "The dew point is:",
+      "options": {
+        "A": "the maximum temperature of a day",
+        "B": "the temperature at which air becomes saturated and condensation begins",
+        "C": "the minimum humidity level",
+        "D": "the temperature at which rain forms"
+      },
+      "correct_answer": "B",
+      "explanation": "The dew point is the temperature at which air is cooled to 100% relative humidity, causing water vapour to condense into dew, fog, or clouds."
+    },
+    {
+      "id": 107,
+      "topic": "Humidity and Precipitation",
+      "difficulty": "medium",
+      "question": "Precipitation occurs when:",
+      "options": {
+        "A": "air cools below the dew point and water droplets grow large enough to fall",
+        "B": "air pressure increases suddenly",
+        "C": "wind speed exceeds 100 km/h",
+        "D": "temperature exceeds 35°C"
+      },
+      "correct_answer": "A",
+      "explanation": "Precipitation (rain, snow, hail) occurs when water droplets or ice crystals in clouds grow large enough (through condensation and coalescence) to overcome air resistance and fall to the ground."
+    },
+    {
+      "id": 108,
+      "topic": "River Systems",
+      "difficulty": "medium",
+      "question": "The upper course of a river is characterized by:",
+      "options": {
+        "A": "wide, flat valley with meandering channels",
+        "B": "steep gradient, V-shaped valley, fast flow, and dominant vertical erosion",
+        "C": "delta formation and deposition",
+        "D": "braiding and low velocity"
+      },
+      "correct_answer": "B",
+      "explanation": "In the upper course, steep gradients give rivers high velocity and erosive power, cutting narrow, V-shaped valleys through vertical (downward) erosion. Features include rapids, waterfalls, and gorges."
+    },
+    {
+      "id": 109,
+      "topic": "River Systems",
+      "difficulty": "medium",
+      "question": "In the lower course of a river, the dominant process is:",
+      "options": {
+        "A": "vertical erosion and V-shaped valley formation",
+        "B": "deposition of sediment as velocity decreases",
+        "C": "waterfall formation",
+        "D": "rapid downcutting"
+      },
+      "correct_answer": "B",
+      "explanation": "In the lower course, the gradient is gentle, velocity is reduced, and the river deposits its load. Features include meanders, floodplains, oxbow lakes, and deltas."
+    },
+    {
+      "id": 110,
+      "topic": "River Systems",
+      "difficulty": "medium",
+      "question": "A flood plain is:",
+      "options": {
+        "A": "a steep-sided river valley",
+        "B": "the flat land on either side of a river in its lower course, formed by deposition during flooding",
+        "C": "a waterfall",
+        "D": "the area where two rivers join"
+      },
+      "correct_answer": "B",
+      "explanation": "A floodplain is the flat, low-lying area alongside a river, formed by sediment deposited during periodic flooding. Floodplains have fertile soils but are susceptible to regular flooding."
+    },
+    {
+      "id": 111,
+      "topic": "Glaciation",
+      "difficulty": "medium",
+      "question": "A glacier is:",
+      "options": {
+        "A": "a fast-moving tropical river",
+        "B": "a slowly moving mass of ice formed from compacted snow in high mountains or polar regions",
+        "C": "a frozen lake",
+        "D": "a river that freezes in winter"
+      },
+      "correct_answer": "B",
+      "explanation": "A glacier is a large, slowly moving mass of ice that forms over many years as compacted snow accumulates. Glaciers can erode and transport vast quantities of rock."
+    },
+    {
+      "id": 112,
+      "topic": "Glaciation",
+      "difficulty": "medium",
+      "question": "A U-shaped valley is formed by:",
+      "options": {
+        "A": "river erosion in the upper course",
+        "B": "glacial erosion that carves out a wide, flat-bottomed valley",
+        "C": "wind erosion",
+        "D": "coastal erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Glaciers erode V-shaped river valleys into U-shaped (glacial trough) valleys through abrasion and plucking. The glacier widens and deepens the valley floor."
+    },
+    {
+      "id": 113,
+      "topic": "Desert Landforms",
+      "difficulty": "medium",
+      "question": "A sand dune in a desert is formed by:",
+      "options": {
+        "A": "water deposition in dry riverbeds",
+        "B": "wind deposition of fine sand particles",
+        "C": "erosion of soft rocks by wind",
+        "D": "chemical weathering of sandstone"
+      },
+      "correct_answer": "B",
+      "explanation": "Sand dunes are depositional landforms created when wind transports sand and deposits it where wind velocity is reduced, typically on the lee side of obstacles."
+    },
+    {
+      "id": 114,
+      "topic": "Desert Landforms",
+      "difficulty": "medium",
+      "question": "An oasis in a desert is:",
+      "options": {
+        "A": "a sand dune",
+        "B": "a fertile spot in a desert where underground water reaches the surface",
+        "C": "a dry riverbed",
+        "D": "a rocky outcrop"
+      },
+      "correct_answer": "B",
+      "explanation": "An oasis is a fertile area in a desert where underground water (artesian basin) naturally reaches or is accessible at the surface, allowing vegetation and human settlement."
+    },
+    {
+      "id": 115,
+      "topic": "Nigeria - Physical Geography",
+      "difficulty": "medium",
+      "question": "The highest point in Nigeria is:",
+      "options": {
+        "A": "Ado Ekiti Hills",
+        "B": "Obudu Plateau",
+        "C": "Chappal Waddi in the Adamawa Highlands",
+        "D": "Idanre Hills"
+      },
+      "correct_answer": "C",
+      "explanation": "Chappal Waddi (2,419m) in the Gotel Mountains of Taraba State is Nigeria's highest point. It is sometimes called 'Mountain of Death' by local communities."
+    },
+    {
+      "id": 116,
+      "topic": "Nigeria - Physical Geography",
+      "difficulty": "medium",
+      "question": "The largest river entirely within Nigeria is the:",
+      "options": {
+        "A": "River Niger",
+        "B": "River Benue",
+        "C": "River Kaduna",
+        "D": "River Gongola"
+      },
+      "correct_answer": "C",
+      "explanation": "The River Kaduna is entirely within Nigeria, flowing through Kaduna State before joining the Niger. The Niger and Benue enter Nigeria from neighbouring countries."
+    },
+    {
+      "id": 117,
+      "topic": "Nigeria - Physical Geography",
+      "difficulty": "medium",
+      "question": "Nigeria shares its longest border with which country?",
+      "options": {
+        "A": "Benin Republic",
+        "B": "Niger Republic",
+        "C": "Cameroon",
+        "D": "Chad"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria shares its longest border with Niger Republic to the north (approximately 1,497 km). Nigeria also borders Benin (west), Cameroon (east), and Chad (northeast)."
+    },
+    {
+      "id": 118,
+      "topic": "Nigeria - Physical Geography",
+      "difficulty": "medium",
+      "question": "The Benue Trough is a major geographical feature in Nigeria formed by:",
+      "options": {
+        "A": "volcanic activity",
+        "B": "tectonic faulting and the valley of the River Benue",
+        "C": "wind erosion",
+        "D": "glacial action"
+      },
+      "correct_answer": "B",
+      "explanation": "The Benue Trough is a rift valley formed by tectonic faulting, occupied by the River Benue. It is an important agricultural zone and separates southern Nigeria from the north."
+    },
+    {
+      "id": 119,
+      "topic": "Nigeria - Human Geography",
+      "difficulty": "medium",
+      "question": "The most densely populated city in Nigeria and one of the largest in Africa is:",
+      "options": {
+        "A": "Abuja",
+        "B": "Kano",
+        "C": "Lagos",
+        "D": "Port Harcourt"
+      },
+      "correct_answer": "C",
+      "explanation": "Lagos is Nigeria's largest city and economic capital, with an estimated population of 15-20 million in the metropolitan area, making it one of Africa's largest megacities."
+    },
+    {
+      "id": 120,
+      "topic": "Nigeria - Human Geography",
+      "difficulty": "medium",
+      "question": "Abuja became Nigeria's federal capital city (FCT) in:",
+      "options": {
+        "A": "1960",
+        "B": "1970",
+        "C": "1991",
+        "D": "1999"
+      },
+      "correct_answer": "C",
+      "explanation": "The capital was officially moved from Lagos to Abuja in December 1991, though Abuja had been designated as the future capital since 1976. It was chosen for its central location and neutrality."
+    },
+    {
+      "id": 121,
+      "topic": "Africa - Physical and Human Geography",
+      "difficulty": "medium",
+      "question": "The Congo Basin in Central Africa is notable for:",
+      "options": {
+        "A": "being a large desert",
+        "B": "containing Africa's largest tropical rainforest and the Congo River basin",
+        "C": "being the highest plateau in Africa",
+        "D": "its extensive grasslands"
+      },
+      "correct_answer": "B",
+      "explanation": "The Congo Basin (in DRC) contains Africa's largest tropical rainforest — second only to the Amazon globally — and the Congo River, Africa's deepest and second longest river."
+    },
+    {
+      "id": 122,
+      "topic": "Africa - Physical and Human Geography",
+      "difficulty": "medium",
+      "question": "The Great Rift Valley in East Africa stretches from:",
+      "options": {
+        "A": "Egypt to South Africa",
+        "B": "Ethiopia/Eritrea southward through Kenya and Tanzania to Mozambique",
+        "C": "Morocco to Nigeria",
+        "D": "Somalia to Madagascar"
+      },
+      "correct_answer": "B",
+      "explanation": "The Great Rift Valley runs from the Afar Triangle (Ethiopia/Eritrea) through Kenya, Tanzania, and Malawi to Mozambique. It contains numerous lakes (Tanganyika, Malawi, Victoria) and is tectonically active."
+    },
+    {
+      "id": 123,
+      "topic": "Hydrology",
+      "difficulty": "medium",
+      "question": "The water table refers to:",
+      "options": {
+        "A": "the surface of a lake or river",
+        "B": "the upper surface of the zone of saturation in the ground",
+        "C": "the amount of annual rainfall",
+        "D": "the depth of a river channel"
+      },
+      "correct_answer": "B",
+      "explanation": "The water table is the upper boundary of the zone of saturation in the ground where all pore spaces are filled with groundwater. Wells must be dug below the water table."
+    },
+    {
+      "id": 124,
+      "topic": "Hydrology",
+      "difficulty": "medium",
+      "question": "The hydrological cycle (water cycle) is driven primarily by:",
+      "options": {
+        "A": "wind",
+        "B": "solar energy (causing evaporation) and gravity (causing precipitation and runoff)",
+        "C": "Earth's rotation",
+        "D": "ocean currents"
+      },
+      "correct_answer": "B",
+      "explanation": "The water cycle is driven by solar energy (evaporating water) and gravity (causing condensation, precipitation, and runoff). It continuously circulates water through the atmosphere, land, and oceans."
+    },
+    {
+      "id": 125,
+      "topic": "Hydrology",
+      "difficulty": "medium",
+      "question": "Infiltration in the hydrological cycle refers to:",
+      "options": {
+        "A": "water evaporating from the soil",
+        "B": "rainfall running off the surface into streams",
+        "C": "water soaking into the ground",
+        "D": "water being taken up by plant roots"
+      },
+      "correct_answer": "C",
+      "explanation": "Infiltration is the process by which water on the ground surface enters the soil. Infiltration rate depends on soil type, vegetation cover, and soil moisture content."
+    },
+    {
+      "id": 126,
+      "topic": "Climate Classification",
+      "difficulty": "medium",
+      "question": "The Mediterranean climate is characterized by:",
+      "options": {
+        "A": "hot, wet summers and cold, dry winters",
+        "B": "hot, dry summers and cool, wet winters",
+        "C": "uniform rainfall throughout the year",
+        "D": "extreme cold and drought"
+      },
+      "correct_answer": "B",
+      "explanation": "The Mediterranean climate (found around the Mediterranean Sea, California, South Africa) has hot, dry summers when the subtropical high dominates, and mild, wet winters when westerlies bring rain."
+    },
+    {
+      "id": 127,
+      "topic": "Climate Classification",
+      "difficulty": "medium",
+      "question": "The Savanna (Tropical wet-dry) climate has:",
+      "options": {
+        "A": "rainfall throughout the year",
+        "B": "a distinct dry season and wet season, with temperatures high throughout the year",
+        "C": "cold winters and hot summers",
+        "D": "permanent drought conditions"
+      },
+      "correct_answer": "B",
+      "explanation": "The Savanna climate has two distinct seasons: a wet season (when the ITCZ brings rainfall) and a long dry season. Temperatures remain high (25-35°C) throughout the year."
+    },
+    {
+      "id": 128,
+      "topic": "Climate Classification",
+      "difficulty": "medium",
+      "question": "The Tundra climate is found in:",
+      "options": {
+        "A": "tropical lowlands",
+        "B": "Arctic and sub-Arctic regions with very cold temperatures and minimal precipitation",
+        "C": "tropical highlands",
+        "D": "Mediterranean coastal areas"
+      },
+      "correct_answer": "B",
+      "explanation": "The Tundra climate occurs in Arctic and Antarctic regions with long, extremely cold winters, very short summers (temperatures briefly exceeding 0°C), minimal precipitation, and permafrost."
+    },
+    {
+      "id": 129,
+      "topic": "Geomorphology - Karst",
+      "difficulty": "medium",
+      "question": "Karst topography is associated with:",
+      "options": {
+        "A": "volcanic rocks",
+        "B": "soluble rocks (especially limestone) dissolved by slightly acidic rainwater",
+        "C": "glacial deposits",
+        "D": "coastal erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "Karst is the landscape formed by the dissolution of soluble rocks (mainly limestone/carboniferous limestone) by slightly acidic rainwater (carbonic acid), creating sinkholes, caves, and underground drainage."
+    },
+    {
+      "id": 130,
+      "topic": "Geomorphology - Karst",
+      "difficulty": "medium",
+      "question": "A stalactite is a feature formed in caves by:",
+      "options": {
+        "A": "water erosion carving downward",
+        "B": "calcium carbonate deposited by dripping water hanging from cave ceilings",
+        "C": "wind depositing dust on cave floors",
+        "D": "ice forming on cave walls"
+      },
+      "correct_answer": "B",
+      "explanation": "Stalactites (hanging from the ceiling, mnemonic: hold 'tight') form as calcium carbonate is deposited by dripping groundwater in limestone caves. Stalagmites grow upward from the floor."
+    },
+    {
+      "id": 131,
+      "topic": "Fisheries",
+      "difficulty": "medium",
+      "question": "Nigeria's fishing industry is most developed in the:",
+      "options": {
+        "A": "inland lakes of the north",
+        "B": "coastal waters of the south (Niger Delta, creeks) and inland freshwater bodies",
+        "C": "forests of the southeast",
+        "D": "desert fringe of the north"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's fishing industry operates in coastal and offshore Atlantic waters, Niger Delta creeks, and inland waters (Niger-Benue system, Lake Chad, Kainji Lake)."
+    },
+    {
+      "id": 132,
+      "topic": "Forestry",
+      "difficulty": "medium",
+      "question": "Nigeria's forest reserves are important for all of the following EXCEPT:",
+      "options": {
+        "A": "supplying timber and wood products",
+        "B": "protecting watersheds and preventing soil erosion",
+        "C": "providing habitat for wildlife",
+        "D": "generating electricity"
+      },
+      "correct_answer": "D",
+      "explanation": "Forests provide timber, fuelwood, watershed protection, biodiversity habitat, and carbon storage. They do not directly generate electricity (though wood can be burned for energy)."
+    },
+    {
+      "id": 133,
+      "topic": "Land Use",
+      "difficulty": "medium",
+      "question": "Urban land use refers to the way in which:",
+      "options": {
+        "A": "rural agricultural land is used",
+        "B": "land within cities and towns is used for different purposes",
+        "C": "governments allocate forest reserves",
+        "D": "farmland is distributed among farmers"
+      },
+      "correct_answer": "B",
+      "explanation": "Urban land use describes how different zones within cities are used: residential, commercial, industrial, recreational, transportation, and administrative zones."
+    },
+    {
+      "id": 134,
+      "topic": "Statistical Methods",
+      "difficulty": "medium",
+      "question": "A choropleth map shows:",
+      "options": {
+        "A": "wind direction and speed",
+        "B": "variations in data using different shades or colors for defined areas",
+        "C": "elevation using contour lines",
+        "D": "transport routes"
+      },
+      "correct_answer": "B",
+      "explanation": "A choropleth map uses varying shades or colors to represent statistical data for defined areas (countries, states, counties). Darker shades typically represent higher values."
+    },
+    {
+      "id": 135,
+      "topic": "Statistical Methods",
+      "difficulty": "medium",
+      "question": "An isoline map uses:",
+      "options": {
+        "A": "proportional circles to show data",
+        "B": "lines connecting points of equal value (e.g., contours, isobars, isotherms)",
+        "C": "arrows to show movement",
+        "D": "dots to represent quantities"
+      },
+      "correct_answer": "B",
+      "explanation": "Isoline (isopleth) maps use lines connecting points of equal value. Examples: contour lines (equal elevation), isobars (equal pressure), isotherms (equal temperature), isohyets (equal rainfall)."
+    },
+    {
+      "id": 136,
+      "topic": "Trade and Commerce",
+      "difficulty": "medium",
+      "question": "Nigeria's main trading partners for oil exports include:",
+      "options": {
+        "A": "Russia and China only",
+        "B": "United States, India, and European countries",
+        "C": "Only African countries",
+        "D": "Brazil and Argentina"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria exports crude oil mainly to the United States, India, and European countries. China has also become an increasingly important market for Nigerian oil."
+    },
+    {
+      "id": 137,
+      "topic": "Economic Geography",
+      "difficulty": "medium",
+      "question": "A free trade zone (export processing zone) is an area where:",
+      "options": {
+        "A": "goods are produced only for domestic consumption",
+        "B": "businesses operate with reduced taxes and customs duties to attract foreign investment and boost exports",
+        "C": "all goods are sold at fixed government prices",
+        "D": "only agricultural products are traded"
+      },
+      "correct_answer": "B",
+      "explanation": "Free trade zones (FTZs/EPZs) offer special tax concessions and relaxed regulations to attract foreign investment and manufacturing for export. Nigeria has established several FTZs."
+    },
+    {
+      "id": 138,
+      "topic": "Economic Geography",
+      "difficulty": "medium",
+      "question": "Tourism as an economic activity is important because it:",
+      "options": {
+        "A": "reduces population growth",
+        "B": "generates foreign exchange, creates jobs, and develops infrastructure",
+        "C": "increases agricultural production",
+        "D": "reduces natural resource extraction"
+      },
+      "correct_answer": "B",
+      "explanation": "Tourism generates foreign exchange earnings, creates employment (hotels, transport, guides), stimulates infrastructure development, and can fund conservation of natural and cultural heritage."
+    },
+    {
+      "id": 139,
+      "topic": "Tropical Cyclones",
+      "difficulty": "medium",
+      "question": "Tropical cyclones (hurricanes/typhoons) are characterized by:",
+      "options": {
+        "A": "cold temperatures and slow winds",
+        "B": "intense low pressure systems with spiraling winds exceeding 120 km/h, heavy rain, and storm surges",
+        "C": "anticyclonic rotation",
+        "D": "high pressure at the centre"
+      },
+      "correct_answer": "B",
+      "explanation": "Tropical cyclones are intense rotating low-pressure systems forming over warm tropical oceans. They have a calm central eye surrounded by extremely strong rotating winds, heavy rainfall, and storm surges."
+    },
+    {
+      "id": 140,
+      "topic": "Plate Tectonics",
+      "difficulty": "medium",
+      "question": "The Richter scale is used to measure:",
+      "options": {
+        "A": "wind speed",
+        "B": "the magnitude (energy released) of earthquakes",
+        "C": "volcanic eruption intensity",
+        "D": "tsunami height"
+      },
+      "correct_answer": "B",
+      "explanation": "The Richter scale measures the magnitude (energy released) of earthquakes. Each unit increase represents approximately 31.6 times more energy released."
+    },
+    {
+      "id": 141,
+      "topic": "Climate Change",
+      "difficulty": "medium",
+      "question": "The main consequence of global warming for coastal areas is:",
+      "options": {
+        "A": "increased snowfall",
+        "B": "sea level rise due to thermal expansion and melting ice caps/glaciers",
+        "C": "decreased storm frequency",
+        "D": "increased crop yields"
+      },
+      "correct_answer": "B",
+      "explanation": "Global warming causes sea levels to rise through: (1) thermal expansion of seawater as it warms, and (2) melting of glaciers and ice caps. This threatens low-lying coastal areas including parts of Nigeria's Niger Delta."
+    },
+    {
+      "id": 142,
+      "topic": "Climate Change",
+      "difficulty": "medium",
+      "question": "The Paris Agreement (2015) on climate change aimed to:",
+      "options": {
+        "A": "eliminate all fossil fuels by 2020",
+        "B": "limit global temperature rise to well below 2°C above pre-industrial levels",
+        "C": "ban deforestation globally",
+        "D": "create a global carbon tax"
+      },
+      "correct_answer": "B",
+      "explanation": "The Paris Agreement (2015) is an international treaty binding countries to limit global average temperature rise to well below 2°C above pre-industrial levels, with efforts to limit it to 1.5°C."
+    },
+    {
+      "id": 143,
+      "topic": "Pollution",
+      "difficulty": "medium",
+      "question": "Water pollution from industrial effluents causes all of the following EXCEPT:",
+      "options": {
+        "A": "death of aquatic life",
+        "B": "contamination of drinking water",
+        "C": "increased rainfall",
+        "D": "bioaccumulation of toxins in food chains"
+      },
+      "correct_answer": "C",
+      "explanation": "Water pollution causes aquatic biodiversity loss, contaminated drinking water, and bioaccumulation of toxins. It does not cause increased rainfall."
+    },
+    {
+      "id": 144,
+      "topic": "Pollution",
+      "difficulty": "medium",
+      "question": "Air pollution in urban areas is mainly caused by:",
+      "options": {
+        "A": "natural vegetation",
+        "B": "vehicle emissions, industrial smoke, and burning of waste",
+        "C": "rainfall and humidity",
+        "D": "ocean breezes"
+      },
+      "correct_answer": "B",
+      "explanation": "Urban air pollution comes mainly from vehicle exhaust emissions (CO, NOₓ, particulates), industrial smoke stacks, and burning of solid waste, causing respiratory diseases and smog."
+    },
+    {
+      "id": 145,
+      "topic": "Time Zones",
+      "difficulty": "medium",
+      "question": "For every 15° of longitude, the time difference is:",
+      "options": {
+        "A": "15 minutes",
+        "B": "30 minutes",
+        "C": "1 hour",
+        "D": "2 hours"
+      },
+      "correct_answer": "C",
+      "explanation": "The Earth rotates 360° in 24 hours = 15° per hour. Therefore, every 15° of longitude corresponds to 1 hour time difference. Nigeria is in GMT+1 (1° east of Prime Meridian = 1 hour ahead)."
+    },
+    {
+      "id": 146,
+      "topic": "Time Zones",
+      "difficulty": "medium",
+      "question": "Nigeria's standard time is:",
+      "options": {
+        "A": "GMT (Greenwich Mean Time)",
+        "B": "GMT + 1 (West Africa Time)",
+        "C": "GMT + 2",
+        "D": "GMT - 1"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria operates on West Africa Time (WAT), which is GMT+1 (one hour ahead of Greenwich Mean Time), corresponding to its longitude around 3°E to 15°E."
+    },
+    {
+      "id": 147,
+      "topic": "World Trade",
+      "difficulty": "medium",
+      "question": "The WTO (World Trade Organization) is primarily responsible for:",
+      "options": {
+        "A": "providing aid to developing countries",
+        "B": "regulating international trade rules and resolving trade disputes between nations",
+        "C": "managing global currency exchange rates",
+        "D": "controlling oil prices"
+      },
+      "correct_answer": "B",
+      "explanation": "The WTO (est. 1995) sets and enforces rules for international trade, provides a forum for trade negotiations, and resolves disputes between member countries."
+    },
+    {
+      "id": 148,
+      "topic": "West Africa",
+      "difficulty": "medium",
+      "question": "ECOWAS (Economic Community of West African States) was established to promote:",
+      "options": {
+        "A": "military cooperation only",
+        "B": "economic integration, free movement of goods and people, and development in West Africa",
+        "C": "religious unity",
+        "D": "political union under one government"
+      },
+      "correct_answer": "B",
+      "explanation": "ECOWAS (founded 1975) promotes economic integration, free trade, free movement of peoples, and development cooperation among 15 West African member states."
+    },
+    {
+      "id": 149,
+      "topic": "West Africa",
+      "difficulty": "medium",
+      "question": "The Sahara Desert encroaches southward into the Sahel through a process called:",
+      "options": {
+        "A": "Weathering",
+        "B": "Desertification",
+        "C": "Laterisation",
+        "D": "Salinization"
+      },
+      "correct_answer": "B",
+      "explanation": "Desertification is the encroachment of desert-like conditions into formerly productive semi-arid land, driven by drought, overgrazing, deforestation, and unsustainable farming practices."
+    },
+    {
+      "id": 150,
+      "topic": "West Africa",
+      "difficulty": "medium",
+      "question": "The River Senegal and River Gambia both originate from:",
+      "options": {
+        "A": "The Atlas Mountains",
+        "B": "The Futa Jallon Highlands in Guinea",
+        "C": "The Sahara Desert",
+        "D": "The Congo Basin"
+      },
+      "correct_answer": "B",
+      "explanation": "The Futa Jallon Highlands (Guinea) are often called the 'Water Tower of West Africa' as they are the source of several major rivers including the Niger, Senegal, and Gambia."
+    },
+    {
+      "id": 151,
+      "topic": "Geomorphology - Volcanoes",
+      "difficulty": "medium",
+      "question": "A composite (stratovolcano) is built up of:",
+      "options": {
+        "A": "only fluid lava flows",
+        "B": "alternating layers of lava and pyroclastic materials (ash, cinders)",
+        "C": "only ash deposits",
+        "D": "underwater sediments"
+      },
+      "correct_answer": "B",
+      "explanation": "Composite (strato) volcanoes are built of alternating layers of hardened lava and pyroclastic material (ash, rocks). They are steep-sided and potentially explosive. Mount Cameroon is an example."
+    },
+    {
+      "id": 152,
+      "topic": "Geomorphology - Volcanoes",
+      "difficulty": "medium",
+      "question": "Mount Cameroon, the highest peak in West Africa (4,095m), is significant because it:",
+      "options": {
+        "A": "is an extinct volcano",
+        "B": "is an active volcano and the highest mountain in West Africa",
+        "C": "is a glaciated mountain",
+        "D": "is a fold mountain"
+      },
+      "correct_answer": "B",
+      "explanation": "Mount Cameroon (Fako) is an active stratovolcano and the highest mountain in West Africa (4,095m), located in Cameroon near the Gulf of Guinea."
+    },
+    {
+      "id": 153,
+      "topic": "Soils",
+      "difficulty": "medium",
+      "question": "Alluvial soils (alluvium) are formed by:",
+      "options": {
+        "A": "volcanic ash deposits",
+        "B": "deposition of sediment by rivers, especially during flooding",
+        "C": "wind deposition",
+        "D": "chemical weathering of limestone"
+      },
+      "correct_answer": "B",
+      "explanation": "Alluvial soils are deposited by rivers during floods. They are typically very fertile, fine-textured, and contain rich mineral content, making floodplains and river valleys ideal for agriculture."
+    },
+    {
+      "id": 154,
+      "topic": "Soils",
+      "difficulty": "medium",
+      "question": "Salinization of soils in irrigated areas occurs when:",
+      "options": {
+        "A": "too much rainfall washes out nutrients",
+        "B": "evaporation of irrigation water leaves salt deposits on and near the soil surface",
+        "C": "acid rain destroys soil structure",
+        "D": "deforestation exposes soil to sunlight"
+      },
+      "correct_answer": "B",
+      "explanation": "Salinization occurs when irrigation water evaporates, leaving dissolved salts in the soil. Over time, salt accumulation makes the soil toxic to plants, a major problem in dry irrigated regions."
+    },
+    {
+      "id": 155,
+      "topic": "Africa",
+      "difficulty": "medium",
+      "question": "The Nile River flows through which countries before reaching the Mediterranean Sea?",
+      "options": {
+        "A": "Only Egypt",
+        "B": "Uganda, Sudan, and Egypt (among others)",
+        "C": "Ethiopia, Somalia, and Egypt",
+        "D": "Kenya, Tanzania, and Egypt"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nile flows through Uganda, Sudan, and Egypt (the White Nile from Uganda/Kenya/Tanzania area and Blue Nile from Ethiopia join at Khartoum, Sudan, then flow north through Egypt to the Mediterranean)."
+    },
+    {
+      "id": 156,
+      "topic": "Africa",
+      "difficulty": "medium",
+      "question": "The Aswan High Dam on the River Nile in Egypt was built primarily to:",
+      "options": {
+        "A": "provide fish farming",
+        "B": "control Nile flooding, generate hydroelectric power, and provide irrigation water",
+        "C": "serve as a tourist attraction",
+        "D": "create a naval base"
+      },
+      "correct_answer": "B",
+      "explanation": "The Aswan High Dam (completed 1970) controls the Nile's annual floods, generates hydroelectric power (about 25% of Egypt's electricity at the time), and provides irrigation water. It created Lake Nasser."
+    },
+    {
+      "id": 157,
+      "topic": "Population Distribution",
+      "difficulty": "medium",
+      "question": "Areas of sparse population are typically found where:",
+      "options": {
+        "A": "soils are very fertile",
+        "B": "extreme climate, rugged terrain, poor soils, or isolation make habitation difficult",
+        "C": "major transportation routes exist",
+        "D": "rivers are navigable"
+      },
+      "correct_answer": "B",
+      "explanation": "Population is sparse in areas with hostile conditions: extreme cold (Arctic), extreme heat and drought (Sahara), dense rainforest, high mountains, and islands far from main centers."
+    },
+    {
+      "id": 158,
+      "topic": "Population Distribution",
+      "difficulty": "medium",
+      "question": "In Nigeria, population is most dense in:",
+      "options": {
+        "A": "the northeastern arid zone",
+        "B": "the southwestern states (Lagos, Kano corridor) and Niger Delta",
+        "C": "only the federal capital Abuja",
+        "D": "the middle belt savanna"
+      },
+      "correct_answer": "B",
+      "explanation": "Population density is highest in Lagos (commercial capital), the southwest, Kano-Katsina areas (north), and the Niger Delta. Low density is found in the northeast (Borno, Yobe) and some middle belt areas."
+    },
+    {
+      "id": 159,
+      "topic": "Atmosphere",
+      "difficulty": "medium",
+      "question": "The Coriolis effect causes winds to be deflected to the:",
+      "options": {
+        "A": "right in the Southern Hemisphere and left in the Northern Hemisphere",
+        "B": "right in the Northern Hemisphere and left in the Southern Hemisphere",
+        "C": "south in both hemispheres",
+        "D": "upward in both hemispheres"
+      },
+      "correct_answer": "B",
+      "explanation": "The Coriolis effect (caused by Earth's rotation) deflects moving objects (winds, ocean currents) to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+    },
+    {
+      "id": 160,
+      "topic": "Atmosphere",
+      "difficulty": "medium",
+      "question": "A high pressure system (anticyclone) is associated with:",
+      "options": {
+        "A": "cloudy, rainy weather",
+        "B": "calm, settled, dry weather",
+        "C": "strong gusty winds",
+        "D": "tropical cyclones"
+      },
+      "correct_answer": "B",
+      "explanation": "Anticyclones (high pressure systems) are associated with descending, stable air that prevents cloud formation, leading to dry, settled weather. In summer this brings heatwaves; in winter, frost and fog."
+    },
+    {
+      "id": 161,
+      "topic": "Atmosphere",
+      "difficulty": "medium",
+      "question": "A depression (low pressure system) is associated with:",
+      "options": {
+        "A": "clear skies and dry weather",
+        "B": "rising air, clouds, and precipitation",
+        "C": "descending air and calm conditions",
+        "D": "cold, dry conditions only"
+      },
+      "correct_answer": "B",
+      "explanation": "Depressions (cyclones/low pressure systems) have rising, moist air that cools and condenses, forming clouds and bringing rain, strong winds, and unsettled weather."
+    },
+    {
+      "id": 162,
+      "topic": "Remote Sensing",
+      "difficulty": "medium",
+      "question": "Remote sensing in geography involves:",
+      "options": {
+        "A": "conducting surveys on foot in remote areas",
+        "B": "gathering information about the Earth's surface without direct contact, using satellites or aircraft",
+        "C": "measuring ocean depths using sonar",
+        "D": "underground geological surveys"
+      },
+      "correct_answer": "B",
+      "explanation": "Remote sensing uses sensors (on satellites or aircraft) to collect information about the Earth's surface from a distance, without physical contact. It is used for land use mapping, weather forecasting, and environmental monitoring."
+    },
+    {
+      "id": 163,
+      "topic": "Remote Sensing",
+      "difficulty": "medium",
+      "question": "Geographic Information Systems (GIS) are used to:",
+      "options": {
+        "A": "predict earthquake locations",
+        "B": "capture, store, analyze, and display geographically referenced data",
+        "C": "measure atmospheric gases",
+        "D": "collect census data"
+      },
+      "correct_answer": "B",
+      "explanation": "GIS is a powerful tool for capturing, storing, managing, analyzing, and visualizing geographically referenced data. It is used in planning, environmental management, disaster response, and transportation."
+    },
+    {
+      "id": 164,
+      "topic": "Geomorphology - Erosion",
+      "difficulty": "medium",
+      "question": "Hydraulic action as a form of river erosion refers to:",
+      "options": {
+        "A": "the wearing of the riverbed by sediment carried by the river",
+        "B": "the force of water itself eroding the riverbed and banks",
+        "C": "chemical dissolution of rocks by river water",
+        "D": "boulders colliding and wearing each other down"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydraulic action is the direct force of flowing water eroding the riverbed and banks. Water is forced into cracks, compressing air and causing pressure that breaks off rock fragments."
+    },
+    {
+      "id": 165,
+      "topic": "Geomorphology - Erosion",
+      "difficulty": "medium",
+      "question": "Abrasion (corrasion) in river erosion refers to:",
+      "options": {
+        "A": "the chemical weathering of riverbed rocks",
+        "B": "the wearing of the riverbed and banks by the load (sediment) carried by the river",
+        "C": "the force of water alone",
+        "D": "the dissolving of limestone by river water"
+      },
+      "correct_answer": "B",
+      "explanation": "Abrasion is the sandpaper effect — the river's sediment load (sand, gravel, boulders) scrapes and grinds the riverbed and banks, eroding them. It is often the most effective form of erosion."
+    },
+    {
+      "id": 166,
+      "topic": "World Biomes",
+      "difficulty": "medium",
+      "question": "The temperate deciduous forest biome is found in:",
+      "options": {
+        "A": "tropical regions near the equator",
+        "B": "mid-latitude regions with warm summers and cold winters",
+        "C": "polar regions",
+        "D": "semi-arid regions"
+      },
+      "correct_answer": "B",
+      "explanation": "Temperate deciduous forests occur in mid-latitudes (western Europe, eastern USA, China) with four distinct seasons — warm humid summers and cold winters. Trees shed leaves in autumn."
+    },
+    {
+      "id": 167,
+      "topic": "World Biomes",
+      "difficulty": "medium",
+      "question": "The Boreal (Taiga) forest is characterized by:",
+      "options": {
+        "A": "tropical trees with broad leaves",
+        "B": "coniferous evergreen trees adapted to cold, long winters in sub-Arctic latitudes",
+        "C": "grasslands and scattered trees",
+        "D": "mangrove and coastal vegetation"
+      },
+      "correct_answer": "B",
+      "explanation": "The Taiga (Boreal forest) is the world's largest terrestrial biome, stretching across Canada, Russia, and Scandinavia. It is dominated by coniferous trees (pine, spruce, fir) adapted to harsh subarctic conditions."
+    },
+    {
+      "id": 168,
+      "topic": "Nigeria - Economic Geography",
+      "difficulty": "medium",
+      "question": "The main agricultural zone for groundnut production in Nigeria is:",
+      "options": {
+        "A": "The Niger Delta",
+        "B": "The northern Sudan savanna (Kano, Katsina, Sokoto area)",
+        "C": "The western forest belt",
+        "D": "The southeastern rainforest"
+      },
+      "correct_answer": "B",
+      "explanation": "Groundnut (peanut) cultivation is concentrated in the northern Sudan savanna states — Kano, Katsina, Sokoto, Jigawa, and Zamfara — Nigeria was once the world's leading groundnut exporter."
+    },
+    {
+      "id": 169,
+      "topic": "Nigeria - Economic Geography",
+      "difficulty": "medium",
+      "question": "The tin and columbite deposits in Nigeria are located mainly on the:",
+      "options": {
+        "A": "Niger Delta",
+        "B": "Jos Plateau",
+        "C": "Yoruba Uplands",
+        "D": "Cameroon Highlands"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's tin (cassiterite) and columbite (niobium ore) deposits are concentrated on the Jos Plateau (Plateau State, central Nigeria). Tin mining was once a major economic activity there."
+    },
+    {
+      "id": 170,
+      "topic": "Population Dynamics",
+      "difficulty": "medium",
+      "question": "The crude birth rate is defined as the number of live births per:",
+      "options": {
+        "A": "100 women of childbearing age per year",
+        "B": "1,000 of the total population per year",
+        "C": "10,000 of the total population per year",
+        "D": "100 married couples per year"
+      },
+      "correct_answer": "B",
+      "explanation": "Crude Birth Rate (CBR) = (Number of live births in a year ÷ Mid-year population) × 1,000. It is expressed as births per 1,000 of the total population."
+    },
+    {
+      "id": 171,
+      "topic": "Population Dynamics",
+      "difficulty": "medium",
+      "question": "The Infant Mortality Rate (IMR) measures:",
+      "options": {
+        "A": "deaths of children under 5 years",
+        "B": "deaths of infants under 1 year per 1,000 live births",
+        "C": "total deaths per 1,000 population",
+        "D": "maternal deaths during childbirth"
+      },
+      "correct_answer": "B",
+      "explanation": "IMR = (Deaths of infants under 1 year ÷ Live births) × 1,000. It is an important indicator of healthcare quality and living standards in a country."
+    },
+    {
+      "id": 172,
+      "topic": "Population Dynamics",
+      "difficulty": "medium",
+      "question": "Life expectancy at birth refers to:",
+      "options": {
+        "A": "the maximum age reached by the oldest person in a country",
+        "B": "the average number of years a person born today can expect to live",
+        "C": "the age at which most people retire",
+        "D": "the percentage of people who live to age 100"
+      },
+      "correct_answer": "B",
+      "explanation": "Life expectancy at birth is the statistical average number of years a newborn is expected to live, given current age-specific mortality rates. It is a key development indicator."
+    },
+    {
+      "id": 173,
+      "topic": "Agricultural Systems",
+      "difficulty": "medium",
+      "question": "Plantation agriculture is characterized by:",
+      "options": {
+        "A": "small subsistence farms growing food crops",
+        "B": "large-scale single-crop cultivation for export, using wage labor and modern technology",
+        "C": "nomadic herding of livestock",
+        "D": "traditional shifting cultivation"
+      },
+      "correct_answer": "B",
+      "explanation": "Plantation agriculture grows a single cash crop (monoculture) on a large scale for export, using hired labor, modern technology, and capital investment. Examples: rubber, cocoa, oil palm plantations."
+    },
+    {
+      "id": 174,
+      "topic": "Agricultural Systems",
+      "difficulty": "medium",
+      "question": "Nomadic pastoralism in Nigeria's northern regions involves:",
+      "options": {
+        "A": "keeping animals in permanent enclosures",
+        "B": "moving herds of cattle, sheep, and goats seasonally in search of water and pasture",
+        "C": "intensive dairy farming",
+        "D": "growing fodder crops for animals"
+      },
+      "correct_answer": "B",
+      "explanation": "Nomadic pastoralists (e.g., Fulani herders) migrate seasonally with their cattle, following rainfall and fresh pasture. They move north in the wet season and south during the dry season."
+    },
+    {
+      "id": 175,
+      "topic": "Economic Geography",
+      "difficulty": "medium",
+      "question": "A Special Economic Zone (SEZ) in the context of Nigerian development is an area where:",
+      "options": {
+        "A": "only agricultural production is allowed",
+        "B": "business and trade laws differ from the rest of the country to attract investment",
+        "C": "foreign companies are not allowed to operate",
+        "D": "government controls all production"
+      },
+      "correct_answer": "B",
+      "explanation": "SEZs (and Export Processing Zones, EPZs in Nigeria) offer special economic incentives (tax holidays, simplified regulations) to attract both domestic and foreign investment and promote industrialization."
+    },
+    {
+      "id": 176,
+      "topic": "Geomorphology",
+      "difficulty": "medium",
+      "question": "Escarpments are formed by:",
+      "options": {
+        "A": "volcanic eruptions",
+        "B": "the erosion of tilted rock layers creating a steep cliff face (scarp) and gentle dip slope",
+        "C": "river deposition",
+        "D": "coastal erosion"
+      },
+      "correct_answer": "B",
+      "explanation": "An escarpment (cuesta) is a landform with a steep cliff (scarp) on one side and a gentle slope (dip slope) on the other, formed by differential erosion of tilted sedimentary rock layers."
+    },
+    {
+      "id": 177,
+      "topic": "Geomorphology",
+      "difficulty": "medium",
+      "question": "Pediplains are extensive flat plains formed in arid and semi-arid areas by:",
+      "options": {
+        "A": "river deposition",
+        "B": "the coalescence of pediments through erosion, leaving isolated inselbergs",
+        "C": "glacial deposits",
+        "D": "coastal deposition"
+      },
+      "correct_answer": "B",
+      "explanation": "Pediplains are vast, gently undulating plains typical of arid Africa, formed when pediments coalesce after hill slopes retreat. Isolated rock hills (inselbergs) may protrude from the plain."
+    },
+    {
+      "id": 178,
+      "topic": "Hydrology",
+      "difficulty": "medium",
+      "question": "Evapotranspiration refers to the combined processes of:",
+      "options": {
+        "A": "rainfall and runoff",
+        "B": "evaporation from surfaces and transpiration from plants",
+        "C": "condensation and precipitation",
+        "D": "infiltration and percolation"
+      },
+      "correct_answer": "B",
+      "explanation": "Evapotranspiration is the combined loss of water from the Earth's surface through evaporation from water bodies/soil and transpiration (water released by plants through leaves)."
+    },
+    {
+      "id": 179,
+      "topic": "Nigeria's Geography",
+      "difficulty": "medium",
+      "question": "The Cross River State in Nigeria is significant for its:",
+      "options": {
+        "A": "major oil reserves",
+        "B": "Cross River National Park with one of Nigeria's last remaining tropical rainforests",
+        "C": "large-scale groundnut farming",
+        "D": "major steel industry"
+      },
+      "correct_answer": "B",
+      "explanation": "Cross River State contains the Cross River National Park, one of the most biodiverse areas in Nigeria and West Africa, hosting gorillas, chimpanzees, and an exceptional diversity of plant species."
+    },
+    {
+      "id": 180,
+      "topic": "Nigeria's Geography",
+      "difficulty": "medium",
+      "question": "The River Benue joins the River Niger at:",
+      "options": {
+        "A": "Kainji",
+        "B": "Lokoja",
+        "C": "Onitsha",
+        "D": "Calabar"
+      },
+      "correct_answer": "B",
+      "explanation": "The River Benue (Nigeria's second largest river) meets the River Niger at Lokoja in Kogi State, forming the famous 'confluence of rivers.' Lokoja is called the 'Confluence City.'"
+    },
+    {
+      "id": 181,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The world's most populous country is:",
+      "options": {
+        "A": "India",
+        "B": "China",
+        "C": "United States",
+        "D": "Indonesia"
+      },
+      "correct_answer": "A",
+      "explanation": "India surpassed China in 2023 to become the world's most populous country, with a population exceeding 1.4 billion. China's population has begun declining due to its previous one-child policy."
+    },
+    {
+      "id": 182,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The largest country by land area in the world is:",
+      "options": {
+        "A": "China",
+        "B": "United States",
+        "C": "Canada",
+        "D": "Russia"
+      },
+      "correct_answer": "D",
+      "explanation": "Russia is the world's largest country by land area (approximately 17.1 million km²), spanning 11 time zones across Eastern Europe and northern Asia."
+    },
+    {
+      "id": 183,
+      "topic": "World Geography",
+      "difficulty": "medium",
+      "question": "The largest country in Africa by area is:",
+      "options": {
+        "A": "Nigeria",
+        "B": "Democratic Republic of Congo",
+        "C": "Algeria",
+        "D": "Sudan"
+      },
+      "correct_answer": "C",
+      "explanation": "Algeria (2.38 million km²) is Africa's largest country by area since Sudan's split in 2011. It is also the 10th largest country in the world."
+    },
+    {
+      "id": 184,
+      "topic": "Nigeria's Geography",
+      "difficulty": "medium",
+      "question": "The Yankari National Park, famous for its wildlife and warm springs, is located in:",
+      "options": {
+        "A": "Cross River State",
+        "B": "Ogun State",
+        "C": "Bauchi State",
+        "D": "Taraba State"
+      },
+      "correct_answer": "C",
+      "explanation": "Yankari National Park, Nigeria's largest national park, is located in Bauchi State. It is home to elephants, hippos, baboons, and other wildlife, as well as the famous Wikki Warm Springs."
+    },
+    {
+      "id": 185,
+      "topic": "Nigeria's Geography",
+      "difficulty": "medium",
+      "question": "Nigeria's main seaports are located at:",
+      "options": {
+        "A": "Kano and Abuja",
+        "B": "Lagos (Apapa) and Port Harcourt (Onne)",
+        "C": "Calabar and Warri only",
+        "D": "Enugu and Jos"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's major seaports are Apapa Port (Lagos) and Onne Port (Port Harcourt/Rivers State). Tin Can Island Port (Lagos), Warri, and Calabar ports also handle significant cargo."
+    },
+    {
+      "id": 186,
+      "topic": "Transport",
+      "difficulty": "medium",
+      "question": "Pipeline transport is most suitable for carrying:",
+      "options": {
+        "A": "passengers and manufactured goods",
+        "B": "liquids (oil, gas, water) and slurries over long distances efficiently",
+        "C": "agricultural produce",
+        "D": "heavy industrial machinery"
+      },
+      "correct_answer": "B",
+      "explanation": "Pipelines efficiently transport fluids (crude oil, natural gas, water, refined products) over long distances with minimal handling, low operating costs, and reduced risk of theft compared to road transport."
+    },
+    {
+      "id": 187,
+      "topic": "Urban Problems",
+      "difficulty": "medium",
+      "question": "Urban sprawl refers to:",
+      "options": {
+        "A": "the growth of population within the city centre",
+        "B": "the uncontrolled outward spread of urban areas into surrounding rural land",
+        "C": "the abandonment of city centres",
+        "D": "industrial pollution in cities"
+      },
+      "correct_answer": "B",
+      "explanation": "Urban sprawl is the unplanned, low-density expansion of cities into surrounding rural areas. It leads to loss of farmland, traffic congestion, increased car dependency, and strained infrastructure."
+    },
+    {
+      "id": 188,
+      "topic": "Urban Problems",
+      "difficulty": "medium",
+      "question": "Slums and informal settlements in cities like Lagos are characterized by:",
+      "options": {
+        "A": "high-quality housing and good services",
+        "B": "overcrowded housing, poor sanitation, inadequate water supply, and lack of legal tenure",
+        "C": "mostly industrial activities",
+        "D": "high income residents"
+      },
+      "correct_answer": "B",
+      "explanation": "Slums (informal settlements) are characterized by overcrowded, poorly constructed housing lacking clean water, sanitation, electricity, and secure land tenure. Examples in Nigeria include Ajegunle (Lagos) and Sabon Gari."
+    },
+    {
+      "id": 189,
+      "topic": "Energy Resources",
+      "difficulty": "medium",
+      "question": "Photovoltaic (solar) cells convert:",
+      "options": {
+        "A": "wind energy into electricity",
+        "B": "heat energy into electricity",
+        "C": "solar (light) energy directly into electricity",
+        "D": "chemical energy into electricity"
+      },
+      "correct_answer": "C",
+      "explanation": "Photovoltaic (PV) solar cells convert sunlight (photons) directly into electricity through the photoelectric effect. Nigeria has high solar potential given its location in the tropical sun belt."
+    },
+    {
+      "id": 190,
+      "topic": "Energy Resources",
+      "difficulty": "medium",
+      "question": "Biomass energy is energy derived from:",
+      "options": {
+        "A": "nuclear reactions",
+        "B": "organic materials such as wood, crop residues, and animal waste",
+        "C": "ocean tides",
+        "D": "geothermal heat"
+      },
+      "correct_answer": "B",
+      "explanation": "Biomass energy is obtained from organic materials (wood, agricultural waste, animal dung, energy crops). It is the most widely used energy source in rural Nigeria (fuelwood for cooking)."
+    },
+    {
+      "id": 191,
+      "topic": "Tides",
+      "difficulty": "medium",
+      "question": "Tides are caused primarily by:",
+      "options": {
+        "A": "wind blowing over ocean surfaces",
+        "B": "the gravitational pull of the Moon (and to a lesser extent the Sun) on the Earth's oceans",
+        "C": "Earth's rotation",
+        "D": "ocean temperature differences"
+      },
+      "correct_answer": "B",
+      "explanation": "Tides are primarily caused by the gravitational force of the Moon pulling on Earth's oceans. The Sun also contributes. Spring tides occur when Moon, Sun, and Earth align; neap tides when they are at right angles."
+    },
+    {
+      "id": 192,
+      "topic": "Coastal Processes",
+      "difficulty": "medium",
+      "question": "Longshore drift is the movement of sediment along the coast caused by:",
+      "options": {
+        "A": "tidal currents moving parallel to the shore",
+        "B": "waves breaking at an angle to the shore, moving sediment along the coast",
+        "C": "submarine landslides",
+        "D": "river sediment entering the sea"
+      },
+      "correct_answer": "B",
+      "explanation": "Longshore drift occurs when waves approach the shore at an angle — sediment is carried diagonally up the beach (swash) and straight back down (backwash), gradually moving material along the coast."
+    },
+    {
+      "id": 193,
+      "topic": "Social Geography",
+      "difficulty": "medium",
+      "question": "The Human Development Index (HDI) was developed to measure development beyond GDP alone. Which organization publishes the HDI annually?",
+      "options": {
+        "A": "World Bank",
+        "B": "International Monetary Fund",
+        "C": "United Nations Development Programme (UNDP)",
+        "D": "World Health Organization"
+      },
+      "correct_answer": "C",
+      "explanation": "The HDI is published annually by the United Nations Development Programme (UNDP) in its Human Development Report. It combines life expectancy, education, and income per capita."
+    },
+    {
+      "id": 194,
+      "topic": "Agricultural Problems",
+      "difficulty": "medium",
+      "question": "The main problem limiting agricultural productivity in Nigeria is:",
+      "options": {
+        "A": "excess rainfall throughout the country",
+        "B": "combination of poor soils, traditional farming methods, lack of inputs, and limited irrigation",
+        "C": "too much mechanization",
+        "D": "overabundance of labor"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigerian agriculture is constrained by: poor/degraded soils, traditional/subsistence farming methods, limited access to improved seeds/fertilizers/credit, inadequate irrigation, poor storage, and land fragmentation."
+    },
+    {
+      "id": 195,
+      "topic": "Nigeria - States and Capitals",
+      "difficulty": "medium",
+      "question": "The capital of Lagos State is:",
+      "options": {
+        "A": "Lagos City",
+        "B": "Ikeja",
+        "C": "Badagry",
+        "D": "Epe"
+      },
+      "correct_answer": "B",
+      "explanation": "Ikeja is the capital of Lagos State, though the city of Lagos (comprising several local government areas) is the largest and most prominent urban center in the state."
+    },
+    {
+      "id": 196,
+      "topic": "Nigeria - States and Capitals",
+      "difficulty": "medium",
+      "question": "The capital of Kano State is:",
+      "options": {
+        "A": "Kaduna",
+        "B": "Katsina",
+        "C": "Kano",
+        "D": "Dutse"
+      },
+      "correct_answer": "C",
+      "explanation": "Kano is the capital city of Kano State and the commercial center of northern Nigeria. It is one of the oldest cities in West Africa and a major textile and trade center."
+    },
+    {
+      "id": 197,
+      "topic": "Physical Geography",
+      "difficulty": "medium",
+      "question": "The Bernoulli effect and orographic lifting both cause air to:",
+      "options": {
+        "A": "sink and warm up",
+        "B": "rise and cool, leading to cloud formation",
+        "C": "move horizontally",
+        "D": "decrease in humidity"
+      },
+      "correct_answer": "B",
+      "explanation": "Both effects involve air being forced to rise — over mountains (orographic) or through convergence. As air rises, it expands and cools adiabatically, eventually reaching the dew point and forming clouds."
+    },
+    {
+      "id": 198,
+      "topic": "Map Interpretation",
+      "difficulty": "medium",
+      "question": "On a topographic map, closely spaced contour lines indicate:",
+      "options": {
+        "A": "a gently sloping surface",
+        "B": "a flat plateau",
+        "C": "a steep slope",
+        "D": "a valley floor"
+      },
+      "correct_answer": "C",
+      "explanation": "Closely spaced contour lines indicate a steep slope because a large change in elevation occurs over a short horizontal distance. Widely spaced contours indicate a gentle gradient."
+    },
+    {
+      "id": 199,
+      "topic": "Environmental Conservation",
+      "difficulty": "medium",
+      "question": "National parks and game reserves in Nigeria are established to:",
+      "options": {
+        "A": "provide land for farming",
+        "B": "conserve biodiversity and protect wildlife habitats from human encroachment",
+        "C": "generate revenue from oil exploration",
+        "D": "provide land for housing"
+      },
+      "correct_answer": "B",
+      "explanation": "National parks (Yankari, Cross River, Gashaka-Gumti, Kainji Lake, Okomu) protect Nigeria's wildlife and habitats from hunting and land conversion, conserving biodiversity for future generations."
+    },
+    {
+      "id": 200,
+      "topic": "Glaciation",
+      "difficulty": "medium",
+      "question": "A fjord is a:",
+      "options": {
+        "A": "volcanic crater lake",
+        "B": "narrow, deep, steep-sided inlet of the sea formed by a glacially eroded U-shaped valley flooded by the sea",
+        "C": "river estuary",
+        "D": "coastal sand bar"
+      },
+      "correct_answer": "B",
+      "explanation": "A fjord is a long, narrow, deep inlet formed when a glaciated U-shaped valley (glacial trough) is flooded by the sea after glaciers retreat. Famous examples are in Norway, New Zealand, and Greenland."
+    }
+  ]
+}

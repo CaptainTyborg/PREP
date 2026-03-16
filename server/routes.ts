@@ -22,7 +22,8 @@ function getMockQuestions(subject: string, count: number): Question[] {
   if (fs.existsSync(filePath)) {
     try {
       const fileData = fs.readFileSync(filePath, "utf-8");
-      const allQuestions: any[] = JSON.parse(fileData);
+      const parsed: any = JSON.parse(fileData);
+      const allQuestions: any[] = Array.isArray(parsed) ? parsed : (parsed.questions || []);
       
       // Map to ensure all fields are present and types match QuestionResponseSchema
       const mappedQuestions: Question[] = allQuestions.map((q, idx) => ({

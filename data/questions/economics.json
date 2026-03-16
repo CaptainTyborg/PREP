@@ -1,0 +1,2806 @@
+{
+  "subject": "Economics",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "Economics is best defined as the study of:",
+      "options": {
+        "A": "how governments manage their budgets",
+        "B": "how individuals and societies allocate scarce resources to satisfy unlimited wants",
+        "C": "the production of goods and services only",
+        "D": "international trade and commerce"
+      },
+      "correct_answer": "B",
+      "explanation": "Economics studies how individuals, firms, and governments make choices about allocating scarce resources to satisfy unlimited human wants and needs."
+    },
+    {
+      "id": 2,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "Scarcity in economics means that:",
+      "options": {
+        "A": "resources are completely exhausted",
+        "B": "resources are limited relative to unlimited human wants",
+        "C": "only poor countries face resource problems",
+        "D": "goods are always expensive"
+      },
+      "correct_answer": "B",
+      "explanation": "Scarcity exists because human wants are unlimited while the resources to satisfy them are limited, forcing individuals and societies to make choices."
+    },
+    {
+      "id": 3,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "Opportunity cost is defined as:",
+      "options": {
+        "A": "the monetary price of a good",
+        "B": "the value of the next best alternative forgone when a choice is made",
+        "C": "the total cost of production",
+        "D": "the profit earned from selling a good"
+      },
+      "correct_answer": "B",
+      "explanation": "Opportunity cost is the value of the next best alternative sacrificed when making an economic decision. It reflects the true cost of any choice."
+    },
+    {
+      "id": 4,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "The three fundamental economic questions every society must answer are:",
+      "options": {
+        "A": "Who? When? Where?",
+        "B": "What to produce? How to produce? For whom to produce?",
+        "C": "How much? How fast? How cheap?",
+        "D": "Supply? Demand? Price?"
+      },
+      "correct_answer": "B",
+      "explanation": "Every economic system must answer: What goods to produce? How to produce them (which techniques/factors)? For whom to distribute the output?"
+    },
+    {
+      "id": 5,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a free good?",
+      "options": {
+        "A": "Land",
+        "B": "Air",
+        "C": "Water",
+        "D": "Labour"
+      },
+      "correct_answer": "B",
+      "explanation": "Free goods are available in unlimited supply at zero price (e.g., air, sunlight). Economic goods are scarce and have a price. Water is increasingly scarce and thus an economic good."
+    },
+    {
+      "id": 6,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "The production possibility curve (PPC) shows:",
+      "options": {
+        "A": "the maximum combinations of two goods an economy can produce with given resources",
+        "B": "only the minimum output levels",
+        "C": "the demand for goods in the economy",
+        "D": "government spending priorities"
+      },
+      "correct_answer": "A",
+      "explanation": "The PPC (or production possibility frontier) shows all maximum possible combinations of two goods that an economy can produce given its resources and technology."
+    },
+    {
+      "id": 7,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "A point inside the production possibility curve indicates:",
+      "options": {
+        "A": "maximum efficient production",
+        "B": "productive inefficiency — resources are underutilised",
+        "C": "an unattainable combination of goods",
+        "D": "technological advancement"
+      },
+      "correct_answer": "B",
+      "explanation": "A point inside the PPC shows that the economy is not using all its resources efficiently. A point on the curve is efficient; beyond it is unattainable."
+    },
+    {
+      "id": 8,
+      "topic": "Basic Economic Concepts",
+      "difficulty": "medium",
+      "question": "Microeconomics differs from macroeconomics in that microeconomics studies:",
+      "options": {
+        "A": "the overall economy including GDP and inflation",
+        "B": "individual economic units such as households, firms, and markets",
+        "C": "international trade relationships",
+        "D": "government fiscal policy"
+      },
+      "correct_answer": "B",
+      "explanation": "Microeconomics studies individual decision-making units (consumers, firms, industries). Macroeconomics studies the economy as a whole (GDP, inflation, unemployment)."
+    },
+    {
+      "id": 9,
+      "topic": "Economic Systems",
+      "difficulty": "medium",
+      "question": "In a free market (capitalist) economy, economic decisions are made primarily by:",
+      "options": {
+        "A": "the central government",
+        "B": "price signals and the interaction of private buyers and sellers",
+        "C": "a planning committee",
+        "D": "trade unions"
+      },
+      "correct_answer": "B",
+      "explanation": "In a free market economy, price signals coordinate the decisions of private individuals and firms through the invisible hand of the market, with minimal government intervention."
+    },
+    {
+      "id": 10,
+      "topic": "Economic Systems",
+      "difficulty": "medium",
+      "question": "In a command (planned) economy, economic decisions are made by:",
+      "options": {
+        "A": "individual consumers through their purchases",
+        "B": "private firms competing in the market",
+        "C": "the central government through a planning authority",
+        "D": "foreign investors"
+      },
+      "correct_answer": "C",
+      "explanation": "In a command economy, the government (central planning authority) makes all major economic decisions: what to produce, how to produce, and for whom."
+    },
+    {
+      "id": 11,
+      "topic": "Economic Systems",
+      "difficulty": "medium",
+      "question": "A mixed economy is one in which:",
+      "options": {
+        "A": "only private enterprises operate",
+        "B": "the state owns all means of production",
+        "C": "both private enterprise and government play significant roles in economic decisions",
+        "D": "the economy is divided between agriculture and industry"
+      },
+      "correct_answer": "C",
+      "explanation": "A mixed economy combines elements of both market and command economies — private firms operate alongside government enterprises and regulation."
+    },
+    {
+      "id": 12,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "The law of demand states that, all other things being equal (ceteris paribus):",
+      "options": {
+        "A": "as price increases, quantity demanded increases",
+        "B": "as price increases, quantity demanded decreases",
+        "C": "as income increases, demand decreases",
+        "D": "price and demand are unrelated"
+      },
+      "correct_answer": "B",
+      "explanation": "The law of demand states that there is an inverse relationship between price and quantity demanded — as price rises, quantity demanded falls, and vice versa."
+    },
+    {
+      "id": 13,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "Which of the following will cause the demand curve to shift to the right?",
+      "options": {
+        "A": "A decrease in consumers' income",
+        "B": "An increase in the price of the good",
+        "C": "An increase in consumers' income (for a normal good)",
+        "D": "A decrease in the price of a complementary good"
+      },
+      "correct_answer": "C",
+      "explanation": "An increase in income causes demand for normal goods to increase (shift right). A price change causes movement along the demand curve, not a shift."
+    },
+    {
+      "id": 14,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "A Giffen good is one for which:",
+      "options": {
+        "A": "demand increases as income rises",
+        "B": "demand increases as the price rises (an exception to the law of demand)",
+        "C": "quantity demanded is perfectly inelastic",
+        "D": "supply is perfectly elastic"
+      },
+      "correct_answer": "B",
+      "explanation": "A Giffen good violates the law of demand — as its price rises, quantity demanded also rises. It is typically an inferior staple good where the income effect dominates the substitution effect."
+    },
+    {
+      "id": 15,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "Complementary goods are goods that:",
+      "options": {
+        "A": "can be used in place of each other",
+        "B": "are used together, so a rise in the price of one reduces demand for the other",
+        "C": "are inferior goods",
+        "D": "have perfectly elastic demand"
+      },
+      "correct_answer": "B",
+      "explanation": "Complementary goods are consumed together (e.g., bread and butter, cars and petrol). A rise in the price of one reduces demand for its complement."
+    },
+    {
+      "id": 16,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "Substitute goods are goods that:",
+      "options": {
+        "A": "must be used together",
+        "B": "can replace each other in consumption — a rise in price of one increases demand for the other",
+        "C": "are free goods",
+        "D": "have zero cross elasticity of demand"
+      },
+      "correct_answer": "B",
+      "explanation": "Substitutes can replace each other (e.g., tea and coffee, butter and margarine). A rise in price of one increases demand for its substitute."
+    },
+    {
+      "id": 17,
+      "topic": "Supply",
+      "difficulty": "medium",
+      "question": "The law of supply states that, ceteris paribus:",
+      "options": {
+        "A": "as price increases, quantity supplied decreases",
+        "B": "as price decreases, quantity supplied increases",
+        "C": "as price increases, quantity supplied increases",
+        "D": "price and supply are inversely related"
+      },
+      "correct_answer": "C",
+      "explanation": "The law of supply states that there is a direct (positive) relationship between price and quantity supplied — as price rises, producers are willing to supply more."
+    },
+    {
+      "id": 18,
+      "topic": "Supply",
+      "difficulty": "medium",
+      "question": "Which of the following will cause the supply curve to shift to the left?",
+      "options": {
+        "A": "An improvement in production technology",
+        "B": "A decrease in input costs",
+        "C": "An increase in production costs (e.g., wages, raw materials)",
+        "D": "An increase in the number of producers"
+      },
+      "correct_answer": "C",
+      "explanation": "Higher production costs reduce profitability, causing suppliers to produce less at each price level — shifting the supply curve to the left (decrease in supply)."
+    },
+    {
+      "id": 19,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "Market equilibrium occurs when:",
+      "options": {
+        "A": "supply exceeds demand",
+        "B": "demand exceeds supply",
+        "C": "the quantity demanded equals the quantity supplied",
+        "D": "the government fixes the price"
+      },
+      "correct_answer": "C",
+      "explanation": "Market equilibrium is the price at which quantity demanded equals quantity supplied, so there is no tendency for price to change. It 'clears' the market."
+    },
+    {
+      "id": 20,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "When the market price is above the equilibrium price, a ______ exists, causing price to fall.",
+      "options": {
+        "A": "shortage",
+        "B": "surplus",
+        "C": "deficit",
+        "D": "equilibrium"
+      },
+      "correct_answer": "B",
+      "explanation": "When price is above equilibrium, quantity supplied exceeds quantity demanded, creating a surplus (excess supply). Producers lower prices to sell excess stock."
+    },
+    {
+      "id": 21,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "A price ceiling is set:",
+      "options": {
+        "A": "above equilibrium price to prevent price rises",
+        "B": "below equilibrium price to keep prices affordable for consumers",
+        "C": "at equilibrium to stabilize prices",
+        "D": "above equilibrium to allow producers to earn more"
+      },
+      "correct_answer": "B",
+      "explanation": "A price ceiling is a maximum price set by government below equilibrium. It makes goods more affordable but leads to shortages (quantity demanded exceeds quantity supplied)."
+    },
+    {
+      "id": 22,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "A price floor is set:",
+      "options": {
+        "A": "below equilibrium to help consumers",
+        "B": "above equilibrium to guarantee producers a minimum income",
+        "C": "at equilibrium to prevent shortages",
+        "D": "below equilibrium to create shortages"
+      },
+      "correct_answer": "B",
+      "explanation": "A price floor is a minimum price above equilibrium (e.g., minimum wage, agricultural support prices). It guarantees producers a minimum return but leads to surpluses."
+    },
+    {
+      "id": 23,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Price elasticity of demand (PED) measures:",
+      "options": {
+        "A": "the responsiveness of supply to a change in price",
+        "B": "the responsiveness of quantity demanded to a change in price",
+        "C": "the relationship between income and demand",
+        "D": "the effect of advertising on demand"
+      },
+      "correct_answer": "B",
+      "explanation": "PED = % change in quantity demanded ÷ % change in price. It measures how sensitive consumer demand is to a change in the price of the good."
+    },
+    {
+      "id": 24,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "If the price elasticity of demand (PED) is greater than 1, demand is said to be:",
+      "options": {
+        "A": "perfectly inelastic",
+        "B": "inelastic",
+        "C": "elastic",
+        "D": "unitary elastic"
+      },
+      "correct_answer": "C",
+      "explanation": "When PED > 1, demand is elastic — quantity demanded is highly responsive to price changes. A price increase causes a proportionally larger fall in quantity demanded."
+    },
+    {
+      "id": 25,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Which of the following goods would have highly INELASTIC demand?",
+      "options": {
+        "A": "Luxury cars",
+        "B": "Foreign holidays",
+        "C": "Insulin for diabetics",
+        "D": "Designer handbags"
+      },
+      "correct_answer": "C",
+      "explanation": "Necessities with few substitutes (like insulin) have inelastic demand — consumers must buy them regardless of price changes. Luxuries tend to have elastic demand."
+    },
+    {
+      "id": 26,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Income elasticity of demand (YED) for a normal good is:",
+      "options": {
+        "A": "negative",
+        "B": "zero",
+        "C": "positive",
+        "D": "infinite"
+      },
+      "correct_answer": "C",
+      "explanation": "Normal goods have positive YED — as income rises, demand increases. Inferior goods have negative YED — demand falls as income rises."
+    },
+    {
+      "id": 27,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Cross elasticity of demand (XED) between two substitute goods is:",
+      "options": {
+        "A": "negative",
+        "B": "zero",
+        "C": "positive",
+        "D": "infinite"
+      },
+      "correct_answer": "C",
+      "explanation": "Substitutes have positive XED — a rise in the price of one causes an increase in demand for the other. Complements have negative XED."
+    },
+    {
+      "id": 28,
+      "topic": "Theory of Production",
+      "difficulty": "medium",
+      "question": "The law of diminishing returns states that:",
+      "options": {
+        "A": "as more units of a variable factor are added to fixed factors, output initially increases then decreases",
+        "B": "output always increases as more inputs are added",
+        "C": "production costs always rise with output",
+        "D": "profits always fall as production increases"
+      },
+      "correct_answer": "A",
+      "explanation": "The law of diminishing returns: as successive units of a variable factor (e.g., labour) are added to fixed factors, the marginal product eventually decreases."
+    },
+    {
+      "id": 29,
+      "topic": "Theory of Production",
+      "difficulty": "medium",
+      "question": "The factors of production are:",
+      "options": {
+        "A": "land, labour, capital, enterprise",
+        "B": "land, money, machines, management",
+        "C": "raw materials, workers, factories, profit",
+        "D": "agriculture, industry, services, trade"
+      },
+      "correct_answer": "A",
+      "explanation": "The four factors of production are land (natural resources), labour (human effort), capital (man-made productive resources), and enterprise (entrepreneurship)."
+    },
+    {
+      "id": 30,
+      "topic": "Theory of Production",
+      "difficulty": "medium",
+      "question": "The reward for capital as a factor of production is:",
+      "options": {
+        "A": "Wages",
+        "B": "Rent",
+        "C": "Interest",
+        "D": "Profit"
+      },
+      "correct_answer": "C",
+      "explanation": "Rewards for factors of production: Land → Rent; Labour → Wages/Salary; Capital → Interest; Enterprise → Profit."
+    },
+    {
+      "id": 31,
+      "topic": "Costs of Production",
+      "difficulty": "medium",
+      "question": "Fixed costs are costs that:",
+      "options": {
+        "A": "change with the level of output",
+        "B": "do not change with the level of output in the short run",
+        "C": "are zero when output is zero",
+        "D": "are always greater than variable costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Fixed costs (e.g., rent, insurance, loan repayments) do not vary with output in the short run. They exist even when output is zero."
+    },
+    {
+      "id": 32,
+      "topic": "Costs of Production",
+      "difficulty": "medium",
+      "question": "Variable costs are costs that:",
+      "options": {
+        "A": "remain constant regardless of output",
+        "B": "change directly with the level of output",
+        "C": "include only wages",
+        "D": "are fixed in the long run"
+      },
+      "correct_answer": "B",
+      "explanation": "Variable costs (e.g., raw materials, wages of hourly workers) increase as output increases and fall to zero when output is zero."
+    },
+    {
+      "id": 33,
+      "topic": "Costs of Production",
+      "difficulty": "medium",
+      "question": "Marginal cost is defined as:",
+      "options": {
+        "A": "total cost divided by output",
+        "B": "the cost of producing one additional unit of output",
+        "C": "total fixed cost plus total variable cost",
+        "D": "the minimum average cost of production"
+      },
+      "correct_answer": "B",
+      "explanation": "Marginal cost (MC) is the additional cost of producing one more unit of output. MC = ΔTC/ΔQ. Profit-maximizing firms produce where MC = MR."
+    },
+    {
+      "id": 34,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "Perfect competition is a market structure characterized by:",
+      "options": {
+        "A": "one dominant seller controlling the market",
+        "B": "many buyers and sellers of a homogeneous product with free entry and exit",
+        "C": "few sellers with high barriers to entry",
+        "D": "product differentiation and advertising"
+      },
+      "correct_answer": "B",
+      "explanation": "Perfect competition has: many buyers and sellers, homogeneous (identical) products, perfect information, free entry/exit, and price-taking behavior."
+    },
+    {
+      "id": 35,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "A monopoly exists when:",
+      "options": {
+        "A": "there are two firms in the market",
+        "B": "there is a single seller of a good with no close substitutes and high barriers to entry",
+        "C": "all firms sell identical products",
+        "D": "there is free entry into the market"
+      },
+      "correct_answer": "B",
+      "explanation": "A monopoly is a market with one seller who controls supply of a unique product. High barriers to entry prevent competitors from entering."
+    },
+    {
+      "id": 36,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "An oligopoly is a market structure dominated by:",
+      "options": {
+        "A": "one firm",
+        "B": "a few large firms",
+        "C": "many small firms",
+        "D": "two firms only"
+      },
+      "correct_answer": "B",
+      "explanation": "An oligopoly has a few dominant firms (e.g., Nigerian telecommunications — MTN, Airtel, Glo). Firms are interdependent and may collude or compete aggressively."
+    },
+    {
+      "id": 37,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "Price discrimination occurs when a firm:",
+      "options": {
+        "A": "charges all customers the same price",
+        "B": "charges different prices to different customers for the same good",
+        "C": "reduces its price to attract more customers",
+        "D": "sets prices based only on production cost"
+      },
+      "correct_answer": "B",
+      "explanation": "Price discrimination is when a seller charges different prices to different consumers for the same good or service (e.g., senior citizen discounts, first/economy class airfares)."
+    },
+    {
+      "id": 38,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "Gross Domestic Product (GDP) measures:",
+      "options": {
+        "A": "the total income of a country's citizens worldwide",
+        "B": "the total market value of all final goods and services produced within a country in a given period",
+        "C": "only government expenditure",
+        "D": "the trade balance of a country"
+      },
+      "correct_answer": "B",
+      "explanation": "GDP measures the total monetary value of all final goods and services produced within a country's borders in a specific time period (usually one year)."
+    },
+    {
+      "id": 39,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "The expenditure approach to measuring GDP uses the formula:",
+      "options": {
+        "A": "GDP = C + I + G + (X – M)",
+        "B": "GDP = Wages + Rent + Interest + Profit",
+        "C": "GDP = Total Revenue – Total Cost",
+        "D": "GDP = NNP + Depreciation"
+      },
+      "correct_answer": "A",
+      "explanation": "Expenditure approach: GDP = C (consumption) + I (investment) + G (government spending) + (X – M) (net exports = exports minus imports)."
+    },
+    {
+      "id": 40,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "Gross National Product (GNP) differs from GDP in that GNP:",
+      "options": {
+        "A": "excludes government spending",
+        "B": "includes income earned by a country's residents abroad but excludes income earned by foreigners within the country",
+        "C": "measures only agricultural output",
+        "D": "is always smaller than GDP"
+      },
+      "correct_answer": "B",
+      "explanation": "GNP = GDP + Net Factor Income from Abroad. GNP counts production by a country's citizens/firms regardless of location; GDP counts production within a country's borders."
+    },
+    {
+      "id": 41,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT included in GDP calculations?",
+      "options": {
+        "A": "Government purchase of public goods",
+        "B": "Private business investment",
+        "C": "Second-hand car sales",
+        "D": "Consumer spending on goods and services"
+      },
+      "correct_answer": "C",
+      "explanation": "GDP counts only current production of final goods and services. Second-hand sales involve goods already counted in previous GDP; adding them again would cause double counting."
+    },
+    {
+      "id": 42,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "Per capita income is calculated as:",
+      "options": {
+        "A": "Total income × Population",
+        "B": "Total national income ÷ Population",
+        "C": "GDP ÷ Government expenditure",
+        "D": "Total exports ÷ Total imports"
+      },
+      "correct_answer": "B",
+      "explanation": "Per capita income = National Income ÷ Population. It represents average income per person and is used as a rough indicator of living standards."
+    },
+    {
+      "id": 43,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "The primary functions of money include all of the following EXCEPT:",
+      "options": {
+        "A": "Medium of exchange",
+        "B": "Store of value",
+        "C": "Unit of account",
+        "D": "Source of profit for banks"
+      },
+      "correct_answer": "D",
+      "explanation": "The four primary functions of money are: medium of exchange, store of value, unit of account (measure of value), and standard of deferred payment."
+    },
+    {
+      "id": 44,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Inflation is defined as:",
+      "options": {
+        "A": "a general increase in production",
+        "B": "a sustained and general rise in the price level in an economy",
+        "C": "an increase in the value of currency",
+        "D": "a decrease in unemployment"
+      },
+      "correct_answer": "B",
+      "explanation": "Inflation is a sustained rise in the general price level over time, resulting in a fall in the purchasing power of money."
+    },
+    {
+      "id": 45,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Demand-pull inflation is caused by:",
+      "options": {
+        "A": "rising production costs",
+        "B": "excess demand in the economy (too much money chasing too few goods)",
+        "C": "imported inflation",
+        "D": "supply shocks"
+      },
+      "correct_answer": "B",
+      "explanation": "Demand-pull inflation occurs when aggregate demand exceeds aggregate supply — 'too much money chasing too few goods.' It often occurs in boom periods."
+    },
+    {
+      "id": 46,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Cost-push inflation is caused by:",
+      "options": {
+        "A": "excess consumer spending",
+        "B": "increases in production costs (wages, raw materials) that force up prices",
+        "C": "falling interest rates",
+        "D": "government reducing taxes"
+      },
+      "correct_answer": "B",
+      "explanation": "Cost-push inflation occurs when rising input costs (wages, energy, raw materials) increase production costs, which firms pass on as higher prices."
+    },
+    {
+      "id": 47,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "The Central Bank of Nigeria (CBN) is responsible for all of the following EXCEPT:",
+      "options": {
+        "A": "issuing currency",
+        "B": "managing monetary policy",
+        "C": "collecting income tax",
+        "D": "acting as banker to the government"
+      },
+      "correct_answer": "C",
+      "explanation": "The CBN issues currency, manages monetary policy, supervises commercial banks, manages foreign reserves, and acts as banker to the government. Tax collection is the responsibility of FIRS."
+    },
+    {
+      "id": 48,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "The cash reserve ratio (CRR) is:",
+      "options": {
+        "A": "the interest rate charged by the central bank on loans to commercial banks",
+        "B": "the fraction of deposits that commercial banks must keep as reserves with the central bank",
+        "C": "the ratio of exports to imports",
+        "D": "the government's budget deficit as a fraction of GDP"
+      },
+      "correct_answer": "B",
+      "explanation": "The CRR is a monetary policy tool — the minimum fraction of deposits commercial banks must hold as reserves with the central bank, reducing the money available for lending."
+    },
+    {
+      "id": 49,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Open market operations (OMO) refer to the central bank's:",
+      "options": {
+        "A": "setting of interest rates",
+        "B": "buying and selling of government securities in the financial market to control money supply",
+        "C": "regulation of commercial bank lending",
+        "D": "fixing of exchange rates"
+      },
+      "correct_answer": "B",
+      "explanation": "OMO involves the central bank buying or selling government bonds. Buying bonds injects money into the economy (expansionary); selling bonds withdraws money (contractionary)."
+    },
+    {
+      "id": 50,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "The Monetary Policy Rate (MPR) is:",
+      "options": {
+        "A": "the interest rate on savings accounts",
+        "B": "the benchmark interest rate set by the central bank that influences all other interest rates",
+        "C": "the inflation rate target",
+        "D": "the rate at which government borrows from citizens"
+      },
+      "correct_answer": "B",
+      "explanation": "The MPR (or discount rate) is the interest rate at which the central bank lends to commercial banks. It is the key policy rate that influences interest rates throughout the economy."
+    },
+    {
+      "id": 51,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Commercial banks create money through:",
+      "options": {
+        "A": "printing notes and minting coins",
+        "B": "the credit creation (money multiplier) process — lending out a fraction of deposits",
+        "C": "investing in the stock market",
+        "D": "collecting taxes"
+      },
+      "correct_answer": "B",
+      "explanation": "Commercial banks create credit (money) by accepting deposits and lending out a fraction (keeping reserves). This multiple deposit expansion (money multiplier) creates new money."
+    },
+    {
+      "id": 52,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "A budget deficit occurs when:",
+      "options": {
+        "A": "government revenue exceeds government expenditure",
+        "B": "government expenditure exceeds government revenue",
+        "C": "government revenue equals government expenditure",
+        "D": "exports exceed imports"
+      },
+      "correct_answer": "B",
+      "explanation": "A budget deficit occurs when government spending exceeds its revenue in a given period. The deficit is financed by borrowing."
+    },
+    {
+      "id": 53,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "A progressive tax system is one in which:",
+      "options": {
+        "A": "everyone pays the same amount of tax",
+        "B": "the tax rate decreases as income increases",
+        "C": "higher-income earners pay a higher percentage of their income in tax",
+        "D": "only consumption is taxed"
+      },
+      "correct_answer": "C",
+      "explanation": "A progressive tax takes a larger percentage from higher incomes (e.g., income tax with rising bands). It is designed to reduce income inequality."
+    },
+    {
+      "id": 54,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "A regressive tax is one where:",
+      "options": {
+        "A": "higher earners pay a higher percentage",
+        "B": "all taxpayers pay the same percentage",
+        "C": "lower earners pay a higher percentage of their income",
+        "D": "only the wealthy are taxed"
+      },
+      "correct_answer": "C",
+      "explanation": "A regressive tax takes a higher proportion from lower incomes (e.g., VAT on basic goods) because lower earners spend a higher share of income on consumption."
+    },
+    {
+      "id": 55,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "Value Added Tax (VAT) is an example of a:",
+      "options": {
+        "A": "direct tax",
+        "B": "progressive tax",
+        "C": "indirect tax",
+        "D": "proportional tax"
+      },
+      "correct_answer": "C",
+      "explanation": "VAT is an indirect tax levied on goods and services at each stage of production/distribution. It is collected by businesses on behalf of the government."
+    },
+    {
+      "id": 56,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "Fiscal policy refers to the use of:",
+      "options": {
+        "A": "interest rates and money supply to manage the economy",
+        "B": "government spending and taxation to influence economic activity",
+        "C": "exchange rate management",
+        "D": "trade tariffs and quotas"
+      },
+      "correct_answer": "B",
+      "explanation": "Fiscal policy uses government spending and taxation to influence aggregate demand, economic growth, employment, and inflation."
+    },
+    {
+      "id": 57,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "Monetary policy refers to the use of:",
+      "options": {
+        "A": "government spending and taxation",
+        "B": "trade policy tools like tariffs",
+        "C": "interest rates and money supply to manage economic conditions",
+        "D": "exchange controls"
+      },
+      "correct_answer": "C",
+      "explanation": "Monetary policy involves the central bank using interest rates, money supply, and reserve requirements to control inflation and support economic stability."
+    },
+    {
+      "id": 58,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "The theory of comparative advantage states that countries should specialize in producing goods:",
+      "options": {
+        "A": "in which they have an absolute advantage",
+        "B": "in which they have the lowest opportunity cost compared to other countries",
+        "C": "that are most expensive to produce",
+        "D": "that other countries cannot produce"
+      },
+      "correct_answer": "B",
+      "explanation": "David Ricardo's comparative advantage: a country should specialize in goods where its opportunity cost is lowest relative to other countries, even if it is less efficient at producing everything."
+    },
+    {
+      "id": 59,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "The balance of trade is the difference between:",
+      "options": {
+        "A": "government revenue and expenditure",
+        "B": "a country's total exports and total imports of goods (visible trade)",
+        "C": "money supply and money demand",
+        "D": "GDP and GNP"
+      },
+      "correct_answer": "B",
+      "explanation": "The balance of trade (visible trade balance) = Exports of goods – Imports of goods. A positive balance is a trade surplus; negative is a trade deficit."
+    },
+    {
+      "id": 60,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "The balance of payments records:",
+      "options": {
+        "A": "only a country's trade in goods",
+        "B": "all economic transactions between a country and the rest of the world",
+        "C": "government budget revenue and spending",
+        "D": "only foreign direct investment flows"
+      },
+      "correct_answer": "B",
+      "explanation": "The balance of payments (BOP) is a comprehensive record of all economic transactions between residents of a country and the rest of the world over a period."
+    },
+    {
+      "id": 61,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "A tariff is:",
+      "options": {
+        "A": "a limit on the quantity of goods that can be imported",
+        "B": "a tax levied on imported (or exported) goods",
+        "C": "a ban on specific imports",
+        "D": "a subsidy to exporters"
+      },
+      "correct_answer": "B",
+      "explanation": "A tariff is a tax on imports (sometimes exports). It raises the price of imported goods, making domestic goods more competitive and generating government revenue."
+    },
+    {
+      "id": 62,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "An import quota is:",
+      "options": {
+        "A": "a tax on imports",
+        "B": "a physical limit on the quantity of a specific good that can be imported",
+        "C": "a subsidy for domestic producers",
+        "D": "an embargo on all imports"
+      },
+      "correct_answer": "B",
+      "explanation": "An import quota restricts the quantity of a good that can be imported into a country in a given period, protecting domestic industries from foreign competition."
+    },
+    {
+      "id": 63,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "Exchange rate is the price at which:",
+      "options": {
+        "A": "goods are traded in domestic markets",
+        "B": "one country's currency is exchanged for another country's currency",
+        "C": "the central bank lends to commercial banks",
+        "D": "government bonds are sold"
+      },
+      "correct_answer": "B",
+      "explanation": "The exchange rate is the rate at which one currency converts to another. For example, if ₦1,500 = $1, that is the naira/dollar exchange rate."
+    },
+    {
+      "id": 64,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "When a country's currency depreciates, its exports become:",
+      "options": {
+        "A": "more expensive for foreigners",
+        "B": "cheaper for foreigners, boosting exports",
+        "C": "uncompetitive",
+        "D": "more profitable only domestically"
+      },
+      "correct_answer": "B",
+      "explanation": "Currency depreciation makes exports cheaper for foreign buyers (they need less of their currency to buy the same goods), potentially boosting export volumes."
+    },
+    {
+      "id": 65,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Economic development differs from economic growth in that economic development:",
+      "options": {
+        "A": "only measures GDP increase",
+        "B": "encompasses improvements in living standards, health, education, and distribution of income",
+        "C": "focuses only on industrialization",
+        "D": "is measured only by export growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Economic growth is an increase in real GDP/output. Economic development is a broader concept including improvements in quality of life, reduced poverty, better health, education, and equity."
+    },
+    {
+      "id": 66,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "The Human Development Index (HDI) measures development using:",
+      "options": {
+        "A": "GDP per capita alone",
+        "B": "life expectancy, education, and income per capita",
+        "C": "military strength and technological capacity",
+        "D": "only literacy rates"
+      },
+      "correct_answer": "B",
+      "explanation": "The HDI (UNDP) combines three dimensions: health (life expectancy), education (mean/expected years of schooling), and standard of living (GNI per capita)."
+    },
+    {
+      "id": 67,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Subsistence farming is characterized by:",
+      "options": {
+        "A": "large-scale commercial production for export",
+        "B": "production mainly for the farmer's own consumption with little or no surplus for sale",
+        "C": "mechanized modern agricultural techniques",
+        "D": "growing cash crops for the global market"
+      },
+      "correct_answer": "B",
+      "explanation": "Subsistence farming involves producing just enough food for the farmer and their family, with little or no surplus for commercial sale. It dominates in many developing countries."
+    },
+    {
+      "id": 68,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Foreign direct investment (FDI) refers to:",
+      "options": {
+        "A": "purchasing foreign currency",
+        "B": "investment by a foreign entity in productive assets (factories, companies) in another country",
+        "C": "lending money to foreign governments",
+        "D": "buying shares in a foreign stock market"
+      },
+      "correct_answer": "B",
+      "explanation": "FDI involves a firm or individual in one country establishing or acquiring business operations (factories, companies) in another country, representing long-term productive investment."
+    },
+    {
+      "id": 69,
+      "topic": "Labour Market",
+      "difficulty": "medium",
+      "question": "Unemployment rate is calculated as:",
+      "options": {
+        "A": "(Employed / Labour force) × 100",
+        "B": "(Unemployed / Labour force) × 100",
+        "C": "(Unemployed / Total population) × 100",
+        "D": "(Labour force / Total population) × 100"
+      },
+      "correct_answer": "B",
+      "explanation": "Unemployment rate = (Number unemployed ÷ Labour force) × 100. The labour force includes both employed and unemployed people actively seeking work."
+    },
+    {
+      "id": 70,
+      "topic": "Labour Market",
+      "difficulty": "medium",
+      "question": "Frictional unemployment occurs when:",
+      "options": {
+        "A": "the economy is in recession and firms lay off workers",
+        "B": "workers are between jobs or searching for better opportunities",
+        "C": "a particular industry declines due to structural changes",
+        "D": "seasonal demand reduces employment"
+      },
+      "correct_answer": "B",
+      "explanation": "Frictional unemployment is short-term unemployment resulting from the time it takes workers to find new jobs or move between jobs. It is considered a natural part of a dynamic economy."
+    },
+    {
+      "id": 71,
+      "topic": "Labour Market",
+      "difficulty": "medium",
+      "question": "Structural unemployment is caused by:",
+      "options": {
+        "A": "short-term job searching",
+        "B": "seasonal changes in demand",
+        "C": "a mismatch between workers' skills and the skills required by available jobs due to structural economic changes",
+        "D": "general recession"
+      },
+      "correct_answer": "C",
+      "explanation": "Structural unemployment arises from changes in the structure of the economy (technology, shifting industries) that make some workers' skills obsolete, requiring retraining."
+    },
+    {
+      "id": 72,
+      "topic": "Labour Market",
+      "difficulty": "medium",
+      "question": "The minimum wage is an example of a:",
+      "options": {
+        "A": "price ceiling in the labour market",
+        "B": "price floor in the labour market",
+        "C": "equilibrium wage",
+        "D": "market-determined wage"
+      },
+      "correct_answer": "B",
+      "explanation": "A minimum wage is a price floor set above the market equilibrium wage. It ensures workers receive at least a minimum income but may cause unemployment if set too high."
+    },
+    {
+      "id": 73,
+      "topic": "Population",
+      "difficulty": "medium",
+      "question": "The Malthusian theory of population states that:",
+      "options": {
+        "A": "population grows arithmetically while food supply grows geometrically",
+        "B": "population grows geometrically while food supply grows arithmetically, leading to poverty",
+        "C": "population growth always matches food production",
+        "D": "population growth is beneficial to economic development"
+      },
+      "correct_answer": "B",
+      "explanation": "Thomas Malthus argued that population grows geometrically (1,2,4,8...) while food supply grows arithmetically (1,2,3,4...), leading to poverty and misery as population outstrips food."
+    },
+    {
+      "id": 74,
+      "topic": "Population",
+      "difficulty": "medium",
+      "question": "An optimum population is defined as:",
+      "options": {
+        "A": "the largest population a country can sustain",
+        "B": "the smallest possible population",
+        "C": "the population size that maximizes output per head given available resources and technology",
+        "D": "the population at which unemployment is zero"
+      },
+      "correct_answer": "C",
+      "explanation": "Optimum population is the size that, combined with the country's resources and technology, yields the highest output per person (maximum productivity per capita)."
+    },
+    {
+      "id": 75,
+      "topic": "Population",
+      "difficulty": "medium",
+      "question": "Overpopulation means that a country's population:",
+      "options": {
+        "A": "is exactly at the optimum level",
+        "B": "exceeds the optimum, causing output per head to fall if population increases further",
+        "C": "is below the optimum level",
+        "D": "is growing faster than neighbouring countries"
+      },
+      "correct_answer": "B",
+      "explanation": "A country is overpopulated if its population exceeds the optimum — additional population reduces output per head because resources are stretched beyond optimal use."
+    },
+    {
+      "id": 76,
+      "topic": "Population",
+      "difficulty": "medium",
+      "question": "The dependency ratio measures the proportion of:",
+      "options": {
+        "A": "unemployed to employed workers",
+        "B": "non-working dependants (young and old) relative to the working-age population",
+        "C": "rural to urban population",
+        "D": "literate to illiterate population"
+      },
+      "correct_answer": "B",
+      "explanation": "The dependency ratio = (Population under 15 + Population over 65) ÷ Working-age population (15-64). A high ratio means more people depend on each working-age person."
+    },
+    {
+      "id": 77,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "The agricultural sector in Nigeria is important because it:",
+      "options": {
+        "A": "is the only sector that generates foreign exchange",
+        "B": "employs a large proportion of the labour force and provides food and raw materials",
+        "C": "contributes more to GDP than the oil sector",
+        "D": "is fully mechanized and modern"
+      },
+      "correct_answer": "B",
+      "explanation": "Agriculture remains crucial in Nigeria, employing over 70% of the rural labour force, providing food security, supplying raw materials to industry, and generating export earnings."
+    },
+    {
+      "id": 78,
+      "topic": "Poverty",
+      "difficulty": "medium",
+      "question": "Absolute poverty is defined as:",
+      "options": {
+        "A": "being poorer than the average citizen",
+        "B": "lacking the minimum resources necessary to meet basic needs (food, shelter, clothing)",
+        "C": "earning below the national average income",
+        "D": "having less income than one year ago"
+      },
+      "correct_answer": "B",
+      "explanation": "Absolute poverty means lacking sufficient resources to meet basic human needs. The World Bank uses $2.15/day as the international extreme poverty line."
+    },
+    {
+      "id": 79,
+      "topic": "Poverty",
+      "difficulty": "medium",
+      "question": "Relative poverty is defined as:",
+      "options": {
+        "A": "having no income at all",
+        "B": "lacking the minimum to survive",
+        "C": "having significantly less income or resources than the average in a particular society",
+        "D": "being unable to afford luxury goods"
+      },
+      "correct_answer": "C",
+      "explanation": "Relative poverty measures poverty in relation to the living standards in a society — being significantly poorer than the average or median income level."
+    },
+    {
+      "id": 80,
+      "topic": "Economic Planning",
+      "difficulty": "medium",
+      "question": "The Nigerian National Development Plan that was associated with the post-civil war reconstruction period was:",
+      "options": {
+        "A": "First National Development Plan (1962-68)",
+        "B": "Second National Development Plan (1970-74)",
+        "C": "Third National Development Plan (1975-80)",
+        "D": "Fourth National Development Plan (1981-85)"
+      },
+      "correct_answer": "B",
+      "explanation": "The Second National Development Plan (1970-1974) focused on post-civil war reconstruction under Gowon's government, emphasizing unity and infrastructure rebuilding."
+    },
+    {
+      "id": 81,
+      "topic": "Privatization",
+      "difficulty": "medium",
+      "question": "Privatization refers to the process of:",
+      "options": {
+        "A": "government taking over private businesses",
+        "B": "transferring ownership of state enterprises to private individuals or companies",
+        "C": "restricting private sector activities",
+        "D": "nationalizing foreign companies"
+      },
+      "correct_answer": "B",
+      "explanation": "Privatization transfers government-owned enterprises to private ownership, aiming to improve efficiency, reduce government burden, and introduce market competition."
+    },
+    {
+      "id": 82,
+      "topic": "Privatization",
+      "difficulty": "medium",
+      "question": "Nationalization is the process of:",
+      "options": {
+        "A": "selling government assets to private investors",
+        "B": "the government taking ownership and control of private enterprises",
+        "C": "restricting foreign ownership of businesses",
+        "D": "deregulating an industry"
+      },
+      "correct_answer": "B",
+      "explanation": "Nationalization involves government acquisition of private businesses, usually in strategic sectors. It is the opposite of privatization."
+    },
+    {
+      "id": 83,
+      "topic": "Consumer Theory",
+      "difficulty": "medium",
+      "question": "The law of diminishing marginal utility states that:",
+      "options": {
+        "A": "as a consumer buys more of a good, total utility falls",
+        "B": "as more units of a good are consumed, each additional unit gives less additional satisfaction",
+        "C": "utility increases proportionally with consumption",
+        "D": "consumers always prefer more to less of a good"
+      },
+      "correct_answer": "B",
+      "explanation": "Diminishing marginal utility: each successive unit of a good consumed gives less additional satisfaction (utility) than the previous unit."
+    },
+    {
+      "id": 84,
+      "topic": "Consumer Theory",
+      "difficulty": "medium",
+      "question": "A consumer is in equilibrium when:",
+      "options": {
+        "A": "income equals expenditure",
+        "B": "marginal utility per naira spent is equal across all goods consumed",
+        "C": "total utility is at its minimum",
+        "D": "the consumer spends all income on one good"
+      },
+      "correct_answer": "B",
+      "explanation": "Consumer equilibrium (equimarginal principle): utility is maximized when MU of good A/Price A = MU of good B/Price B = ... for all goods purchased."
+    },
+    {
+      "id": 85,
+      "topic": "Wages",
+      "difficulty": "medium",
+      "question": "Real wages differ from nominal wages in that real wages:",
+      "options": {
+        "A": "are always higher than nominal wages",
+        "B": "are adjusted for inflation and represent the actual purchasing power of wages",
+        "C": "include only cash payments",
+        "D": "are set by the government"
+      },
+      "correct_answer": "B",
+      "explanation": "Real wages adjust nominal (money) wages for inflation to show the actual purchasing power. Real wage = Nominal wage ÷ Price index × 100."
+    },
+    {
+      "id": 86,
+      "topic": "Interest",
+      "difficulty": "medium",
+      "question": "The liquidity preference theory of interest, propounded by Keynes, states that the interest rate is determined by:",
+      "options": {
+        "A": "the supply and demand for savings",
+        "B": "the demand for and supply of money",
+        "C": "the central bank's decision alone",
+        "D": "the rate of inflation"
+      },
+      "correct_answer": "B",
+      "explanation": "Keynes' liquidity preference theory: the interest rate is determined by the demand for money (liquidity preference) and the supply of money set by the central bank."
+    },
+    {
+      "id": 87,
+      "topic": "Rent",
+      "difficulty": "medium",
+      "question": "Economic rent is defined as:",
+      "options": {
+        "A": "the payment for using a house or apartment",
+        "B": "the surplus payment to a factor above its transfer earnings (minimum needed to keep it in current use)",
+        "C": "the total payment to landowners",
+        "D": "interest paid on borrowed capital"
+      },
+      "correct_answer": "B",
+      "explanation": "Economic rent is a surplus payment to any factor of production above its opportunity cost (transfer earnings). It was originally applied to land by Ricardo."
+    },
+    {
+      "id": 88,
+      "topic": "Entrepreneurship",
+      "difficulty": "medium",
+      "question": "An entrepreneur is a person who:",
+      "options": {
+        "A": "owns land and earns rent",
+        "B": "organizes the other factors of production, bears risk, and receives profit",
+        "C": "provides labour for wages",
+        "D": "lends money and earns interest"
+      },
+      "correct_answer": "B",
+      "explanation": "An entrepreneur organizes land, labour, and capital in productive activity, bears the financial risk of the business, and receives profit as the reward for risk-taking."
+    },
+    {
+      "id": 89,
+      "topic": "Market Failure",
+      "difficulty": "medium",
+      "question": "A public good is characterized by:",
+      "options": {
+        "A": "high price and limited availability",
+        "B": "non-excludability and non-rivalry in consumption",
+        "C": "being produced only by the government",
+        "D": "very elastic demand"
+      },
+      "correct_answer": "B",
+      "explanation": "Public goods are non-excludable (cannot prevent people from consuming them) and non-rival (one person's consumption doesn't reduce others'). Examples: national defence, street lights."
+    },
+    {
+      "id": 90,
+      "topic": "Market Failure",
+      "difficulty": "medium",
+      "question": "An externality occurs when:",
+      "options": {
+        "A": "a firm earns above-normal profits",
+        "B": "the production or consumption of a good affects third parties not involved in the transaction",
+        "C": "a country imports more than it exports",
+        "D": "the government regulates a market"
+      },
+      "correct_answer": "B",
+      "explanation": "An externality is a cost or benefit imposed on third parties not party to the transaction. Pollution is a negative externality; education benefits are positive externalities."
+    },
+    {
+      "id": 91,
+      "topic": "Market Failure",
+      "difficulty": "medium",
+      "question": "The free rider problem occurs when:",
+      "options": {
+        "A": "consumers pay more than their fair share for goods",
+        "B": "individuals consume a public good without paying for it because they cannot be excluded",
+        "C": "firms free of competition charge high prices",
+        "D": "workers receive wages without working"
+      },
+      "correct_answer": "B",
+      "explanation": "The free rider problem arises with public goods — since people cannot be excluded from using them, individuals have an incentive to consume without paying, leading to underprovision."
+    },
+    {
+      "id": 92,
+      "topic": "Economic Integration",
+      "difficulty": "medium",
+      "question": "A customs union differs from a free trade area in that a customs union also has:",
+      "options": {
+        "A": "free movement of labour",
+        "B": "a common external tariff against non-member countries",
+        "C": "a common currency",
+        "D": "political integration"
+      },
+      "correct_answer": "B",
+      "explanation": "A customs union eliminates tariffs between members AND adopts a common external tariff against non-members. A free trade area only eliminates internal tariffs."
+    },
+    {
+      "id": 93,
+      "topic": "Economic Integration",
+      "difficulty": "medium",
+      "question": "ECOWAS was established primarily to:",
+      "options": {
+        "A": "create a military alliance",
+        "B": "promote economic integration and trade among West African states",
+        "C": "manage foreign aid for West Africa",
+        "D": "create a single currency for West Africa"
+      },
+      "correct_answer": "B",
+      "explanation": "ECOWAS (1975) aims to promote economic cooperation, integration, and development among West African states through free movement of goods, people, and services."
+    },
+    {
+      "id": 94,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "The multiplier effect in economics means that:",
+      "options": {
+        "A": "prices always multiply faster than incomes",
+        "B": "an initial injection of spending leads to a larger final increase in national income",
+        "C": "government debt multiplies over time",
+        "D": "taxes reduce income by a multiple of the tax amount"
+      },
+      "correct_answer": "B",
+      "explanation": "The Keynesian multiplier: an initial increase in spending (injection) leads to a larger overall increase in national income as money circulates through the economy."
+    },
+    {
+      "id": 95,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "The marginal propensity to consume (MPC) is defined as:",
+      "options": {
+        "A": "total consumption divided by total income",
+        "B": "the proportion of additional income that is spent on consumption",
+        "C": "the proportion of income saved",
+        "D": "the rate at which prices increase"
+      },
+      "correct_answer": "B",
+      "explanation": "MPC = ΔC/ΔY — the change in consumption due to a change in income. If MPC = 0.8, 80 kobo of each additional naira of income is spent on consumption."
+    },
+    {
+      "id": 96,
+      "topic": "Capital and Investment",
+      "difficulty": "medium",
+      "question": "Capital formation (investment) in economics refers to:",
+      "options": {
+        "A": "the accumulation of financial wealth",
+        "B": "increases in the stock of productive physical capital (machines, buildings, infrastructure)",
+        "C": "government revenue collection",
+        "D": "savings held in banks"
+      },
+      "correct_answer": "B",
+      "explanation": "Capital formation is the addition to a country's stock of physical capital — factories, machinery, roads, schools. It is essential for long-run economic growth."
+    },
+    {
+      "id": 97,
+      "topic": "Business Organisation",
+      "difficulty": "medium",
+      "question": "A cooperative society is an enterprise owned and operated by:",
+      "options": {
+        "A": "the government",
+        "B": "a single entrepreneur",
+        "C": "members for their mutual benefit",
+        "D": "foreign investors"
+      },
+      "correct_answer": "C",
+      "explanation": "A cooperative is a member-owned organization where members pool resources, work together, and share benefits/surpluses. Examples include consumer cooperatives and agricultural cooperatives."
+    },
+    {
+      "id": 98,
+      "topic": "Business Organisation",
+      "difficulty": "medium",
+      "question": "A sole proprietorship is a business owned and managed by:",
+      "options": {
+        "A": "shareholders",
+        "B": "the government",
+        "C": "a single individual who bears all risks",
+        "D": "a group of partners"
+      },
+      "correct_answer": "C",
+      "explanation": "A sole proprietorship (sole trader) is owned and run by one person who has unlimited liability, keeps all profits, but also bears all losses and debts personally."
+    },
+    {
+      "id": 99,
+      "topic": "Business Organisation",
+      "difficulty": "medium",
+      "question": "Limited liability in a public limited company means that:",
+      "options": {
+        "A": "shareholders can only lose a limited number of shares",
+        "B": "shareholders' liability for company debts is limited to the amount they invested",
+        "C": "the company's profits are limited by law",
+        "D": "only a limited number of shareholders are allowed"
+      },
+      "correct_answer": "B",
+      "explanation": "Limited liability protects shareholders — they can only lose the amount they invested in shares and cannot be required to pay company debts from personal assets."
+    },
+    {
+      "id": 100,
+      "topic": "Business Organisation",
+      "difficulty": "medium",
+      "question": "Economies of scale are reductions in average costs that occur when:",
+      "options": {
+        "A": "a firm reduces its output",
+        "B": "a firm grows larger and produces at higher output levels",
+        "C": "raw material prices fall",
+        "D": "the government subsidizes production"
+      },
+      "correct_answer": "B",
+      "explanation": "Economies of scale are cost advantages that arise as a firm increases its scale of production — e.g., bulk buying discounts, specialization of labour, spreading fixed costs."
+    },
+    {
+      "id": 101,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The Nigerian economy is best classified as:",
+      "options": {
+        "A": "a purely capitalist economy",
+        "B": "a planned command economy",
+        "C": "a mixed economy",
+        "D": "a subsistence economy"
+      },
+      "correct_answer": "C",
+      "explanation": "Nigeria operates a mixed economy where private enterprise exists alongside significant government involvement in key sectors like oil, communications, and utilities."
+    },
+    {
+      "id": 102,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The Nigerian economy is most dependent on which sector for government revenue?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Manufacturing",
+        "C": "Oil and gas",
+        "D": "Tourism"
+      },
+      "correct_answer": "C",
+      "explanation": "Nigeria's government revenue depends heavily on oil and gas receipts (crude oil sales, petroleum profit tax), making the economy vulnerable to oil price fluctuations."
+    },
+    {
+      "id": 103,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The body responsible for petroleum regulation and revenue management in Nigeria is the:",
+      "options": {
+        "A": "Central Bank of Nigeria",
+        "B": "Nigerian Upstream Petroleum Regulatory Commission (NUPRC)",
+        "C": "Federal Inland Revenue Service",
+        "D": "National Planning Commission"
+      },
+      "correct_answer": "B",
+      "explanation": "Following the Petroleum Industry Act (2021), the NUPRC (formerly NNPC functions) regulates the upstream petroleum sector. The NNPC Limited is the national oil company."
+    },
+    {
+      "id": 104,
+      "topic": "Economic Growth",
+      "difficulty": "medium",
+      "question": "Economic growth is measured by changes in:",
+      "options": {
+        "A": "population size",
+        "B": "real GDP (output adjusted for inflation)",
+        "C": "nominal wages",
+        "D": "stock market indices"
+      },
+      "correct_answer": "B",
+      "explanation": "Economic growth is the increase in real GDP (nominal GDP adjusted for inflation) over time. Real GDP growth indicates an actual increase in the economy's output."
+    },
+    {
+      "id": 105,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Price elasticity of supply (PES) measures:",
+      "options": {
+        "A": "how much demand changes when price changes",
+        "B": "how much quantity supplied changes in response to a change in price",
+        "C": "how much supply changes when income changes",
+        "D": "the profit margin of producers"
+      },
+      "correct_answer": "B",
+      "explanation": "PES = % change in quantity supplied ÷ % change in price. It measures the responsiveness of producers to price changes."
+    },
+    {
+      "id": 106,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Which of the following would make supply MORE elastic?",
+      "options": {
+        "A": "A shorter time period for producers to respond",
+        "B": "Goods that are difficult and expensive to store",
+        "C": "Spare production capacity and easily available inputs",
+        "D": "Highly specialized production processes"
+      },
+      "correct_answer": "C",
+      "explanation": "Supply is more elastic when firms can easily increase production — spare capacity, readily available inputs, and simple production processes all increase supply elasticity."
+    },
+    {
+      "id": 107,
+      "topic": "Taxation",
+      "difficulty": "medium",
+      "question": "A proportional tax system is one in which:",
+      "options": {
+        "A": "higher earners pay a higher percentage",
+        "B": "lower earners pay a higher percentage",
+        "C": "all taxpayers pay the same percentage of their income",
+        "D": "taxes decrease with income"
+      },
+      "correct_answer": "C",
+      "explanation": "A proportional (flat) tax charges the same percentage rate to all income levels. For example, a 20% flat income tax — everyone pays 20% regardless of income."
+    },
+    {
+      "id": 108,
+      "topic": "Taxation",
+      "difficulty": "medium",
+      "question": "Which of the following is a direct tax?",
+      "options": {
+        "A": "Value Added Tax (VAT)",
+        "B": "Customs duty",
+        "C": "Personal income tax",
+        "D": "Excise duty"
+      },
+      "correct_answer": "C",
+      "explanation": "Direct taxes are levied directly on income or wealth and cannot be passed to others (e.g., income tax, company tax, capital gains tax). Indirect taxes are on goods/services."
+    },
+    {
+      "id": 109,
+      "topic": "Inflation",
+      "difficulty": "medium",
+      "question": "Hyperinflation refers to:",
+      "options": {
+        "A": "an inflation rate of about 5%",
+        "B": "extremely rapid and out-of-control inflation that erodes the value of money",
+        "C": "negative inflation (deflation)",
+        "D": "inflation in the agricultural sector only"
+      },
+      "correct_answer": "B",
+      "explanation": "Hyperinflation is extremely high and typically accelerating inflation (often defined as >50% per month), causing money to lose value so rapidly that it becomes nearly worthless."
+    },
+    {
+      "id": 110,
+      "topic": "Inflation",
+      "difficulty": "medium",
+      "question": "Deflation refers to:",
+      "options": {
+        "A": "a decrease in the rate of inflation",
+        "B": "a sustained general fall in the price level",
+        "C": "a decrease in government spending",
+        "D": "reduction in money supply only"
+      },
+      "correct_answer": "B",
+      "explanation": "Deflation is a sustained decrease in the general price level (negative inflation rate). While lower prices seem good, deflation can harm the economy by reducing spending and investment."
+    },
+    {
+      "id": 111,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "The stock exchange is a market where:",
+      "options": {
+        "A": "goods and commodities are traded",
+        "B": "previously issued shares and securities are bought and sold",
+        "C": "only government bonds are traded",
+        "D": "currencies are exchanged"
+      },
+      "correct_answer": "B",
+      "explanation": "The stock exchange (e.g., Nigerian Exchange Group — NGX) is a secondary market where existing shares and securities are bought and sold between investors."
+    },
+    {
+      "id": 112,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "A share (equity) is a unit of:",
+      "options": {
+        "A": "debt owed by a company",
+        "B": "ownership in a company",
+        "C": "government debt",
+        "D": "currency"
+      },
+      "correct_answer": "B",
+      "explanation": "A share represents a unit of ownership in a company. Shareholders are part-owners entitled to dividends (share of profits) and voting rights."
+    },
+    {
+      "id": 113,
+      "topic": "Business Finance",
+      "difficulty": "medium",
+      "question": "A debenture is:",
+      "options": {
+        "A": "a share in a company's equity",
+        "B": "a long-term debt instrument issued by a company to raise capital",
+        "C": "a type of insurance policy",
+        "D": "a government grant to businesses"
+      },
+      "correct_answer": "B",
+      "explanation": "A debenture is a long-term fixed-interest loan (debt) issued by a company. Debenture holders are creditors, not owners, and receive fixed interest regardless of profits."
+    },
+    {
+      "id": 114,
+      "topic": "International Economics",
+      "difficulty": "medium",
+      "question": "The International Monetary Fund (IMF) was established to:",
+      "options": {
+        "A": "provide long-term development loans to poor countries",
+        "B": "promote international monetary cooperation and provide short-term balance of payments support",
+        "C": "regulate international trade",
+        "D": "manage a global common currency"
+      },
+      "correct_answer": "B",
+      "explanation": "The IMF (established 1944, Bretton Woods) promotes global monetary cooperation, exchange rate stability, and provides short-term financial assistance to countries with balance of payments difficulties."
+    },
+    {
+      "id": 115,
+      "topic": "International Economics",
+      "difficulty": "medium",
+      "question": "The World Bank was established primarily to:",
+      "options": {
+        "A": "manage international trade disputes",
+        "B": "provide long-term development finance and reduce poverty in developing countries",
+        "C": "set global interest rates",
+        "D": "manage exchange rates"
+      },
+      "correct_answer": "B",
+      "explanation": "The World Bank provides long-term loans and grants to developing countries for infrastructure, education, health, and poverty reduction programs."
+    },
+    {
+      "id": 116,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "In monopolistic competition, firms compete on the basis of:",
+      "options": {
+        "A": "price only",
+        "B": "product differentiation, branding, and non-price competition",
+        "C": "collusion with other firms",
+        "D": "government-set prices"
+      },
+      "correct_answer": "B",
+      "explanation": "Monopolistic competition has many firms selling differentiated products. Firms compete through product differentiation, advertising, quality, and branding rather than price alone."
+    },
+    {
+      "id": 117,
+      "topic": "Market Structures",
+      "difficulty": "medium",
+      "question": "A cartel is an agreement between firms in an oligopoly to:",
+      "options": {
+        "A": "compete aggressively on price",
+        "B": "collude to fix prices and/or output to maximize joint profits",
+        "C": "merge into a single company",
+        "D": "exit the market simultaneously"
+      },
+      "correct_answer": "B",
+      "explanation": "A cartel is a formal agreement among competing firms to coordinate prices and output to reduce competition and increase collective profits. OPEC is a famous example."
+    },
+    {
+      "id": 118,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Disguised unemployment occurs when:",
+      "options": {
+        "A": "workers are employed in well-paid jobs they hate",
+        "B": "more workers are engaged in an activity than are actually needed (zero marginal product)",
+        "C": "workers work part-time but want full-time jobs",
+        "D": "unemployment is hidden in official statistics"
+      },
+      "correct_answer": "B",
+      "explanation": "Disguised (hidden) unemployment occurs when excess workers are employed with zero marginal productivity — removing some would not reduce output. Common in subsistence agriculture."
+    },
+    {
+      "id": 119,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Brain drain refers to:",
+      "options": {
+        "A": "declining educational standards",
+        "B": "the emigration of highly skilled and educated individuals from developing to developed countries",
+        "C": "mental health problems among workers",
+        "D": "decreased investment in education"
+      },
+      "correct_answer": "B",
+      "explanation": "Brain drain is the emigration of qualified, educated, and skilled workers from their home country (usually developing) to other countries (usually developed) for better opportunities."
+    },
+    {
+      "id": 120,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Capital flight refers to:",
+      "options": {
+        "A": "airlines carrying money across borders",
+        "B": "the rapid movement of financial assets out of a country due to economic instability or political uncertainty",
+        "C": "destruction of capital during war",
+        "D": "migration of workers from rural to urban areas"
+      },
+      "correct_answer": "B",
+      "explanation": "Capital flight is the rapid transfer of money and financial assets from one country to others due to political instability, economic uncertainty, currency collapse, or tax avoidance."
+    },
+    {
+      "id": 121,
+      "topic": "Theory of Production",
+      "difficulty": "medium",
+      "question": "In the long run, all costs are:",
+      "options": {
+        "A": "fixed",
+        "B": "variable",
+        "C": "zero",
+        "D": "constant"
+      },
+      "correct_answer": "B",
+      "explanation": "In the long run, all factors of production (and therefore all costs) are variable — firms can adjust all inputs including factory size, equipment, and workforce."
+    },
+    {
+      "id": 122,
+      "topic": "Theory of Production",
+      "difficulty": "medium",
+      "question": "Returns to scale refers to what happens to output when:",
+      "options": {
+        "A": "only labour is increased",
+        "B": "only capital is increased",
+        "C": "all inputs are increased by the same proportion",
+        "D": "fixed costs are reduced"
+      },
+      "correct_answer": "C",
+      "explanation": "Returns to scale describes how output changes when all inputs are increased proportionally. Increasing returns to scale: output rises more than proportionally; decreasing: less than proportionally."
+    },
+    {
+      "id": 123,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "An inferior good is one for which:",
+      "options": {
+        "A": "quality is poor",
+        "B": "demand increases as income rises",
+        "C": "demand decreases as income rises",
+        "D": "price is above equilibrium"
+      },
+      "correct_answer": "C",
+      "explanation": "Inferior goods have negative income elasticity of demand — as income rises, consumers switch to superior alternatives and demand for the inferior good falls."
+    },
+    {
+      "id": 124,
+      "topic": "Revenue",
+      "difficulty": "medium",
+      "question": "Total revenue of a firm is calculated as:",
+      "options": {
+        "A": "Total cost minus total profit",
+        "B": "Price × Quantity sold",
+        "C": "Marginal revenue × Number of units",
+        "D": "Average revenue minus marginal cost"
+      },
+      "correct_answer": "B",
+      "explanation": "Total Revenue (TR) = Price (P) × Quantity sold (Q). Average Revenue (AR) = TR/Q = P. Marginal Revenue (MR) = ΔTR/ΔQ."
+    },
+    {
+      "id": 125,
+      "topic": "Revenue",
+      "difficulty": "medium",
+      "question": "A profit-maximizing firm produces at the output level where:",
+      "options": {
+        "A": "Total Revenue = Total Cost",
+        "B": "Marginal Cost = Marginal Revenue",
+        "C": "Average Cost is minimum",
+        "D": "Total Revenue is maximum"
+      },
+      "correct_answer": "B",
+      "explanation": "Profit maximization occurs where MC = MR. Producing beyond this point (MC > MR) reduces profit; producing less (MC < MR) means profit is not maximized."
+    },
+    {
+      "id": 126,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "The terms of trade measure:",
+      "options": {
+        "A": "the conditions attached to foreign loans",
+        "B": "the ratio of a country's export prices to its import prices",
+        "C": "trade agreements between countries",
+        "D": "the volume of a country's exports"
+      },
+      "correct_answer": "B",
+      "explanation": "Terms of Trade = (Index of export prices ÷ Index of import prices) × 100. Improving terms of trade means exports buy more imports; deteriorating terms mean less."
+    },
+    {
+      "id": 127,
+      "topic": "Economic Development",
+      "difficulty": "medium",
+      "question": "Import substitution industrialization (ISI) is a development strategy that involves:",
+      "options": {
+        "A": "promoting exports of raw materials",
+        "B": "developing domestic industries to replace imported manufactured goods",
+        "C": "attracting foreign investment for export processing",
+        "D": "abolishing all trade barriers"
+      },
+      "correct_answer": "B",
+      "explanation": "ISI is a development strategy that promotes domestic manufacturing to replace imported goods, using protective tariffs and subsidies. Nigeria pursued ISI in the 1960s-70s."
+    },
+    {
+      "id": 128,
+      "topic": "Economic Development",
+      "difficulty": "medium",
+      "question": "The structural adjustment programme (SAP) introduced in Nigeria in 1986 was designed to:",
+      "options": {
+        "A": "increase government ownership of industries",
+        "B": "restructure the economy by removing subsidies, devaluing the currency, and privatizing state enterprises",
+        "C": "increase foreign debt",
+        "D": "expand the public sector"
+      },
+      "correct_answer": "B",
+      "explanation": "Nigeria's SAP (1986, under Babangida) involved: devaluation of the naira, removal of subsidies, trade liberalization, deregulation, and privatization to correct economic imbalances."
+    },
+    {
+      "id": 129,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "Public expenditure refers to government spending on:",
+      "options": {
+        "A": "private sector activities only",
+        "B": "goods, services, and transfer payments for public purposes",
+        "C": "only defence and security",
+        "D": "only infrastructure"
+      },
+      "correct_answer": "B",
+      "explanation": "Public expenditure includes government spending on goods and services (health, education, defence, roads) and transfer payments (pensions, subsidies, debt interest)."
+    },
+    {
+      "id": 130,
+      "topic": "Public Finance",
+      "difficulty": "medium",
+      "question": "National debt is the total amount of money:",
+      "options": {
+        "A": "owed by citizens to banks",
+        "B": "owed by the government (accumulated budget deficits)",
+        "C": "invested in government bonds",
+        "D": "held in the central bank"
+      },
+      "correct_answer": "B",
+      "explanation": "National (public) debt is the total accumulated stock of government debt from past budget deficits. It includes domestic and external borrowings."
+    },
+    {
+      "id": 131,
+      "topic": "Supply",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a determinant of supply?",
+      "options": {
+        "A": "Cost of production inputs",
+        "B": "Number of producers in the market",
+        "C": "Consumer preferences",
+        "D": "Technology"
+      },
+      "correct_answer": "C",
+      "explanation": "Consumer preferences determine demand, not supply. Supply is determined by: production costs, technology, number of sellers, prices of related goods, government policy, and expectations."
+    },
+    {
+      "id": 132,
+      "topic": "Demand",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a determinant of demand?",
+      "options": {
+        "A": "Consumer income",
+        "B": "Price of related goods",
+        "C": "Cost of production",
+        "D": "Tastes and preferences"
+      },
+      "correct_answer": "C",
+      "explanation": "Cost of production is a supply-side factor. Demand determinants include: consumer income, tastes/preferences, price of substitutes/complements, expectations, and population."
+    },
+    {
+      "id": 133,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Stagflation refers to a situation where:",
+      "options": {
+        "A": "economic growth and inflation occur simultaneously",
+        "B": "high inflation and high unemployment (economic stagnation) occur simultaneously",
+        "C": "deflation and economic growth occur simultaneously",
+        "D": "exports and inflation rise together"
+      },
+      "correct_answer": "B",
+      "explanation": "Stagflation is the combination of stagnant economic growth (or recession), high unemployment, and high inflation simultaneously — a challenging policy dilemma."
+    },
+    {
+      "id": 134,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The business cycle (trade cycle) refers to:",
+      "options": {
+        "A": "the annual budget cycle of government",
+        "B": "recurring fluctuations in economic activity (GDP) between expansion and recession",
+        "C": "seasonal changes in agricultural output",
+        "D": "the lifecycle of a business from startup to closure"
+      },
+      "correct_answer": "B",
+      "explanation": "The business (trade) cycle is the fluctuation of economic activity over time, cycling through phases: expansion (boom), peak, contraction (recession), and trough (depression)."
+    },
+    {
+      "id": 135,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Depreciation of capital (in the economic sense) refers to:",
+      "options": {
+        "A": "a fall in the exchange rate",
+        "B": "the wearing out or reduction in value of capital goods over time",
+        "C": "a fall in share prices",
+        "D": "government repayment of debt"
+      },
+      "correct_answer": "B",
+      "explanation": "Capital depreciation is the reduction in value of physical capital (machines, buildings) due to wear and tear or obsolescence. It must be replaced to maintain the capital stock."
+    },
+    {
+      "id": 136,
+      "topic": "National Income",
+      "difficulty": "medium",
+      "question": "Net National Product (NNP) is calculated as:",
+      "options": {
+        "A": "GDP + Depreciation",
+        "B": "GNP – Depreciation (Capital Consumption Allowance)",
+        "C": "GDP – Indirect taxes + Subsidies",
+        "D": "GNP + Net factor income from abroad"
+      },
+      "correct_answer": "B",
+      "explanation": "NNP = GNP – Depreciation. It represents the net output after accounting for the wearing out of capital used in production."
+    },
+    {
+      "id": 137,
+      "topic": "Money Supply",
+      "difficulty": "medium",
+      "question": "The quantity theory of money is expressed as MV = PT, where M is money supply, V is velocity, P is price level, and T is:",
+      "options": {
+        "A": "tax rate",
+        "B": "total transactions/output",
+        "C": "trade balance",
+        "D": "total savings"
+      },
+      "correct_answer": "B",
+      "explanation": "In the Fisher equation MV = PT (or MV = PQ), T/Q represents the volume of transactions or real output. The theory implies that increasing M leads to higher P if V and T are constant."
+    },
+    {
+      "id": 138,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "A natural monopoly arises when:",
+      "options": {
+        "A": "the government grants a single firm exclusive rights",
+        "B": "a single firm can produce for the entire market at lower cost than multiple firms due to large economies of scale",
+        "C": "one firm controls all natural resources",
+        "D": "patents give a firm exclusive rights"
+      },
+      "correct_answer": "B",
+      "explanation": "A natural monopoly exists where the most efficient structure is a single supplier due to very high fixed costs and economies of scale (e.g., water distribution, electricity transmission)."
+    },
+    {
+      "id": 139,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The Gini coefficient measures:",
+      "options": {
+        "A": "the rate of economic growth",
+        "B": "income inequality within a country",
+        "C": "the level of poverty",
+        "D": "the balance of trade"
+      },
+      "correct_answer": "B",
+      "explanation": "The Gini coefficient ranges from 0 (perfect equality) to 1 (perfect inequality). It is the most common measure of income or wealth distribution inequality."
+    },
+    {
+      "id": 140,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The Lorenz curve is used to illustrate:",
+      "options": {
+        "A": "the relationship between price and quantity demanded",
+        "B": "the distribution of income or wealth in a population",
+        "C": "the production possibilities of an economy",
+        "D": "the rate of economic growth"
+      },
+      "correct_answer": "B",
+      "explanation": "The Lorenz curve plots the cumulative share of income against the cumulative share of population. The farther the curve from the 45° line of equality, the greater the inequality."
+    },
+    {
+      "id": 141,
+      "topic": "Labour Market",
+      "difficulty": "medium",
+      "question": "Cyclical (demand-deficient) unemployment occurs during:",
+      "options": {
+        "A": "periods of economic boom",
+        "B": "economic recessions when aggregate demand falls",
+        "C": "technological change",
+        "D": "seasonal fluctuations"
+      },
+      "correct_answer": "B",
+      "explanation": "Cyclical (Keynesian) unemployment occurs during economic downturns — falling aggregate demand leads firms to reduce output and lay off workers."
+    },
+    {
+      "id": 142,
+      "topic": "Fiscal Policy",
+      "difficulty": "medium",
+      "question": "Expansionary fiscal policy involves:",
+      "options": {
+        "A": "increasing taxes and reducing government spending",
+        "B": "increasing government spending and/or reducing taxes to stimulate the economy",
+        "C": "raising interest rates",
+        "D": "reducing money supply"
+      },
+      "correct_answer": "B",
+      "explanation": "Expansionary fiscal policy stimulates aggregate demand by increasing government spending and/or cutting taxes, typically used during recessions."
+    },
+    {
+      "id": 143,
+      "topic": "Fiscal Policy",
+      "difficulty": "medium",
+      "question": "Contractionary fiscal policy involves:",
+      "options": {
+        "A": "increasing government spending and cutting taxes",
+        "B": "cutting government spending and/or raising taxes to reduce aggregate demand",
+        "C": "printing more money",
+        "D": "lowering interest rates"
+      },
+      "correct_answer": "B",
+      "explanation": "Contractionary (tight) fiscal policy reduces aggregate demand by cutting government spending and/or raising taxes, typically used to combat inflation."
+    },
+    {
+      "id": 144,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "A subsidy is:",
+      "options": {
+        "A": "a tax on goods",
+        "B": "a payment by the government to producers to reduce production costs and encourage supply",
+        "C": "a trade restriction",
+        "D": "a form of income tax"
+      },
+      "correct_answer": "B",
+      "explanation": "A subsidy is government financial assistance to producers, reducing their costs and encouraging them to increase supply or lower prices for consumers."
+    },
+    {
+      "id": 145,
+      "topic": "Capital Market",
+      "difficulty": "medium",
+      "question": "The primary market in the capital market is where:",
+      "options": {
+        "A": "existing shares are traded between investors",
+        "B": "new securities are sold by companies directly to investors for the first time (IPOs)",
+        "C": "currencies are exchanged",
+        "D": "government bonds are auctioned"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary market is where new securities (shares, bonds) are issued and sold for the first time through Initial Public Offerings (IPOs) or rights issues. The secondary market is for trading existing securities."
+    },
+    {
+      "id": 146,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Division of labour refers to:",
+      "options": {
+        "A": "splitting work between men and women",
+        "B": "the specialization of workers in performing specific tasks in the production process",
+        "C": "dividing wages among workers",
+        "D": "the distribution of work between sectors"
+      },
+      "correct_answer": "B",
+      "explanation": "Division of labour is the specialization of workers in specific tasks within the production process. Adam Smith showed it greatly increases productivity and efficiency."
+    },
+    {
+      "id": 147,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Specialization in economics means:",
+      "options": {
+        "A": "producing all goods domestically",
+        "B": "concentrating on producing goods and services in which one has a comparative or absolute advantage",
+        "C": "only producing luxury goods",
+        "D": "restricting production to one factory"
+      },
+      "correct_answer": "B",
+      "explanation": "Specialization means concentrating resources on producing goods/services where one is most efficient or has comparative advantage, then trading for other needed goods."
+    },
+    {
+      "id": 148,
+      "topic": "Market Failure",
+      "difficulty": "medium",
+      "question": "Information asymmetry is a form of market failure that occurs when:",
+      "options": {
+        "A": "some market participants have more or better information than others",
+        "B": "prices are set by the government",
+        "C": "there are too many buyers in the market",
+        "D": "markets are too large to regulate"
+      },
+      "correct_answer": "A",
+      "explanation": "Information asymmetry occurs when one party in a transaction has more or better information than the other (e.g., used car sellers knowing more than buyers), leading to market inefficiency."
+    },
+    {
+      "id": 149,
+      "topic": "Economic Growth",
+      "difficulty": "medium",
+      "question": "Supply-side economic policies aim to:",
+      "options": {
+        "A": "increase government spending to boost demand",
+        "B": "improve the productive capacity and efficiency of the economy",
+        "C": "raise taxes on high incomes",
+        "D": "expand money supply"
+      },
+      "correct_answer": "B",
+      "explanation": "Supply-side policies aim to increase the productive potential of the economy by improving efficiency, incentives, and resource allocation (e.g., deregulation, tax cuts, education investment)."
+    },
+    {
+      "id": 150,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "Barter is a system of exchange in which:",
+      "options": {
+        "A": "goods are exchanged using money",
+        "B": "goods and services are directly exchanged for other goods and services without money",
+        "C": "credit cards are used for purchases",
+        "D": "government distributes goods to citizens"
+      },
+      "correct_answer": "B",
+      "explanation": "Barter is the direct exchange of goods and services for other goods and services without the use of money. It requires a 'double coincidence of wants' and is inefficient."
+    },
+    {
+      "id": 151,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "The 'invisible hand' concept, introduced by Adam Smith, refers to:",
+      "options": {
+        "A": "government intervention in the economy",
+        "B": "the self-regulating nature of the market where price signals coordinate economic activity",
+        "C": "monopoly control of prices",
+        "D": "international trade agreements"
+      },
+      "correct_answer": "B",
+      "explanation": "Adam Smith's 'invisible hand' suggests that self-interested individuals pursuing their own goals unintentionally promote the economic good of society through the price mechanism."
+    },
+    {
+      "id": 152,
+      "topic": "Factor Markets",
+      "difficulty": "medium",
+      "question": "Transfer earnings (opportunity cost of a factor) is the minimum payment needed to:",
+      "options": {
+        "A": "produce goods at lowest cost",
+        "B": "keep a factor of production in its current use (its next best alternative payment)",
+        "C": "attract new workers to an industry",
+        "D": "ensure firms remain profitable"
+      },
+      "correct_answer": "B",
+      "explanation": "Transfer earnings is the minimum payment a factor must receive to keep it in its current use — equivalent to its opportunity cost (what it could earn in its next best use)."
+    },
+    {
+      "id": 153,
+      "topic": "Business Organisation",
+      "difficulty": "medium",
+      "question": "A public corporation in Nigeria is an enterprise that is:",
+      "options": {
+        "A": "owned by shareholders on the stock exchange",
+        "B": "wholly owned and controlled by the government but operates as a separate legal entity",
+        "C": "owned jointly by government and private investors",
+        "D": "managed by foreign investors"
+      },
+      "correct_answer": "B",
+      "explanation": "Public corporations are wholly government-owned enterprises (parastatals) that operate as separate legal entities. Examples in Nigeria include NNPC, NEPA (now PHCN), and NRC."
+    },
+    {
+      "id": 154,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Economic efficiency means producing goods and services:",
+      "options": {
+        "A": "at the maximum possible cost",
+        "B": "at the lowest possible opportunity cost, getting maximum output from given resources",
+        "C": "only for the wealthy segment of society",
+        "D": "without considering costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Economic efficiency means getting the maximum output from available resources (productive efficiency) and producing the combination of goods most valued by society (allocative efficiency)."
+    },
+    {
+      "id": 155,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "Dumping in international trade refers to:",
+      "options": {
+        "A": "disposing of waste goods in foreign countries",
+        "B": "selling goods in foreign markets at prices below cost of production or home market price",
+        "C": "excessive exports of raw materials",
+        "D": "refusing to import certain goods"
+      },
+      "correct_answer": "B",
+      "explanation": "Dumping is when a firm sells products in a foreign market below the cost of production or below the domestic price, often to drive out competitors. WTO rules prohibit harmful dumping."
+    },
+    {
+      "id": 156,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "An embargo is a trade restriction that:",
+      "options": {
+        "A": "limits the quantity of imports",
+        "B": "taxes all imports",
+        "C": "completely bans trade with a particular country or in particular goods",
+        "D": "subsidizes domestic producers"
+      },
+      "correct_answer": "C",
+      "explanation": "An embargo is a complete ban on trade with a specific country or on specific goods. It is the most severe form of trade restriction (e.g., US embargo on Cuba)."
+    },
+    {
+      "id": 157,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "The lender of last resort function of the central bank means that:",
+      "options": {
+        "A": "the central bank lends to individuals when other banks refuse",
+        "B": "the central bank provides emergency liquidity to banks facing financial difficulties",
+        "C": "the central bank is the last bank to close down",
+        "D": "the central bank only lends to the government"
+      },
+      "correct_answer": "B",
+      "explanation": "As lender of last resort, the central bank provides emergency loans to solvent but illiquid commercial banks to prevent bank runs and financial system collapse."
+    },
+    {
+      "id": 158,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Sustainable development is defined as development that:",
+      "options": {
+        "A": "focuses only on economic growth",
+        "B": "meets present needs without compromising future generations' ability to meet their own needs",
+        "C": "maintains current levels of inequality",
+        "D": "depends entirely on foreign aid"
+      },
+      "correct_answer": "B",
+      "explanation": "Sustainable development (Brundtland Report, 1987) is development that meets the needs of the present without compromising the ability of future generations to meet their needs."
+    },
+    {
+      "id": 159,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Price elasticity of demand is unitary (PED = 1) when:",
+      "options": {
+        "A": "demand does not respond to price changes",
+        "B": "a percentage change in price causes an equal percentage change in quantity demanded",
+        "C": "the demand curve is vertical",
+        "D": "quantity demanded is always constant"
+      },
+      "correct_answer": "B",
+      "explanation": "Unitary elasticity (PED = 1) means a 1% change in price leads to exactly a 1% change in quantity demanded. Total revenue remains constant when price changes."
+    },
+    {
+      "id": 160,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "Which of the following is a cash crop grown mainly for export in Nigeria?",
+      "options": {
+        "A": "Cassava",
+        "B": "Maize",
+        "C": "Cocoa",
+        "D": "Yam"
+      },
+      "correct_answer": "C",
+      "explanation": "Cocoa is Nigeria's major traditional export cash crop, grown mainly in southwestern states. Nigeria was once the world's largest cocoa producer."
+    },
+    {
+      "id": 161,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Goods with perfectly inelastic demand have a demand curve that is:",
+      "options": {
+        "A": "horizontal",
+        "B": "vertical",
+        "C": "downward sloping",
+        "D": "upward sloping"
+      },
+      "correct_answer": "B",
+      "explanation": "Perfectly inelastic demand (PED = 0) shows a vertical demand curve — quantity demanded does not change regardless of price. This is theoretical; very few real goods have perfectly inelastic demand."
+    },
+    {
+      "id": 162,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "Consumer surplus is the difference between:",
+      "options": {
+        "A": "price paid and cost of production",
+        "B": "the maximum a consumer is willing to pay and the actual market price paid",
+        "C": "total revenue and total cost",
+        "D": "the market price and the minimum a producer needs"
+      },
+      "correct_answer": "B",
+      "explanation": "Consumer surplus = Maximum Willingness to Pay – Actual Price Paid. It represents the benefit consumers receive by paying less than they were willing to pay."
+    },
+    {
+      "id": 163,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "Producer surplus is the difference between:",
+      "options": {
+        "A": "total revenue and total cost of production",
+        "B": "the market price received and the minimum price a producer is willing to accept",
+        "C": "consumer surplus and total revenue",
+        "D": "export price and domestic price"
+      },
+      "correct_answer": "B",
+      "explanation": "Producer surplus = Market Price Received – Minimum Supply Price (cost). It represents the benefit producers get by selling above their minimum acceptable price."
+    },
+    {
+      "id": 164,
+      "topic": "International Economics",
+      "difficulty": "medium",
+      "question": "Devaluation of a currency differs from depreciation in that devaluation is:",
+      "options": {
+        "A": "a market-determined fall in exchange rate",
+        "B": "a deliberate government/central bank decision to lower the fixed exchange rate",
+        "C": "caused by inflation",
+        "D": "a natural market process"
+      },
+      "correct_answer": "B",
+      "explanation": "Devaluation is an intentional downward adjustment of a fixed exchange rate by the government/central bank. Depreciation is a market-driven fall in a floating exchange rate."
+    },
+    {
+      "id": 165,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Positive economics deals with:",
+      "options": {
+        "A": "what ought to be in the economy (value judgments)",
+        "B": "objective analysis of what is, was, or will be in the economy (factual statements)",
+        "C": "only beneficial economic policies",
+        "D": "economic growth strategies"
+      },
+      "correct_answer": "B",
+      "explanation": "Positive economics deals with objective, factual statements (can be tested/verified). Normative economics involves value judgments about what should be."
+    },
+    {
+      "id": 166,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Normative economics deals with:",
+      "options": {
+        "A": "factual, objective statements about the economy",
+        "B": "value judgments and opinions about what economic policies should be",
+        "C": "the normal functioning of markets",
+        "D": "standard economic models"
+      },
+      "correct_answer": "B",
+      "explanation": "Normative economics involves value judgments (what ought to be), opinions, and recommendations about economic policy (e.g., 'taxes on the rich should be higher')."
+    },
+    {
+      "id": 167,
+      "topic": "Money and Banking",
+      "difficulty": "medium",
+      "question": "The money multiplier is calculated as:",
+      "options": {
+        "A": "1 ÷ Cash Reserve Ratio",
+        "B": "Money Supply × Interest Rate",
+        "C": "GDP ÷ Money Supply",
+        "D": "Total Deposits × Reserve Ratio"
+      },
+      "correct_answer": "A",
+      "explanation": "Money Multiplier = 1 ÷ Reserve Ratio (CRR). If the CRR is 10% (0.1), the multiplier is 10 — an initial deposit of ₦1,000 can create up to ₦10,000 in total money supply."
+    },
+    {
+      "id": 168,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The paradox of thrift (Keynes) states that:",
+      "options": {
+        "A": "saving always benefits the economy",
+        "B": "if everyone saves more simultaneously, total savings may actually fall as national income decreases",
+        "C": "thrift leads to higher investment",
+        "D": "saving and investment are unrelated"
+      },
+      "correct_answer": "B",
+      "explanation": "The paradox of thrift: if all individuals try to save more, aggregate demand falls, causing recession and lower national income — so total savings may actually decrease."
+    },
+    {
+      "id": 169,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Say's Law in classical economics states that:",
+      "options": {
+        "A": "supply always creates its own demand",
+        "B": "demand always creates its own supply",
+        "C": "prices adjust slowly in the short run",
+        "D": "government must always intervene to maintain full employment"
+      },
+      "correct_answer": "A",
+      "explanation": "Say's Law (J.B. Say): 'Supply creates its own demand' — the act of production generates income which is then spent on goods produced, so general overproduction is impossible."
+    },
+    {
+      "id": 170,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The circular flow of income in a two-sector economy shows:",
+      "options": {
+        "A": "money flowing from firms to government in taxes",
+        "B": "households providing factor services to firms and receiving income; firms selling goods to households",
+        "C": "exports and imports balancing",
+        "D": "banks lending money to firms"
+      },
+      "correct_answer": "B",
+      "explanation": "In a two-sector circular flow, households supply factors of production (labour, capital) to firms and receive income (wages, rent, interest, profit); firms sell goods to households."
+    },
+    {
+      "id": 171,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The Federal Inland Revenue Service (FIRS) in Nigeria is responsible for:",
+      "options": {
+        "A": "managing foreign exchange",
+        "B": "collecting federal taxes such as company income tax and VAT",
+        "C": "issuing currency",
+        "D": "regulating banks"
+      },
+      "correct_answer": "B",
+      "explanation": "The FIRS collects federal-level taxes in Nigeria, including company income tax, capital gains tax, VAT, petroleum profit tax, and withholding tax."
+    },
+    {
+      "id": 172,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The concept of ceteris paribus means:",
+      "options": {
+        "A": "all other things being variable",
+        "B": "all other things remaining constant (equal)",
+        "C": "at the same time",
+        "D": "after the event"
+      },
+      "correct_answer": "B",
+      "explanation": "Ceteris paribus (Latin: 'all other things being equal') is an assumption economists use to isolate the effect of one variable while holding all others constant."
+    },
+    {
+      "id": 173,
+      "topic": "Agricultural Economics",
+      "difficulty": "medium",
+      "question": "The Green Revolution refers to:",
+      "options": {
+        "A": "environmental conservation programs",
+        "B": "the transformation of agriculture through improved seed varieties, fertilizers, and irrigation that greatly increased food production",
+        "C": "organic farming methods",
+        "D": "the replacement of forests with farmland"
+      },
+      "correct_answer": "B",
+      "explanation": "The Green Revolution (1960s-70s) was a period of agricultural innovation involving high-yield crop varieties, fertilizers, pesticides, and irrigation that dramatically increased food production in developing countries."
+    },
+    {
+      "id": 174,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following is a withdrawal (leakage) from the circular flow of income?",
+      "options": {
+        "A": "Government spending",
+        "B": "Investment by firms",
+        "C": "Exports",
+        "D": "Savings by households"
+      },
+      "correct_answer": "D",
+      "explanation": "Withdrawals (leakages) from the circular flow are: Savings (S), Taxes (T), and Imports (M). Injections are: Investment (I), Government Spending (G), and Exports (X)."
+    },
+    {
+      "id": 175,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following is an injection into the circular flow of income?",
+      "options": {
+        "A": "Savings",
+        "B": "Taxes",
+        "C": "Imports",
+        "D": "Exports"
+      },
+      "correct_answer": "D",
+      "explanation": "Injections add money into the circular flow: Investment (I), Government Spending (G), and Exports (X). Withdrawals remove money: Savings (S), Taxes (T), Imports (M)."
+    },
+    {
+      "id": 176,
+      "topic": "Economic Growth",
+      "difficulty": "medium",
+      "question": "Human capital refers to:",
+      "options": {
+        "A": "the physical infrastructure of a country",
+        "B": "the knowledge, skills, and health embodied in the workforce",
+        "C": "financial capital raised through share issuance",
+        "D": "the number of people in a country"
+      },
+      "correct_answer": "B",
+      "explanation": "Human capital is the accumulated knowledge, skills, experience, and health of the labour force, developed through education, training, and healthcare. It is a key driver of economic growth."
+    },
+    {
+      "id": 177,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "The dual economy theory in development economics describes:",
+      "options": {
+        "A": "economies with two currencies",
+        "B": "the coexistence of a modern, high-productivity sector alongside a traditional, low-productivity sector",
+        "C": "countries with exactly two main industries",
+        "D": "public and private sectors operating simultaneously"
+      },
+      "correct_answer": "B",
+      "explanation": "The dual economy (Lewis model) describes the coexistence of a modern industrial sector (with high wages, technology) and a traditional subsistence sector in many developing countries."
+    },
+    {
+      "id": 178,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Economies of scale in production arise when:",
+      "options": {
+        "A": "average costs rise as output increases",
+        "B": "average costs fall as output and the scale of production increases",
+        "C": "marginal costs rise with output",
+        "D": "fixed costs increase"
+      },
+      "correct_answer": "B",
+      "explanation": "Economies of scale occur when long-run average costs decrease as output increases, due to factors like bulk buying, specialization of labour, and spreading fixed costs."
+    },
+    {
+      "id": 179,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The Nigerian sovereign wealth fund (NSWF) was established to:",
+      "options": {
+        "A": "lend money to Nigerian citizens",
+        "B": "save oil revenues for future generations and stabilize the economy",
+        "C": "fund political campaigns",
+        "D": "pay Nigeria's foreign debt"
+      },
+      "correct_answer": "B",
+      "explanation": "The Nigeria Sovereign Investment Authority (NSIA) manages the sovereign wealth fund, with mandates to: save for future generations, stabilize the economy during oil price shocks, and invest in infrastructure."
+    },
+    {
+      "id": 180,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The Phillips curve illustrates the relationship between:",
+      "options": {
+        "A": "price level and quantity of money",
+        "B": "unemployment rate and inflation rate",
+        "C": "exports and imports",
+        "D": "investment and savings"
+      },
+      "correct_answer": "B",
+      "explanation": "The Phillips curve shows an inverse relationship between unemployment and inflation — lower unemployment is associated with higher inflation and vice versa (trade-off)."
+    },
+    {
+      "id": 181,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Gross investment differs from net investment in that gross investment:",
+      "options": {
+        "A": "excludes replacement investment",
+        "B": "includes both replacement of depreciated capital and additions to the capital stock",
+        "C": "is always smaller than net investment",
+        "D": "only measures spending on new machinery"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross Investment = Net Investment + Depreciation. Net Investment is the actual addition to the capital stock (gross investment minus depreciation/replacement of worn-out capital)."
+    },
+    {
+      "id": 182,
+      "topic": "Banking",
+      "difficulty": "medium",
+      "question": "A commercial bank's primary source of profit is:",
+      "options": {
+        "A": "printing money",
+        "B": "the interest spread (charging higher interest on loans than it pays on deposits)",
+        "C": "collecting taxes",
+        "D": "issuing government bonds"
+      },
+      "correct_answer": "B",
+      "explanation": "Commercial banks profit mainly from the interest rate spread — borrowing at lower rates (from depositors) and lending at higher rates. The difference is their profit margin."
+    },
+    {
+      "id": 183,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Negative externalities (social costs) exist when:",
+      "options": {
+        "A": "a firm's costs are fully borne by itself",
+        "B": "production or consumption imposes costs on third parties that are not compensated",
+        "C": "government fails to collect taxes efficiently",
+        "D": "markets are perfectly competitive"
+      },
+      "correct_answer": "B",
+      "explanation": "Negative externalities occur when production/consumption harms third parties who are not compensated (e.g., factory pollution harming nearby residents). Social cost > private cost."
+    },
+    {
+      "id": 184,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The Keynesian theory holds that during a recession, the government should:",
+      "options": {
+        "A": "cut spending and raise taxes to balance the budget",
+        "B": "increase spending and/or reduce taxes to stimulate aggregate demand",
+        "C": "raise interest rates to control inflation",
+        "D": "reduce money supply"
+      },
+      "correct_answer": "B",
+      "explanation": "Keynes argued that during recessions, the government should use expansionary fiscal policy (spend more, tax less) to boost aggregate demand and return the economy to full employment."
+    },
+    {
+      "id": 185,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "The World Trade Organization (WTO) was established to:",
+      "options": {
+        "A": "provide development loans",
+        "B": "promote free trade by reducing trade barriers and resolving trade disputes",
+        "C": "set global commodity prices",
+        "D": "manage exchange rates"
+      },
+      "correct_answer": "B",
+      "explanation": "The WTO (established 1995, replacing GATT) promotes free and fair international trade, provides a forum for trade negotiations, and resolves trade disputes between member countries."
+    },
+    {
+      "id": 186,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The Real Business Cycle (RBC) theory attributes economic fluctuations to:",
+      "options": {
+        "A": "changes in aggregate demand",
+        "B": "technology shocks and real (supply-side) disturbances",
+        "C": "government policy mistakes",
+        "D": "changes in money supply"
+      },
+      "correct_answer": "B",
+      "explanation": "RBC theory attributes economic cycles to real supply-side factors (technological shocks, productivity changes) rather than demand-side or monetary factors."
+    },
+    {
+      "id": 187,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Market equilibrium is 'stable' when:",
+      "options": {
+        "A": "prices never change",
+        "B": "any deviation from equilibrium triggers market forces that return price to equilibrium",
+        "C": "the government fixes the price",
+        "D": "supply and demand are both perfectly inelastic"
+      },
+      "correct_answer": "B",
+      "explanation": "A stable equilibrium is one where automatic market forces (price changes causing supply/demand adjustments) return the market to equilibrium after a disturbance."
+    },
+    {
+      "id": 188,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The Economic Recovery and Growth Plan (ERGP) was a Nigerian government plan introduced in:",
+      "options": {
+        "A": "1999",
+        "B": "2007",
+        "C": "2017",
+        "D": "2020"
+      },
+      "correct_answer": "C",
+      "explanation": "The ERGP (2017-2020) was introduced by the Buhari administration to pull Nigeria out of the 2016 recession, focusing on economic diversification, infrastructure, and oil sector recovery."
+    },
+    {
+      "id": 189,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Capital goods (producer goods) are:",
+      "options": {
+        "A": "goods bought by consumers for personal use",
+        "B": "goods used in the production of other goods and services",
+        "C": "goods that are imported from other countries",
+        "D": "only goods produced by the government"
+      },
+      "correct_answer": "B",
+      "explanation": "Capital goods (producer goods) are used in production rather than consumed directly — machines, equipment, buildings, and tools used to produce other goods and services."
+    },
+    {
+      "id": 190,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Microfinance institutions primarily serve:",
+      "options": {
+        "A": "large multinational corporations",
+        "B": "low-income individuals and small businesses excluded from formal banking",
+        "C": "government agencies",
+        "D": "only agricultural cooperatives"
+      },
+      "correct_answer": "B",
+      "explanation": "Microfinance provides small loans, savings, and financial services to low-income individuals and micro-enterprises that lack access to traditional banking."
+    },
+    {
+      "id": 191,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Asymmetric information in insurance markets leads to the problem of:",
+      "options": {
+        "A": "perfect competition",
+        "B": "moral hazard and adverse selection",
+        "C": "lower premiums for all",
+        "D": "market efficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "Adverse selection (high-risk individuals more likely to seek insurance) and moral hazard (insured people taking more risks) are problems caused by asymmetric information in insurance markets."
+    },
+    {
+      "id": 192,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Which of the following best describes an oligopsony?",
+      "options": {
+        "A": "A market with few sellers",
+        "B": "A market with few buyers",
+        "C": "A market with one buyer",
+        "D": "A market with many buyers and sellers"
+      },
+      "correct_answer": "B",
+      "explanation": "An oligopsony is a market dominated by a few buyers (e.g., few supermarkets buying from many farmers). A monopsony has one buyer. These are the buyer-side equivalents of oligopoly and monopoly."
+    },
+    {
+      "id": 193,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The concept of revealed preference (Samuelson) suggests that:",
+      "options": {
+        "A": "consumers always reveal their preferences verbally",
+        "B": "consumers' actual purchasing choices reveal their true preferences",
+        "C": "preferences are revealed by income level",
+        "D": "firms reveal preferences through production decisions"
+      },
+      "correct_answer": "B",
+      "explanation": "Revealed preference theory holds that consumer preferences can be determined by observing their actual choices (what they buy) rather than asking them what they prefer."
+    },
+    {
+      "id": 194,
+      "topic": "Nigerian Economy",
+      "difficulty": "medium",
+      "question": "The development finance institution established to provide long-term funds to Nigerian industries is the:",
+      "options": {
+        "A": "Central Bank of Nigeria",
+        "B": "Bank of Industry (BOI)",
+        "C": "Federal Mortgage Bank",
+        "D": "FIRS"
+      },
+      "correct_answer": "B",
+      "explanation": "The Bank of Industry (BOI) is Nigeria's leading development finance institution, providing long-term loans to micro, small, and medium enterprises and industrial projects."
+    },
+    {
+      "id": 195,
+      "topic": "Costs of Production",
+      "difficulty": "medium",
+      "question": "When a firm's average total cost is at its minimum, the marginal cost curve passes through it. This is because:",
+      "options": {
+        "A": "fixed costs are fully paid off",
+        "B": "when MC is below ATC, ATC is falling; when MC is above ATC, ATC is rising",
+        "C": "variable costs become zero at minimum ATC",
+        "D": "the firm is maximizing profit at this point"
+      },
+      "correct_answer": "B",
+      "explanation": "MC always intersects ATC at its minimum point — when MC < ATC, ATC is pulled down; when MC > ATC, ATC is pulled up. At minimum ATC, MC = ATC."
+    },
+    {
+      "id": 196,
+      "topic": "International Trade",
+      "difficulty": "medium",
+      "question": "A favourable balance of trade (trade surplus) exists when a country's:",
+      "options": {
+        "A": "imports exceed exports",
+        "B": "exports exceed imports",
+        "C": "government budget is in surplus",
+        "D": "GDP is growing"
+      },
+      "correct_answer": "B",
+      "explanation": "A trade surplus (favourable balance) occurs when the value of exports exceeds the value of imports. A trade deficit (unfavourable balance) is when imports exceed exports."
+    },
+    {
+      "id": 197,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "Marginal propensity to save (MPS) is related to MPC by the equation:",
+      "options": {
+        "A": "MPS = 1 + MPC",
+        "B": "MPS + MPC = 1",
+        "C": "MPS = MPC - 1",
+        "D": "MPS × MPC = 1"
+      },
+      "correct_answer": "B",
+      "explanation": "Since any additional income is either consumed or saved: MPC + MPS = 1. If MPC = 0.75 (75% spent), then MPS = 0.25 (25% saved)."
+    },
+    {
+      "id": 198,
+      "topic": "Price Mechanism",
+      "difficulty": "medium",
+      "question": "When supply increases (shifts right) while demand remains constant, the equilibrium price:",
+      "options": {
+        "A": "rises",
+        "B": "falls",
+        "C": "remains unchanged",
+        "D": "becomes indeterminate"
+      },
+      "correct_answer": "B",
+      "explanation": "An increase in supply with constant demand creates excess supply at the old price. Competition among sellers drives the price down to a new lower equilibrium."
+    },
+    {
+      "id": 199,
+      "topic": "Economic Concepts",
+      "difficulty": "medium",
+      "question": "The accelerator theory in economics states that:",
+      "options": {
+        "A": "investment depends on the level of national income",
+        "B": "investment depends on changes (growth rate) in national income/output",
+        "C": "consumption accelerates as income rises",
+        "D": "government spending multiplies national income"
+      },
+      "correct_answer": "B",
+      "explanation": "The accelerator principle: investment depends on the rate of change of output/income, not its level. Firms invest to expand capacity when output is growing."
+    },
+    {
+      "id": 200,
+      "topic": "Development Economics",
+      "difficulty": "medium",
+      "question": "Foreign aid (Official Development Assistance) refers to:",
+      "options": {
+        "A": "private investment in developing countries",
+        "B": "concessional financial transfers from developed to developing countries for development purposes",
+        "C": "trade loans between countries",
+        "D": "remittances from diaspora"
+      },
+      "correct_answer": "B",
+      "explanation": "Foreign aid (ODA) consists of grants or concessional loans (below market interest rates) provided by governments of developed countries or international organizations to developing countries for development."
+    }
+  ]
+}

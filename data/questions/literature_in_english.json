@@ -1,0 +1,2806 @@
+{
+  "subject": "Literature in English",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A story in which characters and events represent abstract ideas or moral qualities is called:",
+      "options": {
+        "A": "A fable",
+        "B": "An allegory",
+        "C": "A parable",
+        "D": "A myth"
+      },
+      "correct_answer": "B",
+      "explanation": "An allegory is a narrative in which characters, settings, and events stand for abstract ideas or moral qualities beyond the literal meaning."
+    },
+    {
+      "id": 2,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The repetition of the same consonant sound at the beginning of closely connected words is called:",
+      "options": {
+        "A": "Assonance",
+        "B": "Alliteration",
+        "C": "Onomatopoeia",
+        "D": "Rhyme"
+      },
+      "correct_answer": "B",
+      "explanation": "Alliteration is the repetition of the same initial consonant sound in closely placed words, e.g., 'Peter Piper picked a peck.'"
+    },
+    {
+      "id": 3,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A brief story that illustrates a moral lesson is called:",
+      "options": {
+        "A": "An allegory",
+        "B": "A fable",
+        "C": "An epic",
+        "D": "A ballad"
+      },
+      "correct_answer": "B",
+      "explanation": "A fable is a short story with a moral lesson, typically featuring animals as characters. Aesop's fables are classic examples."
+    },
+    {
+      "id": 4,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The main character in a literary work is referred to as the:",
+      "options": {
+        "A": "Antagonist",
+        "B": "Narrator",
+        "C": "Protagonist",
+        "D": "Foil"
+      },
+      "correct_answer": "C",
+      "explanation": "The protagonist is the main character around whom the story revolves. The antagonist is the opposing force or character."
+    },
+    {
+      "id": 5,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A speech delivered by a character alone on stage, revealing their inner thoughts, is called:",
+      "options": {
+        "A": "An aside",
+        "B": "A dialogue",
+        "C": "A monologue",
+        "D": "A soliloquy"
+      },
+      "correct_answer": "D",
+      "explanation": "A soliloquy is a speech made by a character alone on stage (or as if alone) that reveals their private thoughts and feelings."
+    },
+    {
+      "id": 6,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The term 'catharsis' in drama refers to:",
+      "options": {
+        "A": "The climax of the plot",
+        "B": "The emotional purging or release experienced by the audience",
+        "C": "The resolution of the conflict",
+        "D": "The setting of the play"
+      },
+      "correct_answer": "B",
+      "explanation": "Catharsis, a concept from Aristotle's Poetics, refers to the emotional cleansing or relief that audiences experience through a tragedy."
+    },
+    {
+      "id": 7,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "When a writer interrupts the chronological sequence of events to insert an earlier episode, this is called:",
+      "options": {
+        "A": "Foreshadowing",
+        "B": "Flashback",
+        "C": "Flash-forward",
+        "D": "In medias res"
+      },
+      "correct_answer": "B",
+      "explanation": "A flashback (analepsis) is a narrative technique where the story moves back in time to show earlier events relevant to the current storyline."
+    },
+    {
+      "id": 8,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The use of hints or clues about what will happen later in a story is called:",
+      "options": {
+        "A": "Flashback",
+        "B": "Foreshadowing",
+        "C": "Symbolism",
+        "D": "Allegory"
+      },
+      "correct_answer": "B",
+      "explanation": "Foreshadowing is a literary device where the author provides hints or clues about future events to build tension and anticipation."
+    },
+    {
+      "id": 9,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The repetition of vowel sounds within closely placed words is called:",
+      "options": {
+        "A": "Alliteration",
+        "B": "Consonance",
+        "C": "Assonance",
+        "D": "Rhyme"
+      },
+      "correct_answer": "C",
+      "explanation": "Assonance is the repetition of similar vowel sounds in closely placed words, e.g., 'the rain in Spain stays mainly in the plain.'"
+    },
+    {
+      "id": 10,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A poem that mourns the death of a person or laments something lost is called:",
+      "options": {
+        "A": "An ode",
+        "B": "An elegy",
+        "C": "A sonnet",
+        "D": "A ballad"
+      },
+      "correct_answer": "B",
+      "explanation": "An elegy is a mournful poem that laments the death of a person or something lost, e.g., Thomas Gray's 'Elegy Written in a Country Churchyard.'"
+    },
+    {
+      "id": 11,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The point in a story where the tension reaches its highest point is called the:",
+      "options": {
+        "A": "Exposition",
+        "B": "Resolution",
+        "C": "Climax",
+        "D": "Falling action"
+      },
+      "correct_answer": "C",
+      "explanation": "The climax is the highest point of tension or conflict in a narrative, after which the falling action begins leading to resolution."
+    },
+    {
+      "id": 12,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The use of a word that imitates the sound it describes is called:",
+      "options": {
+        "A": "Alliteration",
+        "B": "Onomatopoeia",
+        "C": "Assonance",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "B",
+      "explanation": "Onomatopoeia refers to words that phonetically imitate the sounds they describe, e.g., 'buzz,' 'hiss,' 'crash,' 'sizzle.'"
+    },
+    {
+      "id": 13,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "When an author addresses an absent, dead, or non-human entity as if it were present and able to respond, this is called:",
+      "options": {
+        "A": "Personification",
+        "B": "Apostrophe",
+        "C": "Metaphor",
+        "D": "Allusion"
+      },
+      "correct_answer": "B",
+      "explanation": "Apostrophe is a figure of speech where the speaker directly addresses an absent person, abstract idea, or non-human entity."
+    },
+    {
+      "id": 14,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A reference in a literary work to a well-known person, place, event, or work outside the text is called:",
+      "options": {
+        "A": "Analogy",
+        "B": "Allusion",
+        "C": "Allegory",
+        "D": "Alliteration"
+      },
+      "correct_answer": "B",
+      "explanation": "An allusion is an indirect reference to a person, place, event, or literary work that the author expects the reader to recognize."
+    },
+    {
+      "id": 15,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The attitude of the author or speaker toward the subject or audience is referred to as:",
+      "options": {
+        "A": "Theme",
+        "B": "Mood",
+        "C": "Tone",
+        "D": "Style"
+      },
+      "correct_answer": "C",
+      "explanation": "Tone is the author's attitude toward the subject, characters, or readers, expressed through word choice and style. Mood is the emotional atmosphere felt by the reader."
+    },
+    {
+      "id": 16,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A 14-line poem with a specific rhyme scheme, often dealing with love or beauty, is called a:",
+      "options": {
+        "A": "Ballad",
+        "B": "Ode",
+        "C": "Elegy",
+        "D": "Sonnet"
+      },
+      "correct_answer": "D",
+      "explanation": "A sonnet is a 14-line poem, typically in iambic pentameter. The two main types are the Petrarchan (Italian) and Shakespearean (English) sonnets."
+    },
+    {
+      "id": 17,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The central message or main insight about life that a literary work conveys is called its:",
+      "options": {
+        "A": "Plot",
+        "B": "Theme",
+        "C": "Setting",
+        "D": "Motif"
+      },
+      "correct_answer": "B",
+      "explanation": "The theme is the central idea or universal message that the author conveys through the narrative, characters, and events of the work."
+    },
+    {
+      "id": 18,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A character who provides a strong contrast to the main character, highlighting specific qualities, is called a:",
+      "options": {
+        "A": "Stock character",
+        "B": "Round character",
+        "C": "Foil",
+        "D": "Flat character"
+      },
+      "correct_answer": "C",
+      "explanation": "A foil character contrasts with the protagonist to highlight particular qualities of the main character. For example, Laertes serves as a foil to Hamlet."
+    },
+    {
+      "id": 19,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The sequence of events in a narrative is called the:",
+      "options": {
+        "A": "Theme",
+        "B": "Plot",
+        "C": "Conflict",
+        "D": "Setting"
+      },
+      "correct_answer": "B",
+      "explanation": "Plot is the organized sequence of events that make up a story, typically following exposition, rising action, climax, falling action, and resolution."
+    },
+    {
+      "id": 20,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "Dramatic irony occurs when:",
+      "options": {
+        "A": "a character says the opposite of what they mean",
+        "B": "the audience knows something that the characters do not",
+        "C": "an event turns out differently from what was expected",
+        "D": "two characters contradict each other"
+      },
+      "correct_answer": "B",
+      "explanation": "Dramatic irony is when the audience possesses knowledge that the characters lack, creating tension or humor."
+    },
+    {
+      "id": 21,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The use of extreme exaggeration for emphasis or effect is called:",
+      "options": {
+        "A": "Litotes",
+        "B": "Euphemism",
+        "C": "Hyperbole",
+        "D": "Understatement"
+      },
+      "correct_answer": "C",
+      "explanation": "Hyperbole is deliberate exaggeration used for effect or emphasis, e.g., 'I've told you a million times.'"
+    },
+    {
+      "id": 22,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A poem that celebrates or praises a person, event, or thing is called:",
+      "options": {
+        "A": "An elegy",
+        "B": "An ode",
+        "C": "A dirge",
+        "D": "A ballad"
+      },
+      "correct_answer": "B",
+      "explanation": "An ode is a lyric poem that expresses enthusiastic praise or celebration of its subject."
+    },
+    {
+      "id": 23,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A story passed down through generations to explain natural phenomena or the origins of a people is called:",
+      "options": {
+        "A": "A fable",
+        "B": "A legend",
+        "C": "A myth",
+        "D": "A folktale"
+      },
+      "correct_answer": "C",
+      "explanation": "A myth is a traditional story explaining natural phenomena, origins of the world, or human existence, often involving gods or supernatural beings."
+    },
+    {
+      "id": 24,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A verse form consisting of eight lines with the rhyme scheme abababcc is called:",
+      "options": {
+        "A": "Ottava rima",
+        "B": "Terza rima",
+        "C": "Heroic couplet",
+        "D": "Spenserian stanza"
+      },
+      "correct_answer": "A",
+      "explanation": "Ottava rima is an eight-line stanza form with the rhyme scheme abababcc, used by poets like Ariosto and Byron."
+    },
+    {
+      "id": 25,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The presentation of a character through their own actions, words, and thoughts (rather than direct description by the narrator) is called:",
+      "options": {
+        "A": "Direct characterization",
+        "B": "Indirect characterization",
+        "C": "Round characterization",
+        "D": "Static characterization"
+      },
+      "correct_answer": "B",
+      "explanation": "Indirect (dramatic) characterization reveals character through their behavior, dialogue, and thoughts rather than direct authorial description."
+    },
+    {
+      "id": 26,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A long narrative poem that tells the story of a heroic figure and their deeds is called:",
+      "options": {
+        "A": "A ballad",
+        "B": "An epic",
+        "C": "A sonnet",
+        "D": "An ode"
+      },
+      "correct_answer": "B",
+      "explanation": "An epic is a long narrative poem celebrating the deeds of a legendary hero, e.g., Homer's Iliad and Odyssey, Virgil's Aeneid."
+    },
+    {
+      "id": 27,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The repetition of similar consonant sounds within or at the end of words in close proximity is called:",
+      "options": {
+        "A": "Alliteration",
+        "B": "Assonance",
+        "C": "Consonance",
+        "D": "Rhyme"
+      },
+      "correct_answer": "C",
+      "explanation": "Consonance is the repetition of consonant sounds within or at the end of words, e.g., 'the lumpy, bumpy road.'"
+    },
+    {
+      "id": 28,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The struggle between opposing forces in a narrative is called:",
+      "options": {
+        "A": "Theme",
+        "B": "Climax",
+        "C": "Conflict",
+        "D": "Resolution"
+      },
+      "correct_answer": "C",
+      "explanation": "Conflict is the central struggle between opposing forces (man vs. man, man vs. nature, man vs. self, man vs. society) that drives the plot."
+    },
+    {
+      "id": 29,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The opening section of a play or story that provides background information is called:",
+      "options": {
+        "A": "Climax",
+        "B": "Falling action",
+        "C": "Exposition",
+        "D": "Denouement"
+      },
+      "correct_answer": "C",
+      "explanation": "The exposition introduces the setting, characters, and background information necessary to understand the story that follows."
+    },
+    {
+      "id": 30,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A mild or indirect expression used in place of one that might seem harsh or blunt is called:",
+      "options": {
+        "A": "Hyperbole",
+        "B": "Euphemism",
+        "C": "Irony",
+        "D": "Paradox"
+      },
+      "correct_answer": "B",
+      "explanation": "A euphemism substitutes a polite or indirect expression for one that could be distressing, e.g., 'passed away' instead of 'died.'"
+    },
+    {
+      "id": 31,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "An object, person, or event that represents an abstract idea beyond its literal meaning is called a:",
+      "options": {
+        "A": "Metaphor",
+        "B": "Symbol",
+        "C": "Simile",
+        "D": "Motif"
+      },
+      "correct_answer": "B",
+      "explanation": "A symbol is something concrete (object, person, place) that represents an abstract idea, e.g., a dove symbolizes peace."
+    },
+    {
+      "id": 32,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A story within a story is called:",
+      "options": {
+        "A": "Subplot",
+        "B": "Frame narrative",
+        "C": "Flashback",
+        "D": "Digression"
+      },
+      "correct_answer": "B",
+      "explanation": "A frame narrative (frame story) is an outer story that contains an inner story. Chaucer's Canterbury Tales uses this technique."
+    },
+    {
+      "id": 33,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A poem sung or recited to tell a story, often with a refrain and simple language, is called a:",
+      "options": {
+        "A": "Sonnet",
+        "B": "Ode",
+        "C": "Ballad",
+        "D": "Epic"
+      },
+      "correct_answer": "C",
+      "explanation": "A ballad is a narrative poem or song that tells a story, often involving adventure, romance, or tragedy, usually with a repeated refrain."
+    },
+    {
+      "id": 34,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The resolution or untangling of the plot at the end of a story or play is called the:",
+      "options": {
+        "A": "Climax",
+        "B": "Exposition",
+        "C": "Denouement",
+        "D": "Rising action"
+      },
+      "correct_answer": "C",
+      "explanation": "Denouement (French for 'untying') is the final resolution of the plot's complications, occurring after the climax."
+    },
+    {
+      "id": 35,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A type of irony where what is stated is the opposite of what is meant is called:",
+      "options": {
+        "A": "Dramatic irony",
+        "B": "Situational irony",
+        "C": "Verbal irony",
+        "D": "Cosmic irony"
+      },
+      "correct_answer": "C",
+      "explanation": "Verbal irony occurs when a speaker says something but means the opposite, often used sarcastically."
+    },
+    {
+      "id": 36,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "An apparently contradictory statement that may contain a deeper truth is called a:",
+      "options": {
+        "A": "Paradox",
+        "B": "Oxymoron",
+        "C": "Antithesis",
+        "D": "Irony"
+      },
+      "correct_answer": "A",
+      "explanation": "A paradox is a statement that appears self-contradictory but reveals a truth upon reflection, e.g., 'Less is more.'"
+    },
+    {
+      "id": 37,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "Two contradictory words placed next to each other is called:",
+      "options": {
+        "A": "Paradox",
+        "B": "Antithesis",
+        "C": "Oxymoron",
+        "D": "Irony"
+      },
+      "correct_answer": "C",
+      "explanation": "An oxymoron combines two contradictory terms for effect, e.g., 'deafening silence,' 'living death,' 'sweet sorrow.'"
+    },
+    {
+      "id": 38,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The narrator who is a character within the story and uses 'I' is called:",
+      "options": {
+        "A": "Third-person omniscient narrator",
+        "B": "Third-person limited narrator",
+        "C": "Second-person narrator",
+        "D": "First-person narrator"
+      },
+      "correct_answer": "D",
+      "explanation": "A first-person narrator participates in the story and uses 'I,' giving a personal, subjective perspective."
+    },
+    {
+      "id": 39,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A recurring element, image, or idea that appears throughout a literary work is called a:",
+      "options": {
+        "A": "Symbol",
+        "B": "Theme",
+        "C": "Motif",
+        "D": "Allegory"
+      },
+      "correct_answer": "C",
+      "explanation": "A motif is a recurring element (image, phrase, situation) that develops the work's themes, e.g., blood as a motif in Macbeth."
+    },
+    {
+      "id": 40,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The author's choice of words and the way they are arranged in a literary work is called:",
+      "options": {
+        "A": "Theme",
+        "B": "Style",
+        "C": "Tone",
+        "D": "Mood"
+      },
+      "correct_answer": "B",
+      "explanation": "Style refers to the distinctive way an author uses language — their vocabulary, sentence structure, and literary devices — to create a unique voice."
+    },
+    {
+      "id": 41,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "The pattern of stressed and unstressed syllables in a line of poetry is called:",
+      "options": {
+        "A": "Rhyme",
+        "B": "Rhythm",
+        "C": "Metre",
+        "D": "Cadence"
+      },
+      "correct_answer": "C",
+      "explanation": "Metre is the measured arrangement of syllables in poetry according to patterns of stress. It provides the musical quality of verse."
+    },
+    {
+      "id": 42,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "A metrical foot consisting of one unstressed syllable followed by one stressed syllable (da-DUM) is called:",
+      "options": {
+        "A": "Trochee",
+        "B": "Dactyl",
+        "C": "Iamb",
+        "D": "Anapest"
+      },
+      "correct_answer": "C",
+      "explanation": "An iamb is a metrical foot of one unstressed followed by one stressed syllable (da-DUM). Iambic pentameter has five iambs per line."
+    },
+    {
+      "id": 43,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "A line of poetry with five iambic feet (ten syllables) is called:",
+      "options": {
+        "A": "Iambic tetrameter",
+        "B": "Iambic hexameter",
+        "C": "Iambic pentameter",
+        "D": "Iambic trimeter"
+      },
+      "correct_answer": "C",
+      "explanation": "Iambic pentameter has five iambic feet per line (ten syllables: da-DUM da-DUM da-DUM da-DUM da-DUM). It is the most common metre in English poetry."
+    },
+    {
+      "id": 44,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "Poetry that does not rhyme and has no regular metrical pattern is called:",
+      "options": {
+        "A": "Blank verse",
+        "B": "Free verse",
+        "C": "Prose poetry",
+        "D": "Lyric poetry"
+      },
+      "correct_answer": "B",
+      "explanation": "Free verse is poetry that has no regular rhyme scheme or metre, relying on rhythm, line breaks, and imagery for effect."
+    },
+    {
+      "id": 45,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "Unrhymed iambic pentameter is called:",
+      "options": {
+        "A": "Free verse",
+        "B": "Blank verse",
+        "C": "Heroic couplet",
+        "D": "Terza rima"
+      },
+      "correct_answer": "B",
+      "explanation": "Blank verse is unrhymed iambic pentameter. Shakespeare's plays and Milton's Paradise Lost are written largely in blank verse."
+    },
+    {
+      "id": 46,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "Two consecutive lines of poetry that rhyme are called a:",
+      "options": {
+        "A": "Stanza",
+        "B": "Sestet",
+        "C": "Couplet",
+        "D": "Quatrain"
+      },
+      "correct_answer": "C",
+      "explanation": "A couplet is two successive lines of verse that rhyme. A heroic couplet consists of two rhyming lines of iambic pentameter."
+    },
+    {
+      "id": 47,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "A four-line stanza in a poem is called a:",
+      "options": {
+        "A": "Sestet",
+        "B": "Octet",
+        "C": "Tercet",
+        "D": "Quatrain"
+      },
+      "correct_answer": "D",
+      "explanation": "A quatrain is a stanza (or poem) of four lines. It is one of the most common stanza forms in English poetry."
+    },
+    {
+      "id": 48,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "The pause or break in a line of poetry, often marked by a comma or full stop, is called:",
+      "options": {
+        "A": "Enjambment",
+        "B": "Caesura",
+        "C": "Volta",
+        "D": "End-stop"
+      },
+      "correct_answer": "B",
+      "explanation": "A caesura is a natural pause or break within a line of verse, often indicated by punctuation."
+    },
+    {
+      "id": 49,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "When a sentence or phrase continues beyond the end of a line of poetry into the next line without a pause, it is called:",
+      "options": {
+        "A": "Caesura",
+        "B": "End-stop",
+        "C": "Enjambment",
+        "D": "Volta"
+      },
+      "correct_answer": "C",
+      "explanation": "Enjambment is when a sentence runs on from one line to the next without a pause, creating momentum and flow."
+    },
+    {
+      "id": 50,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "The shift or turn in a sonnet, where the argument or mood changes, is called the:",
+      "options": {
+        "A": "Sestet",
+        "B": "Octet",
+        "C": "Couplet",
+        "D": "Volta"
+      },
+      "correct_answer": "D",
+      "explanation": "The volta (Italian for 'turn') is the turning point or shift in thought and tone in a sonnet, usually between the octave and sestet in a Petrarchan sonnet."
+    },
+    {
+      "id": 51,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "A play that ends with the death or downfall of the main character, usually due to a fatal flaw, is called a:",
+      "options": {
+        "A": "Comedy",
+        "B": "Farce",
+        "C": "Tragedy",
+        "D": "Tragicomedy"
+      },
+      "correct_answer": "C",
+      "explanation": "A tragedy ends with the downfall or death of the protagonist, often caused by a hamartia (fatal flaw) as defined by Aristotle."
+    },
+    {
+      "id": 52,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The fatal flaw or error in judgment that leads to the downfall of a tragic hero is called:",
+      "options": {
+        "A": "Nemesis",
+        "B": "Catharsis",
+        "C": "Hamartia",
+        "D": "Hubris"
+      },
+      "correct_answer": "C",
+      "explanation": "Hamartia (from Greek for 'error') is the fatal flaw or mistake that leads to the tragic hero's downfall. Hubris (excessive pride) is a common hamartia."
+    },
+    {
+      "id": 53,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "A scene of private conversation between two or a few characters in a play is called a:",
+      "options": {
+        "A": "Monologue",
+        "B": "Soliloquy",
+        "C": "Dialogue",
+        "D": "Tete-a-tete"
+      },
+      "correct_answer": "C",
+      "explanation": "Dialogue is conversation between two or more characters in a play or story."
+    },
+    {
+      "id": 54,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "Stage directions in a play script are written to:",
+      "options": {
+        "A": "replace the dialogue",
+        "B": "instruct actors about movement, tone, and actions on stage",
+        "C": "provide background history of the characters",
+        "D": "summarize the plot for the reader"
+      },
+      "correct_answer": "B",
+      "explanation": "Stage directions are instructions in a script indicating actors' movements, expressions, entrances, exits, and the stage setting."
+    },
+    {
+      "id": 55,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "A play that ends happily and is meant to amuse or entertain is called a:",
+      "options": {
+        "A": "Tragedy",
+        "B": "Melodrama",
+        "C": "Comedy",
+        "D": "Farce"
+      },
+      "correct_answer": "C",
+      "explanation": "A comedy is a dramatic work with a light, humorous tone that ends happily. It often satirizes social behavior."
+    },
+    {
+      "id": 56,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In Greek drama, the chorus served to:",
+      "options": {
+        "A": "provide comic relief",
+        "B": "play the villain's role",
+        "C": "comment on the action and provide background information",
+        "D": "perform acrobatics between scenes"
+      },
+      "correct_answer": "C",
+      "explanation": "The chorus in Greek drama commented on the action, provided moral perspective, and gave background information to the audience."
+    },
+    {
+      "id": 57,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "A brief remark made by a character on stage, heard by the audience but not by other characters, is called:",
+      "options": {
+        "A": "A monologue",
+        "B": "A soliloquy",
+        "C": "An aside",
+        "D": "An epilogue"
+      },
+      "correct_answer": "C",
+      "explanation": "An aside is a dramatic device where a character speaks directly to the audience, unheard by other characters on stage."
+    },
+    {
+      "id": 58,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "An exaggerated form of comedy based on physical humor and ridiculous situations is called:",
+      "options": {
+        "A": "Satire",
+        "B": "Farce",
+        "C": "Melodrama",
+        "D": "Tragicomedy"
+      },
+      "correct_answer": "B",
+      "explanation": "Farce is a type of comedy featuring exaggerated, improbable situations, physical humor (slapstick), and rapid pacing."
+    },
+    {
+      "id": 59,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The introductory speech or scene at the beginning of a play is called:",
+      "options": {
+        "A": "Epilogue",
+        "B": "Interlude",
+        "C": "Prologue",
+        "D": "Soliloquy"
+      },
+      "correct_answer": "C",
+      "explanation": "A prologue is an introductory section at the beginning of a play (or literary work) that provides background information."
+    },
+    {
+      "id": 60,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The concluding speech or scene at the end of a play is called:",
+      "options": {
+        "A": "Denouement",
+        "B": "Epilogue",
+        "C": "Prologue",
+        "D": "Finale"
+      },
+      "correct_answer": "B",
+      "explanation": "An epilogue is a section at the end of a play or literary work that comments on or summarizes the preceding events."
+    },
+    {
+      "id": 61,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "A novel that tells the story of the moral and psychological development of the main character from youth to adulthood is called a:",
+      "options": {
+        "A": "Epistolary novel",
+        "B": "Picaresque novel",
+        "C": "Bildungsroman",
+        "D": "Gothic novel"
+      },
+      "correct_answer": "C",
+      "explanation": "A Bildungsroman (German for 'novel of formation') traces the growth and development of a protagonist from childhood to maturity."
+    },
+    {
+      "id": 62,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "A novel written in the form of letters or diary entries is called an:",
+      "options": {
+        "A": "Epistolary novel",
+        "B": "Picaresque novel",
+        "C": "Satirical novel",
+        "D": "Autobiographical novel"
+      },
+      "correct_answer": "A",
+      "explanation": "An epistolary novel is told through documents such as letters, diary entries, or newspaper clippings. Richardson's Pamela is a classic example."
+    },
+    {
+      "id": 63,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "The time and place in which a story occurs is called the:",
+      "options": {
+        "A": "Plot",
+        "B": "Theme",
+        "C": "Setting",
+        "D": "Conflict"
+      },
+      "correct_answer": "C",
+      "explanation": "Setting includes the time period, geographical location, social environment, and atmosphere in which a story takes place."
+    },
+    {
+      "id": 64,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "A character who remains essentially the same throughout the story without significant development is called a:",
+      "options": {
+        "A": "Round character",
+        "B": "Dynamic character",
+        "C": "Flat character",
+        "D": "Foil character"
+      },
+      "correct_answer": "C",
+      "explanation": "A flat character is one-dimensional and does not change significantly during the story. Round characters are complex and undergo development."
+    },
+    {
+      "id": 65,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "A character who undergoes significant change during the course of a story is called a:",
+      "options": {
+        "A": "Static character",
+        "B": "Flat character",
+        "C": "Dynamic character",
+        "D": "Stock character"
+      },
+      "correct_answer": "C",
+      "explanation": "A dynamic character changes in a meaningful way during the story, often as a result of the story's events and conflicts."
+    },
+    {
+      "id": 66,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "Narration that presents the thoughts and feelings of characters directly, as a continuous stream, is called:",
+      "options": {
+        "A": "Omniscient narration",
+        "B": "Stream of consciousness",
+        "C": "Free indirect discourse",
+        "D": "First-person narration"
+      },
+      "correct_answer": "B",
+      "explanation": "Stream of consciousness is a narrative technique presenting the continuous flow of a character's thoughts, feelings, and perceptions."
+    },
+    {
+      "id": 67,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "The use of humour, irony, or exaggeration to criticize human vices or folly is called:",
+      "options": {
+        "A": "Parody",
+        "B": "Sarcasm",
+        "C": "Satire",
+        "D": "Comedy"
+      },
+      "correct_answer": "C",
+      "explanation": "Satire uses wit, irony, and exaggeration to expose and criticize human folly, vices, or social institutions with the intent of reform."
+    },
+    {
+      "id": 68,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "An imitation of a literary work that exaggerates its features for comic effect is called:",
+      "options": {
+        "A": "Satire",
+        "B": "Allegory",
+        "C": "Parody",
+        "D": "Pastiche"
+      },
+      "correct_answer": "C",
+      "explanation": "Parody imitates the style of another work or genre for comic effect by exaggerating its characteristics."
+    },
+    {
+      "id": 69,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In Chinua Achebe's 'Things Fall Apart', the protagonist Okonkwo's tragic flaw is his:",
+      "options": {
+        "A": "laziness",
+        "B": "excessive fear of being seen as weak, leading to aggression and pride",
+        "C": "love for his daughter Ezinma",
+        "D": "hatred of the white missionaries"
+      },
+      "correct_answer": "B",
+      "explanation": "Okonkwo's hamartia is his obsessive fear of weakness and failure (stemming from shame of his father Unoka), which drives him to excessive aggression and ultimately his destruction."
+    },
+    {
+      "id": 70,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In Chinua Achebe's 'Things Fall Apart', the title is derived from a poem by:",
+      "options": {
+        "A": "John Keats",
+        "B": "William Wordsworth",
+        "C": "W.B. Yeats",
+        "D": "T.S. Eliot"
+      },
+      "correct_answer": "C",
+      "explanation": "The title 'Things Fall Apart' is taken from W.B. Yeats' poem 'The Second Coming': 'Things fall apart; the centre cannot hold.'"
+    },
+    {
+      "id": 71,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In 'Things Fall Apart' by Chinua Achebe, the Igbo community of Umuofia is disrupted by the arrival of:",
+      "options": {
+        "A": "Arab traders",
+        "B": "European Christian missionaries and colonial administrators",
+        "C": "a neighboring tribe",
+        "D": "a plague"
+      },
+      "correct_answer": "B",
+      "explanation": "The novel depicts the disruption of Igbo society in Nigeria through the arrival of European Christian missionaries and British colonial administrators."
+    },
+    {
+      "id": 72,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "Wole Soyinka's novel 'The Interpreters' deals primarily with:",
+      "options": {
+        "A": "pre-colonial Africa",
+        "B": "the disillusionment of post-independence Nigerian intellectuals",
+        "C": "the Biafran civil war",
+        "D": "the life of traditional African kings"
+      },
+      "correct_answer": "B",
+      "explanation": "The Interpreters follows a group of young Nigerian intellectuals disillusioned with post-independence Nigeria and its corruption."
+    },
+    {
+      "id": 73,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In Ngugi wa Thiong'o's 'Weep Not, Child', the protagonist Njoroge's central aspiration is:",
+      "options": {
+        "A": "to become a warrior",
+        "B": "to gain education as a path to salvation",
+        "C": "to lead the independence movement",
+        "D": "to recover his family's stolen land personally"
+      },
+      "correct_answer": "B",
+      "explanation": "Njoroge believes deeply in the power of education as a means to save his family and nation during the Kenyan independence struggle."
+    },
+    {
+      "id": 74,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "The narrative technique in which the story is told by an all-knowing narrator who has access to all characters' thoughts and feelings is called:",
+      "options": {
+        "A": "First-person narration",
+        "B": "Third-person limited",
+        "C": "Third-person omniscient",
+        "D": "Second-person narration"
+      },
+      "correct_answer": "C",
+      "explanation": "Third-person omniscient narration is told from an all-knowing perspective, with the narrator having access to all characters' inner lives."
+    },
+    {
+      "id": 75,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "George Orwell's 'Animal Farm' is best described as:",
+      "options": {
+        "A": "a children's story about farm animals",
+        "B": "a political allegory satirizing totalitarianism",
+        "C": "a naturalistic novel about rural life",
+        "D": "an autobiography"
+      },
+      "correct_answer": "B",
+      "explanation": "Animal Farm is a satirical allegory that uses farm animals to represent political figures and events, satirizing the Soviet Union under Stalin."
+    },
+    {
+      "id": 76,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In 'Animal Farm' by George Orwell, the slogan that the pigs gradually manipulate is:",
+      "options": {
+        "A": "Freedom or Death",
+        "B": "All Animals Are Equal",
+        "C": "Might Is Right",
+        "D": "Work Harder"
+      },
+      "correct_answer": "B",
+      "explanation": "The original commandment 'All animals are equal' is eventually changed to 'All animals are equal, but some animals are more equal than others,' symbolizing corruption of power."
+    },
+    {
+      "id": 77,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "The term 'denouement' refers to:",
+      "options": {
+        "A": "the introduction of the main conflict",
+        "B": "the turning point in the story",
+        "C": "the final resolution or outcome of the plot",
+        "D": "the background information"
+      },
+      "correct_answer": "C",
+      "explanation": "Denouement is the final part of a narrative where loose ends are tied up and the outcome of the story's conflict is revealed."
+    },
+    {
+      "id": 78,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "Chinua Achebe's 'Arrow of God' is set in which Nigerian ethnic group's community?",
+      "options": {
+        "A": "Yoruba",
+        "B": "Hausa",
+        "C": "Igbo",
+        "D": "Efik"
+      },
+      "correct_answer": "C",
+      "explanation": "Arrow of God, like Things Fall Apart, is set in an Igbo community in colonial Nigeria and follows the chief priest Ezeulu."
+    },
+    {
+      "id": 79,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "The narrative point of view that uses 'you' to address the reader is called:",
+      "options": {
+        "A": "First-person",
+        "B": "Third-person",
+        "C": "Second-person",
+        "D": "Omniscient"
+      },
+      "correct_answer": "C",
+      "explanation": "Second-person narration uses 'you' to address the reader directly, placing them in the role of the protagonist."
+    },
+    {
+      "id": 80,
+      "topic": "Prose",
+      "difficulty": "medium",
+      "question": "In Ama Ata Aidoo's 'Our Sister Killjoy', the protagonist Sissie travels to:",
+      "options": {
+        "A": "America",
+        "B": "Europe (Germany and England)",
+        "C": "Asia",
+        "D": "South Africa"
+      },
+      "correct_answer": "B",
+      "explanation": "In Our Sister Killjoy, Sissie from Ghana travels first to Germany and then to England, where she confronts issues of race, identity, and the African diaspora."
+    },
+    {
+      "id": 81,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Which of the following authors wrote 'A Man of the People'?",
+      "options": {
+        "A": "Wole Soyinka",
+        "B": "Chinua Achebe",
+        "C": "Ngugi wa Thiong'o",
+        "D": "Buchi Emecheta"
+      },
+      "correct_answer": "B",
+      "explanation": "A Man of the People (1966) is a satirical novel by Chinua Achebe about political corruption in post-independence Africa."
+    },
+    {
+      "id": 82,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Which Nigerian writer won the Nobel Prize for Literature in 1986?",
+      "options": {
+        "A": "Chinua Achebe",
+        "B": "Wole Soyinka",
+        "C": "Cyprian Ekwensi",
+        "D": "J.P. Clark"
+      },
+      "correct_answer": "B",
+      "explanation": "Wole Soyinka was the first African writer to win the Nobel Prize in Literature in 1986, for his plays, poetry, and prose."
+    },
+    {
+      "id": 83,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The author of 'So Long a Letter' is:",
+      "options": {
+        "A": "Flora Nwapa",
+        "B": "Ama Ata Aidoo",
+        "C": "Mariama Bâ",
+        "D": "Buchi Emecheta"
+      },
+      "correct_answer": "C",
+      "explanation": "Une si longue lettre (So Long a Letter) is a novel by Senegalese author Mariama Bâ, dealing with polygamy and the challenges faced by women in Senegalese society."
+    },
+    {
+      "id": 84,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Ngugi wa Thiong'o's 'A Grain of Wheat' is set during:",
+      "options": {
+        "A": "the Rwandan genocide",
+        "B": "the Kenyan struggle for independence (Mau Mau uprising)",
+        "C": "the Ugandan civil war",
+        "D": "the South African apartheid era"
+      },
+      "correct_answer": "B",
+      "explanation": "A Grain of Wheat is set in Kenya during the period of the Mau Mau uprising and the transition to independence, exploring themes of betrayal, sacrifice, and national identity."
+    },
+    {
+      "id": 85,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The author of the novel 'Purple Hibiscus' is:",
+      "options": {
+        "A": "Chimamanda Ngozi Adichie",
+        "B": "Buchi Emecheta",
+        "C": "Flora Nwapa",
+        "D": "Ama Ata Aidoo"
+      },
+      "correct_answer": "A",
+      "explanation": "Purple Hibiscus (2003) is a debut novel by Nigerian writer Chimamanda Ngozi Adichie about family, religion, and political repression in Nigeria."
+    },
+    {
+      "id": 86,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Wole Soyinka's play 'Death and the King's Horseman' is based on a Yoruba tradition of:",
+      "options": {
+        "A": "annual harvest festivals",
+        "B": "a chief horseman who must follow his king in death",
+        "C": "the coronation of a new king",
+        "D": "the initiation of young men into adulthood"
+      },
+      "correct_answer": "B",
+      "explanation": "The play is based on the Yoruba tradition where the king's horseman (Elesin) must commit ritual suicide to accompany the Alaafin (king) into the afterlife."
+    },
+    {
+      "id": 87,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Which of the following is a novel by Buchi Emecheta?",
+      "options": {
+        "A": "Things Fall Apart",
+        "B": "The Joys of Motherhood",
+        "C": "Purple Hibiscus",
+        "D": "Arrow of God"
+      },
+      "correct_answer": "B",
+      "explanation": "The Joys of Motherhood (1979) is a novel by Nigerian-British author Buchi Emecheta, exploring the role of women and mothers in Igbo society."
+    },
+    {
+      "id": 88,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The literary movement that celebrated African culture, values, and identity in response to colonialism is called:",
+      "options": {
+        "A": "Surrealism",
+        "B": "Romanticism",
+        "C": "Negritude",
+        "D": "Modernism"
+      },
+      "correct_answer": "C",
+      "explanation": "Negritude was a literary and intellectual movement led by Aimé Césaire, Léopold Sédar Senghor, and others, celebrating African identity and culture as a response to colonialism."
+    },
+    {
+      "id": 89,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The first African novel written in English is generally considered to be:",
+      "options": {
+        "A": "Things Fall Apart by Chinua Achebe",
+        "B": "Weep Not, Child by Ngugi wa Thiong'o",
+        "C": "Ake by Wole Soyinka",
+        "D": "People of the City by Cyprian Ekwensi"
+      },
+      "correct_answer": "A",
+      "explanation": "Things Fall Apart (1958) by Chinua Achebe is widely regarded as the seminal African novel in English and one of the most important works of African literature."
+    },
+    {
+      "id": 90,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "In Chinua Achebe's 'Things Fall Apart', Ikemefuna is killed by Okonkwo because:",
+      "options": {
+        "A": "he tried to escape from Umuofia",
+        "B": "he was deemed an abomination to the earth goddess",
+        "C": "Okonkwo feared being seen as weak if he did not participate",
+        "D": "Ikemefuna had disrespected the elders"
+      },
+      "correct_answer": "C",
+      "explanation": "Despite being warned by Ogbuefi Ezeudu not to participate, Okonkwo kills Ikemefuna because he is afraid of being seen as weak — a manifestation of his tragic flaw."
+    },
+    {
+      "id": 91,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Shakespeare's 'Hamlet', the ghost asks Hamlet to:",
+      "options": {
+        "A": "forgive his uncle Claudius",
+        "B": "avenge his murder",
+        "C": "leave Denmark",
+        "D": "marry Ophelia"
+      },
+      "correct_answer": "B",
+      "explanation": "The ghost of Hamlet's father reveals that Claudius murdered him by pouring poison in his ear and asks Hamlet to avenge his death."
+    },
+    {
+      "id": 92,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The famous opening line 'It was the best of times, it was the worst of times' belongs to:",
+      "options": {
+        "A": "Charles Dickens' 'Great Expectations'",
+        "B": "Charles Dickens' 'A Tale of Two Cities'",
+        "C": "Thomas Hardy's 'Far from the Madding Crowd'",
+        "D": "Jane Austen's 'Pride and Prejudice'"
+      },
+      "correct_answer": "B",
+      "explanation": "This famous opening line is from Charles Dickens' A Tale of Two Cities (1859), set during the French Revolution."
+    },
+    {
+      "id": 93,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Shakespeare's 'Romeo and Juliet', the two families whose feud drives the tragedy are:",
+      "options": {
+        "A": "Montague and Capulet",
+        "B": "Iago and Othello",
+        "C": "Macbeth and Duncan",
+        "D": "Hamlet and Claudius"
+      },
+      "correct_answer": "A",
+      "explanation": "Romeo is a Montague and Juliet is a Capulet. The longstanding feud between the Montague and Capulet families is the root cause of the tragedy."
+    },
+    {
+      "id": 94,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "John Milton's epic poem 'Paradise Lost' deals with:",
+      "options": {
+        "A": "the Trojan War",
+        "B": "the fall of Satan and the loss of Paradise by Adam and Eve",
+        "C": "the journey of Odysseus",
+        "D": "the life of King Arthur"
+      },
+      "correct_answer": "B",
+      "explanation": "Paradise Lost is an epic poem by John Milton depicting the fall of Satan from heaven and the temptation and fall of Adam and Eve in the Garden of Eden."
+    },
+    {
+      "id": 95,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The play 'A Doll's House' by Henrik Ibsen ends with the protagonist Nora:",
+      "options": {
+        "A": "reconciling with her husband Torvald",
+        "B": "leaving her home and family to seek her own independence",
+        "C": "committing suicide",
+        "D": "discovering her husband's love for her"
+      },
+      "correct_answer": "B",
+      "explanation": "Nora leaves her husband and children at the end of A Doll's House, symbolizing a woman's break from a repressive, patriarchal society."
+    },
+    {
+      "id": 96,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Shakespeare's 'Macbeth', the witches' prophecy that Macbeth shall be safe until:",
+      "options": {
+        "A": "his son avenges him",
+        "B": "Birnam Wood comes to Dunsinane Hill",
+        "C": "he kills King Duncan",
+        "D": "Lady Macbeth confesses the crime"
+      },
+      "correct_answer": "B",
+      "explanation": "The witches prophesy that Macbeth cannot be vanquished until Birnam Wood moves to Dunsinane Hill — a prophecy fulfilled when soldiers camouflage themselves with branches."
+    },
+    {
+      "id": 97,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Jane Austen's 'Pride and Prejudice' opens with the famous line:",
+      "options": {
+        "A": "'Call me Ishmael'",
+        "B": "'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'",
+        "C": "'Happy families are all alike'",
+        "D": "'It was the best of times, it was the worst of times'"
+      },
+      "correct_answer": "B",
+      "explanation": "This ironic opening line from Pride and Prejudice immediately establishes Austen's satirical perspective on marriage and social expectations."
+    },
+    {
+      "id": 98,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Samuel Beckett's 'Waiting for Godot' is an example of:",
+      "options": {
+        "A": "Romantic drama",
+        "B": "Absurdist theatre",
+        "C": "Classical tragedy",
+        "D": "Naturalistic drama"
+      },
+      "correct_answer": "B",
+      "explanation": "Waiting for Godot is a seminal work of absurdist theatre, exploring themes of meaninglessness, uncertainty, and the human condition through two characters waiting endlessly."
+    },
+    {
+      "id": 99,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Homer's 'The Odyssey' follows the hero Odysseus as he tries to:",
+      "options": {
+        "A": "conquer Troy",
+        "B": "return home to Ithaca after the Trojan War",
+        "C": "find the Golden Fleece",
+        "D": "avenge his father's death"
+      },
+      "correct_answer": "B",
+      "explanation": "The Odyssey chronicles Odysseus's ten-year journey home to Ithaca after the fall of Troy, facing various obstacles and monsters."
+    },
+    {
+      "id": 100,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In 'The Merchant of Venice' by Shakespeare, Shylock demands a 'pound of flesh' from:",
+      "options": {
+        "A": "Portia",
+        "B": "Antonio",
+        "C": "Bassanio",
+        "D": "Gratiano"
+      },
+      "correct_answer": "B",
+      "explanation": "Shylock, a Jewish moneylender, requires Antonio to forfeit a pound of flesh as penalty for defaulting on a loan in The Merchant of Venice."
+    },
+    {
+      "id": 101,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "Oral literature is primarily transmitted through:",
+      "options": {
+        "A": "written manuscripts",
+        "B": "word of mouth and performance",
+        "C": "paintings and sculptures",
+        "D": "printed books"
+      },
+      "correct_answer": "B",
+      "explanation": "Oral literature is composed, transmitted, and performed through speech, song, and other forms of oral communication rather than writing."
+    },
+    {
+      "id": 102,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "An oriki in Yoruba culture is best described as:",
+      "options": {
+        "A": "a wedding song",
+        "B": "a praise poem or song celebrating an individual, deity, or place",
+        "C": "a funeral dirge",
+        "D": "a work song"
+      },
+      "correct_answer": "B",
+      "explanation": "Oriki are praise poems (or chants) in Yoruba culture that celebrate and enumerate the qualities and achievements of individuals, deities (orishas), or communities."
+    },
+    {
+      "id": 103,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A traditional story involving supernatural beings, gods, or heroes that explains the origin of the world or natural phenomena is called a:",
+      "options": {
+        "A": "Folktale",
+        "B": "Legend",
+        "C": "Myth",
+        "D": "Parable"
+      },
+      "correct_answer": "C",
+      "explanation": "Myths are traditional narratives involving gods, supernatural beings, or heroes that explain natural phenomena, cosmic origins, or cultural practices."
+    },
+    {
+      "id": 104,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A legend differs from a myth in that a legend:",
+      "options": {
+        "A": "involves only animals as characters",
+        "B": "is set in a specific historical time and often involves real (or semi-historical) people",
+        "C": "explains the origin of the universe",
+        "D": "is always humorous"
+      },
+      "correct_answer": "B",
+      "explanation": "Legends are stories set in a historical context involving real or semi-historical figures (e.g., King Arthur, Sundiata Keita). They are believed to be based on real events."
+    },
+    {
+      "id": 105,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "Proverbs in African societies are primarily used to:",
+      "options": {
+        "A": "entertain children",
+        "B": "convey wisdom, moral lessons, and cultural values concisely",
+        "C": "document historical events",
+        "D": "praise chiefs and kings only"
+      },
+      "correct_answer": "B",
+      "explanation": "Proverbs are short, pithy sayings that encode the accumulated wisdom, values, and experiences of a community."
+    },
+    {
+      "id": 106,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "In Chinua Achebe's 'Things Fall Apart', the proverb 'When the moon is shining, the cripple becomes hungry for a walk' suggests:",
+      "options": {
+        "A": "disabled people are selfish",
+        "B": "favorable circumstances inspire even the reluctant to act",
+        "C": "moonlight is dangerous",
+        "D": "food is more important than walking"
+      },
+      "correct_answer": "B",
+      "explanation": "This proverb means that when conditions are favorable, even those with limitations are tempted to act beyond their capacity."
+    },
+    {
+      "id": 107,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A riddle in oral literature serves primarily to:",
+      "options": {
+        "A": "frighten children",
+        "B": "test intelligence, entertain, and transmit knowledge",
+        "C": "worship the gods",
+        "D": "settle legal disputes"
+      },
+      "correct_answer": "B",
+      "explanation": "Riddles are a form of oral literature used to test cleverness, stimulate thinking, entertain, and transmit cultural knowledge."
+    },
+    {
+      "id": 108,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "The professional praise singer and oral historian in West African societies is called a:",
+      "options": {
+        "A": "Griot",
+        "B": "Bard",
+        "C": "Troubadour",
+        "D": "Minstrel"
+      },
+      "correct_answer": "A",
+      "explanation": "A griot (also jali or jeli) is a West African oral historian, praise singer, and storyteller who preserves and transmits cultural history."
+    },
+    {
+      "id": 109,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A traditional song sung to accompany work activities is called a:",
+      "options": {
+        "A": "Dirge",
+        "B": "Lullaby",
+        "C": "Work song",
+        "D": "Praise chant"
+      },
+      "correct_answer": "C",
+      "explanation": "Work songs are performed during communal labor activities to coordinate effort, relieve monotony, and build community spirit."
+    },
+    {
+      "id": 110,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A song sung to soothe a baby to sleep is called a:",
+      "options": {
+        "A": "Dirge",
+        "B": "Lullaby",
+        "C": "Ballad",
+        "D": "Carol"
+      },
+      "correct_answer": "B",
+      "explanation": "A lullaby is a soothing song or poem sung to help a child fall asleep."
+    },
+    {
+      "id": 111,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "Aetiological tales (origin tales) in oral literature are stories that explain:",
+      "options": {
+        "A": "how to perform rituals",
+        "B": "the origins of things (why the sky is blue, why the tortoise has a cracked shell)",
+        "C": "the rules of a community",
+        "D": "the genealogy of kings"
+      },
+      "correct_answer": "B",
+      "explanation": "Aetiological (or etiological) tales are stories that explain the origin or cause of natural phenomena, animal characteristics, or cultural practices."
+    },
+    {
+      "id": 112,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "Trickster tales in African oral literature feature characters like Anansi (spider) who:",
+      "options": {
+        "A": "always lose to stronger characters",
+        "B": "use cunning and wit to outwit stronger opponents",
+        "C": "represent the king or chief",
+        "D": "teach strictly moral lessons without humor"
+      },
+      "correct_answer": "B",
+      "explanation": "Trickster figures like Anansi (Akan), Tortoise (Yoruba/Igbo), and Hare use cunning and intelligence to outwit stronger opponents, often subverting social norms."
+    },
+    {
+      "id": 113,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "In the analysis of poetry, the term 'persona' refers to:",
+      "options": {
+        "A": "the author of the poem",
+        "B": "the speaker or voice created by the poet in the poem",
+        "C": "the main character of the poem",
+        "D": "the audience for whom the poem is written"
+      },
+      "correct_answer": "B",
+      "explanation": "The persona is the speaker or voice of a poem — the 'I' of the poem, which may or may not be identical to the poet."
+    },
+    {
+      "id": 114,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "The emotional atmosphere created in a literary work for the reader is called:",
+      "options": {
+        "A": "Tone",
+        "B": "Style",
+        "C": "Mood",
+        "D": "Voice"
+      },
+      "correct_answer": "C",
+      "explanation": "Mood is the overall emotional atmosphere or feeling that a work evokes in the reader, created through setting, imagery, and diction."
+    },
+    {
+      "id": 115,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "When a poet uses words and phrases that appeal to the senses (sight, sound, touch, taste, smell), this is called:",
+      "options": {
+        "A": "Diction",
+        "B": "Imagery",
+        "C": "Metaphor",
+        "D": "Symbolism"
+      },
+      "correct_answer": "B",
+      "explanation": "Imagery refers to vivid, descriptive language that creates sensory impressions in the reader's mind, appealing to sight, hearing, touch, taste, and smell."
+    },
+    {
+      "id": 116,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "The repetition of a word or phrase at the beginning of successive lines or clauses is called:",
+      "options": {
+        "A": "Epistrophe",
+        "B": "Anaphora",
+        "C": "Chiasmus",
+        "D": "Parallelism"
+      },
+      "correct_answer": "B",
+      "explanation": "Anaphora is the repetition of a word or phrase at the beginning of successive lines or sentences for emphasis, e.g., Martin Luther King's 'I have a dream...'"
+    },
+    {
+      "id": 117,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "The repetition of a word or phrase at the end of successive clauses is called:",
+      "options": {
+        "A": "Anaphora",
+        "B": "Epistrophe",
+        "C": "Chiasmus",
+        "D": "Anadiplosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Epistrophe (also called epiphora) is the repetition of words at the end of successive clauses or lines, e.g., 'of the people, by the people, for the people.'"
+    },
+    {
+      "id": 118,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "The poet's choice and use of words in a poem is called:",
+      "options": {
+        "A": "Imagery",
+        "B": "Diction",
+        "C": "Syntax",
+        "D": "Metre"
+      },
+      "correct_answer": "B",
+      "explanation": "Diction refers to the poet's deliberate selection of words, including vocabulary level, connotations, and tone."
+    },
+    {
+      "id": 119,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "A poem that is meant to be sung or that expresses strong personal emotions is called a:",
+      "options": {
+        "A": "Narrative poem",
+        "B": "Dramatic monologue",
+        "C": "Lyric poem",
+        "D": "Epic poem"
+      },
+      "correct_answer": "C",
+      "explanation": "A lyric poem is a short poem expressing personal thoughts and emotions, originally designed to be sung to a lyre."
+    },
+    {
+      "id": 120,
+      "topic": "Poetry Analysis",
+      "difficulty": "medium",
+      "question": "A poem in which the speaker addresses a specific person, object, or idea that cannot respond is called a:",
+      "options": {
+        "A": "Lyric poem",
+        "B": "Dramatic monologue",
+        "C": "Apostrophe",
+        "D": "Ode"
+      },
+      "correct_answer": "B",
+      "explanation": "A dramatic monologue is a poem in which a speaker addresses a specific (often silent) listener, revealing character and situation through their words."
+    },
+    {
+      "id": 121,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In George Orwell's '1984', the totalitarian system is controlled by a figure known as:",
+      "options": {
+        "A": "The Party",
+        "B": "Napoleon",
+        "C": "Big Brother",
+        "D": "O'Brien"
+      },
+      "correct_answer": "C",
+      "explanation": "Big Brother is the mysterious figurehead of the totalitarian Party in Orwell's 1984. The phrase 'Big Brother is watching you' has become synonymous with surveillance."
+    },
+    {
+      "id": 122,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Shakespeare's 'Othello', the villain who manipulates Othello into jealousy is:",
+      "options": {
+        "A": "Cassio",
+        "B": "Rodrigo",
+        "C": "Iago",
+        "D": "Brabantio"
+      },
+      "correct_answer": "C",
+      "explanation": "Iago is the villainous antagonist in Othello who manipulates events to destroy Othello and Desdemona out of jealousy and revenge."
+    },
+    {
+      "id": 123,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The famous soliloquy 'To be or not to be, that is the question' is spoken by which Shakespearean character?",
+      "options": {
+        "A": "Macbeth",
+        "B": "Othello",
+        "C": "Hamlet",
+        "D": "Lear"
+      },
+      "correct_answer": "C",
+      "explanation": "Hamlet delivers this famous soliloquy in Act 3, Scene 1 of Shakespeare's Hamlet, contemplating life, death, and the meaning of existence."
+    },
+    {
+      "id": 124,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Arthur Miller's play 'Death of a Salesman' explores the theme of:",
+      "options": {
+        "A": "colonial exploitation",
+        "B": "the failure of the American Dream",
+        "C": "wartime heroism",
+        "D": "religious persecution"
+      },
+      "correct_answer": "B",
+      "explanation": "Death of a Salesman critiques the American Dream through Willy Loman, a failed salesman who cannot reconcile his illusions of success with reality."
+    },
+    {
+      "id": 125,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The protagonist of Fyodor Dostoevsky's 'Crime and Punishment' is:",
+      "options": {
+        "A": "Raskolnikov",
+        "B": "Ivan Karamazov",
+        "C": "Prince Myshkin",
+        "D": "Stavrogin"
+      },
+      "correct_answer": "A",
+      "explanation": "Raskolnikov is the protagonist of Crime and Punishment. He murders a pawnbroker and her sister and struggles with guilt and redemption."
+    },
+    {
+      "id": 126,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The play 'The Importance of Being Earnest' was written by:",
+      "options": {
+        "A": "George Bernard Shaw",
+        "B": "Oscar Wilde",
+        "C": "J.M. Barrie",
+        "D": "Harold Pinter"
+      },
+      "correct_answer": "B",
+      "explanation": "The Importance of Being Earnest (1895) is a comedic play by Oscar Wilde that satirizes Victorian society, hypocrisy, and social conventions."
+    },
+    {
+      "id": 127,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "T.S. Eliot's poem 'The Waste Land' is associated with which literary movement?",
+      "options": {
+        "A": "Romanticism",
+        "B": "Realism",
+        "C": "Modernism",
+        "D": "Naturalism"
+      },
+      "correct_answer": "C",
+      "explanation": "The Waste Land (1922) is a landmark of Modernist poetry, reflecting disillusionment after World War I through fragmented structure and allusions."
+    },
+    {
+      "id": 128,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Franz Kafka's 'The Metamorphosis' begins with the protagonist Gregor Samsa waking up to find himself transformed into:",
+      "options": {
+        "A": "a mouse",
+        "B": "a giant insect",
+        "C": "a wolf",
+        "D": "a fish"
+      },
+      "correct_answer": "B",
+      "explanation": "In The Metamorphosis, Gregor Samsa wakes to find himself transformed into a giant insect (often interpreted as a cockroach), exploring themes of alienation."
+    },
+    {
+      "id": 129,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "William Shakespeare's 'A Midsummer Night's Dream' is primarily set in:",
+      "options": {
+        "A": "ancient Rome",
+        "B": "medieval Scotland",
+        "C": "Athens and a magical forest",
+        "D": "Venice"
+      },
+      "correct_answer": "C",
+      "explanation": "A Midsummer Night's Dream is set partly in Athens and partly in a magical forest where fairies, including Oberon and Titania, interfere with human lovers."
+    },
+    {
+      "id": 130,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The literary term for the repetition of a grammatical structure in successive phrases or clauses is:",
+      "options": {
+        "A": "Anaphora",
+        "B": "Parallelism",
+        "C": "Antithesis",
+        "D": "Chiasmus"
+      },
+      "correct_answer": "B",
+      "explanation": "Parallelism is the use of the same grammatical structure in a series of phrases or clauses to create balance and emphasis."
+    },
+    {
+      "id": 131,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The division of a play into sections is called:",
+      "options": {
+        "A": "Scenes and acts",
+        "B": "Chapters and verses",
+        "C": "Stanzas and cantos",
+        "D": "Parts and episodes"
+      },
+      "correct_answer": "A",
+      "explanation": "Plays are divided into acts (larger divisions) and scenes (smaller subdivisions within acts)."
+    },
+    {
+      "id": 132,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "Wole Soyinka's play 'The Lion and the Jewel' deals with the theme of:",
+      "options": {
+        "A": "religious extremism",
+        "B": "the conflict between tradition and modernity in Africa",
+        "C": "the Biafran war",
+        "D": "Yoruba creation myths"
+      },
+      "correct_answer": "B",
+      "explanation": "The Lion and the Jewel contrasts Baroka (the traditional lion) and Lakunle (the Western-educated teacher) as they compete for Sidi (the jewel), exploring tradition vs. modernity."
+    },
+    {
+      "id": 133,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In drama, the term 'denouement' refers to:",
+      "options": {
+        "A": "the opening scene",
+        "B": "the point of highest tension",
+        "C": "the final resolution and untangling of the plot",
+        "D": "the chorus commentary"
+      },
+      "correct_answer": "C",
+      "explanation": "The denouement is the final resolution of the dramatic tension and plot complications, occurring after the climax."
+    },
+    {
+      "id": 134,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "Bertolt Brecht's 'epic theatre' aimed to:",
+      "options": {
+        "A": "create maximum emotional involvement in the audience",
+        "B": "distance the audience to make them think critically about social issues",
+        "C": "entertain through comedy alone",
+        "D": "reproduce reality as faithfully as possible"
+      },
+      "correct_answer": "B",
+      "explanation": "Brecht's Verfremdungseffekt (alienation/distancing effect) was designed to prevent emotional identification and encourage the audience's critical thinking about social issues."
+    },
+    {
+      "id": 135,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In Ola Rotimi's 'The Gods Are Not to Blame', the protagonist is Odewale, who is based on which Greek tragic hero?",
+      "options": {
+        "A": "Agamemnon",
+        "B": "Oedipus",
+        "C": "Antigone",
+        "D": "Prometheus"
+      },
+      "correct_answer": "B",
+      "explanation": "The Gods Are Not to Blame is an African adaptation of Sophocles' Oedipus Rex, set in Yoruba culture. Odewale unknowingly kills his father and marries his mother."
+    },
+    {
+      "id": 136,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In J.P. Clark's play 'Song of a Goat', the central conflict is based on:",
+      "options": {
+        "A": "a war between two communities",
+        "B": "a man's impotence and his wife's adultery with his brother",
+        "C": "the corruption of a village chief",
+        "D": "religious persecution"
+      },
+      "correct_answer": "B",
+      "explanation": "Song of a Goat (1961) explores the tragic consequences of Zifa's impotence, his wife Ebiere's affair with his brother Tonye, and the resulting family destruction."
+    },
+    {
+      "id": 137,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "A direct comparison between two unlike things using 'like' or 'as' is called a:",
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Personification",
+        "D": "Analogy"
+      },
+      "correct_answer": "B",
+      "explanation": "A simile makes a direct comparison between two unlike things using the words 'like' or 'as', e.g., 'He is as brave as a lion.'"
+    },
+    {
+      "id": 138,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "An indirect comparison between two unlike things WITHOUT using 'like' or 'as' is called a:",
+      "options": {
+        "A": "Simile",
+        "B": "Personification",
+        "C": "Metaphor",
+        "D": "Analogy"
+      },
+      "correct_answer": "C",
+      "explanation": "A metaphor states that one thing IS another, implying a comparison without 'like' or 'as', e.g., 'Life is a journey.'"
+    },
+    {
+      "id": 139,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Giving human qualities, emotions, or actions to non-human things is called:",
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Personification",
+        "D": "Apostrophe"
+      },
+      "correct_answer": "C",
+      "explanation": "Personification attributes human characteristics or behavior to non-human things, e.g., 'The wind whispered through the trees.'"
+    },
+    {
+      "id": 140,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The use of a part to represent the whole, or the whole to represent a part, is called:",
+      "options": {
+        "A": "Metonymy",
+        "B": "Synecdoche",
+        "C": "Allusion",
+        "D": "Symbolism"
+      },
+      "correct_answer": "B",
+      "explanation": "Synecdoche uses a part to represent the whole (e.g., 'all hands on deck') or the whole to represent a part (e.g., 'the world watches')."
+    },
+    {
+      "id": 141,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The substitution of one word for another closely associated with it is called:",
+      "options": {
+        "A": "Synecdoche",
+        "B": "Metonymy",
+        "C": "Allegory",
+        "D": "Irony"
+      },
+      "correct_answer": "B",
+      "explanation": "Metonymy replaces a word with something closely associated with it, e.g., 'The Crown' for the monarchy, 'the pen' for writing."
+    },
+    {
+      "id": 142,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "Understatement that involves affirming something by negating its opposite is called:",
+      "options": {
+        "A": "Hyperbole",
+        "B": "Euphemism",
+        "C": "Litotes",
+        "D": "Meiosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Litotes is understatement using a negative to affirm a positive, e.g., 'not bad' meaning 'good,' or 'not unhappy' meaning 'happy.'"
+    },
+    {
+      "id": 143,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "The arrangement of contrasting ideas in parallel structure is called:",
+      "options": {
+        "A": "Paradox",
+        "B": "Oxymoron",
+        "C": "Antithesis",
+        "D": "Chiasmus"
+      },
+      "correct_answer": "C",
+      "explanation": "Antithesis places contrasting ideas in parallel grammatical structures for balance and emphasis, e.g., 'To err is human, to forgive divine.'"
+    },
+    {
+      "id": 144,
+      "topic": "Figures of Speech",
+      "difficulty": "medium",
+      "question": "A reversal of grammatical structures in successive phrases or clauses is called:",
+      "options": {
+        "A": "Anaphora",
+        "B": "Antithesis",
+        "C": "Chiasmus",
+        "D": "Epistrophe"
+      },
+      "correct_answer": "C",
+      "explanation": "Chiasmus reverses the grammatical structure of successive phrases, e.g., 'Ask not what your country can do for you — ask what you can do for your country.'"
+    },
+    {
+      "id": 145,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The use of ambiguous language that can be interpreted in multiple ways is called:",
+      "options": {
+        "A": "Paradox",
+        "B": "Irony",
+        "C": "Ambiguity",
+        "D": "Equivocation"
+      },
+      "correct_answer": "C",
+      "explanation": "Ambiguity in literature refers to the intentional use of language that can be interpreted in multiple ways, creating depth of meaning."
+    },
+    {
+      "id": 146,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "In 'Things Fall Apart' by Chinua Achebe, the character of Ezinma is significant because she:",
+      "options": {
+        "A": "becomes a Christian convert",
+        "B": "represents the son Okonkwo always wanted",
+        "C": "leads the resistance against colonialism",
+        "D": "marries a British colonial officer"
+      },
+      "correct_answer": "B",
+      "explanation": "Ezinma, Okonkwo's favourite child and daughter, has the spirit and qualities he wished in a son. Okonkwo repeatedly laments that 'she should have been a boy.'"
+    },
+    {
+      "id": 147,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The setting of Wole Soyinka's play 'The Lion and the Jewel' is a:",
+      "options": {
+        "A": "Yoruba village in Western Nigeria",
+        "B": "city in colonial Lagos",
+        "C": "Igbo village in Eastern Nigeria",
+        "D": "rural community in Kenya"
+      },
+      "correct_answer": "A",
+      "explanation": "The Lion and the Jewel is set in Ilujinle, a fictional Yoruba village, and uses Yoruba cultural elements throughout."
+    },
+    {
+      "id": 148,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Cyprian Ekwensi is best known for which type of writing?",
+      "options": {
+        "A": "Political essays and pamphlets",
+        "B": "Urban novels depicting Lagos life",
+        "C": "Epic poetry about African warriors",
+        "D": "Colonial-era historical plays"
+      },
+      "correct_answer": "B",
+      "explanation": "Cyprian Ekwensi is known for novels like Jagua Nana and People of the City, depicting the vibrant and often corrupt urban life of Lagos."
+    },
+    {
+      "id": 149,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The concept of 'Negritude' was co-founded by Senegalese poet and statesman:",
+      "options": {
+        "A": "Wole Soyinka",
+        "B": "Léopold Sédar Senghor",
+        "C": "Chinua Achebe",
+        "D": "Ngugi wa Thiong'o"
+      },
+      "correct_answer": "B",
+      "explanation": "Léopold Sédar Senghor (Senegal), Aimé Césaire (Martinique), and Léon-Gontran Damas (French Guiana) co-founded the Negritude literary and intellectual movement."
+    },
+    {
+      "id": 150,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Chinua Achebe's novel 'No Longer at Ease' follows which character, Okonkwo's grandson, in colonial Lagos?",
+      "options": {
+        "A": "Nwoye",
+        "B": "Ikemefuna",
+        "C": "Obi Okonkwo",
+        "D": "Ezuelu"
+      },
+      "correct_answer": "C",
+      "explanation": "No Longer at Ease follows Obi Okonkwo, Okonkwo's grandson, as he struggles with corruption and the collision of traditional and modern values in colonial Lagos."
+    },
+    {
+      "id": 151,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The 'stream of consciousness' technique is most closely associated with which novelist?",
+      "options": {
+        "A": "Jane Austen",
+        "B": "Charles Dickens",
+        "C": "Virginia Woolf",
+        "D": "Thomas Hardy"
+      },
+      "correct_answer": "C",
+      "explanation": "Virginia Woolf is closely associated with the stream of consciousness technique in novels like Mrs Dalloway and To the Lighthouse."
+    },
+    {
+      "id": 152,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The novel 'Lord of the Flies' by William Golding explores the theme of:",
+      "options": {
+        "A": "the joys of childhood",
+        "B": "the inherent evil and savagery within human nature",
+        "C": "the benefits of colonial rule",
+        "D": "friendship and adventure"
+      },
+      "correct_answer": "B",
+      "explanation": "Lord of the Flies uses stranded schoolboys to explore the dark side of human nature — how civilization restrains inherent savagery, which emerges when social order breaks down."
+    },
+    {
+      "id": 153,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The play 'An Enemy of the People' was written by:",
+      "options": {
+        "A": "Arthur Miller",
+        "B": "August Wilson",
+        "C": "Henrik Ibsen",
+        "D": "Bertolt Brecht"
+      },
+      "correct_answer": "C",
+      "explanation": "An Enemy of the People (1882) is a play by Henrik Ibsen about a doctor who discovers that the town's water supply is contaminated but is silenced by community interests."
+    },
+    {
+      "id": 154,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Shakespeare's 'King Lear', Lear's tragedy begins when he:",
+      "options": {
+        "A": "goes to war against France",
+        "B": "foolishly divides his kingdom among his daughters based on their flattery",
+        "C": "kills his son Edgar",
+        "D": "is betrayed by his general"
+      },
+      "correct_answer": "B",
+      "explanation": "King Lear's downfall begins when he decides to divide his kingdom among his three daughters based on their declarations of love, rewarding flattery over genuine affection."
+    },
+    {
+      "id": 155,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The term 'deus ex machina' refers to:",
+      "options": {
+        "A": "a play involving mechanical stage effects",
+        "B": "an unlikely or artificial solution introduced to resolve a plot",
+        "C": "a god who appears as a character",
+        "D": "a machine used to create theatrical illusions"
+      },
+      "correct_answer": "B",
+      "explanation": "Deus ex machina ('god from the machine') refers to an artificial, improbable device introduced to resolve a seemingly unsolvable plot problem."
+    },
+    {
+      "id": 156,
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "question": "The critical approach that focuses on the historical and cultural context in which a work was written is called:",
+      "options": {
+        "A": "Formalism",
+        "B": "Historical/contextual criticism",
+        "C": "Psychoanalytic criticism",
+        "D": "Reader-response criticism"
+      },
+      "correct_answer": "B",
+      "explanation": "Historical/contextual criticism analyzes how the historical period, social conditions, and cultural context influenced the creation and meaning of a literary work."
+    },
+    {
+      "id": 157,
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "question": "The critical approach that focuses exclusively on the text itself — its structure, language, and form — without reference to external factors is called:",
+      "options": {
+        "A": "New Historicism",
+        "B": "Feminist criticism",
+        "C": "New Criticism (Formalism)",
+        "D": "Marxist criticism"
+      },
+      "correct_answer": "C",
+      "explanation": "New Criticism or Formalism focuses on close reading of the text itself — its language, structure, imagery, and unity — without reference to author, history, or context."
+    },
+    {
+      "id": 158,
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "question": "Feminist literary criticism is primarily concerned with:",
+      "options": {
+        "A": "the economic conditions in literary works",
+        "B": "the representation of women and gender issues in literature",
+        "C": "the psychological motivation of characters",
+        "D": "the historical accuracy of narratives"
+      },
+      "correct_answer": "B",
+      "explanation": "Feminist literary criticism examines how literature represents, marginalizes, or challenges gender roles and power structures, particularly the representation of women."
+    },
+    {
+      "id": 159,
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "question": "Post-colonial literary criticism examines:",
+      "options": {
+        "A": "literature written after the Renaissance",
+        "B": "the effects of colonialism on literature and culture, especially by formerly colonized peoples",
+        "C": "poetry written after the industrial revolution",
+        "D": "drama from the modern period"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-colonial criticism examines literature in light of colonialism, addressing cultural identity, representation, and the legacy of empire on formerly colonized peoples."
+    },
+    {
+      "id": 160,
+      "topic": "Literary Criticism",
+      "difficulty": "medium",
+      "question": "Marxist literary criticism focuses on:",
+      "options": {
+        "A": "the role of individual psychology in literature",
+        "B": "class struggle, economic forces, and ideology in literature",
+        "C": "the formal elements of literary structure",
+        "D": "the religious themes in literary works"
+      },
+      "correct_answer": "B",
+      "explanation": "Marxist criticism examines how economic and class conditions shape literary works, focusing on class conflict, power relations, and ideology."
+    },
+    {
+      "id": 161,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "Christopher Okigbo, a notable Nigerian poet, is best known for his collection:",
+      "options": {
+        "A": "Idanre and Other Poems",
+        "B": "Labyrinths",
+        "C": "A Reed in the Tide",
+        "D": "Songs of a Goat"
+      },
+      "correct_answer": "B",
+      "explanation": "Christopher Okigbo (1932–1967) is best known for his poetry collection Labyrinths, a complex and allusive work drawing on Igbo mythology and Western literary traditions."
+    },
+    {
+      "id": 162,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "Wole Soyinka's poetry collection 'Idanre and Other Poems' draws heavily on:",
+      "options": {
+        "A": "Christian imagery",
+        "B": "Yoruba mythology, particularly the god Ogun",
+        "C": "Islamic tradition",
+        "D": "Greek mythology"
+      },
+      "correct_answer": "B",
+      "explanation": "Idanre and Other Poems (1967) by Soyinka draws deeply on Yoruba mythology, especially the story of Ogun, the god of iron, creativity, and war."
+    },
+    {
+      "id": 163,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "The poem 'The Rime of the Ancient Mariner' was written by:",
+      "options": {
+        "A": "William Wordsworth",
+        "B": "John Keats",
+        "C": "Samuel Taylor Coleridge",
+        "D": "Percy Bysshe Shelley"
+      },
+      "correct_answer": "C",
+      "explanation": "The Rime of the Ancient Mariner (1798) by Samuel Taylor Coleridge is a Romantic ballad about a sailor who kills an albatross and suffers supernatural punishment."
+    },
+    {
+      "id": 164,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "William Blake's 'Songs of Innocence and Experience' contrasts:",
+      "options": {
+        "A": "urban and rural life",
+        "B": "innocence (childhood, hope) and experience (adult corruption and suffering)",
+        "C": "rich and poor social classes",
+        "D": "English and French culture"
+      },
+      "correct_answer": "B",
+      "explanation": "Blake's collection contrasts the innocent, joyful perspective of childhood with the corrupted, suffering perspective that comes with adult experience and social repression."
+    },
+    {
+      "id": 165,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "John Keats' poem 'Ode to a Nightingale' deals primarily with:",
+      "options": {
+        "A": "the beauty of nature and contrast with human mortality",
+        "B": "the horrors of war",
+        "C": "the importance of education",
+        "D": "social injustice"
+      },
+      "correct_answer": "A",
+      "explanation": "Ode to a Nightingale contrasts the immortal, unchanging song of the nightingale with human transience, pain, and mortality."
+    },
+    {
+      "id": 166,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "A poem that tells the story of a real or fictional hero's death in battle is called a:",
+      "options": {
+        "A": "Elegy",
+        "B": "Dirge",
+        "C": "Threnody",
+        "D": "All of the above can apply"
+      },
+      "correct_answer": "D",
+      "explanation": "An elegy, dirge, and threnody are all mourning poems. An elegy is a meditation on death; a dirge is a sorrowful song; a threnody is a song of lamentation."
+    },
+    {
+      "id": 167,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In Wole Soyinka's 'Death and the King's Horseman', Simon Pilkington's intervention in stopping Elesin's ritual suicide represents:",
+      "options": {
+        "A": "compassion and humanity",
+        "B": "colonial misunderstanding and cultural interference",
+        "C": "the triumph of civilization over barbarism",
+        "D": "Yoruba acceptance of colonialism"
+      },
+      "correct_answer": "B",
+      "explanation": "Soyinka presents Pilkington's intervention as a fundamental misunderstanding of Yoruba cosmology and a symbol of colonial cultural interference."
+    },
+    {
+      "id": 168,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In Bertolt Brecht's theatre, the Verfremdungseffekt (alienation effect) is achieved by:",
+      "options": {
+        "A": "making the audience forget they are watching a play",
+        "B": "reminding the audience that they are watching a theatrical performance to encourage critical thinking",
+        "C": "using extremely realistic staging and costumes",
+        "D": "selecting only familiar, everyday plots"
+      },
+      "correct_answer": "B",
+      "explanation": "The Verfremdungseffekt deliberately disrupts audience immersion by breaking the fourth wall and using anti-illusionist techniques to encourage rational analysis rather than emotional involvement."
+    },
+    {
+      "id": 169,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The narrative technique where the author presents events without expressing an opinion, letting facts speak for themselves, is called:",
+      "options": {
+        "A": "Omniscient narration",
+        "B": "Objective narration",
+        "C": "First-person narration",
+        "D": "Unreliable narration"
+      },
+      "correct_answer": "B",
+      "explanation": "Objective narration reports events without authorial comment or interpretation, leaving readers to draw their own conclusions."
+    },
+    {
+      "id": 170,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "An 'unreliable narrator' is one who:",
+      "options": {
+        "A": "tells the story accurately and truthfully",
+        "B": "cannot be fully trusted because their account is biased or limited",
+        "C": "is physically absent from the story",
+        "D": "tells the story in reverse order"
+      },
+      "correct_answer": "B",
+      "explanation": "An unreliable narrator cannot be taken at face value because their perspective is biased, limited, or self-deluded, requiring readers to read between the lines."
+    },
+    {
+      "id": 171,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Sophocles' 'Oedipus Rex' is considered a perfect example of Aristotelian tragedy because it contains:",
+      "options": {
+        "A": "many comic scenes",
+        "B": "hamartia, reversal (peripeteia), recognition (anagnorisis), and catharsis",
+        "C": "a happy ending for most characters",
+        "D": "a divine intervention at the end"
+      },
+      "correct_answer": "B",
+      "explanation": "Oedipus Rex contains all the elements Aristotle identified in tragedy: hamartia (fate), peripeteia (reversal of fortune), anagnorisis (recognition), and catharsis."
+    },
+    {
+      "id": 172,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Sophocles' 'Antigone', the central conflict is between:",
+      "options": {
+        "A": "two brothers competing for the throne",
+        "B": "Antigone's divine duty to bury her brother and Creon's law forbidding it",
+        "C": "Antigone's love for Haemon and her family obligations",
+        "D": "Creon's justice and the chorus' mercy"
+      },
+      "correct_answer": "B",
+      "explanation": "The tragedy centers on Antigone's defiance of King Creon's decree by performing burial rites for her brother Polynices, creating a conflict between divine law and human law."
+    },
+    {
+      "id": 173,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The literary period known as the 'Romantic Era' in English literature lasted approximately from:",
+      "options": {
+        "A": "1550–1650",
+        "B": "1650–1750",
+        "C": "1785–1830",
+        "D": "1900–1945"
+      },
+      "correct_answer": "C",
+      "explanation": "The Romantic Period in English literature (approximately 1785–1830) was characterized by emphasis on emotion, nature, individualism, and imagination. Key poets include Wordsworth, Keats, Shelley, and Byron."
+    },
+    {
+      "id": 174,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Charles Dickens' 'Great Expectations' follows the story of a poor orphan named:",
+      "options": {
+        "A": "Oliver Twist",
+        "B": "David Copperfield",
+        "C": "Philip Pirrip (Pip)",
+        "D": "Nicholas Nickleby"
+      },
+      "correct_answer": "C",
+      "explanation": "Great Expectations follows Philip Pirrip, known as Pip, an orphan who rises from poverty to wealth through an anonymous benefactor."
+    },
+    {
+      "id": 175,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The novella 'Heart of Darkness' by Joseph Conrad is set in:",
+      "options": {
+        "A": "West Africa",
+        "B": "the Belgian Congo",
+        "C": "South Africa",
+        "D": "East Africa"
+      },
+      "correct_answer": "B",
+      "explanation": "Heart of Darkness follows Marlow's journey up the Congo River in the Belgian Congo (present-day DRC), exploring colonialism and the darkness within human nature."
+    },
+    {
+      "id": 176,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "The dominant theme of Ben Okri's 'The Famished Road' is:",
+      "options": {
+        "A": "the civil war in Nigeria",
+        "B": "the journey of an abiku (spirit child) between the worlds of the living and the dead",
+        "C": "political corruption in post-independence Nigeria",
+        "D": "the life of Yoruba traders"
+      },
+      "correct_answer": "B",
+      "explanation": "The Famished Road features Azaro, an abiku (spirit child) who repeatedly chooses between the spirit world and the living world, using magical realism to explore Nigerian life."
+    },
+    {
+      "id": 177,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "'Season of Anomy' is a novel by:",
+      "options": {
+        "A": "Chinua Achebe",
+        "B": "Wole Soyinka",
+        "C": "J.P. Clark",
+        "D": "Christopher Okigbo"
+      },
+      "correct_answer": "B",
+      "explanation": "Season of Anomy (1973) is a novel by Wole Soyinka loosely based on the Orpheus myth, set against the backdrop of Nigeria's civil war."
+    },
+    {
+      "id": 178,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "The Sundiata epic is the oral narrative of the founding hero of:",
+      "options": {
+        "A": "the Zulu kingdom",
+        "B": "the Mali Empire",
+        "C": "the Ashanti kingdom",
+        "D": "the Oyo Empire"
+      },
+      "correct_answer": "B",
+      "explanation": "The Sundiata epic tells the story of Sundiata Keita, the founder of the Mali Empire in 13th-century West Africa, traditionally performed by griots."
+    },
+    {
+      "id": 179,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "A tongue twister in oral literature primarily serves to:",
+      "options": {
+        "A": "teach children historical facts",
+        "B": "develop and test speech skills and provide entertainment",
+        "C": "invoke supernatural powers",
+        "D": "preserve genealogical records"
+      },
+      "correct_answer": "B",
+      "explanation": "Tongue twisters are designed to challenge pronunciation and are used both to entertain and to develop speech fluency and articulation."
+    },
+    {
+      "id": 180,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "The oral genre known as 'ijala' in Yoruba tradition is a form of:",
+      "options": {
+        "A": "funeral music for royalty",
+        "B": "hunters' poetry and praise chants",
+        "C": "children's nursery rhymes",
+        "D": "initiation songs for young women"
+      },
+      "correct_answer": "B",
+      "explanation": "Ijala are Yoruba hunters' chants, a form of oral poetry performed at celebrations associated with Ogun (god of iron and hunting) and at hunters' gatherings."
+    },
+    {
+      "id": 181,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "J.P. Clark's poem 'Abiku' and Wole Soyinka's poem of the same name both deal with:",
+      "options": {
+        "A": "the beauty of the Ijaw landscape",
+        "B": "the Yoruba/Ijaw concept of the spirit child born to die repeatedly",
+        "C": "the horrors of the Biafran war",
+        "D": "praise for Nigerian leaders"
+      },
+      "correct_answer": "B",
+      "explanation": "Both J.P. Clark and Wole Soyinka wrote poems titled 'Abiku,' exploring the Yoruba/Ijaw belief in the abiku — a spirit child who is born and dies repeatedly."
+    },
+    {
+      "id": 182,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "William Wordsworth's poem 'Tintern Abbey' belongs to which poetry collection?",
+      "options": {
+        "A": "Songs of Innocence",
+        "B": "Lyrical Ballads",
+        "C": "Leaves of Grass",
+        "D": "Idylls of the King"
+      },
+      "correct_answer": "B",
+      "explanation": "Lyrical Ballads (1798), co-authored by Wordsworth and Coleridge, launched the Romantic Age in English literature. 'Tintern Abbey' is the final poem in the collection."
+    },
+    {
+      "id": 183,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The term 'hamartia' in tragedy means:",
+      "options": {
+        "A": "the resolution of the conflict",
+        "B": "the hero's fatal flaw or error in judgment",
+        "C": "the play's climactic moment",
+        "D": "the chorus' commentary"
+      },
+      "correct_answer": "B",
+      "explanation": "Hamartia (from Greek) is the fatal flaw or error in judgment of the tragic hero that leads to their downfall. Aristotle used this term in Poetics."
+    },
+    {
+      "id": 184,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "In Wole Soyinka's 'The Road', the character Murano represents:",
+      "options": {
+        "A": "colonial oppression",
+        "B": "a transitional being between life and death (the Yoruba 'agemo')",
+        "C": "the corrupt Nigerian government",
+        "D": "a Yoruba warrior hero"
+      },
+      "correct_answer": "B",
+      "explanation": "Murano is a palm-wine carrier struck by a lorry who exists in a transitional state between life and death, embodying the Yoruba agemo (masquerade deity). He symbolizes the road between existence and non-existence."
+    },
+    {
+      "id": 185,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The term 'Romantic Irony' refers to:",
+      "options": {
+        "A": "irony used in love poetry",
+        "B": "the author's self-awareness of the literary work as artifice",
+        "C": "the contrast between romantic idealism and harsh reality",
+        "D": "dramatic irony in Romantic plays"
+      },
+      "correct_answer": "B",
+      "explanation": "Romantic Irony is the author's self-conscious awareness of the constructed nature of their work, often breaking the fictional illusion to reflect on the process of creation."
+    },
+    {
+      "id": 186,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The term 'verisimilitude' in literature refers to:",
+      "options": {
+        "A": "the use of verse in drama",
+        "B": "the appearance of being true or real in a fictional work",
+        "C": "similarity between two literary works",
+        "D": "the moral truth of a story"
+      },
+      "correct_answer": "B",
+      "explanation": "Verisimilitude is the quality of seeming real, true, or probable — the representation of things in a way that appears realistic and believable."
+    },
+    {
+      "id": 187,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "An extended metaphor that runs throughout a poem or an entire literary work is called a:",
+      "options": {
+        "A": "Conceit",
+        "B": "Allegory",
+        "C": "Motif",
+        "D": "Symbol"
+      },
+      "correct_answer": "A",
+      "explanation": "A conceit is an extended and elaborate metaphor (often surprising or unconventional) that draws a comparison between two very dissimilar things throughout a work."
+    },
+    {
+      "id": 188,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "The term 'in medias res' means that a narrative begins:",
+      "options": {
+        "A": "at the very beginning of events",
+        "B": "at the end and works backwards",
+        "C": "in the middle of the action",
+        "D": "with the resolution"
+      },
+      "correct_answer": "C",
+      "explanation": "In medias res (Latin: 'in the middle of things') is a narrative technique that begins the story in the midst of the action, providing background through flashbacks."
+    },
+    {
+      "id": 189,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "Gabriel García Márquez's 'One Hundred Years of Solitude' is an example of:",
+      "options": {
+        "A": "Social realism",
+        "B": "Magical realism",
+        "C": "Naturalism",
+        "D": "Surrealism"
+      },
+      "correct_answer": "B",
+      "explanation": "One Hundred Years of Solitude is a landmark of magical realism, blending fantastical and supernatural elements with everyday realistic events in Latin American society."
+    },
+    {
+      "id": 190,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In Achebe's 'Things Fall Apart', the District Commissioner plans to write a book about Okonkwo. This book's planned title 'The Pacification of the Primitive Tribes of the Lower Niger' represents:",
+      "options": {
+        "A": "the colonialists' accurate view of events",
+        "B": "the colonial dismissal and distortion of African history",
+        "C": "Okonkwo's true legacy",
+        "D": "the success of the Christian mission"
+      },
+      "correct_answer": "B",
+      "explanation": "The planned title reflects the colonial narrative that reduces the complex, tragic story of Okonkwo and his society to a mere footnote in a colonialist account."
+    },
+    {
+      "id": 191,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Flora Nwapa is significant in African literature primarily because she:",
+      "options": {
+        "A": "won the Nobel Prize for Literature",
+        "B": "was the first African woman to publish a novel in English",
+        "C": "wrote the first novel set in Nigeria",
+        "D": "founded the Negritude movement"
+      },
+      "correct_answer": "B",
+      "explanation": "Flora Nwapa (1931–1993) is considered the first African woman to publish a novel in English — Efuru (1966), which explored the lives of Igbo women."
+    },
+    {
+      "id": 192,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "In Ngugi wa Thiong'o's 'Petals of Blood', the four main characters come from different social backgrounds to represent:",
+      "options": {
+        "A": "the four seasons",
+        "B": "different aspects of post-independence disillusionment in Kenya",
+        "C": "the Mau Mau freedom fighters",
+        "D": "different Kenyan ethnic groups"
+      },
+      "correct_answer": "B",
+      "explanation": "Petals of Blood uses its four protagonists (Munira, Abdulla, Karega, and Wanja) to represent different social perspectives on post-independence corruption and disillusionment in Kenya."
+    },
+    {
+      "id": 193,
+      "topic": "Drama",
+      "difficulty": "medium",
+      "question": "The technique of having an actor speak directly to the audience while other characters cannot hear is called 'breaking the:",
+      "options": {
+        "A": "narrative",
+        "B": "fourth wall",
+        "C": "dramatic tension",
+        "D": "theatrical convention"
+      },
+      "correct_answer": "B",
+      "explanation": "Breaking the fourth wall occurs when an actor acknowledges the audience directly, breaking the imaginary 'wall' between the stage and the audience."
+    },
+    {
+      "id": 194,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "A long digressive passage in a narrative that interrupts the main story is called:",
+      "options": {
+        "A": "An episode",
+        "B": "An interpolation",
+        "C": "A digression",
+        "D": "A subplot"
+      },
+      "correct_answer": "C",
+      "explanation": "A digression is a passage that departs from the main subject of the narrative, often to provide background, humor, or commentary."
+    },
+    {
+      "id": 195,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "In John Steinbeck's 'Of Mice and Men', the character Lennie Small's tragic flaw is his:",
+      "options": {
+        "A": "greed",
+        "B": "excessive physical strength combined with intellectual disability",
+        "C": "desire for revenge",
+        "D": "excessive pride"
+      },
+      "correct_answer": "B",
+      "explanation": "Lennie's combination of great physical strength and intellectual disability makes him unable to control his actions, ultimately leading to tragedy."
+    },
+    {
+      "id": 196,
+      "topic": "Oral Literature",
+      "difficulty": "medium",
+      "question": "The Ozidi Saga of the Ijaw people of Nigeria is significant because it is:",
+      "options": {
+        "A": "a short proverb collection",
+        "B": "a seven-day oral performance epic about the hero Ozidi",
+        "C": "a creation myth about the Niger Delta",
+        "D": "a collection of Ijaw love songs"
+      },
+      "correct_answer": "B",
+      "explanation": "The Ozidi Saga is a seven-day performance epic of the Ijaw people, dramatizing the story of the hero Ozidi's revenge for his father's death. It was transcribed by J.P. Clark."
+    },
+    {
+      "id": 197,
+      "topic": "Non-African Literature",
+      "difficulty": "medium",
+      "question": "The term 'stream of consciousness' was first coined by:",
+      "options": {
+        "A": "Virginia Woolf",
+        "B": "William James",
+        "C": "James Joyce",
+        "D": "Sigmund Freud"
+      },
+      "correct_answer": "B",
+      "explanation": "The term 'stream of consciousness' was coined by American psychologist William James in his Principles of Psychology (1890) to describe the flow of thoughts."
+    },
+    {
+      "id": 198,
+      "topic": "Poetry",
+      "difficulty": "medium",
+      "question": "The American poet Walt Whitman is known for his use of:",
+      "options": {
+        "A": "strict sonnets",
+        "B": "free verse with long, flowing lines and cataloguing",
+        "C": "terza rima",
+        "D": "haiku"
+      },
+      "correct_answer": "B",
+      "explanation": "Walt Whitman pioneered the use of free verse in American poetry in Leaves of Grass, using long, flowing, unrhymed lines and cataloguing (listing) to celebrate democracy and the individual."
+    },
+    {
+      "id": 199,
+      "topic": "African Literature",
+      "difficulty": "medium",
+      "question": "Tsitsi Dangarembga's 'Nervous Conditions' is set in:",
+      "options": {
+        "A": "post-independence Nigeria",
+        "B": "colonial Rhodesia (Zimbabwe)",
+        "C": "apartheid South Africa",
+        "D": "post-independence Ghana"
+      },
+      "correct_answer": "B",
+      "explanation": "Nervous Conditions (1988) is set in colonial Rhodesia (now Zimbabwe) and explores the experiences of Tambudzai, a young Shona woman, and the psychological effects of colonialism and patriarchy."
+    },
+    {
+      "id": 200,
+      "topic": "Literary Terms",
+      "difficulty": "medium",
+      "question": "When a work of fiction refers to itself as fiction or draws attention to its own constructed nature, this is called:",
+      "options": {
+        "A": "Allegory",
+        "B": "Metafiction",
+        "C": "Stream of consciousness",
+        "D": "Magical realism"
+      },
+      "correct_answer": "B",
+      "explanation": "Metafiction is a form of fiction that self-consciously addresses the devices of fiction, drawing attention to its status as a constructed artifact rather than a representation of reality."
+    }
+  ]
+}

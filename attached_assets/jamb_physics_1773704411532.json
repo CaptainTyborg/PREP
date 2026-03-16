@@ -1,0 +1,2806 @@
+{
+  "subject": "Physics",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "Which of the following is a derived unit?",
+      "options": {
+        "A": "Kilogram",
+        "B": "Ampere",
+        "C": "Newton",
+        "D": "Kelvin"
+      },
+      "correct_answer": "C",
+      "explanation": "Newton (N) is a derived unit equal to kg·m/s². Kilogram, Ampere, and Kelvin are all SI base units."
+    },
+    {
+      "id": 2,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "The dimension of velocity is:",
+      "options": {
+        "A": "MLT⁻¹",
+        "B": "LT⁻¹",
+        "C": "MLT⁻²",
+        "D": "LT⁻²"
+      },
+      "correct_answer": "B",
+      "explanation": "Velocity = displacement/time = L/T = LT⁻¹. Mass is not involved, so there is no M in the dimension."
+    },
+    {
+      "id": 3,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "The SI unit of electric charge is:",
+      "options": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Coulomb",
+        "D": "Farad"
+      },
+      "correct_answer": "C",
+      "explanation": "The SI unit of electric charge is the Coulomb (C). 1 C = 1 A × 1 s."
+    },
+    {
+      "id": 4,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "A student measures a length as 5.30 cm. How many significant figures does this measurement have?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "explanation": "5.30 has three significant figures: 5, 3, and the trailing zero after the decimal point which is significant."
+    },
+    {
+      "id": 5,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "Which instrument is most suitable for measuring the diameter of a wire?",
+      "options": {
+        "A": "Metre rule",
+        "B": "Vernier callipers",
+        "C": "Micrometer screw gauge",
+        "D": "Measuring tape"
+      },
+      "correct_answer": "C",
+      "explanation": "A micrometer screw gauge measures very small lengths (0.01 mm precision) and is best suited for measuring wire diameter."
+    },
+    {
+      "id": 6,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "The dimension of pressure is:",
+      "options": {
+        "A": "MLT⁻²",
+        "B": "ML⁻¹T⁻²",
+        "C": "ML²T⁻²",
+        "D": "ML⁻²T⁻¹"
+      },
+      "correct_answer": "B",
+      "explanation": "Pressure = Force/Area = (MLT⁻²)/L² = ML⁻¹T⁻²."
+    },
+    {
+      "id": 7,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "Which of the following is a scalar quantity?",
+      "options": {
+        "A": "Force",
+        "B": "Velocity",
+        "C": "Momentum",
+        "D": "Temperature"
+      },
+      "correct_answer": "D",
+      "explanation": "Temperature has magnitude only and no direction, making it a scalar. Force, velocity, and momentum are vectors."
+    },
+    {
+      "id": 8,
+      "topic": "Measurement and Units",
+      "difficulty": "medium",
+      "question": "The least count of a Vernier callipers is:",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.01 mm",
+        "C": "1 mm",
+        "D": "0.001 mm"
+      },
+      "correct_answer": "A",
+      "explanation": "The standard least count of a Vernier callipers is 0.1 mm (or 0.01 cm), while a micrometer screw gauge has 0.01 mm."
+    },
+    {
+      "id": 9,
+      "topic": "Scalars and Vectors",
+      "difficulty": "medium",
+      "question": "Two forces of 3 N and 4 N act at right angles to each other. Their resultant is:",
+      "options": {
+        "A": "1 N",
+        "B": "5 N",
+        "C": "7 N",
+        "D": "12 N"
+      },
+      "correct_answer": "B",
+      "explanation": "Using Pythagoras' theorem: R = √(3² + 4²) = √(9 + 16) = √25 = 5 N."
+    },
+    {
+      "id": 10,
+      "topic": "Scalars and Vectors",
+      "difficulty": "medium",
+      "question": "Which of the following pairs consists of two vector quantities?",
+      "options": {
+        "A": "Speed and velocity",
+        "B": "Distance and displacement",
+        "C": "Acceleration and force",
+        "D": "Mass and weight"
+      },
+      "correct_answer": "C",
+      "explanation": "Both acceleration and force are vector quantities — they have both magnitude and direction."
+    },
+    {
+      "id": 11,
+      "topic": "Scalars and Vectors",
+      "difficulty": "medium",
+      "question": "A vector of magnitude 10 N is resolved into two perpendicular components. If one component is 6 N, the other component is:",
+      "options": {
+        "A": "4 N",
+        "B": "8 N",
+        "C": "16 N",
+        "D": "4.5 N"
+      },
+      "correct_answer": "B",
+      "explanation": "Using Pythagoras: other component = √(10² - 6²) = √(100 - 36) = √64 = 8 N."
+    },
+    {
+      "id": 12,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "A body is said to be in uniform motion if it:",
+      "options": {
+        "A": "moves with increasing speed",
+        "B": "covers equal distances in equal time intervals",
+        "C": "accelerates at a constant rate",
+        "D": "moves in a curved path"
+      },
+      "correct_answer": "B",
+      "explanation": "Uniform motion means constant velocity — the body covers equal distances in equal time intervals."
+    },
+    {
+      "id": 13,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?",
+      "options": {
+        "A": "2 m/s²",
+        "B": "4 m/s²",
+        "C": "100 m/s²",
+        "D": "0.25 m/s²"
+      },
+      "correct_answer": "B",
+      "explanation": "Acceleration = (v - u)/t = (20 - 0)/5 = 4 m/s²."
+    },
+    {
+      "id": 14,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "A body is thrown vertically upward with a velocity of 20 m/s. What is the maximum height reached? (g = 10 m/s²)",
+      "options": {
+        "A": "10 m",
+        "B": "20 m",
+        "C": "40 m",
+        "D": "2 m"
+      },
+      "correct_answer": "B",
+      "explanation": "Using v² = u² - 2gh, at maximum height v = 0: 0 = 400 - 2(10)h → h = 400/20 = 20 m."
+    },
+    {
+      "id": 15,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "The velocity-time graph of a body moving with uniform acceleration is a:",
+      "options": {
+        "A": "horizontal straight line",
+        "B": "curved line",
+        "C": "straight line with a positive slope",
+        "D": "vertical straight line"
+      },
+      "correct_answer": "C",
+      "explanation": "Uniform acceleration means velocity increases at a constant rate, producing a straight line with a positive slope on a v-t graph."
+    },
+    {
+      "id": 16,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "A ball is dropped from a height of 80 m. How long does it take to reach the ground? (g = 10 m/s²)",
+      "options": {
+        "A": "2 s",
+        "B": "4 s",
+        "C": "8 s",
+        "D": "16 s"
+      },
+      "correct_answer": "B",
+      "explanation": "Using h = ½gt²: 80 = ½(10)t² → t² = 16 → t = 4 s."
+    },
+    {
+      "id": 17,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "The area under a velocity-time graph represents:",
+      "options": {
+        "A": "acceleration",
+        "B": "force",
+        "C": "displacement",
+        "D": "momentum"
+      },
+      "correct_answer": "C",
+      "explanation": "The area under a velocity-time (v-t) graph equals displacement (distance travelled)."
+    },
+    {
+      "id": 18,
+      "topic": "Motion",
+      "difficulty": "medium",
+      "question": "A car travels 60 km in 1 hour and then 40 km in the next hour. What is its average speed?",
+      "options": {
+        "A": "50 km/h",
+        "B": "100 km/h",
+        "C": "20 km/h",
+        "D": "60 km/h"
+      },
+      "correct_answer": "A",
+      "explanation": "Average speed = total distance / total time = (60 + 40) / (1 + 1) = 100/2 = 50 km/h."
+    },
+    {
+      "id": 19,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "Newton's first law of motion is also known as the law of:",
+      "options": {
+        "A": "action and reaction",
+        "B": "inertia",
+        "C": "conservation of momentum",
+        "D": "gravitation"
+      },
+      "correct_answer": "B",
+      "explanation": "Newton's first law states that a body at rest or uniform motion continues in that state unless acted upon by an external force — this is the law of inertia."
+    },
+    {
+      "id": 20,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "A force of 10 N acts on a mass of 2 kg. What is the acceleration produced?",
+      "options": {
+        "A": "20 m/s²",
+        "B": "5 m/s²",
+        "C": "0.2 m/s²",
+        "D": "12 m/s²"
+      },
+      "correct_answer": "B",
+      "explanation": "Using Newton's second law: F = ma → a = F/m = 10/2 = 5 m/s²."
+    },
+    {
+      "id": 21,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "When a gun is fired, the gun recoils backwards. This is an example of Newton's:",
+      "options": {
+        "A": "first law",
+        "B": "second law",
+        "C": "third law",
+        "D": "law of gravitation"
+      },
+      "correct_answer": "C",
+      "explanation": "Newton's third law states that for every action there is an equal and opposite reaction. The bullet moving forward and gun recoiling backward demonstrate this."
+    },
+    {
+      "id": 22,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "The momentum of a body of mass 5 kg moving at 10 m/s is:",
+      "options": {
+        "A": "2 kg·m/s",
+        "B": "50 kg·m/s",
+        "C": "0.5 kg·m/s",
+        "D": "15 kg·m/s"
+      },
+      "correct_answer": "B",
+      "explanation": "Momentum p = mv = 5 × 10 = 50 kg·m/s."
+    },
+    {
+      "id": 23,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "Impulse is equal to:",
+      "options": {
+        "A": "force × distance",
+        "B": "mass × acceleration",
+        "C": "force × time",
+        "D": "mass × velocity²"
+      },
+      "correct_answer": "C",
+      "explanation": "Impulse = Force × time = F × t. It is also equal to the change in momentum (Δp)."
+    },
+    {
+      "id": 24,
+      "topic": "Newton's Laws of Motion",
+      "difficulty": "medium",
+      "question": "A body of mass 4 kg moving at 6 m/s collides with a stationary body of mass 2 kg and they move together. What is their common velocity?",
+      "options": {
+        "A": "3 m/s",
+        "B": "4 m/s",
+        "C": "2 m/s",
+        "D": "6 m/s"
+      },
+      "correct_answer": "B",
+      "explanation": "By conservation of momentum: 4×6 = (4+2)×v → 24 = 6v → v = 4 m/s."
+    },
+    {
+      "id": 25,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "The work done by a force of 10 N acting through a distance of 5 m in the direction of the force is:",
+      "options": {
+        "A": "2 J",
+        "B": "15 J",
+        "C": "50 J",
+        "D": "0.5 J"
+      },
+      "correct_answer": "C",
+      "explanation": "Work = Force × distance = 10 × 5 = 50 J."
+    },
+    {
+      "id": 26,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "A machine does 500 J of work in 10 seconds. Its power is:",
+      "options": {
+        "A": "5000 W",
+        "B": "50 W",
+        "C": "510 W",
+        "D": "490 W"
+      },
+      "correct_answer": "B",
+      "explanation": "Power = Work/time = 500/10 = 50 W."
+    },
+    {
+      "id": 27,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "A body of mass 2 kg is at a height of 10 m. Its potential energy is: (g = 10 m/s²)",
+      "options": {
+        "A": "20 J",
+        "B": "200 J",
+        "C": "2 J",
+        "D": "100 J"
+      },
+      "correct_answer": "B",
+      "explanation": "Potential energy = mgh = 2 × 10 × 10 = 200 J."
+    },
+    {
+      "id": 28,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "A body of mass 4 kg moving at 5 m/s has kinetic energy of:",
+      "options": {
+        "A": "10 J",
+        "B": "20 J",
+        "C": "50 J",
+        "D": "100 J"
+      },
+      "correct_answer": "C",
+      "explanation": "KE = ½mv² = ½ × 4 × 5² = ½ × 4 × 25 = 50 J."
+    },
+    {
+      "id": 29,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "The law of conservation of energy states that energy:",
+      "options": {
+        "A": "can be created from nothing",
+        "B": "can be destroyed during use",
+        "C": "can be converted from one form to another but cannot be created or destroyed",
+        "D": "is always converted to heat"
+      },
+      "correct_answer": "C",
+      "explanation": "The law of conservation of energy states that the total energy in a system remains constant — it can change form but cannot be created or destroyed."
+    },
+    {
+      "id": 30,
+      "topic": "Energy, Work and Power",
+      "difficulty": "medium",
+      "question": "The efficiency of a machine that does 400 J of useful work when 500 J is supplied to it is:",
+      "options": {
+        "A": "125%",
+        "B": "25%",
+        "C": "80%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Efficiency = (useful work output / work input) × 100 = (400/500) × 100 = 80%."
+    },
+    {
+      "id": 31,
+      "topic": "Friction",
+      "difficulty": "medium",
+      "question": "Friction is caused mainly by:",
+      "options": {
+        "A": "the weight of objects",
+        "B": "surface roughness and molecular attraction between surfaces",
+        "C": "the velocity of moving objects",
+        "D": "gravitational pull"
+      },
+      "correct_answer": "B",
+      "explanation": "Friction arises from surface irregularities (roughness) and intermolecular forces between surfaces in contact."
+    },
+    {
+      "id": 32,
+      "topic": "Friction",
+      "difficulty": "medium",
+      "question": "Which of the following is an advantage of friction?",
+      "options": {
+        "A": "It causes wear and tear of machine parts",
+        "B": "It converts mechanical energy to heat",
+        "C": "It enables us to walk without slipping",
+        "D": "It reduces the efficiency of machines"
+      },
+      "correct_answer": "C",
+      "explanation": "Friction between our feet and the ground prevents slipping, which is essential for walking."
+    },
+    {
+      "id": 33,
+      "topic": "Friction",
+      "difficulty": "medium",
+      "question": "The coefficient of friction (μ) between two surfaces is defined as:",
+      "options": {
+        "A": "μ = Normal reaction / Friction force",
+        "B": "μ = Friction force / Normal reaction",
+        "C": "μ = Weight / Friction force",
+        "D": "μ = Friction force × Normal reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "The coefficient of friction μ = F/R, where F is the friction force and R is the normal reaction force."
+    },
+    {
+      "id": 34,
+      "topic": "Simple Machines",
+      "difficulty": "medium",
+      "question": "The mechanical advantage (MA) of a machine is defined as:",
+      "options": {
+        "A": "Load / Effort",
+        "B": "Effort / Load",
+        "C": "Work output / Work input",
+        "D": "Power output / Power input"
+      },
+      "correct_answer": "A",
+      "explanation": "Mechanical Advantage = Load / Effort. It tells how much a machine multiplies the applied force."
+    },
+    {
+      "id": 35,
+      "topic": "Simple Machines",
+      "difficulty": "medium",
+      "question": "A lever has a load arm of 2 m and an effort arm of 6 m. What is its mechanical advantage?",
+      "options": {
+        "A": "3",
+        "B": "12",
+        "C": "0.33",
+        "D": "8"
+      },
+      "correct_answer": "A",
+      "explanation": "For a lever, MA = effort arm / load arm = 6/2 = 3."
+    },
+    {
+      "id": 36,
+      "topic": "Simple Machines",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a second-class lever?",
+      "options": {
+        "A": "Scissors",
+        "B": "Seesaw",
+        "C": "Wheelbarrow",
+        "D": "Fishing rod"
+      },
+      "correct_answer": "C",
+      "explanation": "In a second-class lever, the load is between the fulcrum and effort. A wheelbarrow is a classic example."
+    },
+    {
+      "id": 37,
+      "topic": "Gravitational Force",
+      "difficulty": "medium",
+      "question": "The value of acceleration due to gravity g at the Earth's surface is approximately:",
+      "options": {
+        "A": "9.8 cm/s²",
+        "B": "9.8 m/s²",
+        "C": "98 m/s²",
+        "D": "0.98 m/s²"
+      },
+      "correct_answer": "B",
+      "explanation": "The standard value of acceleration due to gravity at Earth's surface is g ≈ 9.8 m/s² (often approximated as 10 m/s² in calculations)."
+    },
+    {
+      "id": 38,
+      "topic": "Gravitational Force",
+      "difficulty": "medium",
+      "question": "An object weighs 60 N on Earth. What is its mass? (g = 10 m/s²)",
+      "options": {
+        "A": "6 kg",
+        "B": "60 kg",
+        "C": "600 kg",
+        "D": "0.6 kg"
+      },
+      "correct_answer": "A",
+      "explanation": "Weight W = mg → m = W/g = 60/10 = 6 kg."
+    },
+    {
+      "id": 39,
+      "topic": "Gravitational Force",
+      "difficulty": "medium",
+      "question": "According to Newton's law of universal gravitation, the gravitational force between two bodies is:",
+      "options": {
+        "A": "directly proportional to the square of the distance between them",
+        "B": "inversely proportional to the product of their masses",
+        "C": "directly proportional to the product of their masses and inversely proportional to the square of the distance",
+        "D": "independent of the masses of the bodies"
+      },
+      "correct_answer": "C",
+      "explanation": "F = Gm₁m₂/r². Force is directly proportional to the product of masses and inversely proportional to the square of the distance."
+    },
+    {
+      "id": 40,
+      "topic": "Gravitational Force",
+      "difficulty": "medium",
+      "question": "The weight of a body is zero at:",
+      "options": {
+        "A": "the Earth's poles",
+        "B": "the centre of the Earth",
+        "C": "the equator",
+        "D": "the top of a mountain"
+      },
+      "correct_answer": "B",
+      "explanation": "At the Earth's centre, gravitational force is zero (contributions from all sides cancel out), so weight = mg = 0."
+    },
+    {
+      "id": 41,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "Hooke's Law states that the extension of a spring is:",
+      "options": {
+        "A": "inversely proportional to the applied force",
+        "B": "proportional to the square of the applied force",
+        "C": "directly proportional to the applied force within the elastic limit",
+        "D": "independent of the applied force"
+      },
+      "correct_answer": "C",
+      "explanation": "Hooke's Law: F = ke, where extension e is directly proportional to force F within the elastic limit."
+    },
+    {
+      "id": 42,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "A spring of spring constant 200 N/m is stretched by 0.05 m. The elastic potential energy stored is:",
+      "options": {
+        "A": "10 J",
+        "B": "5 J",
+        "C": "0.25 J",
+        "D": "4 J"
+      },
+      "correct_answer": "C",
+      "explanation": "Elastic PE = ½ke² = ½ × 200 × (0.05)² = ½ × 200 × 0.0025 = 0.25 J."
+    },
+    {
+      "id": 43,
+      "topic": "Elasticity",
+      "difficulty": "medium",
+      "question": "The point beyond which a material no longer returns to its original shape after the force is removed is called the:",
+      "options": {
+        "A": "breaking point",
+        "B": "elastic limit",
+        "C": "yield point",
+        "D": "proportionality limit"
+      },
+      "correct_answer": "B",
+      "explanation": "The elastic limit is the maximum extent to which a solid can be stretched without permanent deformation occurring."
+    },
+    {
+      "id": 44,
+      "topic": "Pressure",
+      "difficulty": "medium",
+      "question": "Pressure in a liquid at a certain depth depends on:",
+      "options": {
+        "A": "the volume of the liquid",
+        "B": "the density and depth of the liquid",
+        "C": "the shape of the container",
+        "D": "the temperature of the liquid only"
+      },
+      "correct_answer": "B",
+      "explanation": "Liquid pressure P = ρgh, which depends on the density (ρ) and depth (h) of the liquid, and g."
+    },
+    {
+      "id": 45,
+      "topic": "Pressure",
+      "difficulty": "medium",
+      "question": "A column of water 10 m high exerts a pressure of: (density of water = 1000 kg/m³, g = 10 m/s²)",
+      "options": {
+        "A": "1000 Pa",
+        "B": "10,000 Pa",
+        "C": "100,000 Pa",
+        "D": "100 Pa"
+      },
+      "correct_answer": "C",
+      "explanation": "P = ρgh = 1000 × 10 × 10 = 100,000 Pa = 10⁵ Pa."
+    },
+    {
+      "id": 46,
+      "topic": "Pressure",
+      "difficulty": "medium",
+      "question": "Archimedes' principle states that a body immersed in a fluid experiences an upthrust equal to:",
+      "options": {
+        "A": "the weight of the body",
+        "B": "the volume of the fluid displaced",
+        "C": "the weight of fluid displaced",
+        "D": "the mass of the body"
+      },
+      "correct_answer": "C",
+      "explanation": "Archimedes' principle: the upthrust (buoyant force) on an immersed body equals the weight of the fluid it displaces."
+    },
+    {
+      "id": 47,
+      "topic": "Pressure",
+      "difficulty": "medium",
+      "question": "Pascal's principle states that pressure applied to an enclosed fluid:",
+      "options": {
+        "A": "is absorbed by the container walls",
+        "B": "is transmitted equally to all parts of the fluid",
+        "C": "increases with depth",
+        "D": "decreases with temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Pascal's principle: any pressure change applied to an enclosed incompressible fluid is transmitted undiminished to every part of the fluid."
+    },
+    {
+      "id": 48,
+      "topic": "Pressure",
+      "difficulty": "medium",
+      "question": "Atmospheric pressure at sea level is approximately:",
+      "options": {
+        "A": "101,325 Pa",
+        "B": "10,132.5 Pa",
+        "C": "1,013,250 Pa",
+        "D": "1013.25 Pa"
+      },
+      "correct_answer": "A",
+      "explanation": "Standard atmospheric pressure at sea level is 101,325 Pa (approximately 1 atm or 760 mmHg)."
+    },
+    {
+      "id": 49,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "The temperature at which all molecular motion ceases is:",
+      "options": {
+        "A": "0°C",
+        "B": "-100°C",
+        "C": "-273°C",
+        "D": "100°C"
+      },
+      "correct_answer": "C",
+      "explanation": "Absolute zero is -273.15°C (or 0 K), the temperature at which all molecular motion theoretically stops."
+    },
+    {
+      "id": 50,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "Convert 37°C (normal body temperature) to Kelvin:",
+      "options": {
+        "A": "100 K",
+        "B": "236 K",
+        "C": "310 K",
+        "D": "374 K"
+      },
+      "correct_answer": "C",
+      "explanation": "T(K) = T(°C) + 273 = 37 + 273 = 310 K."
+    },
+    {
+      "id": 51,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "The specific heat capacity of a substance is the heat required to:",
+      "options": {
+        "A": "melt 1 kg of the substance",
+        "B": "raise the temperature of 1 kg of the substance by 1°C",
+        "C": "vaporize 1 kg of the substance",
+        "D": "raise the temperature of 1 g of the substance by 100°C"
+      },
+      "correct_answer": "B",
+      "explanation": "Specific heat capacity (c) is the amount of heat needed to raise the temperature of 1 kg of a substance by 1°C (or 1 K)."
+    },
+    {
+      "id": 52,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "How much heat is required to raise the temperature of 2 kg of water from 20°C to 70°C? (specific heat capacity of water = 4200 J/kg°C)",
+      "options": {
+        "A": "168,000 J",
+        "B": "420,000 J",
+        "C": "84,000 J",
+        "D": "840,000 J"
+      },
+      "correct_answer": "B",
+      "explanation": "Q = mcΔT = 2 × 4200 × (70 - 20) = 2 × 4200 × 50 = 420,000 J."
+    },
+    {
+      "id": 53,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "The process by which heat is transferred through a solid material is called:",
+      "options": {
+        "A": "convection",
+        "B": "radiation",
+        "C": "conduction",
+        "D": "evaporation"
+      },
+      "correct_answer": "C",
+      "explanation": "Conduction is the transfer of heat through a solid material by direct contact between neighboring particles."
+    },
+    {
+      "id": 54,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "Heat transfer by convection occurs mainly in:",
+      "options": {
+        "A": "solids only",
+        "B": "liquids and gases",
+        "C": "vacuum",
+        "D": "metals only"
+      },
+      "correct_answer": "B",
+      "explanation": "Convection involves the actual movement of heated fluid (liquid or gas) particles, so it occurs in fluids."
+    },
+    {
+      "id": 55,
+      "topic": "Temperature and Heat",
+      "difficulty": "medium",
+      "question": "The latent heat of vaporization of water is the heat required to:",
+      "options": {
+        "A": "raise the temperature of 1 kg of water by 1°C",
+        "B": "melt 1 kg of ice at 0°C",
+        "C": "convert 1 kg of water at 100°C to steam at 100°C",
+        "D": "heat 1 kg of water from 0°C to 100°C"
+      },
+      "correct_answer": "C",
+      "explanation": "Latent heat of vaporization is the heat absorbed during a phase change from liquid to gas at constant temperature."
+    },
+    {
+      "id": 56,
+      "topic": "Thermal Expansion",
+      "difficulty": "medium",
+      "question": "Which of the following expands most for the same rise in temperature?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "All expand by the same amount"
+      },
+      "correct_answer": "C",
+      "explanation": "Gases expand most due to their large intermolecular spacing and weak forces. The order is: gas > liquid > solid."
+    },
+    {
+      "id": 57,
+      "topic": "Thermal Expansion",
+      "difficulty": "medium",
+      "question": "A bimetallic strip bends when heated because the two metals have:",
+      "options": {
+        "A": "different densities",
+        "B": "different thermal conductivities",
+        "C": "different linear expansivities",
+        "D": "different melting points"
+      },
+      "correct_answer": "C",
+      "explanation": "The two metals in a bimetallic strip have different coefficients of linear expansion, causing unequal expansion and bending."
+    },
+    {
+      "id": 58,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "Boyle's Law states that at constant temperature, the pressure of a fixed mass of gas is:",
+      "options": {
+        "A": "directly proportional to its volume",
+        "B": "inversely proportional to its volume",
+        "C": "directly proportional to its temperature",
+        "D": "independent of its volume"
+      },
+      "correct_answer": "B",
+      "explanation": "Boyle's Law: P ∝ 1/V at constant temperature, or PV = constant."
+    },
+    {
+      "id": 59,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "A gas occupies 500 cm³ at a pressure of 200 kPa. At constant temperature, what volume will it occupy at 400 kPa?",
+      "options": {
+        "A": "1000 cm³",
+        "B": "250 cm³",
+        "C": "750 cm³",
+        "D": "200 cm³"
+      },
+      "correct_answer": "B",
+      "explanation": "Using Boyle's Law: P₁V₁ = P₂V₂ → 200 × 500 = 400 × V₂ → V₂ = 100,000/400 = 250 cm³."
+    },
+    {
+      "id": 60,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "Charles' Law states that at constant pressure, the volume of a fixed mass of gas is:",
+      "options": {
+        "A": "inversely proportional to its absolute temperature",
+        "B": "directly proportional to its absolute temperature",
+        "C": "directly proportional to pressure",
+        "D": "independent of temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Charles' Law: V ∝ T (at constant pressure), where T is absolute temperature in Kelvin."
+    },
+    {
+      "id": 61,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "The ideal gas equation is:",
+      "options": {
+        "A": "PV = nRT",
+        "B": "PV = RT",
+        "C": "PT = nRV",
+        "D": "P/T = nRV"
+      },
+      "correct_answer": "A",
+      "explanation": "The ideal gas equation is PV = nRT, where n is the number of moles and R is the universal gas constant."
+    },
+    {
+      "id": 62,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "The number of complete oscillations made by a wave in one second is called:",
+      "options": {
+        "A": "wavelength",
+        "B": "amplitude",
+        "C": "period",
+        "D": "frequency"
+      },
+      "correct_answer": "D",
+      "explanation": "Frequency is the number of complete oscillations or cycles per second, measured in Hertz (Hz)."
+    },
+    {
+      "id": 63,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "The relationship between wave speed (v), frequency (f), and wavelength (λ) is:",
+      "options": {
+        "A": "v = f/λ",
+        "B": "v = fλ",
+        "C": "v = λ/f",
+        "D": "f = vλ"
+      },
+      "correct_answer": "B",
+      "explanation": "The wave equation is v = fλ — wave speed equals frequency multiplied by wavelength."
+    },
+    {
+      "id": 64,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "A wave has a frequency of 50 Hz and a wavelength of 2 m. Its speed is:",
+      "options": {
+        "A": "25 m/s",
+        "B": "100 m/s",
+        "C": "52 m/s",
+        "D": "48 m/s"
+      },
+      "correct_answer": "B",
+      "explanation": "v = fλ = 50 × 2 = 100 m/s."
+    },
+    {
+      "id": 65,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "Which of the following is a transverse wave?",
+      "options": {
+        "A": "Sound wave",
+        "B": "Ultrasonic wave",
+        "C": "Light wave",
+        "D": "Seismic P-wave"
+      },
+      "correct_answer": "C",
+      "explanation": "Light waves are transverse waves where oscillations are perpendicular to the direction of propagation. Sound waves are longitudinal."
+    },
+    {
+      "id": 66,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "The bending of waves around obstacles or through openings is called:",
+      "options": {
+        "A": "reflection",
+        "B": "refraction",
+        "C": "diffraction",
+        "D": "interference"
+      },
+      "correct_answer": "C",
+      "explanation": "Diffraction is the bending of waves around edges of obstacles or when passing through a narrow opening."
+    },
+    {
+      "id": 67,
+      "topic": "Waves",
+      "difficulty": "medium",
+      "question": "The change in observed frequency of a wave due to relative motion between the source and observer is called the:",
+      "options": {
+        "A": "reflection effect",
+        "B": "Doppler effect",
+        "C": "interference pattern",
+        "D": "resonance effect"
+      },
+      "correct_answer": "B",
+      "explanation": "The Doppler effect is the apparent change in frequency of a wave when the source or observer is moving relative to the other."
+    },
+    {
+      "id": 68,
+      "topic": "Sound Waves",
+      "difficulty": "medium",
+      "question": "Sound travels fastest in:",
+      "options": {
+        "A": "air",
+        "B": "vacuum",
+        "C": "water",
+        "D": "steel"
+      },
+      "correct_answer": "D",
+      "explanation": "Sound speed increases with the stiffness of the medium. Steel is the most rigid, so sound travels fastest in steel."
+    },
+    {
+      "id": 69,
+      "topic": "Sound Waves",
+      "difficulty": "medium",
+      "question": "Sound cannot travel through a vacuum because:",
+      "options": {
+        "A": "vacuum is too cold",
+        "B": "sound requires a material medium for propagation",
+        "C": "vacuum absorbs sound",
+        "D": "sound is a transverse wave"
+      },
+      "correct_answer": "B",
+      "explanation": "Sound is a mechanical wave that requires a material medium (solid, liquid, or gas) to propagate. It cannot travel through vacuum."
+    },
+    {
+      "id": 70,
+      "topic": "Sound Waves",
+      "difficulty": "medium",
+      "question": "The pitch of a musical note depends on its:",
+      "options": {
+        "A": "amplitude",
+        "B": "frequency",
+        "C": "wavelength",
+        "D": "speed"
+      },
+      "correct_answer": "B",
+      "explanation": "The pitch of a sound depends on its frequency — higher frequency gives higher pitch."
+    },
+    {
+      "id": 71,
+      "topic": "Sound Waves",
+      "difficulty": "medium",
+      "question": "The loudness of a sound depends on its:",
+      "options": {
+        "A": "frequency",
+        "B": "wavelength",
+        "C": "amplitude",
+        "D": "velocity"
+      },
+      "correct_answer": "C",
+      "explanation": "The loudness of a sound is related to the amplitude (energy) of the sound wave — larger amplitude gives louder sound."
+    },
+    {
+      "id": 72,
+      "topic": "Sound Waves",
+      "difficulty": "medium",
+      "question": "An echo is produced when sound is:",
+      "options": {
+        "A": "refracted by a surface",
+        "B": "diffracted around an obstacle",
+        "C": "reflected by a surface",
+        "D": "absorbed by a surface"
+      },
+      "correct_answer": "C",
+      "explanation": "An echo is the reflection of sound waves from a hard surface back to the listener."
+    },
+    {
+      "id": 73,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "The speed of light in a vacuum is approximately:",
+      "options": {
+        "A": "3 × 10⁶ m/s",
+        "B": "3 × 10⁸ m/s",
+        "C": "3 × 10¹⁰ m/s",
+        "D": "3 × 10⁴ m/s"
+      },
+      "correct_answer": "B",
+      "explanation": "The speed of light in vacuum is approximately 3 × 10⁸ m/s (299,792,458 m/s)."
+    },
+    {
+      "id": 74,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "The law of reflection states that the angle of incidence is:",
+      "options": {
+        "A": "greater than the angle of reflection",
+        "B": "less than the angle of reflection",
+        "C": "equal to the angle of reflection",
+        "D": "unrelated to the angle of reflection"
+      },
+      "correct_answer": "C",
+      "explanation": "The first law of reflection states that the angle of incidence equals the angle of reflection, both measured from the normal."
+    },
+    {
+      "id": 75,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "Total internal reflection occurs when light travels from a:",
+      "options": {
+        "A": "denser medium to a less dense medium at an angle greater than the critical angle",
+        "B": "less dense medium to a denser medium",
+        "C": "denser medium to a less dense medium at any angle",
+        "D": "less dense medium to a denser medium at the critical angle"
+      },
+      "correct_answer": "A",
+      "explanation": "Total internal reflection occurs when light in a denser medium hits the boundary at an angle equal to or greater than the critical angle."
+    },
+    {
+      "id": 76,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "The refractive index of glass is 1.5. What is the speed of light in glass? (speed in vacuum = 3 × 10⁸ m/s)",
+      "options": {
+        "A": "4.5 × 10⁸ m/s",
+        "B": "1.5 × 10⁸ m/s",
+        "C": "2.0 × 10⁸ m/s",
+        "D": "4.5 × 10⁷ m/s"
+      },
+      "correct_answer": "C",
+      "explanation": "n = c/v → v = c/n = (3 × 10⁸)/1.5 = 2.0 × 10⁸ m/s."
+    },
+    {
+      "id": 77,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "A converging lens is also known as a:",
+      "options": {
+        "A": "concave lens",
+        "B": "diverging lens",
+        "C": "convex lens",
+        "D": "plane lens"
+      },
+      "correct_answer": "C",
+      "explanation": "A converging (convex) lens is thicker at the centre and causes parallel rays to converge to a focal point."
+    },
+    {
+      "id": 78,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "A concave mirror forms a virtual image when the object is:",
+      "options": {
+        "A": "beyond the centre of curvature",
+        "B": "at the focal point",
+        "C": "between the focal point and the mirror",
+        "D": "at the centre of curvature"
+      },
+      "correct_answer": "C",
+      "explanation": "When the object is between the focal point and a concave mirror, a virtual, erect, and magnified image is formed behind the mirror."
+    },
+    {
+      "id": 79,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "The splitting of white light into its component colors by a prism is called:",
+      "options": {
+        "A": "reflection",
+        "B": "diffraction",
+        "C": "dispersion",
+        "D": "refraction"
+      },
+      "correct_answer": "C",
+      "explanation": "Dispersion is the separation of white light into its component colors (spectrum) due to different wavelengths refracting at slightly different angles."
+    },
+    {
+      "id": 80,
+      "topic": "Light",
+      "difficulty": "medium",
+      "question": "The lens formula is:",
+      "options": {
+        "A": "1/f = 1/u + 1/v",
+        "B": "1/f = 1/u - 1/v",
+        "C": "f = u + v",
+        "D": "f = uv/(u+v)"
+      },
+      "correct_answer": "A",
+      "explanation": "The thin lens formula is 1/f = 1/v + 1/u, where f is focal length, v is image distance, and u is object distance."
+    },
+    {
+      "id": 81,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "Ohm's Law states that, at constant temperature, the current through a conductor is:",
+      "options": {
+        "A": "inversely proportional to the voltage",
+        "B": "directly proportional to the resistance",
+        "C": "directly proportional to the voltage",
+        "D": "independent of the voltage"
+      },
+      "correct_answer": "C",
+      "explanation": "Ohm's Law: V = IR, meaning current I is directly proportional to voltage V at constant temperature."
+    },
+    {
+      "id": 82,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "A resistor of 10 Ω has a current of 2 A flowing through it. The potential difference across it is:",
+      "options": {
+        "A": "5 V",
+        "B": "8 V",
+        "C": "12 V",
+        "D": "20 V"
+      },
+      "correct_answer": "D",
+      "explanation": "Using Ohm's Law: V = IR = 2 × 10 = 20 V."
+    },
+    {
+      "id": 83,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "Three resistors of 2 Ω, 3 Ω, and 6 Ω are connected in parallel. Their combined resistance is:",
+      "options": {
+        "A": "11 Ω",
+        "B": "1 Ω",
+        "C": "6 Ω",
+        "D": "2 Ω"
+      },
+      "correct_answer": "B",
+      "explanation": "1/R = 1/2 + 1/3 + 1/6 = 3/6 + 2/6 + 1/6 = 6/6 = 1. Therefore R = 1 Ω."
+    },
+    {
+      "id": 84,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "The electrical power dissipated in a resistor of resistance R with current I is:",
+      "options": {
+        "A": "P = IR",
+        "B": "P = I²R",
+        "C": "P = IR²",
+        "D": "P = I/R"
+      },
+      "correct_answer": "B",
+      "explanation": "Power P = I²R. This can also be written as P = V²/R or P = VI."
+    },
+    {
+      "id": 85,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "A 60 W bulb is connected to a 240 V supply. The current drawn is:",
+      "options": {
+        "A": "4 A",
+        "B": "14,400 A",
+        "C": "0.25 A",
+        "D": "180 A"
+      },
+      "correct_answer": "C",
+      "explanation": "P = VI → I = P/V = 60/240 = 0.25 A."
+    },
+    {
+      "id": 86,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "The SI unit of electrical resistance is:",
+      "options": {
+        "A": "Ampere",
+        "B": "Volt",
+        "C": "Watt",
+        "D": "Ohm"
+      },
+      "correct_answer": "D",
+      "explanation": "The SI unit of electrical resistance is the Ohm (Ω), named after Georg Simon Ohm."
+    },
+    {
+      "id": 87,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "Resistors connected in series have the same:",
+      "options": {
+        "A": "voltage across each",
+        "B": "current through each",
+        "C": "resistance",
+        "D": "power dissipated"
+      },
+      "correct_answer": "B",
+      "explanation": "In a series circuit, the same current flows through all components. Voltage is shared."
+    },
+    {
+      "id": 88,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "The instrument used to measure electric current is the:",
+      "options": {
+        "A": "voltmeter",
+        "B": "ohmmeter",
+        "C": "ammeter",
+        "D": "galvanometer"
+      },
+      "correct_answer": "C",
+      "explanation": "An ammeter measures electric current in amperes. It is connected in series in a circuit."
+    },
+    {
+      "id": 89,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "The electrical energy consumed by a 100 W appliance used for 5 hours is:",
+      "options": {
+        "A": "0.5 kWh",
+        "B": "20 kWh",
+        "C": "500 kWh",
+        "D": "5 kWh"
+      },
+      "correct_answer": "A",
+      "explanation": "Energy = Power × time = 100 W × 5 h = 500 Wh = 0.5 kWh."
+    },
+    {
+      "id": 90,
+      "topic": "Electricity",
+      "difficulty": "medium",
+      "question": "A fuse in an electrical circuit is used to:",
+      "options": {
+        "A": "increase the current in the circuit",
+        "B": "measure the voltage",
+        "C": "protect the circuit from excessive current",
+        "D": "reduce voltage fluctuations"
+      },
+      "correct_answer": "C",
+      "explanation": "A fuse melts when the current exceeds a safe level, thereby breaking the circuit and protecting equipment from damage."
+    },
+    {
+      "id": 91,
+      "topic": "Magnetism",
+      "difficulty": "medium",
+      "question": "Magnetic field lines around a bar magnet:",
+      "options": {
+        "A": "run from south to north inside the magnet",
+        "B": "run from north to south outside the magnet",
+        "C": "form closed loops from north to south outside and south to north inside",
+        "D": "are always straight lines"
+      },
+      "correct_answer": "C",
+      "explanation": "Magnetic field lines are closed loops. Outside the magnet they run from N to S, and inside from S to N."
+    },
+    {
+      "id": 92,
+      "topic": "Magnetism",
+      "difficulty": "medium",
+      "question": "The Earth's magnetic north pole is geographically located near the:",
+      "options": {
+        "A": "geographic South Pole",
+        "B": "geographic North Pole",
+        "C": "equator",
+        "D": "Tropic of Cancer"
+      },
+      "correct_answer": "B",
+      "explanation": "The Earth's magnetic north pole (which attracts the north-seeking pole of a compass) is near the geographic North Pole."
+    },
+    {
+      "id": 93,
+      "topic": "Magnetism",
+      "difficulty": "medium",
+      "question": "Which of the following materials is NOT a ferromagnetic material?",
+      "options": {
+        "A": "Iron",
+        "B": "Nickel",
+        "C": "Cobalt",
+        "D": "Copper"
+      },
+      "correct_answer": "D",
+      "explanation": "Copper is diamagnetic (very weakly repelled by magnets). Iron, nickel, and cobalt are ferromagnetic."
+    },
+    {
+      "id": 94,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "Fleming's left-hand rule is used to determine the direction of:",
+      "options": {
+        "A": "induced EMF",
+        "B": "magnetic field",
+        "C": "force on a current-carrying conductor in a magnetic field",
+        "D": "current in a generator"
+      },
+      "correct_answer": "C",
+      "explanation": "Fleming's left-hand rule (motor rule) gives the direction of force on a current-carrying conductor in a magnetic field."
+    },
+    {
+      "id": 95,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "An electric transformer works on the principle of:",
+      "options": {
+        "A": "mutual induction",
+        "B": "self induction",
+        "C": "static electricity",
+        "D": "thermoelectric effect"
+      },
+      "correct_answer": "A",
+      "explanation": "A transformer uses mutual inductance — a changing current in the primary coil induces an EMF in the secondary coil."
+    },
+    {
+      "id": 96,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "A step-up transformer has 100 turns in the primary coil and 500 turns in the secondary coil. If the primary voltage is 240 V, the secondary voltage is:",
+      "options": {
+        "A": "48 V",
+        "B": "1200 V",
+        "C": "240 V",
+        "D": "340 V"
+      },
+      "correct_answer": "B",
+      "explanation": "Vs/Vp = Ns/Np → Vs = Vp × (Ns/Np) = 240 × (500/100) = 240 × 5 = 1200 V."
+    },
+    {
+      "id": 97,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "Faraday's law of electromagnetic induction states that the induced EMF is:",
+      "options": {
+        "A": "proportional to the current in the circuit",
+        "B": "proportional to the rate of change of magnetic flux",
+        "C": "inversely proportional to the magnetic field strength",
+        "D": "independent of the speed of motion"
+      },
+      "correct_answer": "B",
+      "explanation": "Faraday's law: the magnitude of the induced EMF is proportional to the rate of change of magnetic flux (dΦ/dt)."
+    },
+    {
+      "id": 98,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "A device that converts mechanical energy to electrical energy is called a:",
+      "options": {
+        "A": "transformer",
+        "B": "electric motor",
+        "C": "generator (dynamo)",
+        "D": "capacitor"
+      },
+      "correct_answer": "C",
+      "explanation": "A generator converts mechanical energy (rotation) to electrical energy using electromagnetic induction."
+    },
+    {
+      "id": 99,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "Lenz's law states that the direction of induced current is such that it:",
+      "options": {
+        "A": "opposes the change causing it",
+        "B": "supports the change causing it",
+        "C": "is always in the same direction as the external field",
+        "D": "depends on the resistance of the circuit"
+      },
+      "correct_answer": "A",
+      "explanation": "Lenz's law: the induced current always flows in a direction that opposes the change in magnetic flux that produced it."
+    },
+    {
+      "id": 100,
+      "topic": "Electromagnetism",
+      "difficulty": "medium",
+      "question": "The unit of magnetic flux is:",
+      "options": {
+        "A": "Tesla",
+        "B": "Weber",
+        "C": "Ampere",
+        "D": "Henry"
+      },
+      "correct_answer": "B",
+      "explanation": "The SI unit of magnetic flux is the Weber (Wb). 1 Wb = 1 T·m². Tesla is the unit of magnetic flux density."
+    },
+    {
+      "id": 101,
+      "topic": "Capacitors",
+      "difficulty": "medium",
+      "question": "The capacitance of a capacitor is defined as:",
+      "options": {
+        "A": "the charge per unit voltage",
+        "B": "the voltage per unit charge",
+        "C": "the energy stored per unit charge",
+        "D": "the resistance per unit voltage"
+      },
+      "correct_answer": "A",
+      "explanation": "Capacitance C = Q/V, the charge stored per unit potential difference (voltage). The SI unit is the Farad (F)."
+    },
+    {
+      "id": 102,
+      "topic": "Capacitors",
+      "difficulty": "medium",
+      "question": "When capacitors are connected in parallel, the total capacitance is:",
+      "options": {
+        "A": "less than the smallest individual capacitance",
+        "B": "equal to the smallest individual capacitance",
+        "C": "the sum of all individual capacitances",
+        "D": "the product of all individual capacitances"
+      },
+      "correct_answer": "C",
+      "explanation": "For capacitors in parallel: C_total = C₁ + C₂ + C₃ + ... This is opposite to resistors in parallel."
+    },
+    {
+      "id": 103,
+      "topic": "Capacitors",
+      "difficulty": "medium",
+      "question": "The energy stored in a capacitor of capacitance C charged to voltage V is:",
+      "options": {
+        "A": "CV",
+        "B": "½CV",
+        "C": "½CV²",
+        "D": "CV²"
+      },
+      "correct_answer": "C",
+      "explanation": "The energy stored in a capacitor is E = ½CV². This can also be written as E = Q²/(2C) or E = QV/2."
+    },
+    {
+      "id": 104,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "A diode allows current to flow:",
+      "options": {
+        "A": "in both directions equally",
+        "B": "only in one direction",
+        "C": "only when no voltage is applied",
+        "D": "in any direction depending on temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "A diode is a semiconductor device that allows current to flow in only one direction (when forward-biased)."
+    },
+    {
+      "id": 105,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "In a p-n junction diode, the majority charge carriers in the p-type semiconductor are:",
+      "options": {
+        "A": "electrons",
+        "B": "protons",
+        "C": "holes",
+        "D": "neutrons"
+      },
+      "correct_answer": "C",
+      "explanation": "In a p-type semiconductor, the majority carriers are holes (positive charge carriers created by the absence of electrons)."
+    },
+    {
+      "id": 106,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "A transistor can be used as:",
+      "options": {
+        "A": "a switch and amplifier only",
+        "B": "a capacitor",
+        "C": "an inductor",
+        "D": "a power source"
+      },
+      "correct_answer": "A",
+      "explanation": "A transistor is primarily used as an electronic switch and as an amplifier in electronic circuits."
+    },
+    {
+      "id": 107,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "The process of converting alternating current (AC) to direct current (DC) is called:",
+      "options": {
+        "A": "amplification",
+        "B": "modulation",
+        "C": "rectification",
+        "D": "inversion"
+      },
+      "correct_answer": "C",
+      "explanation": "Rectification is the conversion of AC to DC, typically performed by diodes in a rectifier circuit."
+    },
+    {
+      "id": 108,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "Which gate produces a HIGH output only when ALL its inputs are HIGH?",
+      "options": {
+        "A": "OR gate",
+        "B": "AND gate",
+        "C": "NOT gate",
+        "D": "NOR gate"
+      },
+      "correct_answer": "B",
+      "explanation": "An AND gate produces a HIGH (1) output only when all inputs are HIGH. Output = A·B."
+    },
+    {
+      "id": 109,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "A NOT gate (inverter) produces:",
+      "options": {
+        "A": "an output that is the same as the input",
+        "B": "an output that is the complement (opposite) of the input",
+        "C": "a HIGH output when both inputs are HIGH",
+        "D": "a HIGH output when any input is HIGH"
+      },
+      "correct_answer": "B",
+      "explanation": "A NOT gate inverts its input: if input is 1, output is 0, and vice versa."
+    },
+    {
+      "id": 110,
+      "topic": "Electronics",
+      "difficulty": "medium",
+      "question": "n-type semiconductors are made by adding impurities that provide:",
+      "options": {
+        "A": "extra holes",
+        "B": "extra electrons",
+        "C": "extra protons",
+        "D": "extra neutrons"
+      },
+      "correct_answer": "B",
+      "explanation": "n-type semiconductors are doped with pentavalent impurities (e.g., phosphorus) that donate extra electrons as majority carriers."
+    },
+    {
+      "id": 111,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "The nucleus of an atom contains:",
+      "options": {
+        "A": "protons and electrons",
+        "B": "protons and neutrons",
+        "C": "neutrons and electrons",
+        "D": "protons only"
+      },
+      "correct_answer": "B",
+      "explanation": "The atomic nucleus contains protons (positively charged) and neutrons (no charge). Electrons orbit the nucleus."
+    },
+    {
+      "id": 112,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "The atomic number of an element represents the number of:",
+      "options": {
+        "A": "neutrons in the nucleus",
+        "B": "protons in the nucleus",
+        "C": "electrons in the outer shell",
+        "D": "nucleons in the nucleus"
+      },
+      "correct_answer": "B",
+      "explanation": "The atomic number (Z) is the number of protons in the nucleus. In a neutral atom, it also equals the number of electrons."
+    },
+    {
+      "id": 113,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "Alpha (α) particles are identical to:",
+      "options": {
+        "A": "helium atoms",
+        "B": "hydrogen nuclei",
+        "C": "helium nuclei (2 protons + 2 neutrons)",
+        "D": "high-energy photons"
+      },
+      "correct_answer": "C",
+      "explanation": "Alpha particles consist of 2 protons and 2 neutrons, identical to a helium-4 nucleus (⁴₂He)."
+    },
+    {
+      "id": 114,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "Beta (β) radiation consists of:",
+      "options": {
+        "A": "helium nuclei",
+        "B": "electromagnetic waves",
+        "C": "fast-moving electrons",
+        "D": "protons"
+      },
+      "correct_answer": "C",
+      "explanation": "Beta particles are high-energy, high-speed electrons (or positrons) emitted from the nucleus during beta decay."
+    },
+    {
+      "id": 115,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "Which type of nuclear radiation has the greatest penetrating power?",
+      "options": {
+        "A": "Alpha particles",
+        "B": "Beta particles",
+        "C": "Gamma rays",
+        "D": "X-rays"
+      },
+      "correct_answer": "C",
+      "explanation": "Gamma rays are electromagnetic radiation with the greatest penetrating power — they can penetrate several centimeters of lead."
+    },
+    {
+      "id": 116,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "The half-life of a radioactive substance is the time for:",
+      "options": {
+        "A": "all the radioactive atoms to decay",
+        "B": "half the radioactive atoms to decay",
+        "C": "the radiation to reduce to zero",
+        "D": "the substance to lose half its mass"
+      },
+      "correct_answer": "B",
+      "explanation": "Half-life is the time taken for half the radioactive nuclei in a sample to decay."
+    },
+    {
+      "id": 117,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "A radioactive substance has a half-life of 10 years. Starting with 80 g, how much remains after 30 years?",
+      "options": {
+        "A": "40 g",
+        "B": "20 g",
+        "C": "10 g",
+        "D": "5 g"
+      },
+      "correct_answer": "C",
+      "explanation": "30 years = 3 half-lives. After each half-life: 80 → 40 → 20 → 10 g."
+    },
+    {
+      "id": 118,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "Nuclear fission involves:",
+      "options": {
+        "A": "combining two light nuclei to form a heavier nucleus",
+        "B": "splitting a heavy nucleus into two lighter nuclei",
+        "C": "emitting alpha particles from a nucleus",
+        "D": "electrons orbiting the nucleus"
+      },
+      "correct_answer": "B",
+      "explanation": "Nuclear fission is the splitting of a heavy nucleus (e.g., uranium-235) into smaller fragments, releasing large amounts of energy."
+    },
+    {
+      "id": 119,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "The process that powers the sun is primarily:",
+      "options": {
+        "A": "nuclear fission",
+        "B": "chemical combustion",
+        "C": "nuclear fusion",
+        "D": "radioactive decay"
+      },
+      "correct_answer": "C",
+      "explanation": "The sun generates energy through nuclear fusion, where hydrogen nuclei fuse to form helium, releasing enormous energy."
+    },
+    {
+      "id": 120,
+      "topic": "Atomic and Nuclear Physics",
+      "difficulty": "medium",
+      "question": "The mass number of an element is the total number of:",
+      "options": {
+        "A": "protons only",
+        "B": "electrons only",
+        "C": "protons and neutrons (nucleons)",
+        "D": "neutrons only"
+      },
+      "correct_answer": "C",
+      "explanation": "The mass number (A) is the total number of nucleons (protons + neutrons) in the nucleus."
+    },
+    {
+      "id": 121,
+      "topic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+      "options": {
+        "A": "Radio waves",
+        "B": "Infrared rays",
+        "C": "Visible light",
+        "D": "Gamma rays"
+      },
+      "correct_answer": "D",
+      "explanation": "Gamma rays have the shortest wavelength (and highest frequency) in the electromagnetic spectrum."
+    },
+    {
+      "id": 122,
+      "topic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "Ultraviolet (UV) radiation is responsible for:",
+      "options": {
+        "A": "night vision",
+        "B": "heating food in a microwave",
+        "C": "causing sunburn",
+        "D": "transmitting radio signals"
+      },
+      "correct_answer": "C",
+      "explanation": "UV radiation from the sun causes sunburn (erythema) by damaging skin cells."
+    },
+    {
+      "id": 123,
+      "topic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "Infrared radiation is mainly associated with:",
+      "options": {
+        "A": "ionizing atoms",
+        "B": "producing X-ray images",
+        "C": "heat and thermal radiation",
+        "D": "killing bacteria"
+      },
+      "correct_answer": "C",
+      "explanation": "Infrared radiation is thermal radiation — all objects above absolute zero emit infrared radiation as heat."
+    },
+    {
+      "id": 124,
+      "topic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "X-rays are used in medicine mainly because they:",
+      "options": {
+        "A": "can pass through soft tissue but are absorbed by bones",
+        "B": "produce heat in the body",
+        "C": "are visible to the human eye",
+        "D": "have very long wavelengths"
+      },
+      "correct_answer": "A",
+      "explanation": "X-rays pass through soft tissue but are absorbed by denser materials like bones, making internal structures visible."
+    },
+    {
+      "id": 125,
+      "topic": "Electromagnetic Spectrum",
+      "difficulty": "medium",
+      "question": "Microwaves are used in cooking because they:",
+      "options": {
+        "A": "are absorbed by water molecules in food, causing heating",
+        "B": "are visible and can heat surfaces directly",
+        "C": "reflect off food surfaces",
+        "D": "have very high frequencies that ionize food"
+      },
+      "correct_answer": "A",
+      "explanation": "Microwaves are absorbed by water molecules in food, causing them to vibrate and generate heat throughout the food."
+    },
+    {
+      "id": 126,
+      "topic": "Simple Harmonic Motion",
+      "difficulty": "medium",
+      "question": "In simple harmonic motion, the acceleration of the body is:",
+      "options": {
+        "A": "proportional to and in the same direction as the displacement",
+        "B": "constant and independent of displacement",
+        "C": "proportional to displacement and directed toward the equilibrium position",
+        "D": "zero at all times"
+      },
+      "correct_answer": "C",
+      "explanation": "In SHM: a = -ω²x. The acceleration is proportional to displacement and always directed toward the equilibrium position (restoring force)."
+    },
+    {
+      "id": 127,
+      "topic": "Simple Harmonic Motion",
+      "difficulty": "medium",
+      "question": "The period of a simple pendulum depends on:",
+      "options": {
+        "A": "the mass of the bob",
+        "B": "the amplitude of oscillation",
+        "C": "the length of the pendulum and g",
+        "D": "the material of the string"
+      },
+      "correct_answer": "C",
+      "explanation": "T = 2π√(L/g). The period of a simple pendulum depends only on its length L and g, not on mass or amplitude."
+    },
+    {
+      "id": 128,
+      "topic": "Simple Harmonic Motion",
+      "difficulty": "medium",
+      "question": "In SHM, maximum kinetic energy occurs at:",
+      "options": {
+        "A": "the extreme positions",
+        "B": "the equilibrium position",
+        "C": "all positions equally",
+        "D": "positions halfway between extremes and equilibrium"
+      },
+      "correct_answer": "B",
+      "explanation": "In SHM, KE is maximum at the equilibrium position (where PE = 0) and zero at the extremes."
+    },
+    {
+      "id": 129,
+      "topic": "Simple Harmonic Motion",
+      "difficulty": "medium",
+      "question": "A pendulum has a period of 2 s. Its frequency is:",
+      "options": {
+        "A": "2 Hz",
+        "B": "4 Hz",
+        "C": "0.5 Hz",
+        "D": "1 Hz"
+      },
+      "correct_answer": "C",
+      "explanation": "Frequency f = 1/T = 1/2 = 0.5 Hz."
+    },
+    {
+      "id": 130,
+      "topic": "Surface Tension",
+      "difficulty": "medium",
+      "question": "Surface tension is defined as the force per unit ______ acting along the surface of a liquid.",
+      "options": {
+        "A": "area",
+        "B": "volume",
+        "C": "length",
+        "D": "depth"
+      },
+      "correct_answer": "C",
+      "explanation": "Surface tension γ = F/L, force per unit length acting along the surface. Its SI unit is N/m."
+    },
+    {
+      "id": 131,
+      "topic": "Surface Tension",
+      "difficulty": "medium",
+      "question": "Which of the following phenomena is due to surface tension?",
+      "options": {
+        "A": "Convection currents in water",
+        "B": "A needle floating on water",
+        "C": "Water boiling at 100°C",
+        "D": "Steam condensing on a cold surface"
+      },
+      "correct_answer": "B",
+      "explanation": "A steel needle can float on water due to surface tension, which creates a 'skin' on the water surface."
+    },
+    {
+      "id": 132,
+      "topic": "Viscosity",
+      "difficulty": "medium",
+      "question": "Viscosity of a fluid is a measure of:",
+      "options": {
+        "A": "its density",
+        "B": "its resistance to flow",
+        "C": "its surface tension",
+        "D": "its boiling point"
+      },
+      "correct_answer": "B",
+      "explanation": "Viscosity measures a fluid's internal resistance to flow (its 'thickness'). Honey has high viscosity, water has low viscosity."
+    },
+    {
+      "id": 133,
+      "topic": "Viscosity",
+      "difficulty": "medium",
+      "question": "As the temperature of a liquid increases, its viscosity:",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains the same",
+        "D": "first increases then decreases"
+      },
+      "correct_answer": "B",
+      "explanation": "For liquids, viscosity decreases as temperature increases because intermolecular forces weaken with heat."
+    },
+    {
+      "id": 134,
+      "topic": "Circular Motion",
+      "difficulty": "medium",
+      "question": "A body moving in a circular path at constant speed has:",
+      "options": {
+        "A": "constant velocity",
+        "B": "zero acceleration",
+        "C": "centripetal acceleration directed toward the center",
+        "D": "increasing kinetic energy"
+      },
+      "correct_answer": "C",
+      "explanation": "In uniform circular motion, the speed is constant but velocity direction changes, giving centripetal acceleration directed toward the center."
+    },
+    {
+      "id": 135,
+      "topic": "Circular Motion",
+      "difficulty": "medium",
+      "question": "The centripetal force required to keep a body of mass m moving in a circle of radius r at speed v is:",
+      "options": {
+        "A": "mv/r",
+        "B": "mvr",
+        "C": "mv²/r",
+        "D": "m/vr"
+      },
+      "correct_answer": "C",
+      "explanation": "Centripetal force F = mv²/r. This force is directed toward the centre of the circular path."
+    },
+    {
+      "id": 136,
+      "topic": "Circular Motion",
+      "difficulty": "medium",
+      "question": "The period of revolution of a satellite in a circular orbit depends on:",
+      "options": {
+        "A": "the mass of the satellite",
+        "B": "the radius of the orbit and the mass of the Earth",
+        "C": "the speed of the satellite only",
+        "D": "the temperature of the satellite"
+      },
+      "correct_answer": "B",
+      "explanation": "By Kepler's third law and Newton's law of gravitation, the orbital period depends on the orbital radius and the mass of the central body."
+    },
+    {
+      "id": 137,
+      "topic": "Projectile Motion",
+      "difficulty": "medium",
+      "question": "A projectile launched horizontally from a height has:",
+      "options": {
+        "A": "no horizontal component of velocity",
+        "B": "constant vertical velocity",
+        "C": "constant horizontal velocity and increasing vertical velocity",
+        "D": "both horizontal and vertical velocities constant"
+      },
+      "correct_answer": "C",
+      "explanation": "In projectile motion (ignoring air resistance), horizontal velocity remains constant while vertical velocity increases due to gravity."
+    },
+    {
+      "id": 138,
+      "topic": "Projectile Motion",
+      "difficulty": "medium",
+      "question": "The horizontal range of a projectile is maximum when the angle of projection is:",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correct_answer": "B",
+      "explanation": "Range R = u²sin2θ/g. Range is maximum when sin2θ = 1, i.e., 2θ = 90°, so θ = 45°."
+    },
+    {
+      "id": 139,
+      "topic": "Equilibrium of Forces",
+      "difficulty": "medium",
+      "question": "The moment of a force about a point is defined as:",
+      "options": {
+        "A": "force × acceleration",
+        "B": "force × perpendicular distance from the point",
+        "C": "mass × velocity",
+        "D": "force / distance"
+      },
+      "correct_answer": "B",
+      "explanation": "The moment (torque) of a force = Force × perpendicular distance from the pivot. Its SI unit is N·m."
+    },
+    {
+      "id": 140,
+      "topic": "Equilibrium of Forces",
+      "difficulty": "medium",
+      "question": "The principle of moments states that, for a body in equilibrium, the sum of clockwise moments equals the sum of:",
+      "options": {
+        "A": "all forces",
+        "B": "anticlockwise moments",
+        "C": "the weights acting on it",
+        "D": "normal reaction forces"
+      },
+      "correct_answer": "B",
+      "explanation": "The principle of moments: for equilibrium, total clockwise moments = total anticlockwise moments about any point."
+    },
+    {
+      "id": 141,
+      "topic": "Equilibrium of Forces",
+      "difficulty": "medium",
+      "question": "The center of gravity of a uniform rectangular lamina is located at:",
+      "options": {
+        "A": "one of its corners",
+        "B": "the midpoint of one of its sides",
+        "C": "the intersection of its diagonals",
+        "D": "any point along its edge"
+      },
+      "correct_answer": "C",
+      "explanation": "For a uniform rectangular lamina, the center of gravity is at the geometric center — the intersection of the diagonals."
+    },
+    {
+      "id": 142,
+      "topic": "Electrostatics",
+      "difficulty": "medium",
+      "question": "According to Coulomb's Law, the force between two point charges is:",
+      "options": {
+        "A": "directly proportional to the square of the distance between them",
+        "B": "inversely proportional to the product of the charges",
+        "C": "directly proportional to the product of the charges and inversely proportional to the square of the distance",
+        "D": "independent of the medium between them"
+      },
+      "correct_answer": "C",
+      "explanation": "Coulomb's Law: F = kq₁q₂/r². Force is proportional to the product of charges and inversely proportional to the square of the distance."
+    },
+    {
+      "id": 143,
+      "topic": "Electrostatics",
+      "difficulty": "medium",
+      "question": "A positively charged rod is brought near an uncharged conducting sphere. The near end of the sphere becomes:",
+      "options": {
+        "A": "positively charged",
+        "B": "negatively charged",
+        "C": "neutral",
+        "D": "positively charged on both sides"
+      },
+      "correct_answer": "B",
+      "explanation": "By electrostatic induction, the positive rod attracts electrons to the near end, making it negatively charged."
+    },
+    {
+      "id": 144,
+      "topic": "Electrostatics",
+      "difficulty": "medium",
+      "question": "The electric field strength at a point is defined as the force per unit ______ charge at that point.",
+      "options": {
+        "A": "negative",
+        "B": "total",
+        "C": "positive (test)",
+        "D": "moving"
+      },
+      "correct_answer": "C",
+      "explanation": "Electric field E = F/q, where q is a small positive test charge. The SI unit is N/C or V/m."
+    },
+    {
+      "id": 145,
+      "topic": "Electrostatics",
+      "difficulty": "medium",
+      "question": "The work done in moving a charge Q through a potential difference V is:",
+      "options": {
+        "A": "W = V/Q",
+        "B": "W = Q/V",
+        "C": "W = QV",
+        "D": "W = Q + V"
+      },
+      "correct_answer": "C",
+      "explanation": "Work W = QV, where Q is the charge and V is the potential difference. This is the electrical energy transferred."
+    },
+    {
+      "id": 146,
+      "topic": "Electromagnetic Waves",
+      "difficulty": "medium",
+      "question": "All electromagnetic waves travel in a vacuum at the same speed. This speed is:",
+      "options": {
+        "A": "3 × 10⁶ m/s",
+        "B": "3 × 10⁸ m/s",
+        "C": "3 × 10¹⁰ m/s",
+        "D": "3 × 10⁴ m/s"
+      },
+      "correct_answer": "B",
+      "explanation": "All electromagnetic waves travel at the speed of light c = 3 × 10⁸ m/s in vacuum."
+    },
+    {
+      "id": 147,
+      "topic": "Electromagnetic Waves",
+      "difficulty": "medium",
+      "question": "Which of the following does NOT require a medium for propagation?",
+      "options": {
+        "A": "Sound waves",
+        "B": "Water waves",
+        "C": "Seismic waves",
+        "D": "Radio waves"
+      },
+      "correct_answer": "D",
+      "explanation": "Radio waves are electromagnetic waves and do not require a medium for propagation. Sound and water waves are mechanical."
+    },
+    {
+      "id": 148,
+      "topic": "Electric Circuits",
+      "difficulty": "medium",
+      "question": "In a series circuit with a battery of EMF 12 V and internal resistance 1 Ω connected to an external resistance of 5 Ω, the current flowing is:",
+      "options": {
+        "A": "12 A",
+        "B": "2.4 A",
+        "C": "2 A",
+        "D": "6 A"
+      },
+      "correct_answer": "C",
+      "explanation": "I = EMF/(R + r) = 12/(5 + 1) = 12/6 = 2 A."
+    },
+    {
+      "id": 149,
+      "topic": "Electric Circuits",
+      "difficulty": "medium",
+      "question": "The terminal voltage of a battery is less than its EMF because of:",
+      "options": {
+        "A": "the external resistance",
+        "B": "internal resistance of the battery",
+        "C": "the capacitance of the circuit",
+        "D": "the inductance of the circuit"
+      },
+      "correct_answer": "B",
+      "explanation": "Terminal voltage V = EMF - Ir, where Ir is the voltage drop across the internal resistance r."
+    },
+    {
+      "id": 150,
+      "topic": "Electric Circuits",
+      "difficulty": "medium",
+      "question": "Kirchhoff's current law (first law) states that:",
+      "options": {
+        "A": "the sum of EMFs in a loop equals the sum of voltage drops",
+        "B": "the total current entering a junction equals the total current leaving it",
+        "C": "resistance is proportional to length",
+        "D": "power equals current times voltage"
+      },
+      "correct_answer": "B",
+      "explanation": "Kirchhoff's first law (junction rule): the algebraic sum of currents at any junction is zero, i.e., current in = current out."
+    },
+    {
+      "id": 151,
+      "topic": "Refraction of Light",
+      "difficulty": "medium",
+      "question": "When light passes from air into a denser medium, its speed:",
+      "options": {
+        "A": "increases",
+        "B": "remains the same",
+        "C": "decreases",
+        "D": "becomes zero"
+      },
+      "correct_answer": "C",
+      "explanation": "When light enters a denser medium, it slows down. The refractive index n = c/v, so v < c in a denser medium."
+    },
+    {
+      "id": 152,
+      "topic": "Refraction of Light",
+      "difficulty": "medium",
+      "question": "Snell's Law states that:",
+      "options": {
+        "A": "sin i + sin r = constant",
+        "B": "sin i / sin r = refractive index (n)",
+        "C": "sin i × sin r = n",
+        "D": "sin i = n × sin r always"
+      },
+      "correct_answer": "B",
+      "explanation": "Snell's Law: n₁ sin θ₁ = n₂ sin θ₂, or sin i / sin r = n (refractive index) when going from air to the medium."
+    },
+    {
+      "id": 153,
+      "topic": "Refraction of Light",
+      "difficulty": "medium",
+      "question": "A mirage in the desert is caused by:",
+      "options": {
+        "A": "reflection of light from clouds",
+        "B": "total internal reflection of light in the hot air near the ground",
+        "C": "diffraction of light",
+        "D": "absorption of light by hot sand"
+      },
+      "correct_answer": "B",
+      "explanation": "A mirage forms because light undergoes total internal reflection in the hot, less dense air near a hot surface."
+    },
+    {
+      "id": 154,
+      "topic": "Refraction of Light",
+      "difficulty": "medium",
+      "question": "Optical fibers work on the principle of:",
+      "options": {
+        "A": "diffraction",
+        "B": "interference",
+        "C": "total internal reflection",
+        "D": "polarization"
+      },
+      "correct_answer": "C",
+      "explanation": "Optical fibers use total internal reflection to transmit light signals along their length with minimal loss."
+    },
+    {
+      "id": 155,
+      "topic": "Mirrors",
+      "difficulty": "medium",
+      "question": "A convex mirror always forms an image that is:",
+      "options": {
+        "A": "real, inverted, and enlarged",
+        "B": "real, upright, and diminished",
+        "C": "virtual, upright, and diminished",
+        "D": "virtual, inverted, and enlarged"
+      },
+      "correct_answer": "C",
+      "explanation": "A convex (diverging) mirror always produces a virtual, erect (upright), and diminished image regardless of object position."
+    },
+    {
+      "id": 156,
+      "topic": "Mirrors",
+      "difficulty": "medium",
+      "question": "Convex mirrors are used as:",
+      "options": {
+        "A": "shaving mirrors",
+        "B": "rear-view mirrors in vehicles",
+        "C": "telescope mirrors",
+        "D": "solar energy collectors"
+      },
+      "correct_answer": "B",
+      "explanation": "Convex mirrors give a wide field of view and are used as rear-view mirrors in vehicles. Concave mirrors are used for shaving."
+    },
+    {
+      "id": 157,
+      "topic": "Mirrors",
+      "difficulty": "medium",
+      "question": "The mirror formula is 1/f = 1/v + 1/u. If an object is placed 30 cm in front of a concave mirror of focal length 20 cm, the image distance is:",
+      "options": {
+        "A": "60 cm",
+        "B": "12 cm",
+        "C": "50 cm",
+        "D": "10 cm"
+      },
+      "correct_answer": "A",
+      "explanation": "1/v = 1/f - 1/u = 1/20 - 1/30 = 3/60 - 2/60 = 1/60. So v = 60 cm (real image in front of mirror)."
+    },
+    {
+      "id": 158,
+      "topic": "Energy Sources",
+      "difficulty": "medium",
+      "question": "Which of the following is a renewable source of energy?",
+      "options": {
+        "A": "Coal",
+        "B": "Natural gas",
+        "C": "Nuclear fuel",
+        "D": "Solar energy"
+      },
+      "correct_answer": "D",
+      "explanation": "Solar energy is renewable because it is continuously replenished by the sun. Coal, gas, and nuclear fuel are non-renewable."
+    },
+    {
+      "id": 159,
+      "topic": "Energy Sources",
+      "difficulty": "medium",
+      "question": "The main disadvantage of solar cells (photovoltaic cells) is that they:",
+      "options": {
+        "A": "produce too much electricity",
+        "B": "have low efficiency and depend on sunlight",
+        "C": "are harmful to the environment",
+        "D": "generate radioactive waste"
+      },
+      "correct_answer": "B",
+      "explanation": "Solar cells have relatively low efficiency and only generate electricity when sunlight is available."
+    },
+    {
+      "id": 160,
+      "topic": "Energy Sources",
+      "difficulty": "medium",
+      "question": "In a hydroelectric power station, the energy conversion that occurs is:",
+      "options": {
+        "A": "chemical to electrical",
+        "B": "nuclear to thermal to electrical",
+        "C": "potential energy of water to kinetic energy to electrical energy",
+        "D": "solar to electrical"
+      },
+      "correct_answer": "C",
+      "explanation": "In hydroelectric generation, the gravitational potential energy of water is converted to kinetic energy and then to electrical energy."
+    },
+    {
+      "id": 161,
+      "topic": "Properties of Matter",
+      "difficulty": "medium",
+      "question": "The density of a substance is defined as:",
+      "options": {
+        "A": "mass per unit volume",
+        "B": "weight per unit area",
+        "C": "volume per unit mass",
+        "D": "force per unit area"
+      },
+      "correct_answer": "A",
+      "explanation": "Density ρ = m/V (mass per unit volume). Its SI unit is kg/m³."
+    },
+    {
+      "id": 162,
+      "topic": "Properties of Matter",
+      "difficulty": "medium",
+      "question": "A substance that floats on water must have a density:",
+      "options": {
+        "A": "greater than 1000 kg/m³",
+        "B": "equal to 1000 kg/m³",
+        "C": "less than 1000 kg/m³",
+        "D": "equal to 500 kg/m³"
+      },
+      "correct_answer": "C",
+      "explanation": "An object floats when its density is less than that of water (1000 kg/m³), because the upthrust equals its weight."
+    },
+    {
+      "id": 163,
+      "topic": "Properties of Matter",
+      "difficulty": "medium",
+      "question": "The relative density of a substance is the ratio of its density to the density of:",
+      "options": {
+        "A": "air",
+        "B": "mercury",
+        "C": "water",
+        "D": "oil"
+      },
+      "correct_answer": "C",
+      "explanation": "Relative density (specific gravity) = density of substance / density of water. It has no units."
+    },
+    {
+      "id": 164,
+      "topic": "Photoelectric Effect",
+      "difficulty": "medium",
+      "question": "The photoelectric effect is the emission of electrons from a metal surface when:",
+      "options": {
+        "A": "the metal is heated",
+        "B": "light of sufficient frequency falls on it",
+        "C": "an electric current passes through it",
+        "D": "it is cooled to very low temperatures"
+      },
+      "correct_answer": "B",
+      "explanation": "The photoelectric effect occurs when photons of light with frequency above the threshold frequency hit the metal surface and eject electrons."
+    },
+    {
+      "id": 165,
+      "topic": "Photoelectric Effect",
+      "difficulty": "medium",
+      "question": "Einstein explained the photoelectric effect using the concept of:",
+      "options": {
+        "A": "wave theory of light",
+        "B": "electromagnetic radiation",
+        "C": "photons (quanta of light energy)",
+        "D": "nuclear force"
+      },
+      "correct_answer": "C",
+      "explanation": "Einstein proposed that light consists of discrete packets of energy (photons), where E = hf. This explained why a minimum frequency is needed."
+    },
+    {
+      "id": 166,
+      "topic": "Photoelectric Effect",
+      "difficulty": "medium",
+      "question": "The minimum frequency of light needed to eject electrons from a metal surface is called the:",
+      "options": {
+        "A": "resonant frequency",
+        "B": "threshold frequency",
+        "C": "natural frequency",
+        "D": "work frequency"
+      },
+      "correct_answer": "B",
+      "explanation": "The threshold frequency (f₀) is the minimum frequency of incident light below which the photoelectric effect will not occur."
+    },
+    {
+      "id": 167,
+      "topic": "Thermionic Emission",
+      "difficulty": "medium",
+      "question": "Thermionic emission is the emission of electrons from a heated metal surface. This process is used in:",
+      "options": {
+        "A": "solar cells",
+        "B": "cathode ray tubes and vacuum tubes",
+        "C": "transistors",
+        "D": "capacitors"
+      },
+      "correct_answer": "B",
+      "explanation": "Thermionic emission is the basis of cathode ray tubes (CRTs) and electron guns used in TVs and oscilloscopes."
+    },
+    {
+      "id": 168,
+      "topic": "Cathode Ray Oscilloscope",
+      "difficulty": "medium",
+      "question": "A cathode ray oscilloscope (CRO) is primarily used to:",
+      "options": {
+        "A": "measure resistance",
+        "B": "display and measure electrical waveforms",
+        "C": "amplify electrical signals",
+        "D": "convert AC to DC"
+      },
+      "correct_answer": "B",
+      "explanation": "A CRO is an electronic instrument that displays electrical voltage variations as a waveform on a screen."
+    },
+    {
+      "id": 169,
+      "topic": "Wave Optics",
+      "difficulty": "medium",
+      "question": "When two waves superpose and their crests coincide, the result is:",
+      "options": {
+        "A": "destructive interference",
+        "B": "diffraction",
+        "C": "constructive interference",
+        "D": "total internal reflection"
+      },
+      "correct_answer": "C",
+      "explanation": "When crests of two waves coincide (in phase), constructive interference occurs, resulting in a wave of greater amplitude."
+    },
+    {
+      "id": 170,
+      "topic": "Wave Optics",
+      "difficulty": "medium",
+      "question": "Young's double-slit experiment demonstrates the:",
+      "options": {
+        "A": "photoelectric effect",
+        "B": "wave nature of light through interference",
+        "C": "particle nature of light",
+        "D": "reflection of light"
+      },
+      "correct_answer": "B",
+      "explanation": "Young's double-slit experiment produces an interference pattern (alternate bright and dark fringes), proving the wave nature of light."
+    },
+    {
+      "id": 171,
+      "topic": "Wave Optics",
+      "difficulty": "medium",
+      "question": "Polarization of light is possible only for:",
+      "options": {
+        "A": "longitudinal waves",
+        "B": "transverse waves",
+        "C": "sound waves",
+        "D": "mechanical waves only"
+      },
+      "correct_answer": "B",
+      "explanation": "Polarization restricts oscillations to one plane. This is only possible for transverse waves (including light)."
+    },
+    {
+      "id": 172,
+      "topic": "Special Relativity",
+      "difficulty": "medium",
+      "question": "According to Einstein's mass-energy equation, E = mc², the 'c' represents:",
+      "options": {
+        "A": "the speed of sound",
+        "B": "the speed of the object",
+        "C": "the speed of light in vacuum",
+        "D": "a constant specific to each material"
+      },
+      "correct_answer": "C",
+      "explanation": "In Einstein's equation E = mc², c is the speed of light in vacuum (≈ 3 × 10⁸ m/s)."
+    },
+    {
+      "id": 173,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "Isotopes are atoms of the same element that have the same number of protons but different numbers of:",
+      "options": {
+        "A": "protons",
+        "B": "electrons",
+        "C": "neutrons",
+        "D": "nucleons"
+      },
+      "correct_answer": "C",
+      "explanation": "Isotopes of an element have the same atomic number (protons) but different mass numbers, meaning different numbers of neutrons."
+    },
+    {
+      "id": 174,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The model of the atom in which electrons orbit the nucleus in fixed shells (like planets orbiting the sun) was proposed by:",
+      "options": {
+        "A": "Thomson",
+        "B": "Rutherford",
+        "C": "Bohr",
+        "D": "Dalton"
+      },
+      "correct_answer": "C",
+      "explanation": "Niels Bohr proposed that electrons orbit the nucleus in fixed shells at specific energy levels."
+    },
+    {
+      "id": 175,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "In Rutherford's nuclear model, the atom is mostly:",
+      "options": {
+        "A": "solid",
+        "B": "filled with electrons",
+        "C": "empty space, with a small dense nucleus",
+        "D": "filled with protons"
+      },
+      "correct_answer": "C",
+      "explanation": "Rutherford's gold foil experiment showed that an atom is mostly empty space, with a tiny, dense, positively charged nucleus."
+    },
+    {
+      "id": 176,
+      "topic": "Communication",
+      "difficulty": "medium",
+      "question": "In AM (Amplitude Modulation) radio transmission, which property of the carrier wave is varied?",
+      "options": {
+        "A": "Frequency",
+        "B": "Phase",
+        "C": "Amplitude",
+        "D": "Speed"
+      },
+      "correct_answer": "C",
+      "explanation": "In AM radio, the amplitude of the carrier wave is varied in accordance with the audio signal."
+    },
+    {
+      "id": 177,
+      "topic": "Communication",
+      "difficulty": "medium",
+      "question": "FM (Frequency Modulation) radio has better sound quality than AM because:",
+      "options": {
+        "A": "it travels faster",
+        "B": "it is less susceptible to noise and interference",
+        "C": "it uses longer wavelengths",
+        "D": "it is cheaper to produce"
+      },
+      "correct_answer": "B",
+      "explanation": "FM is less susceptible to amplitude-based noise and interference, giving better sound quality than AM."
+    },
+    {
+      "id": 178,
+      "topic": "Oscillations",
+      "difficulty": "medium",
+      "question": "Resonance occurs when the frequency of an applied force equals the ______ frequency of the system.",
+      "options": {
+        "A": "minimum",
+        "B": "maximum",
+        "C": "natural (fundamental)",
+        "D": "harmonic"
+      },
+      "correct_answer": "C",
+      "explanation": "Resonance occurs when the driving frequency matches the natural (fundamental) frequency of the oscillating system, causing maximum amplitude."
+    },
+    {
+      "id": 179,
+      "topic": "Oscillations",
+      "difficulty": "medium",
+      "question": "A loaded test tube oscillating vertically in a liquid is an example of:",
+      "options": {
+        "A": "forced oscillation",
+        "B": "simple harmonic motion",
+        "C": "damped oscillation",
+        "D": "circular motion"
+      },
+      "correct_answer": "B",
+      "explanation": "A tube oscillating in a liquid (within small amplitudes) undergoes simple harmonic motion with a restoring force."
+    },
+    {
+      "id": 180,
+      "topic": "Semiconductors",
+      "difficulty": "medium",
+      "question": "The resistivity of a semiconductor:",
+      "options": {
+        "A": "increases with temperature",
+        "B": "decreases with temperature",
+        "C": "is unaffected by temperature",
+        "D": "is zero at room temperature"
+      },
+      "correct_answer": "B",
+      "explanation": "Unlike metals, the resistivity of semiconductors decreases with increasing temperature (more electron-hole pairs are created)."
+    },
+    {
+      "id": 181,
+      "topic": "Semiconductors",
+      "difficulty": "medium",
+      "question": "Silicon is preferred over germanium in making semiconductor devices mainly because:",
+      "options": {
+        "A": "it is cheaper",
+        "B": "it has a wider energy gap and works at higher temperatures",
+        "C": "it conducts electricity better",
+        "D": "it is easier to purify"
+      },
+      "correct_answer": "B",
+      "explanation": "Silicon has a larger bandgap (1.1 eV vs 0.67 eV for Ge), making it more stable at higher operating temperatures."
+    },
+    {
+      "id": 182,
+      "topic": "Diffusion",
+      "difficulty": "medium",
+      "question": "Graham's law of diffusion states that the rate of diffusion of a gas is:",
+      "options": {
+        "A": "directly proportional to the square root of its molecular mass",
+        "B": "inversely proportional to the square root of its density (or molecular mass)",
+        "C": "directly proportional to its molecular mass",
+        "D": "independent of its molecular mass"
+      },
+      "correct_answer": "B",
+      "explanation": "Graham's law: rate of diffusion ∝ 1/√M. Lighter gases diffuse faster than heavier ones."
+    },
+    {
+      "id": 183,
+      "topic": "Kinetic Theory of Gases",
+      "difficulty": "medium",
+      "question": "According to the kinetic theory of gases, temperature is a measure of the:",
+      "options": {
+        "A": "total kinetic energy of molecules",
+        "B": "average kinetic energy of molecules",
+        "C": "potential energy of molecules",
+        "D": "mass of molecules"
+      },
+      "correct_answer": "B",
+      "explanation": "Temperature is directly proportional to the average kinetic energy of the gas molecules: KE = (3/2)kT."
+    },
+    {
+      "id": 184,
+      "topic": "Kinetic Theory of Gases",
+      "difficulty": "medium",
+      "question": "The pressure exerted by an ideal gas is due to:",
+      "options": {
+        "A": "the weight of gas molecules",
+        "B": "the collisions of gas molecules with the container walls",
+        "C": "attractive forces between gas molecules",
+        "D": "the temperature of the gas"
+      },
+      "correct_answer": "B",
+      "explanation": "Gas pressure results from the force exerted by gas molecules colliding with the walls of their container."
+    },
+    {
+      "id": 185,
+      "topic": "Conduction of Electricity",
+      "difficulty": "medium",
+      "question": "The resistance of a conductor increases with length because:",
+      "options": {
+        "A": "more collisions occur between electrons and metal ions over a longer path",
+        "B": "longer conductors are heavier",
+        "C": "current flows faster in longer conductors",
+        "D": "voltage decreases along the length"
+      },
+      "correct_answer": "A",
+      "explanation": "R = ρL/A. Resistance is proportional to length because electrons make more collisions with ions over a longer path."
+    },
+    {
+      "id": 186,
+      "topic": "Conduction of Electricity",
+      "difficulty": "medium",
+      "question": "The resistance of a wire of resistivity ρ, length L, and cross-sectional area A is:",
+      "options": {
+        "A": "R = ρLA",
+        "B": "R = ρL/A",
+        "C": "R = ρA/L",
+        "D": "R = L/ρA"
+      },
+      "correct_answer": "B",
+      "explanation": "R = ρL/A, where ρ is resistivity (Ω·m), L is length (m), and A is cross-sectional area (m²)."
+    },
+    {
+      "id": 187,
+      "topic": "Lenses",
+      "difficulty": "medium",
+      "question": "The power of a lens is defined as:",
+      "options": {
+        "A": "the reciprocal of its focal length in metres",
+        "B": "its focal length in metres",
+        "C": "its magnification",
+        "D": "the energy it transmits per second"
+      },
+      "correct_answer": "A",
+      "explanation": "Power P = 1/f (in metres). The SI unit of lens power is the dioptre (D)."
+    },
+    {
+      "id": 188,
+      "topic": "Lenses",
+      "difficulty": "medium",
+      "question": "A short-sighted (myopic) person is corrected using a:",
+      "options": {
+        "A": "convex lens",
+        "B": "concave lens",
+        "C": "plane mirror",
+        "D": "convex mirror"
+      },
+      "correct_answer": "B",
+      "explanation": "Myopia (short-sightedness) is corrected by a diverging (concave) lens that moves the focal point back to the retina."
+    },
+    {
+      "id": 189,
+      "topic": "Lenses",
+      "difficulty": "medium",
+      "question": "Long-sightedness (hypermetropia) is corrected using a:",
+      "options": {
+        "A": "concave lens",
+        "B": "plane glass",
+        "C": "convex lens",
+        "D": "bifocal lens only"
+      },
+      "correct_answer": "C",
+      "explanation": "Hypermetropia (long-sightedness) is corrected by a converging (convex) lens that brings the image forward to the retina."
+    },
+    {
+      "id": 190,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "Which type of radiation is deflected toward the negative plate in an electric field?",
+      "options": {
+        "A": "Alpha particles",
+        "B": "Beta particles",
+        "C": "Gamma rays",
+        "D": "X-rays"
+      },
+      "correct_answer": "A",
+      "explanation": "Alpha particles are positively charged (2+), so they are deflected toward the negative plate in an electric field."
+    },
+    {
+      "id": 191,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "Which of the following statements about gamma radiation is correct?",
+      "options": {
+        "A": "It carries a positive charge",
+        "B": "It is deflected by magnetic fields",
+        "C": "It is a high-energy electromagnetic wave with no charge",
+        "D": "It has the least penetrating power of the three radiations"
+      },
+      "correct_answer": "C",
+      "explanation": "Gamma rays are high-energy electromagnetic radiation (photons) with no charge and no mass, and they have the greatest penetrating power."
+    },
+    {
+      "id": 192,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "When a nucleus emits an alpha particle, its atomic number:",
+      "options": {
+        "A": "increases by 2",
+        "B": "decreases by 2",
+        "C": "increases by 4",
+        "D": "decreases by 4"
+      },
+      "correct_answer": "B",
+      "explanation": "An alpha particle has 2 protons and 2 neutrons. Emission reduces the atomic number by 2 and mass number by 4."
+    },
+    {
+      "id": 193,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "The SI unit of radioactivity (rate of decay) is the:",
+      "options": {
+        "A": "Gray",
+        "B": "Sievert",
+        "C": "Becquerel",
+        "D": "Roentgen"
+      },
+      "correct_answer": "C",
+      "explanation": "The Becquerel (Bq) is the SI unit of radioactivity, equal to one nuclear decay per second."
+    },
+    {
+      "id": 194,
+      "topic": "Nuclear Energy",
+      "difficulty": "medium",
+      "question": "The binding energy of a nucleus is the energy required to:",
+      "options": {
+        "A": "add a proton to the nucleus",
+        "B": "completely separate the nucleus into its individual nucleons",
+        "C": "cause nuclear fission",
+        "D": "excite the nucleus to a higher energy state"
+      },
+      "correct_answer": "B",
+      "explanation": "Nuclear binding energy is the energy needed to completely disassemble a nucleus into its component protons and neutrons."
+    },
+    {
+      "id": 195,
+      "topic": "Nuclear Energy",
+      "difficulty": "medium",
+      "question": "The fuel used in most nuclear power stations is:",
+      "options": {
+        "A": "Uranium-235",
+        "B": "Carbon-14",
+        "C": "Hydrogen-2",
+        "D": "Cobalt-60"
+      },
+      "correct_answer": "A",
+      "explanation": "Uranium-235 is the primary fissile material used in nuclear reactors because it can sustain a chain reaction."
+    },
+    {
+      "id": 196,
+      "topic": "Nuclear Energy",
+      "difficulty": "medium",
+      "question": "In a nuclear reactor, control rods are used to:",
+      "options": {
+        "A": "cool the reactor",
+        "B": "slow down neutrons",
+        "C": "absorb excess neutrons and control the reaction rate",
+        "D": "reflect neutrons back into the core"
+      },
+      "correct_answer": "C",
+      "explanation": "Control rods (made of boron or cadmium) absorb neutrons to control the rate of the nuclear chain reaction."
+    },
+    {
+      "id": 197,
+      "topic": "Electromagnetic Induction",
+      "difficulty": "medium",
+      "question": "A DC motor converts:",
+      "options": {
+        "A": "mechanical energy to electrical energy",
+        "B": "electrical energy to mechanical energy",
+        "C": "chemical energy to electrical energy",
+        "D": "thermal energy to mechanical energy"
+      },
+      "correct_answer": "B",
+      "explanation": "A DC electric motor converts electrical energy into mechanical (rotational) energy using the interaction between current and magnetic field."
+    },
+    {
+      "id": 198,
+      "topic": "Electromagnetic Induction",
+      "difficulty": "medium",
+      "question": "The quantity that determines the magnitude of the induced EMF in a coil according to Faraday's law is:",
+      "options": {
+        "A": "the strength of the magnet only",
+        "B": "the number of turns of the coil only",
+        "C": "the rate of change of magnetic flux linkage",
+        "D": "the resistance of the coil"
+      },
+      "correct_answer": "C",
+      "explanation": "By Faraday's law, EMF = -N(dΦ/dt). The induced EMF depends on the rate of change of flux linkage (NΦ)."
+    },
+    {
+      "id": 199,
+      "topic": "Equilibrium and Centre of Gravity",
+      "difficulty": "medium",
+      "question": "A body is said to be in stable equilibrium if, when slightly displaced, it:",
+      "options": {
+        "A": "moves further from its original position",
+        "B": "remains in its new position",
+        "C": "returns to its original position",
+        "D": "falls immediately"
+      },
+      "correct_answer": "C",
+      "explanation": "In stable equilibrium, the center of gravity is low and the body returns to its original position after a small displacement."
+    },
+    {
+      "id": 200,
+      "topic": "Motion and Force",
+      "difficulty": "medium",
+      "question": "A rocket propels itself forward by ejecting gases backward. This is an application of:",
+      "options": {
+        "A": "Newton's first law",
+        "B": "Newton's second law",
+        "C": "Newton's third law",
+        "D": "conservation of energy"
+      },
+      "correct_answer": "C",
+      "explanation": "By Newton's third law, the rocket exerts a backward force on gases (action) and gases exert an equal forward force on the rocket (reaction)."
+    }
+  ]
+}

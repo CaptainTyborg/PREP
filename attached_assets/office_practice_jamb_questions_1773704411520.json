@@ -1,0 +1,2806 @@
+{
+  "subject": "Office Practice",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "An office is BEST described as",
+      "options": {
+        "A": "A room where only the managing director works",
+        "B": "A place where clerical and administrative work is carried out to support the operations of an organisation",
+        "C": "A building where goods are manufactured and sold",
+        "D": "A room used exclusively for storing files and documents"
+      },
+      "correct_answer": "B",
+      "explanation": "An office is the administrative nerve centre where clerical, administrative, and managerial activities are carried out — including communication, record-keeping, and coordination."
+    },
+    {
+      "id": 2,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "Which of the following is a primary function of an office?",
+      "options": {
+        "A": "Manufacturing goods for sale",
+        "B": "Receiving and sending information, keeping records, and coordinating business activities",
+        "C": "Recruiting and training factory workers",
+        "D": "Distributing goods to retail outlets"
+      },
+      "correct_answer": "B",
+      "explanation": "Primary office functions include receiving and dispatching information, recording data, processing transactions, communicating, and coordinating organisational activities."
+    },
+    {
+      "id": 3,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "An open-plan office is one in which",
+      "options": {
+        "A": "The office is open to the public at all times",
+        "B": "All staff work in one large undivided space without permanent internal walls",
+        "C": "Staff can choose their own working hours",
+        "D": "The office is used for both manufacturing and administration"
+      },
+      "correct_answer": "B",
+      "explanation": "An open-plan office is a large undivided work area where staff work together without permanent partitions, improving communication and supervision but reducing privacy."
+    },
+    {
+      "id": 4,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "A private (cellular) office arrangement is one in which",
+      "options": {
+        "A": "All staff share one large open workspace",
+        "B": "Individual employees or small teams occupy separate, enclosed rooms",
+        "C": "The office is restricted to senior management only",
+        "D": "Staff work from home using private computers"
+      },
+      "correct_answer": "B",
+      "explanation": "A private (cellular) office has individual rooms separated by permanent walls, providing privacy and reducing noise — suitable for confidential work."
+    },
+    {
+      "id": 5,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "Which of the following is an advantage of an open-plan office?",
+      "options": {
+        "A": "Greater privacy for each employee",
+        "B": "Better supervision and communication among staff",
+        "C": "Reduced noise levels in the workplace",
+        "D": "More confidentiality when handling sensitive matters"
+      },
+      "correct_answer": "B",
+      "explanation": "Open-plan offices improve communication, allow better supervision, make better use of space, and are cheaper to build and maintain than private offices."
+    },
+    {
+      "id": 6,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "The main purpose of an office is to",
+      "options": {
+        "A": "Generate revenue by selling products to customers",
+        "B": "Serve as the administrative nerve centre — collecting, processing, storing, and disseminating information to support the organisation",
+        "C": "Manufacture goods for distribution to retailers",
+        "D": "Provide recreational facilities for employees"
+      },
+      "correct_answer": "B",
+      "explanation": "The office is the administrative hub of the organisation — handling information and coordinating activities that support the entire organisation's operations."
+    },
+    {
+      "id": 7,
+      "topic": "Introduction to the Office",
+      "difficulty": "medium",
+      "question": "A back office differs from a front office in that the back office",
+      "options": {
+        "A": "Is located at the back of the building",
+        "B": "Handles administrative, processing, and support functions with no direct contact with external customers",
+        "C": "Deals directly with customers and clients on the front line",
+        "D": "Is used exclusively by senior management"
+      },
+      "correct_answer": "B",
+      "explanation": "The back office handles administrative and support functions (accounting, payroll, IT) invisible to customers. The front office (reception, sales) deals directly with clients."
+    },
+    {
+      "id": 8,
+      "topic": "Office Staff and Duties",
+      "difficulty": "medium",
+      "question": "An office manager is responsible for",
+      "options": {
+        "A": "Only typing letters and filing documents",
+        "B": "Planning, organising, directing, and controlling all office activities and staff",
+        "C": "Manufacturing products for the organisation",
+        "D": "Delivering goods to customers on behalf of the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "The office manager plans, organises, directs, and controls all office activities — supervising staff, ensuring efficient systems, managing resources, and liaising with other departments."
+    },
+    {
+      "id": 9,
+      "topic": "Office Staff and Duties",
+      "difficulty": "medium",
+      "question": "A personal assistant (PA) to an executive primarily",
+      "options": {
+        "A": "Manages the company's financial accounts",
+        "B": "Handles correspondence, manages the executive's diary, and coordinates administrative tasks on their behalf",
+        "C": "Designs the company's products",
+        "D": "Supervises all junior staff in the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "A personal assistant supports a senior executive by managing correspondence, diary, meetings, travel arrangements, filing, and general administrative support."
+    },
+    {
+      "id": 10,
+      "topic": "Office Staff and Duties",
+      "difficulty": "medium",
+      "question": "A receptionist's primary duty is to",
+      "options": {
+        "A": "Keep accounts and prepare financial reports",
+        "B": "Receive visitors, answer telephone calls, and provide first-line information to callers and visitors",
+        "C": "Manage the organisation's social media accounts",
+        "D": "Type and photocopy documents for all departments"
+      },
+      "correct_answer": "B",
+      "explanation": "A receptionist is the organisation's first point of contact — welcoming visitors, answering the switchboard, directing callers and visitors, and maintaining the reception area."
+    },
+    {
+      "id": 11,
+      "topic": "Office Staff and Duties",
+      "difficulty": "medium",
+      "question": "The duties of a filing clerk include",
+      "options": {
+        "A": "Preparing financial statements for management",
+        "B": "Classifying, sorting, and storing documents so they can be retrieved quickly",
+        "C": "Interviewing candidates for vacant positions",
+        "D": "Purchasing office supplies and equipment"
+      },
+      "correct_answer": "B",
+      "explanation": "A filing clerk's duties include sorting, classifying, indexing, storing, and retrieving documents in an organised filing system."
+    },
+    {
+      "id": 12,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A memorandum (memo) is a written communication that is",
+      "options": {
+        "A": "Sent to external organisations such as customers and suppliers",
+        "B": "Used for internal communication between staff or departments within the same organisation",
+        "C": "A formal legal document signed by the managing director",
+        "D": "A monthly report submitted to government agencies"
+      },
+      "correct_answer": "B",
+      "explanation": "A memo is an internal document used to communicate information, instructions, or decisions between staff or departments within the same organisation."
+    },
+    {
+      "id": 13,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A business letter is different from a memo in that a business letter",
+      "options": {
+        "A": "Is used only for communication between senior managers",
+        "B": "Is used for external communication with individuals or organisations outside the company",
+        "C": "Does not require a date or reference number",
+        "D": "Is always handwritten rather than typed"
+      },
+      "correct_answer": "B",
+      "explanation": "A business letter is used for external communication with customers, suppliers, banks, and government agencies. A memo is used internally."
+    },
+    {
+      "id": 14,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A circular letter is a letter that",
+      "options": {
+        "A": "Is written in a circular shape for emphasis",
+        "B": "Is sent to many people simultaneously with the same message",
+        "C": "Concerns only round-trip travel arrangements",
+        "D": "Is used to announce the death of an employee"
+      },
+      "correct_answer": "B",
+      "explanation": "A circular letter is a standardised letter sent to many recipients simultaneously — e.g., to inform customers of a price change or new product."
+    },
+    {
+      "id": 15,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "An agenda is a document that",
+      "options": {
+        "A": "Records the decisions made at a meeting",
+        "B": "Lists the items of business to be discussed at a forthcoming meeting, in the order they will be addressed",
+        "C": "Shows the names of all employees in the organisation",
+        "D": "Summarises the financial performance of the company"
+      },
+      "correct_answer": "B",
+      "explanation": "An agenda is sent before a meeting listing items to be discussed in sequence, enabling attendees to prepare and ensuring the meeting runs in an organised manner."
+    },
+    {
+      "id": 16,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Minutes of a meeting are",
+      "options": {
+        "A": "The time allocated to each agenda item",
+        "B": "An official written record of the proceedings, discussions, decisions, and actions of a meeting",
+        "C": "A list of all people invited to a meeting",
+        "D": "A summary of the company's performance"
+      },
+      "correct_answer": "B",
+      "explanation": "Minutes are the official record of what was discussed and decided at a meeting. They are approved at the next meeting and serve as evidence of decisions and action points."
+    },
+    {
+      "id": 17,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Verbal (oral) communication in the office includes",
+      "options": {
+        "A": "Emails, letters, and reports",
+        "B": "Face-to-face conversations, telephone calls, meetings, and presentations",
+        "C": "Notice boards, memos, and circulars",
+        "D": "Filing systems and record-keeping"
+      },
+      "correct_answer": "B",
+      "explanation": "Verbal (oral) communication involves spoken exchange — face-to-face, telephone, video calls, meetings, and presentations. It allows immediate feedback."
+    },
+    {
+      "id": 18,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Downward communication in an organisation flows",
+      "options": {
+        "A": "From junior staff to senior management",
+        "B": "From management to subordinates — e.g., instructions, policies, and feedback",
+        "C": "Horizontally between staff of equal rank",
+        "D": "From the organisation to external stakeholders"
+      },
+      "correct_answer": "B",
+      "explanation": "Downward communication flows from management to subordinates — delivering instructions, policies, feedback, and organisational goals."
+    },
+    {
+      "id": 19,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Upward communication in an organisation flows",
+      "options": {
+        "A": "From senior management to junior staff",
+        "B": "From subordinates to management — e.g., reports, suggestions, complaints, and feedback",
+        "C": "Between departments at the same level",
+        "D": "From the company to its customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Upward communication flows from staff to management — providing reports, progress updates, suggestions, and feedback essential for informed decision-making."
+    },
+    {
+      "id": 20,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "The grapevine in an organisation refers to",
+      "options": {
+        "A": "The official communication channels approved by management",
+        "B": "The informal, unofficial communication network through which rumours and gossip spread among staff",
+        "C": "The external communication system used by the company",
+        "D": "The electronic communication system linking all departments"
+      },
+      "correct_answer": "B",
+      "explanation": "The grapevine is the informal communication channel — the unofficial network through which rumours and gossip spread among employees, bypassing formal channels."
+    },
+    {
+      "id": 21,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Lateral (horizontal) communication in an organisation flows",
+      "options": {
+        "A": "From management to subordinates",
+        "B": "Between people at the same level in the organisation — e.g., between managers of different departments",
+        "C": "From junior staff upward to senior management",
+        "D": "From the organisation to its external stakeholders"
+      },
+      "correct_answer": "B",
+      "explanation": "Lateral communication occurs between people at the same organisational level — fostering teamwork and coordination across departments."
+    },
+    {
+      "id": 22,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Barriers to effective communication in an office include",
+      "options": {
+        "A": "Clear, concise language and good listening skills",
+        "B": "Language differences, noise, poor listening, information overload, and emotional barriers",
+        "C": "Using too many communication channels simultaneously",
+        "D": "Regular feedback and two-way communication"
+      },
+      "correct_answer": "B",
+      "explanation": "Communication barriers prevent messages being received as intended — including noise, language barriers, poor listening, information overload, and cultural differences."
+    },
+    {
+      "id": 23,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "An effective communication process requires",
+      "options": {
+        "A": "A sender only — no receiver is necessary if the message is clear",
+        "B": "A sender, a message, a channel, a receiver, and feedback",
+        "C": "Only written documentation to avoid misunderstanding",
+        "D": "Hierarchical approval before any message is sent"
+      },
+      "correct_answer": "B",
+      "explanation": "Effective communication requires: a sender, a message, a channel, a receiver, and feedback to confirm the message was understood as intended."
+    },
+    {
+      "id": 24,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A report in business communication is a document that",
+      "options": {
+        "A": "Only records financial transactions",
+        "B": "Presents investigated or collected information in an organised way to help management make decisions",
+        "C": "Lists all employees and their job descriptions",
+        "D": "Records minutes of a board of directors meeting"
+      },
+      "correct_answer": "B",
+      "explanation": "A business report presents factual, organised information to assist management in decision-making, with a defined structure: title, terms of reference, findings, conclusions, and recommendations."
+    },
+    {
+      "id": 25,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Non-verbal communication includes",
+      "options": {
+        "A": "Written letters and memos",
+        "B": "Body language, facial expressions, gestures, eye contact, and tone of voice",
+        "C": "Email and text messaging",
+        "D": "Telephone conversations and meetings"
+      },
+      "correct_answer": "B",
+      "explanation": "Non-verbal communication conveys messages through body language, facial expressions, gestures, posture, and paralanguage — often reinforcing or contradicting verbal messages."
+    },
+    {
+      "id": 26,
+      "topic": "Mail Handling",
+      "difficulty": "medium",
+      "question": "Incoming mail in an office should be handled by",
+      "options": {
+        "A": "Only the managing director",
+        "B": "Sorting, opening where appropriate, date-stamping, recording, and distributing to the relevant persons",
+        "C": "Immediately discarding all unsolicited mail",
+        "D": "Filing all mail unopened until the end of the day"
+      },
+      "correct_answer": "B",
+      "explanation": "Incoming mail is sorted, opened (confidential mail is not), date-stamped, checked for enclosures, recorded in a mail register, and distributed to relevant persons or departments."
+    },
+    {
+      "id": 27,
+      "topic": "Mail Handling",
+      "difficulty": "medium",
+      "question": "A franking machine in the office is used to",
+      "options": {
+        "A": "Copy and duplicate documents",
+        "B": "Imprint postage marks on envelopes and parcels, replacing postage stamps",
+        "C": "Record the number of letters sent and received daily",
+        "D": "Seal envelopes automatically"
+      },
+      "correct_answer": "B",
+      "explanation": "A franking machine prints an official postage mark directly on envelopes, replacing postage stamps. It speeds up mail processing and allows accurate postage cost recording."
+    },
+    {
+      "id": 28,
+      "topic": "Mail Handling",
+      "difficulty": "medium",
+      "question": "Registered mail is a postal service used when",
+      "options": {
+        "A": "Sending bulk advertising material to many recipients",
+        "B": "Sending valuable or important documents that require a record of posting and signature on delivery",
+        "C": "Sending standard letters within the same city",
+        "D": "Sending free samples to potential customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Registered mail provides a record of posting and requires a signature on delivery — confirming the mail reached its destination. Used for valuable or legally important documents."
+    },
+    {
+      "id": 29,
+      "topic": "Mail Handling",
+      "difficulty": "medium",
+      "question": "A courier service differs from standard postal services in that",
+      "options": {
+        "A": "Couriers only deliver to government agencies",
+        "B": "Couriers offer faster, tracked, and more secure delivery — often door-to-door with a guaranteed delivery time",
+        "C": "Couriers only handle documents, not packages",
+        "D": "Courier services are always cheaper than postal services"
+      },
+      "correct_answer": "B",
+      "explanation": "Courier services provide faster, tracked delivery with guaranteed time windows, greater security, and accountability compared to standard postal services."
+    },
+    {
+      "id": 30,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Filing in an office refers to",
+      "options": {
+        "A": "The process of interviewing and selecting new employees",
+        "B": "The systematic arrangement and storage of documents so they can be located and retrieved quickly",
+        "C": "The printing and binding of company reports",
+        "D": "The reconciliation of bank statements with company records"
+      },
+      "correct_answer": "B",
+      "explanation": "Filing is the systematic classification, arrangement, and storage of documents in an organised way so they can be found quickly when needed."
+    },
+    {
+      "id": 31,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Alphabetical filing arranges documents",
+      "options": {
+        "A": "According to the date they were created",
+        "B": "According to the letters of the alphabet — by name, subject, or location",
+        "C": "In numerical order based on a code assigned to each document",
+        "D": "According to the size and colour of the document"
+      },
+      "correct_answer": "B",
+      "explanation": "Alphabetical filing arranges records A-Z by name, subject, or geographical area. It is simple and requires no index."
+    },
+    {
+      "id": 32,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Numerical filing arranges documents",
+      "options": {
+        "A": "In alphabetical order by name",
+        "B": "In sequential number order — each file is assigned a unique number",
+        "C": "By the date the document was received",
+        "D": "By the subject matter of the document"
+      },
+      "correct_answer": "B",
+      "explanation": "Numerical filing assigns a unique number to each file and arranges them in number order. An alphabetical index is needed to locate files — useful for large volumes of records."
+    },
+    {
+      "id": 33,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Chronological filing arranges documents",
+      "options": {
+        "A": "In alphabetical order",
+        "B": "By date — the most recent documents in front or on top",
+        "C": "By the importance of the document",
+        "D": "By the name of the person who created the document"
+      },
+      "correct_answer": "B",
+      "explanation": "Chronological filing arranges documents by date, with the most recent in front. Used within other filing systems to order documents within a folder."
+    },
+    {
+      "id": 34,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Subject filing arranges documents",
+      "options": {
+        "A": "By the date they were received or sent",
+        "B": "By the topic or subject matter of the document",
+        "C": "By the name of the person who wrote the document",
+        "D": "In numerical order using a reference code"
+      },
+      "correct_answer": "B",
+      "explanation": "Subject filing classifies documents by the topic they relate to (e.g., 'Accounts', 'Personnel', 'Marketing'). Useful when documents do not relate to specific individuals."
+    },
+    {
+      "id": 35,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Geographical filing arranges documents",
+      "options": {
+        "A": "By alphabetical order of client names",
+        "B": "By location — country, region, city, or territory",
+        "C": "By the size and volume of business transactions",
+        "D": "By the date of the last transaction with the client"
+      },
+      "correct_answer": "B",
+      "explanation": "Geographical filing organises records by location. Particularly useful for organisations dealing with clients across different regions or countries."
+    },
+    {
+      "id": 36,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A centralised filing system means",
+      "options": {
+        "A": "Files are kept in each individual department",
+        "B": "All records for the entire organisation are kept in one central location managed by a filing department",
+        "C": "Each employee keeps their own personal files",
+        "D": "Files are stored electronically in a central computer system only"
+      },
+      "correct_answer": "B",
+      "explanation": "A centralised filing system stores all company records in one location, ensuring uniformity, reducing duplication, and improving security."
+    },
+    {
+      "id": 37,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A decentralised filing system means",
+      "options": {
+        "A": "All records are stored in one central location",
+        "B": "Each department keeps its own files relating to its own work",
+        "C": "Only senior staff can access the filing system",
+        "D": "Files are stored alphabetically in each office"
+      },
+      "correct_answer": "B",
+      "explanation": "In a decentralised system, each department maintains its own files. This gives departments quick access but may lead to duplication and inconsistency."
+    },
+    {
+      "id": 38,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Cross-referencing in filing is done to",
+      "options": {
+        "A": "Check that all documents have been filed in the correct order",
+        "B": "Ensure a document that could be filed under more than one heading can be found regardless of which heading is used",
+        "C": "Keep duplicate copies of all important documents",
+        "D": "Record the number of documents filed each day"
+      },
+      "correct_answer": "B",
+      "explanation": "Cross-referencing places a guide card in one location directing the filer to where the document is stored when it could logically be filed under more than one heading."
+    },
+    {
+      "id": 39,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A follow-up (tickler) file is used to",
+      "options": {
+        "A": "Record all documents that have been destroyed",
+        "B": "Remind staff of actions or responses due on specific future dates",
+        "C": "Store all documents that cannot be classified",
+        "D": "Keep copies of all outgoing correspondence"
+      },
+      "correct_answer": "B",
+      "explanation": "A follow-up (tickler) file is a reminder system — documents needing action on a future date are placed in the relevant date section for retrieval on the correct day."
+    },
+    {
+      "id": 40,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Electronic filing (digital records management) offers which advantage over paper filing?",
+      "options": {
+        "A": "Documents cannot be altered or deleted",
+        "B": "Documents can be stored, retrieved, shared, and searched quickly with large volumes stored in minimal physical space",
+        "C": "Electronic files do not require backup",
+        "D": "No training is required to use electronic filing systems"
+      },
+      "correct_answer": "B",
+      "explanation": "Electronic filing offers fast retrieval, large storage capacity in small space, easy sharing, simultaneous multi-user access, powerful search functions, and reduced physical storage costs."
+    },
+    {
+      "id": 41,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "The 'out card' (absent card) system in filing is used to",
+      "options": {
+        "A": "Record documents that have been permanently destroyed",
+        "B": "Show which file has been removed from the filing system, by whom, and when — enabling tracking of files in use",
+        "C": "Mark files that need urgent attention",
+        "D": "List all files that require updating with new information"
+      },
+      "correct_answer": "B",
+      "explanation": "When a file is removed from the cabinet, an out card is placed in its position recording who took it, when, and where — allowing others to locate the file and ensuring it is returned."
+    },
+    {
+      "id": 42,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Confidential files in an office should be stored in",
+      "options": {
+        "A": "Open shelves accessible to all staff",
+        "B": "Lockable filing cabinets or secure rooms with access restricted to authorised personnel only",
+        "C": "The managing director's personal filing cabinet only",
+        "D": "A digital database accessible to all staff"
+      },
+      "correct_answer": "B",
+      "explanation": "Confidential records must be stored securely — in lockable cabinets or secure rooms — with access limited to only those authorised to view them."
+    },
+    {
+      "id": 43,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "Alpha-numeric filing combines",
+      "options": {
+        "A": "Alphabetical and geographic filing systems",
+        "B": "Alphabetical and numerical filing — grouping records alphabetically by broad categories and numbering files within each category",
+        "C": "Alphabetical filing with colour coding",
+        "D": "Numerical filing with a date-based sub-classification"
+      },
+      "correct_answer": "B",
+      "explanation": "Alpha-numeric filing uses letter-based main headings with numbered sub-files within each group, combining the flexibility of alphabetical grouping with the expansibility of numerical coding."
+    },
+    {
+      "id": 44,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A lever arch file is most suitable for",
+      "options": {
+        "A": "Storing loose papers temporarily before proper filing",
+        "B": "Holding large volumes of flat documents using a lever mechanism — used for bulk storage of invoices and reports",
+        "C": "Storing cards in alphabetical order using a flip-top mechanism",
+        "D": "Holding microfilm and microfiche for archival storage"
+      },
+      "correct_answer": "B",
+      "explanation": "A lever arch file holds large volumes of hole-punched documents. The lever releases the rings for easy addition or removal of documents."
+    },
+    {
+      "id": 45,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A suspension (hanging) file system stores documents in",
+      "options": {
+        "A": "Upright folders placed side by side in a drawer",
+        "B": "Folders that hang on rails inside a filing cabinet drawer — allowing easy access and clear labelling",
+        "C": "Horizontal trays stacked on top of each other",
+        "D": "A revolving carousel for rapid access"
+      },
+      "correct_answer": "B",
+      "explanation": "Suspension (hanging) files hang from rails in a filing cabinet drawer, clearly labelled and easy to flip through, making retrieval quick."
+    },
+    {
+      "id": 46,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A photocopier is an office machine used to",
+      "options": {
+        "A": "Send documents electronically over telephone lines",
+        "B": "Make exact paper copies of documents",
+        "C": "Type letters and reports at high speed",
+        "D": "Scan documents and store them electronically"
+      },
+      "correct_answer": "B",
+      "explanation": "A photocopier makes paper duplicates of documents using light, heat, and toner. Modern photocopiers can also scan, print, and fax."
+    },
+    {
+      "id": 47,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A shredder in the office is used to",
+      "options": {
+        "A": "Bind documents and reports together",
+        "B": "Destroy confidential documents by cutting them into small pieces",
+        "C": "Sort and separate documents by size",
+        "D": "Create holes in paper for filing in a ring binder"
+      },
+      "correct_answer": "B",
+      "explanation": "A document shredder destroys confidential or sensitive documents, protecting against unauthorised access to discarded information."
+    },
+    {
+      "id": 48,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A fax machine (facsimile) is used to",
+      "options": {
+        "A": "Make photocopies of documents within the office",
+        "B": "Transmit an exact copy of a document over telephone lines to a remote location",
+        "C": "Print documents directly from a computer",
+        "D": "Bind pages of a report together"
+      },
+      "correct_answer": "B",
+      "explanation": "A fax machine scans a document and transmits it as an electronic signal over telephone lines to a receiving fax machine, which prints an exact copy."
+    },
+    {
+      "id": 49,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A scanner in an office is used to",
+      "options": {
+        "A": "Check that all staff have arrived for work on time",
+        "B": "Convert physical paper documents into digital images that can be stored or edited on a computer",
+        "C": "Transmit typed messages over telephone lines",
+        "D": "Detect unauthorised entry into the office building"
+      },
+      "correct_answer": "B",
+      "explanation": "A scanner converts paper documents and photographs into digital files (JPEG, PDF) that can be stored, edited, emailed, or printed from a computer."
+    },
+    {
+      "id": 50,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A binding machine in the office is used to",
+      "options": {
+        "A": "Laminate important documents for protection",
+        "B": "Fasten together the pages of reports or booklets using spiral, comb, or thermal binding",
+        "C": "Punch holes in paper for filing in a ring binder",
+        "D": "Seal envelopes and packages for mailing"
+      },
+      "correct_answer": "B",
+      "explanation": "A binding machine fastens document pages together in a professional manner using spiral, comb, thermal, or tape binding methods."
+    },
+    {
+      "id": 51,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A laminator in the office is used to",
+      "options": {
+        "A": "Attach paper documents together with staples",
+        "B": "Encase documents in a thin, clear plastic coating to protect them from wear, moisture, and damage",
+        "C": "Create perforations in paper for easy separation",
+        "D": "Scan and print identification cards"
+      },
+      "correct_answer": "B",
+      "explanation": "A laminator seals documents between layers of clear plastic film, protecting them from moisture, tearing, and general wear."
+    },
+    {
+      "id": 52,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A PABX (Private Automatic Branch Exchange) is",
+      "options": {
+        "A": "A type of computer used for word processing",
+        "B": "A telephone switching system that manages internal and external calls for an organisation",
+        "C": "An accounting software package",
+        "D": "A system for monitoring employee attendance"
+      },
+      "correct_answer": "B",
+      "explanation": "A PABX is a private telephone exchange within an organisation. It allows many internal extensions to share external telephone lines and enables free internal calls."
+    },
+    {
+      "id": 53,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A multifunction printer (MFP) in an office can",
+      "options": {
+        "A": "Only print documents from a connected computer",
+        "B": "Print, copy, scan, and fax documents from one single machine",
+        "C": "Translate documents from one language to another",
+        "D": "Connect multiple computers wirelessly to the internet"
+      },
+      "correct_answer": "B",
+      "explanation": "A multifunction printer combines printer, photocopier, scanner, and fax functions in one device, saving space and cost."
+    },
+    {
+      "id": 54,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A UPS (Uninterruptible Power Supply) in an office is used to",
+      "options": {
+        "A": "Regulate the internet connection speed",
+        "B": "Provide emergency battery backup power to computers if the main electricity supply fails",
+        "C": "Connect multiple computers to a single printer",
+        "D": "Monitor and control electricity usage in the building"
+      },
+      "correct_answer": "B",
+      "explanation": "A UPS provides short-term battery backup power when mains electricity fails — giving time to save work and shut down computers properly without data loss."
+    },
+    {
+      "id": 55,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A projector (data projector) in an office is used to",
+      "options": {
+        "A": "Print documents from a computer onto paper",
+        "B": "Display computer presentations, videos, or images on a large screen for an audience",
+        "C": "Project light onto office walls for decorative purposes",
+        "D": "Store and retrieve digital files from a remote server"
+      },
+      "correct_answer": "B",
+      "explanation": "A data projector connects to a computer and projects the screen image onto a large surface — used for presentations in meetings and training sessions."
+    },
+    {
+      "id": 56,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A time-recording machine (clocking-in machine) is used to",
+      "options": {
+        "A": "Schedule meetings and appointments for management",
+        "B": "Record the time employees arrive at and depart from work — for payroll, attendance, and disciplinary purposes",
+        "C": "Measure how long it takes to complete specific office tasks",
+        "D": "Set timers for regular office equipment maintenance"
+      },
+      "correct_answer": "B",
+      "explanation": "A time-recording machine records the exact time employees arrive and leave — used for attendance monitoring, overtime calculation, and payroll processing."
+    },
+    {
+      "id": 57,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A paper guillotine (trimmer) in an office is used to",
+      "options": {
+        "A": "Destroy confidential documents by cutting them into strips",
+        "B": "Cut paper or card to a precise size with a clean, straight edge",
+        "C": "Create perforations in paper for filing",
+        "D": "Bind documents together using heat"
+      },
+      "correct_answer": "B",
+      "explanation": "A guillotine provides a straight, clean cut when trimming paper, card, or photographs to an exact size."
+    },
+    {
+      "id": 58,
+      "topic": "Office Stationery and Supplies",
+      "difficulty": "medium",
+      "question": "Office stationery refers to",
+      "options": {
+        "A": "All the furniture used in the office",
+        "B": "Writing materials, paper, envelopes, pens, and other consumable supplies used in the office",
+        "C": "All electronic equipment used in the office",
+        "D": "The cleaning materials used to maintain the office"
+      },
+      "correct_answer": "B",
+      "explanation": "Office stationery includes all writing and printing materials — paper, envelopes, letterheads, pens, pencils, clips, staples, and folders — used up in the course of office work."
+    },
+    {
+      "id": 59,
+      "topic": "Office Stationery and Supplies",
+      "difficulty": "medium",
+      "question": "The purpose of a stock card (bin card) for office supplies is to",
+      "options": {
+        "A": "Show the names of staff authorised to collect office supplies",
+        "B": "Record the quantity of each item in stock, goods received, goods issued, and the balance remaining",
+        "C": "List all suppliers from whom stationery is purchased",
+        "D": "Show the prices of all office supplies purchased in the year"
+      },
+      "correct_answer": "B",
+      "explanation": "A stock card records receipts, issues, and the running balance of each item, enabling stock levels to be monitored and reorder points identified."
+    },
+    {
+      "id": 60,
+      "topic": "Office Stationery and Supplies",
+      "difficulty": "medium",
+      "question": "Letterheaded (headed) paper is used for",
+      "options": {
+        "A": "All internal memos and notices",
+        "B": "Official external correspondence — displaying the company's name, logo, address, and contact details pre-printed at the top",
+        "C": "Filing and storing internal company records",
+        "D": "Recording petty cash expenditures"
+      },
+      "correct_answer": "B",
+      "explanation": "Letterheaded paper has the company's name, logo, and contact details pre-printed. It is used for official external letters, giving a professional, branded image."
+    },
+    {
+      "id": 61,
+      "topic": "Reception and Visitor Management",
+      "difficulty": "medium",
+      "question": "When receiving a visitor in an office, the receptionist should first",
+      "options": {
+        "A": "Ask the visitor to wait outside until the relevant officer is free",
+        "B": "Greet the visitor courteously, find out their name and purpose of visit, and notify the relevant person",
+        "C": "Direct the visitor immediately to the relevant department without checking",
+        "D": "Request the visitor to complete a lengthy questionnaire"
+      },
+      "correct_answer": "B",
+      "explanation": "The receptionist should greet visitors warmly, get their name and purpose of visit, check whether the person they want to see is available, notify them, and show the visitor to the waiting area."
+    },
+    {
+      "id": 62,
+      "topic": "Reception and Visitor Management",
+      "difficulty": "medium",
+      "question": "A visitors' book in an office is used to",
+      "options": {
+        "A": "Record all telephone calls received by the office",
+        "B": "Record the names, organisations, purpose of visit, and time of arrival and departure of all visitors",
+        "C": "List all employees and their job titles",
+        "D": "Store business cards collected from visitors"
+      },
+      "correct_answer": "B",
+      "explanation": "A visitors' book records all visitor details — name, organisation, purpose, person visited, arrival, and departure — for security, reference, and auditing."
+    },
+    {
+      "id": 63,
+      "topic": "Reception and Visitor Management",
+      "difficulty": "medium",
+      "question": "A well-organised reception area should",
+      "options": {
+        "A": "Be located away from the main entrance so visitors must search for it",
+        "B": "Be easily accessible, clearly signposted, welcoming, and provide comfortable seating and current reading material for visitors",
+        "C": "Restrict access to visitors by requiring appointment-only entry",
+        "D": "Be staffed only during peak visiting hours"
+      },
+      "correct_answer": "B",
+      "explanation": "The reception area is the organisation's first impression. It should be welcoming, clearly signposted, comfortably furnished, and staffed by a professional receptionist."
+    },
+    {
+      "id": 64,
+      "topic": "Telephone Management",
+      "difficulty": "medium",
+      "question": "When answering a business telephone call, the correct procedure is to",
+      "options": {
+        "A": "Answer as quickly as possible and ask the caller to hold",
+        "B": "Identify the organisation and yourself, greet the caller, and offer assistance promptly",
+        "C": "Wait for the caller to introduce themselves before speaking",
+        "D": "Ask for the caller's name and callback number and then put the phone down"
+      },
+      "correct_answer": "B",
+      "explanation": "A business call should be answered promptly by identifying the company and the person answering — e.g., 'Good morning, ABC Ltd, John speaking, how may I help you?'"
+    },
+    {
+      "id": 65,
+      "topic": "Telephone Management",
+      "difficulty": "medium",
+      "question": "A telephone message form is used to",
+      "options": {
+        "A": "Record the cost of all business telephone calls",
+        "B": "Record the details of a telephone message when the intended recipient is unavailable",
+        "C": "Show the telephone directory for the organisation",
+        "D": "Log all calls made by each employee for billing purposes"
+      },
+      "correct_answer": "B",
+      "explanation": "A telephone message form records: caller's name, organisation, telephone number, time of call, message content, and action required — for accurate relay to the recipient."
+    },
+    {
+      "id": 66,
+      "topic": "Telephone Management",
+      "difficulty": "medium",
+      "question": "Which of the following is good telephone etiquette in an office?",
+      "options": {
+        "A": "Eating or chewing food while on a call",
+        "B": "Speaking clearly, listening actively, not interrupting, and ensuring the caller's query is resolved",
+        "C": "Putting callers on hold for long periods without explanation",
+        "D": "Using technical jargon to impress the caller"
+      },
+      "correct_answer": "B",
+      "explanation": "Good telephone etiquette includes answering promptly, speaking clearly, listening carefully, not interrupting, being polite and helpful, and taking accurate messages."
+    },
+    {
+      "id": 67,
+      "topic": "Petty Cash Management",
+      "difficulty": "medium",
+      "question": "The imprest system of petty cash management means",
+      "options": {
+        "A": "The petty cashier receives a different amount each month",
+        "B": "A fixed float is given to the petty cashier; at each reimbursement period, they are topped up by the exact amount spent to restore the float",
+        "C": "The petty cashier can spend any amount without approval",
+        "D": "Petty cash is only used for purchases above a certain amount"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the imprest system, the petty cashier holds a fixed float. At the end of each period, the main cashier reimburses exactly what was spent, restoring the float."
+    },
+    {
+      "id": 68,
+      "topic": "Petty Cash Management",
+      "difficulty": "medium",
+      "question": "Petty cash is used to pay for",
+      "options": {
+        "A": "Large purchases such as computers and furniture",
+        "B": "Small, routine cash expenses such as postage, stationery, bus fares, and refreshments",
+        "C": "Monthly salaries of all office staff",
+        "D": "Payments to major suppliers by bank transfer"
+      },
+      "correct_answer": "B",
+      "explanation": "Petty cash covers small, everyday expenditures inconvenient to pay by cheque — e.g., postage stamps, taxi fares, stationery items."
+    },
+    {
+      "id": 69,
+      "topic": "Petty Cash Management",
+      "difficulty": "medium",
+      "question": "A petty cash voucher is used to",
+      "options": {
+        "A": "Record the total petty cash fund at the start of the month",
+        "B": "Authorise and record each individual petty cash payment",
+        "C": "Request a reimbursement of the petty cash fund from the bank",
+        "D": "Record cash sales made by the business"
+      },
+      "correct_answer": "B",
+      "explanation": "A petty cash voucher records the date, amount, reason for payment, and signatures of the person requesting and the person authorising each petty cash payment."
+    },
+    {
+      "id": 70,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "The Health and Safety at Work Act requires employers to",
+      "options": {
+        "A": "Provide the highest salary possible to all employees",
+        "B": "Ensure, so far as is reasonably practicable, the health, safety, and welfare of all employees and visitors",
+        "C": "Allow employees to work from home whenever they choose",
+        "D": "Provide free meals to all employees during working hours"
+      },
+      "correct_answer": "B",
+      "explanation": "Health and safety legislation requires employers to provide a safe working environment, safe equipment, adequate training, and safe systems of work."
+    },
+    {
+      "id": 71,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "Ergonomics in an office setting is the study of",
+      "options": {
+        "A": "The electronic systems used in the office",
+        "B": "How to design the workplace, equipment, and tasks to fit the worker — reducing discomfort, injury, and fatigue",
+        "C": "The economic efficiency of the office",
+        "D": "The number of staff required to run the office efficiently"
+      },
+      "correct_answer": "B",
+      "explanation": "Ergonomics designs workplaces and equipment to fit human physical and cognitive needs — reducing the risk of repetitive strain injury, back pain, and eye strain."
+    },
+    {
+      "id": 72,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "Repetitive Strain Injury (RSI) in an office is most commonly caused by",
+      "options": {
+        "A": "Lifting heavy packages in the mail room",
+        "B": "Prolonged repetitive tasks such as excessive keyboard use and mouse clicking",
+        "C": "Excessive standing during presentations",
+        "D": "Exposure to cold air from office air conditioning"
+      },
+      "correct_answer": "B",
+      "explanation": "RSI affects muscles, tendons, and nerves of the arms and wrists, caused by repetitive or awkward movements — commonly from excessive keyboard or mouse use."
+    },
+    {
+      "id": 73,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "In the event of a fire in the office, the first action to take is to",
+      "options": {
+        "A": "Collect personal belongings before evacuating",
+        "B": "Raise the alarm, evacuate the building using the designated routes, and call the fire service",
+        "C": "Attempt to fight the fire with whatever is available",
+        "D": "Call the managing director before doing anything else"
+      },
+      "correct_answer": "B",
+      "explanation": "In a fire emergency: raise the alarm, evacuate via designated routes to the assembly point, and call the fire service. Fight only very small fires if trained to do so."
+    },
+    {
+      "id": 74,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "A risk assessment in the workplace involves",
+      "options": {
+        "A": "Assessing the financial risk of a business investment",
+        "B": "Identifying hazards in the workplace, evaluating the likelihood and severity of harm, and implementing controls to reduce risk",
+        "C": "Testing new employees for health problems before starting work",
+        "D": "Calculating the insurance premium for employer's liability insurance"
+      },
+      "correct_answer": "B",
+      "explanation": "A risk assessment identifies hazards, assesses who might be harmed and how seriously, and determines controls needed to eliminate or reduce risk."
+    },
+    {
+      "id": 75,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "A fire extinguisher with a red label and water content should be used on",
+      "options": {
+        "A": "Electrical fires",
+        "B": "Class A fires involving solid materials such as paper, wood, and textiles",
+        "C": "Flammable liquid fires",
+        "D": "Cooking oil fires"
+      },
+      "correct_answer": "B",
+      "explanation": "Water (red label) extinguishers are suitable for Class A fires (solid combustibles). They must NEVER be used on electrical fires (risk of electrocution) or flammable liquid fires."
+    },
+    {
+      "id": 76,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "Manual handling training in an office teaches employees",
+      "options": {
+        "A": "How to handle customer complaints professionally",
+        "B": "Correct techniques for lifting, carrying, and moving loads to avoid back injuries",
+        "C": "How to operate heavy manufacturing machinery",
+        "D": "How to safely use office software and computers"
+      },
+      "correct_answer": "B",
+      "explanation": "Manual handling training teaches safe lifting techniques — bending the knees, keeping the load close to the body, not twisting the spine — to prevent musculoskeletal injuries."
+    },
+    {
+      "id": 77,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Recruitment in an organisation refers to",
+      "options": {
+        "A": "Training employees to perform their current jobs better",
+        "B": "The process of attracting and identifying qualified candidates for a job vacancy",
+        "C": "Dismissing underperforming employees",
+        "D": "Assessing employees for promotion"
+      },
+      "correct_answer": "B",
+      "explanation": "Recruitment is the process of attracting qualified candidates to fill a vacancy — through advertising, job boards, agencies, or internal promotions."
+    },
+    {
+      "id": 78,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "A job description is a document that",
+      "options": {
+        "A": "Lists the educational qualifications required for a job",
+        "B": "Details the title, duties, responsibilities, and working conditions of a specific job",
+        "C": "Records the salary and benefits offered to a new employee",
+        "D": "Shows the organisational hierarchy of the company"
+      },
+      "correct_answer": "B",
+      "explanation": "A job description outlines what a job involves — job title, reporting structure, duties, responsibilities, working conditions, and key performance indicators."
+    },
+    {
+      "id": 79,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "A person specification outlines",
+      "options": {
+        "A": "The daily tasks to be performed in a specific job",
+        "B": "The qualities, skills, qualifications, and experience required of the person who will fill the job",
+        "C": "The organisational chart showing reporting relationships",
+        "D": "The salary, benefits, and working hours for the position"
+      },
+      "correct_answer": "B",
+      "explanation": "A person specification describes the ideal candidate — qualifications, experience, skills, and personal attributes (essential and desirable) — used to assess candidates during selection."
+    },
+    {
+      "id": 80,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Induction training is given to",
+      "options": {
+        "A": "All senior managers before attending an international conference",
+        "B": "New employees to help them become familiar with the organisation, its policies, colleagues, and their role",
+        "C": "Employees who have been promoted to a new position",
+        "D": "Employees who have been underperforming in their current role"
+      },
+      "correct_answer": "B",
+      "explanation": "Induction (orientation) training introduces new employees to the organisation — its history, culture, policies, facilities, health and safety procedures, and their specific role."
+    },
+    {
+      "id": 81,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Performance appraisal is a process used to",
+      "options": {
+        "A": "Recruit new staff to fill vacant positions",
+        "B": "Systematically evaluate an employee's work performance against agreed objectives and standards",
+        "C": "Calculate the wages and salaries of all employees",
+        "D": "Decide which employees should be made redundant"
+      },
+      "correct_answer": "B",
+      "explanation": "Performance appraisal formally assesses how well employees are performing — identifying strengths, areas for improvement, training needs, and informing promotion and pay decisions."
+    },
+    {
+      "id": 82,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Redundancy in employment means",
+      "options": {
+        "A": "An employee who is underperforming is dismissed for misconduct",
+        "B": "A situation where an employee's job no longer exists due to business restructuring, closure, or reduced work",
+        "C": "An employee who repeatedly arrives late to work",
+        "D": "A temporary suspension of an employee pending investigation"
+      },
+      "correct_answer": "B",
+      "explanation": "Redundancy occurs when a job role is no longer needed — due to restructuring, downsizing, or automation — not because of the employee's performance. The employee is entitled to redundancy pay."
+    },
+    {
+      "id": 83,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "An employment contract is a document that",
+      "options": {
+        "A": "Shows the organisation chart of the company",
+        "B": "Sets out the terms and conditions of employment agreed between the employer and the employee",
+        "C": "Records the employee's performance appraisal results",
+        "D": "Lists the names of all staff employed by the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "An employment contract is a legally binding agreement specifying: job title, duties, pay, hours, holiday entitlement, notice period, and other terms and conditions."
+    },
+    {
+      "id": 84,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Disciplinary procedures in an office are used to",
+      "options": {
+        "A": "Reward high-performing employees",
+        "B": "Address employee misconduct or poor performance in a fair, consistent, and legally compliant manner",
+        "C": "Promote employees who have served for a specified period",
+        "D": "Calculate the wages and salaries of all employees"
+      },
+      "correct_answer": "B",
+      "explanation": "Disciplinary procedures provide a fair process for dealing with misconduct — typically: verbal warning, written warning, final written warning, dismissal — ensuring consistent and legally defensible treatment."
+    },
+    {
+      "id": 85,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "A curriculum vitae (CV) is a document that",
+      "options": {
+        "A": "Lists all the terms and conditions of an employment contract",
+        "B": "Summarises an applicant's personal details, qualifications, work experience, skills, and achievements — submitted when applying for a job",
+        "C": "Records the results of a performance appraisal",
+        "D": "Shows the organisational hierarchy of a company"
+      },
+      "correct_answer": "B",
+      "explanation": "A CV is a personal marketing document submitted with a job application, summarising education, qualifications, work experience, and skills to help employers shortlist candidates."
+    },
+    {
+      "id": 86,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "An interview in recruitment is used to",
+      "options": {
+        "A": "Test an applicant's typing speed and accuracy",
+        "B": "Assess a candidate's suitability for a job through face-to-face questioning",
+        "C": "Check the applicant's financial credit history",
+        "D": "Provide the successful applicant with their employment contract"
+      },
+      "correct_answer": "B",
+      "explanation": "A selection interview allows employers to assess candidates — evaluating personality, communication skills, knowledge, and fit with the role and organisation."
+    },
+    {
+      "id": 87,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "A staff training and development programme aims to",
+      "options": {
+        "A": "Select candidates for promotion only",
+        "B": "Improve the knowledge, skills, and competencies of employees to enhance performance and career development",
+        "C": "Evaluate the performance of all employees at year end",
+        "D": "Reduce staff numbers to cut costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Staff training and development improves employees' job-specific skills and broader competencies, increasing productivity, quality, job satisfaction, and readiness for greater responsibility."
+    },
+    {
+      "id": 88,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Job rotation as a staff development technique involves",
+      "options": {
+        "A": "Replacing underperforming staff with new recruits",
+        "B": "Moving employees between different jobs or tasks at regular intervals to broaden their skills and experience",
+        "C": "Rotating staff shifts to cover different working hours",
+        "D": "Assigning employees to new positions as a disciplinary measure"
+      },
+      "correct_answer": "B",
+      "explanation": "Job rotation moves employees through different roles systematically — broadening skills, reducing boredom, and making them more flexible and versatile."
+    },
+    {
+      "id": 89,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Job enrichment as a motivational technique involves",
+      "options": {
+        "A": "Giving employees more tasks of the same level of complexity",
+        "B": "Giving employees more responsibility, autonomy, and challenge in their existing role to increase motivation and satisfaction",
+        "C": "Increasing employees' salaries to motivate them",
+        "D": "Providing employees with free meals and transport as additional benefits"
+      },
+      "correct_answer": "B",
+      "explanation": "Job enrichment (Herzberg) adds vertical job content — more responsibility, decision-making authority, and challenging tasks — addressing motivating factors rather than just hygiene factors."
+    },
+    {
+      "id": 90,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "Records management in an office refers to",
+      "options": {
+        "A": "The management of the company's financial accounts",
+        "B": "The systematic control of the creation, use, maintenance, storage, retrieval, and disposal of records",
+        "C": "The management of the company's physical assets",
+        "D": "The process of recruiting and managing office staff"
+      },
+      "correct_answer": "B",
+      "explanation": "Records management covers the entire lifecycle of records — from creation through active use to storage (retention) and ultimate disposal or permanent archiving."
+    },
+    {
+      "id": 91,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "A retention schedule in records management specifies",
+      "options": {
+        "A": "The time taken to retrieve a specific record from the filing system",
+        "B": "How long different types of records should be kept before they are reviewed for disposal",
+        "C": "The number of copies to be made of each important document",
+        "D": "The order in which documents should be filed"
+      },
+      "correct_answer": "B",
+      "explanation": "A retention schedule specifies how long each type of record must be kept (for legal, regulatory, or operational reasons) before being reviewed, archived, or destroyed."
+    },
+    {
+      "id": 92,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "The purpose of document archiving is to",
+      "options": {
+        "A": "Destroy documents that are no longer needed",
+        "B": "Transfer inactive but potentially valuable records to long-term storage for preservation and future reference",
+        "C": "Create digital copies of all paper documents",
+        "D": "Shred all documents older than five years"
+      },
+      "correct_answer": "B",
+      "explanation": "Archiving transfers inactive records to long-term storage — freeing office space while preserving records that may be needed in the future."
+    },
+    {
+      "id": 93,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "Disposal of records refers to",
+      "options": {
+        "A": "Selling old office furniture and equipment",
+        "B": "The final action taken on records — either permanent destruction (shredding) or permanent preservation (archiving)",
+        "C": "Moving records from the filing room to the accounts department",
+        "D": "Photocopying records before they are filed away"
+      },
+      "correct_answer": "B",
+      "explanation": "Records disposal is the final step in the records management cycle — records are either destroyed when no longer needed or transferred to permanent archives."
+    },
+    {
+      "id": 94,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "Active records are",
+      "options": {
+        "A": "Records that have been archived for permanent preservation",
+        "B": "Records that are in current, regular use and need to be immediately accessible",
+        "C": "Records that have been identified for destruction",
+        "D": "Records stored on microfilm for compact storage"
+      },
+      "correct_answer": "B",
+      "explanation": "Active records are used frequently in day-to-day operations and must be readily accessible, typically stored in the office filing system."
+    },
+    {
+      "id": 95,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "The Data Protection Act requires that personal data stored by an organisation must be",
+      "options": {
+        "A": "Shared with all employees who request access",
+        "B": "Kept accurate, up to date, secure, and used only for its stated purpose — with access limited to authorised personnel",
+        "C": "Destroyed after six months regardless of its nature",
+        "D": "Stored only in physical paper files for security"
+      },
+      "correct_answer": "B",
+      "explanation": "Data protection legislation requires organisations to collect, store, and process personal data lawfully, securely, and transparently — keeping it accurate, limiting retention, and restricting access."
+    },
+    {
+      "id": 96,
+      "topic": "Secretarial Duties",
+      "difficulty": "medium",
+      "question": "The duties of a secretary include",
+      "options": {
+        "A": "Manufacturing products and managing production staff",
+        "B": "Managing correspondence, maintaining diaries, organising meetings, filing, and providing administrative support to management",
+        "C": "Designing advertising campaigns for the company",
+        "D": "Preparing financial statements and auditing company accounts"
+      },
+      "correct_answer": "B",
+      "explanation": "A secretary handles correspondence, maintains the executive's diary, organises meetings (agendas, minutes), manages filing, answers telephones, and provides general administrative support."
+    },
+    {
+      "id": 97,
+      "topic": "Secretarial Duties",
+      "difficulty": "medium",
+      "question": "Shorthand writing is a skill used by secretaries to",
+      "options": {
+        "A": "Write letters in a secret code that only the secretary can read",
+        "B": "Record spoken dictation quickly using a system of abbreviated symbols and strokes",
+        "C": "Type documents at high speed on a computer keyboard",
+        "D": "Summarise financial reports into short paragraphs"
+      },
+      "correct_answer": "B",
+      "explanation": "Shorthand is a rapid writing system using symbols or abbreviations to record spoken words quickly — traditionally used by secretaries to take dictation from executives."
+    },
+    {
+      "id": 98,
+      "topic": "Secretarial Duties",
+      "difficulty": "medium",
+      "question": "A secretary preparing minutes of a meeting should include",
+      "options": {
+        "A": "Their own personal opinions on the discussions",
+        "B": "The date, time, venue, attendees, apologies, matters arising, agenda items discussed, decisions made, and action points",
+        "C": "Only the decisions reached without any discussion details",
+        "D": "A full transcript of every word spoken during the meeting"
+      },
+      "correct_answer": "B",
+      "explanation": "Minutes should record: date, time, location, attendees, apologies, matters arising, key discussion points, decisions made, actions assigned, and the time the meeting closed."
+    },
+    {
+      "id": 99,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "A quorum at a meeting refers to",
+      "options": {
+        "A": "The chairperson's opening speech",
+        "B": "The minimum number of members that must be present for the meeting to be valid and legally conduct business",
+        "C": "The total number of items on the agenda",
+        "D": "The maximum time allowed for any single agenda item"
+      },
+      "correct_answer": "B",
+      "explanation": "A quorum is the minimum number of qualified members who must be present for a meeting to be validly constituted and for its decisions to be legally binding."
+    },
+    {
+      "id": 100,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "The chairperson of a meeting is responsible for",
+      "options": {
+        "A": "Taking notes and writing the minutes of the meeting",
+        "B": "Controlling the meeting, ensuring agenda items are covered, maintaining order, and facilitating decisions",
+        "C": "Preparing the agenda and distributing it to participants",
+        "D": "Counting votes and announcing the results of elections"
+      },
+      "correct_answer": "B",
+      "explanation": "The chairperson opens and closes the meeting, controls proceedings, ensures all agenda items are discussed, maintains order, and declares results of votes."
+    },
+    {
+      "id": 101,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "An Annual General Meeting (AGM) is a meeting that",
+      "options": {
+        "A": "Takes place every week to review operational performance",
+        "B": "A company is legally required to hold at least once a year to present annual accounts, elect directors, and allow shareholders to vote on resolutions",
+        "C": "Is called to deal with urgent matters requiring immediate attention",
+        "D": "Is held only when the company is in financial difficulty"
+      },
+      "correct_answer": "B",
+      "explanation": "An AGM is a statutory annual meeting where annual reports and accounts are presented, directors elected, dividends declared, and shareholders exercise their rights."
+    },
+    {
+      "id": 102,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "An Extraordinary General Meeting (EGM) is called to",
+      "options": {
+        "A": "Conduct routine business that cannot wait until the next AGM",
+        "B": "Discuss urgent or exceptional matters that arise between AGMs — such as a proposed merger or change to the company's constitution",
+        "C": "Review the performance of individual directors",
+        "D": "Discuss the company's annual budget for the coming year"
+      },
+      "correct_answer": "B",
+      "explanation": "An EGM is called when urgent or important issues arise between AGMs — such as a proposed takeover, major capital expenditure, or amendment to the company's articles."
+    },
+    {
+      "id": 103,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "A motion at a meeting is",
+      "options": {
+        "A": "The physical movement of the chairperson during a meeting",
+        "B": "A formal proposal put before a meeting for discussion and a decision",
+        "C": "A request by a member to adjourn the meeting",
+        "D": "The process of transferring the meeting to a new venue"
+      },
+      "correct_answer": "B",
+      "explanation": "A motion is a formal proposal put forward by a member for consideration and a vote. If passed, it becomes a resolution — an official decision."
+    },
+    {
+      "id": 104,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "A resolution at a meeting is",
+      "options": {
+        "A": "The chairperson's summary of the discussion",
+        "B": "A motion that has been formally voted upon and passed by the required majority — becoming an official decision",
+        "C": "An action point assigned to a specific committee member",
+        "D": "A written record of the entire meeting proceedings"
+      },
+      "correct_answer": "B",
+      "explanation": "A resolution is a motion that has been put to a vote and passed — becoming an official decision of the organisation, recorded formally in the minutes."
+    },
+    {
+      "id": 105,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "Matters arising in meeting minutes refers to",
+      "options": {
+        "A": "New items of business to be discussed for the first time",
+        "B": "A review of action points from the previous meeting to check what has been done and what remains outstanding",
+        "C": "The chairperson's introductory remarks",
+        "D": "Issues raised by members after the formal agenda has been completed"
+      },
+      "correct_answer": "B",
+      "explanation": "'Matters arising' reviews what was decided at the previous meeting — checking whether action points have been completed and updating on outstanding matters."
+    },
+    {
+      "id": 106,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "Proxy voting at a meeting allows",
+      "options": {
+        "A": "All votes to be counted twice for accuracy",
+        "B": "A member who cannot attend to authorise another person to vote on their behalf",
+        "C": "Electronic voting to replace physical attendance",
+        "D": "The chairperson to override the result of any vote"
+      },
+      "correct_answer": "B",
+      "explanation": "A proxy is when a member who cannot attend appoints another person (proxy) to attend and vote on their behalf, authorised by a proxy form."
+    },
+    {
+      "id": 107,
+      "topic": "Meetings",
+      "difficulty": "medium",
+      "question": "An adjournment of a meeting means",
+      "options": {
+        "A": "The meeting has been permanently cancelled",
+        "B": "The meeting is suspended and will be resumed at a later date or time",
+        "C": "A vote has been taken on all items and the meeting is closed",
+        "D": "A new member has been invited to join the meeting"
+      },
+      "correct_answer": "B",
+      "explanation": "Adjournment suspends a meeting to be resumed at another time — because business was not completed, more information is needed, or due to a breach of quorum."
+    },
+    {
+      "id": 108,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Office management is concerned with",
+      "options": {
+        "A": "Only the typing and filing duties in the office",
+        "B": "Planning, organising, directing, and controlling all office functions to achieve organisational objectives efficiently",
+        "C": "Managing only the financial records of the organisation",
+        "D": "Designing and decorating the office environment"
+      },
+      "correct_answer": "B",
+      "explanation": "Office management involves planning, organising, directing, and controlling all administrative and clerical functions to ensure the office supports the organisation's goals."
+    },
+    {
+      "id": 109,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Delegation in office management means",
+      "options": {
+        "A": "Refusing to carry out tasks assigned by a superior",
+        "B": "Assigning tasks, authority, and responsibility to subordinates while remaining accountable for the outcome",
+        "C": "Passing all decision-making to external consultants",
+        "D": "Reducing the workload by eliminating unnecessary tasks"
+      },
+      "correct_answer": "B",
+      "explanation": "Delegation involves assigning specific tasks and the authority to carry them out to subordinates. The manager remains ultimately accountable but empowers staff to act independently."
+    },
+    {
+      "id": 110,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Span of control in office management refers to",
+      "options": {
+        "A": "The total area (in square metres) of the office space",
+        "B": "The number of subordinates a manager directly supervises",
+        "C": "The range of products or services offered by the organisation",
+        "D": "The extent of a manager's financial authority"
+      },
+      "correct_answer": "B",
+      "explanation": "Span of control is the number of subordinates reporting directly to one manager. A wide span suits routine work; a narrow span suits complex work requiring close supervision."
+    },
+    {
+      "id": 111,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "An organisation chart is a document that",
+      "options": {
+        "A": "Shows the financial performance of the organisation for the year",
+        "B": "Visually shows the structure of the organisation — including reporting relationships, departments, and levels of authority",
+        "C": "Lists all the products and services offered by the organisation",
+        "D": "Records the goals and objectives of each department"
+      },
+      "correct_answer": "B",
+      "explanation": "An organisation chart is a diagram showing the hierarchy — departments, job positions, and reporting relationships — providing a clear picture of the organisational structure."
+    },
+    {
+      "id": 112,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "The chain of command in an organisation refers to",
+      "options": {
+        "A": "A series of computer commands used in office software",
+        "B": "The line of authority and responsibility that links every person from top management to the lowest level",
+        "C": "A sequence of events that must occur before a purchase order is approved",
+        "D": "The order in which tasks must be completed in the office"
+      },
+      "correct_answer": "B",
+      "explanation": "The chain of command is the formal line of authority through which orders flow from senior management down and accountability flows upward."
+    },
+    {
+      "id": 113,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Authority in an organisation refers to",
+      "options": {
+        "A": "The physical strength needed to manage a large team",
+        "B": "The legitimate right to give instructions, make decisions, and require others to carry out tasks",
+        "C": "The technical skill and expertise of a manager",
+        "D": "The number of years a manager has worked for the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "Authority is the formal, legitimate right given to a position in the hierarchy to give instructions, make decisions, and allocate resources."
+    },
+    {
+      "id": 114,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Coordination in office management refers to",
+      "options": {
+        "A": "The physical arrangement of office furniture and equipment",
+        "B": "The process of linking and integrating the activities of different departments and individuals to achieve organisational goals",
+        "C": "Managing the organisation's bank accounts",
+        "D": "Counting and controlling all office supplies"
+      },
+      "correct_answer": "B",
+      "explanation": "Coordination integrates the activities of different departments and individuals — ensuring they work harmoniously toward common goals without duplication or conflict."
+    },
+    {
+      "id": 115,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Work simplification in office management aims to",
+      "options": {
+        "A": "Reduce the number of staff by making work more complex",
+        "B": "Eliminate unnecessary steps in a procedure to make work faster, easier, and more efficient",
+        "C": "Simplify the reporting structure of the organisation",
+        "D": "Reduce the range of services provided by the office"
+      },
+      "correct_answer": "B",
+      "explanation": "Work simplification analyses existing procedures to eliminate waste, duplication, and unnecessary steps — making processes faster, cheaper, and less prone to error."
+    },
+    {
+      "id": 116,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Management by Objectives (MBO) is a technique that involves",
+      "options": {
+        "A": "Managing the office exclusively by verbal instructions",
+        "B": "Setting specific, measurable goals jointly agreed by managers and subordinates — used to guide, motivate, and appraise performance",
+        "C": "Managing the business purely based on financial objectives",
+        "D": "Allowing managers to set any objectives without consulting staff"
+      },
+      "correct_answer": "B",
+      "explanation": "MBO involves managers and subordinates jointly setting specific, measurable objectives aligned to organisational goals, with performance appraised against agreed objectives."
+    },
+    {
+      "id": 117,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Budgetary control in office management involves",
+      "options": {
+        "A": "Counting the number of employees who arrive late each month",
+        "B": "Planning and comparing actual expenditure against budgeted amounts to control costs",
+        "C": "Designing the annual budget for the entire organisation",
+        "D": "Approving all purchase orders above a certain value"
+      },
+      "correct_answer": "B",
+      "explanation": "Budgetary control involves setting budgets, monitoring actual expenditure, comparing with budgets, and taking corrective action when variances occur."
+    },
+    {
+      "id": 118,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "A procedure manual in an office provides",
+      "options": {
+        "A": "A record of the financial procedures approved by the board",
+        "B": "Detailed step-by-step instructions for carrying out all standard office procedures consistently",
+        "C": "A list of names and duties of all office staff",
+        "D": "The targets and objectives for each department"
+      },
+      "correct_answer": "B",
+      "explanation": "A procedures manual documents how tasks should be performed — ensuring consistency, quality, and compliance, and supporting training of new staff."
+    },
+    {
+      "id": 119,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Word processing software in an office is used for",
+      "options": {
+        "A": "Managing the company's financial accounts",
+        "B": "Creating, editing, formatting, and printing text-based documents such as letters, reports, and memos",
+        "C": "Creating spreadsheets with financial calculations",
+        "D": "Managing the company's database of customers"
+      },
+      "correct_answer": "B",
+      "explanation": "Word processing software (e.g., Microsoft Word) enables creation, editing, formatting, saving, and printing of text documents — replacing the typewriter with far greater flexibility."
+    },
+    {
+      "id": 120,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Spreadsheet software in an office is used for",
+      "options": {
+        "A": "Creating and editing text documents",
+        "B": "Organising numerical data, performing calculations, and creating charts and graphs",
+        "C": "Managing a database of customer information",
+        "D": "Designing promotional materials for marketing"
+      },
+      "correct_answer": "B",
+      "explanation": "Spreadsheet software (e.g., Microsoft Excel) organises data in rows and columns, performs calculations, and creates charts — used for budgets, accounts, and financial planning."
+    },
+    {
+      "id": 121,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Database software in an office is used for",
+      "options": {
+        "A": "Typing letters and reports",
+        "B": "Storing, organising, and retrieving large volumes of structured data — such as customer records and inventory",
+        "C": "Preparing presentations for meetings",
+        "D": "Sending and receiving emails"
+      },
+      "correct_answer": "B",
+      "explanation": "Database software organises and manages large volumes of structured data — enabling efficient storage, retrieval, sorting, and analysis of records such as customer databases."
+    },
+    {
+      "id": 122,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "A Local Area Network (LAN) in an office is",
+      "options": {
+        "A": "A worldwide network connecting millions of computers globally",
+        "B": "A computer network that connects devices within a limited area such as a single office building",
+        "C": "A network connecting multiple company branches across different cities",
+        "D": "A software application for managing office communications"
+      },
+      "correct_answer": "B",
+      "explanation": "A LAN connects computers and peripherals within a limited geographic area (one building or campus), allowing staff to share files, printers, and internet connections."
+    },
+    {
+      "id": 123,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Cloud computing in an office context refers to",
+      "options": {
+        "A": "Computing performed during cloudy weather conditions",
+        "B": "Storing and accessing data and applications over the internet rather than on a local computer or server",
+        "C": "Using portable laptop computers instead of desktops",
+        "D": "A network of computers connected through a wireless radio system"
+      },
+      "correct_answer": "B",
+      "explanation": "Cloud computing stores data and runs applications on remote servers accessed via the internet — enabling anywhere/anytime access, automatic backups, and cost savings on hardware."
+    },
+    {
+      "id": 124,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "An intranet in an organisation is",
+      "options": {
+        "A": "The same as the internet but faster",
+        "B": "A private internal network that provides information and services to employees within the organisation only",
+        "C": "A network connecting the organisation to all its suppliers and customers",
+        "D": "An internal email system for top management only"
+      },
+      "correct_answer": "B",
+      "explanation": "An intranet is a private internal network accessible only to employees — used to share company documents, policies, news, forms, and internal communications securely."
+    },
+    {
+      "id": 125,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Videoconferencing in an office enables",
+      "options": {
+        "A": "Viewing pre-recorded training videos at the employee's convenience",
+        "B": "Real-time audio and visual communication between participants in different locations — replacing the need for physical meetings",
+        "C": "Automatically recording and transcribing all phone conversations",
+        "D": "Broadcasting company announcements via email"
+      },
+      "correct_answer": "B",
+      "explanation": "Videoconferencing (Zoom, Teams, Skype) enables real-time face-to-face communication between people in different locations — reducing travel costs while maintaining visual interaction."
+    },
+    {
+      "id": 126,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Teleconferencing in an office allows",
+      "options": {
+        "A": "Television broadcasting of company advertisements",
+        "B": "Multiple people in different locations to hold a voice conference call simultaneously without physical travel",
+        "C": "Individual employees to watch television during work breaks",
+        "D": "Management to monitor employee telephone calls for training purposes"
+      },
+      "correct_answer": "B",
+      "explanation": "Teleconferencing (audio conferencing) allows multiple parties in different locations to participate in the same call simultaneously — enabling meetings and briefings without travel."
+    },
+    {
+      "id": 127,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "A digital signature in electronic documents is used to",
+      "options": {
+        "A": "Scan a handwritten signature and add it to a document",
+        "B": "Provide a secure, verifiable electronic means of authenticating the identity of the signer and confirming a document has not been altered",
+        "C": "Format the signature field at the bottom of a digital form",
+        "D": "Print a signature automatically on letters using a stamp"
+      },
+      "correct_answer": "B",
+      "explanation": "A digital signature uses cryptographic technology to authenticate the signer's identity and confirm the document's integrity — it cannot be forged and proves the document has not been tampered with."
+    },
+    {
+      "id": 128,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "A network printer in an office is",
+      "options": {
+        "A": "A printer reserved for printing sensitive financial reports",
+        "B": "A printer connected to the office network so multiple computers and users can share it",
+        "C": "A portable printer that can be moved between desks",
+        "D": "A printer that can only print in black and white"
+      },
+      "correct_answer": "B",
+      "explanation": "A network printer is connected to the office LAN, enabling all computers on the network to send print jobs to it — eliminating the need for individual printers at each workstation."
+    },
+    {
+      "id": 129,
+      "topic": "Typing and Word Processing",
+      "difficulty": "medium",
+      "question": "The main advantage of word processing over traditional typewriting is that",
+      "options": {
+        "A": "Word processing produces documents faster but with more errors",
+        "B": "Documents can be easily edited, saved, stored, and reprinted without retyping the entire document",
+        "C": "Word processing requires no electricity to operate",
+        "D": "Word-processed documents are legally superior to typewritten ones"
+      },
+      "correct_answer": "B",
+      "explanation": "Word processing allows easy editing, saving for reuse, formatting options, and reprinting without retyping — offering far greater efficiency and flexibility."
+    },
+    {
+      "id": 130,
+      "topic": "Typing and Word Processing",
+      "difficulty": "medium",
+      "question": "Mail merge in word processing is a feature that allows",
+      "options": {
+        "A": "Merging two separate email accounts into one",
+        "B": "Producing personalised letters by combining a standard template with a database of individual names and addresses",
+        "C": "Sending an email to multiple recipients simultaneously",
+        "D": "Combining multiple documents into a single PDF file"
+      },
+      "correct_answer": "B",
+      "explanation": "Mail merge combines a standard letter template with a data source to automatically produce individually personalised letters — used for circular letters and bulk correspondence."
+    },
+    {
+      "id": 131,
+      "topic": "Typing and Word Processing",
+      "difficulty": "medium",
+      "question": "The autocorrect feature in word processing software is designed to",
+      "options": {
+        "A": "Automatically format a document according to a pre-set template",
+        "B": "Automatically correct common spelling mistakes and typos as text is typed",
+        "C": "Check that grammar in a document is correct",
+        "D": "Automatically save a document every few minutes"
+      },
+      "correct_answer": "B",
+      "explanation": "Autocorrect automatically detects and corrects common misspellings and typos as the user types — speeding up typing and reducing basic errors."
+    },
+    {
+      "id": 132,
+      "topic": "Confidentiality and Security",
+      "difficulty": "medium",
+      "question": "Confidentiality in an office context means",
+      "options": {
+        "A": "Keeping all financial records locked in the managing director's safe",
+        "B": "Protecting sensitive information from unauthorised access or disclosure — only sharing it with those who need to know",
+        "C": "Refusing to communicate with external organisations",
+        "D": "Destroying all company records after they have been used"
+      },
+      "correct_answer": "B",
+      "explanation": "Confidentiality requires that sensitive information (personnel data, financial details, client information) is only accessible to authorised individuals."
+    },
+    {
+      "id": 133,
+      "topic": "Confidentiality and Security",
+      "difficulty": "medium",
+      "question": "A password policy in an office is used to",
+      "options": {
+        "A": "Prevent employees from accessing the internet during working hours",
+        "B": "Ensure computer systems are protected from unauthorised access by requiring strong, regularly changed passwords",
+        "C": "Record how many times each employee uses the computer each day",
+        "D": "Prevent the use of social media during working hours"
+      },
+      "correct_answer": "B",
+      "explanation": "A password policy sets rules for creating and managing passwords — minimum length, complexity, regular changes, and prohibition of sharing — to protect systems from unauthorised access."
+    },
+    {
+      "id": 134,
+      "topic": "Confidentiality and Security",
+      "difficulty": "medium",
+      "question": "Access control systems in an office are used to",
+      "options": {
+        "A": "Control the number of telephone calls made by each employee",
+        "B": "Restrict entry to premises or specific areas to authorised personnel only — using key cards, PIN codes, or biometrics",
+        "C": "Manage the access times of part-time employees",
+        "D": "Block access to unauthorised websites on office computers"
+      },
+      "correct_answer": "B",
+      "explanation": "Access control systems restrict physical access to buildings or rooms to authorised personnel, improving security of people, assets, and information."
+    },
+    {
+      "id": 135,
+      "topic": "Organisation Structure",
+      "difficulty": "medium",
+      "question": "A line (scalar) organisation structure is one in which",
+      "options": {
+        "A": "Authority and responsibility flow horizontally across departments",
+        "B": "Authority flows vertically from top to bottom — each person is responsible to only one superior",
+        "C": "All managers have equal authority regardless of their position",
+        "D": "Decision-making is shared among all staff at every level"
+      },
+      "correct_answer": "B",
+      "explanation": "A line (scalar) structure has a clear vertical chain of command from top to bottom. Each employee reports to one boss (unity of command), making authority and responsibility clear."
+    },
+    {
+      "id": 136,
+      "topic": "Organisation Structure",
+      "difficulty": "medium",
+      "question": "A functional organisation structure groups employees by",
+      "options": {
+        "A": "Geographic region or territory",
+        "B": "The type of work they perform — such as finance, marketing, production, and human resources",
+        "C": "The products or services they work on",
+        "D": "Customer segment or market served"
+      },
+      "correct_answer": "B",
+      "explanation": "A functional structure organises the business into departments based on function. Each department is managed by a functional specialist, enabling specialisation and efficiency."
+    },
+    {
+      "id": 137,
+      "topic": "Organisation Structure",
+      "difficulty": "medium",
+      "question": "The unity of command principle in management states that",
+      "options": {
+        "A": "All managers must have equal authority in the organisation",
+        "B": "Each employee should receive orders from only one superior to avoid confusion and conflict",
+        "C": "All decisions must be made unanimously by the management team",
+        "D": "Commands must be given in writing and never verbally"
+      },
+      "correct_answer": "B",
+      "explanation": "Unity of command means each subordinate reports to only one boss. Multiple bosses can give conflicting instructions, causing confusion and undermining accountability."
+    },
+    {
+      "id": 138,
+      "topic": "Organisation Structure",
+      "difficulty": "medium",
+      "question": "Centralisation in management refers to",
+      "options": {
+        "A": "All activities taking place in the centre of the organisation's geographic area",
+        "B": "The concentration of decision-making authority at the top levels of the organisation",
+        "C": "Locating all office services in one central department",
+        "D": "The equal distribution of authority among all managers"
+      },
+      "correct_answer": "B",
+      "explanation": "Centralisation concentrates decision-making authority with top management. This ensures consistency and control but can slow responses."
+    },
+    {
+      "id": 139,
+      "topic": "Organisation Structure",
+      "difficulty": "medium",
+      "question": "Decentralisation in management refers to",
+      "options": {
+        "A": "Moving the company's head office to a different location",
+        "B": "Distributing decision-making authority to lower levels or branch managers within the organisation",
+        "C": "Closing down departments that are not profitable",
+        "D": "Replacing human workers with automated systems"
+      },
+      "correct_answer": "B",
+      "explanation": "Decentralisation distributes decision-making to lower management levels — enabling faster local decisions, greater flexibility, and improved staff motivation."
+    },
+    {
+      "id": 140,
+      "topic": "Business Documents",
+      "difficulty": "medium",
+      "question": "A notice is a document used to",
+      "options": {
+        "A": "Record the decisions made at a meeting",
+        "B": "Inform members or staff about a forthcoming meeting or important event",
+        "C": "Communicate confidentially between two senior managers",
+        "D": "Record all financial transactions of the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "A notice is used to inform concerned parties about a forthcoming meeting — giving the date, time, venue, and type of meeting — sent well in advance to allow preparation."
+    },
+    {
+      "id": 141,
+      "topic": "Business Documents",
+      "difficulty": "medium",
+      "question": "A progress report in an office is used to",
+      "options": {
+        "A": "Record the attendance of employees at training sessions",
+        "B": "Update management on the status of an ongoing project, task, or investigation",
+        "C": "Show the financial progress of the company during the year",
+        "D": "Record any changes in the organisation's personnel"
+      },
+      "correct_answer": "B",
+      "explanation": "A progress report keeps management informed of developments on an ongoing project — covering achievements, remaining work, problems encountered, and planned next steps."
+    },
+    {
+      "id": 142,
+      "topic": "Business Documents",
+      "difficulty": "medium",
+      "question": "A staff handbook is a document given to employees to",
+      "options": {
+        "A": "Record the minutes of all departmental meetings",
+        "B": "Provide information about company policies, rules, procedures, benefits, and employee rights and responsibilities",
+        "C": "Show each employee their individual performance targets",
+        "D": "List all the products and services offered by the company"
+      },
+      "correct_answer": "B",
+      "explanation": "A staff handbook informs employees about company history, culture, policies (absence, disciplinary), pay and benefits, health and safety, and their rights and obligations."
+    },
+    {
+      "id": 143,
+      "topic": "Office Environment",
+      "difficulty": "medium",
+      "question": "Adequate lighting in an office is important because",
+      "options": {
+        "A": "It saves electricity costs for the organisation",
+        "B": "Poor lighting causes eye strain, headaches, and reduces productivity and accuracy",
+        "C": "It makes the office look more attractive to visitors",
+        "D": "Bright lighting is required by health and safety law in all offices"
+      },
+      "correct_answer": "B",
+      "explanation": "Proper lighting reduces eye strain, headaches, and fatigue, improving staff productivity, accuracy, and well-being."
+    },
+    {
+      "id": 144,
+      "topic": "Office Environment",
+      "difficulty": "medium",
+      "question": "Office ventilation is important because",
+      "options": {
+        "A": "It helps maintain the security of the office",
+        "B": "Adequate air circulation reduces stuffiness, heat, and odours, improving staff comfort and productivity",
+        "C": "It is required for the operation of all office equipment",
+        "D": "It reduces the amount of natural light entering the office"
+      },
+      "correct_answer": "B",
+      "explanation": "Good ventilation maintains comfortable temperature and air quality — reducing heat, humidity, and CO2 that cause fatigue and drowsiness."
+    },
+    {
+      "id": 145,
+      "topic": "Office Environment",
+      "difficulty": "medium",
+      "question": "Office furniture should be arranged to",
+      "options": {
+        "A": "Impress visitors with an attractive layout regardless of practicality",
+        "B": "Facilitate workflow, ensure safety, maximise space, and provide comfort to employees",
+        "C": "Keep all desks facing the same direction regardless of natural light",
+        "D": "Separate senior staff from junior staff at all times"
+      },
+      "correct_answer": "B",
+      "explanation": "Good office furniture arrangement should support efficient workflow, comply with health and safety requirements, maximise available space, and provide comfortable ergonomic working positions."
+    },
+    {
+      "id": 146,
+      "topic": "Office Environment",
+      "difficulty": "medium",
+      "question": "Noise control in the office is important because",
+      "options": {
+        "A": "Noise is legally prohibited in all commercial premises",
+        "B": "Excessive noise causes distraction, stress, and reduced concentration, lowering productivity and increasing errors",
+        "C": "Noise damages office equipment over time",
+        "D": "Clients and customers expect complete silence in all offices"
+      },
+      "correct_answer": "B",
+      "explanation": "Excessive noise is a major source of distraction and stress, reducing concentration, increasing errors, and leading to fatigue. Sound-absorbing materials and acoustic panels help."
+    },
+    {
+      "id": 147,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "A standard operating procedure (SOP) in an office is",
+      "options": {
+        "A": "A list of all employees and their job descriptions",
+        "B": "A documented step-by-step process that specifies how routine tasks should be carried out consistently",
+        "C": "A financial statement showing operating costs",
+        "D": "A set of government regulations that all offices must follow"
+      },
+      "correct_answer": "B",
+      "explanation": "An SOP is a detailed written procedure describing how to carry out a specific routine task — ensuring consistency, quality, and compliance."
+    },
+    {
+      "id": 148,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "A purchase order in an office is a document used to",
+      "options": {
+        "A": "Record goods received from a supplier",
+        "B": "Formally authorise the purchase of goods or services from a specified supplier",
+        "C": "Approve payment of an invoice from a supplier",
+        "D": "Request a credit note from a supplier for returned goods"
+      },
+      "correct_answer": "B",
+      "explanation": "A purchase order (PO) is an official document issued by the buyer to a supplier authorising the purchase of specific goods at an agreed price — a legally binding contract once accepted."
+    },
+    {
+      "id": 149,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "A goods received note (GRN) is prepared when",
+      "options": {
+        "A": "Goods are dispatched from the warehouse to a customer",
+        "B": "Goods are received from a supplier — to record, check, and confirm that the correct goods in the right quantity have arrived",
+        "C": "Goods are returned to a supplier for being defective",
+        "D": "An invoice is received from a supplier and approved for payment"
+      },
+      "correct_answer": "B",
+      "explanation": "A GRN is prepared when goods arrive from a supplier, recording what was received and checking it against the purchase order — notifying accounts for payment processing."
+    },
+    {
+      "id": 150,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "An invoice authorisation procedure requires that invoices from suppliers are",
+      "options": {
+        "A": "Paid immediately on receipt without further checks",
+        "B": "Checked against the purchase order and goods received note before being approved for payment",
+        "C": "Filed alphabetically by supplier name without any verification",
+        "D": "Sent directly to the bank for electronic payment"
+      },
+      "correct_answer": "B",
+      "explanation": "The three-way matching procedure checks the supplier's invoice against the purchase order and goods received note before authorising payment — preventing overpayment and fraud."
+    },
+    {
+      "id": 151,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "A tender in business is a document in which",
+      "options": {
+        "A": "A supplier sends an invoice to the buyer after goods have been delivered",
+        "B": "A potential supplier formally offers to supply specified goods or services at a stated price in response to an invitation",
+        "C": "A buyer acknowledges receipt of goods from a supplier",
+        "D": "A company formally requests a bank loan"
+      },
+      "correct_answer": "B",
+      "explanation": "A tender is a formal, competitive offer submitted by a supplier in response to an Invitation to Tender — specifying price and terms under which they are willing to supply goods or services."
+    },
+    {
+      "id": 152,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "An authorisation procedure in an office is used to",
+      "options": {
+        "A": "Automatically approve all routine purchases without manual review",
+        "B": "Ensure that transactions and actions require approval from the appropriate level of authority before they proceed",
+        "C": "Record all purchases made by each department during the year",
+        "D": "Allow only senior management to make any decisions"
+      },
+      "correct_answer": "B",
+      "explanation": "An authorisation procedure specifies who has the authority to approve different types of transactions at different value thresholds — ensuring control and accountability."
+    },
+    {
+      "id": 153,
+      "topic": "Centralised vs Decentralised Services",
+      "difficulty": "medium",
+      "question": "A centralised office services department provides services such as typing, filing, and photocopying to",
+      "options": {
+        "A": "Only senior management in the organisation",
+        "B": "All departments throughout the organisation from one central unit",
+        "C": "External clients of the organisation",
+        "D": "Only the finance and accounts department"
+      },
+      "correct_answer": "B",
+      "explanation": "A centralised services department provides administrative services to all departments from one location — achieving specialisation, economies of scale, and consistency."
+    },
+    {
+      "id": 154,
+      "topic": "Centralised vs Decentralised Services",
+      "difficulty": "medium",
+      "question": "The main advantage of centralised office services is",
+      "options": {
+        "A": "Each department has complete control over its own administrative support",
+        "B": "Economies of scale, specialist staff, better equipment utilisation, and consistency of work quality",
+        "C": "Faster access to services for individual departments",
+        "D": "Greater flexibility and personalisation of services for each department"
+      },
+      "correct_answer": "B",
+      "explanation": "Centralised services allow investment in better equipment, employ specialist staff, achieve economies of scale, ensure consistent quality, and reduce duplication."
+    },
+    {
+      "id": 155,
+      "topic": "Office Services",
+      "difficulty": "medium",
+      "question": "A reprographics department in an office is responsible for",
+      "options": {
+        "A": "Repairing and maintaining office equipment",
+        "B": "Producing multiple copies of documents — including photocopying, printing, and duplicating",
+        "C": "Managing the company's graphic design and branding",
+        "D": "Recruiting and inducting new office staff"
+      },
+      "correct_answer": "B",
+      "explanation": "The reprographics (copying) department handles bulk reproduction of documents — photocopying, digital printing — serving all departments needing multiple copies."
+    },
+    {
+      "id": 156,
+      "topic": "Remuneration and Wages",
+      "difficulty": "medium",
+      "question": "A salary is a form of remuneration that is",
+      "options": {
+        "A": "Paid daily based on hours worked",
+        "B": "A fixed regular payment (usually monthly) that does not vary with hours worked",
+        "C": "A payment based on the number of units produced",
+        "D": "A commission earned on each successful sale made"
+      },
+      "correct_answer": "B",
+      "explanation": "A salary is a fixed regular payment (usually monthly) agreed in the employment contract, not varying with actual hours worked. Common for white-collar (office) workers."
+    },
+    {
+      "id": 157,
+      "topic": "Remuneration and Wages",
+      "difficulty": "medium",
+      "question": "A wage is a form of remuneration that is usually",
+      "options": {
+        "A": "A fixed monthly payment regardless of hours worked",
+        "B": "Calculated on an hourly or daily basis — varying with hours actually worked",
+        "C": "A percentage of the company's annual profit",
+        "D": "A one-off payment made at the end of the year"
+      },
+      "correct_answer": "B",
+      "explanation": "A wage is hourly or daily pay for manual or part-time workers, calculated on actual hours worked (plus overtime). Unlike salaries, wages vary with hours worked."
+    },
+    {
+      "id": 158,
+      "topic": "Remuneration and Wages",
+      "difficulty": "medium",
+      "question": "Commission as a form of remuneration is",
+      "options": {
+        "A": "A fixed monthly payment for all employees",
+        "B": "A payment based on a percentage of the sales achieved by an employee",
+        "C": "An allowance paid to cover the cost of business travel",
+        "D": "A bonus paid to all employees at the end of the financial year"
+      },
+      "correct_answer": "B",
+      "explanation": "Commission is performance-related pay calculated as a percentage of sales made or targets achieved, incentivising employees — especially salespeople — to increase productivity."
+    },
+    {
+      "id": 159,
+      "topic": "Remuneration and Wages",
+      "difficulty": "medium",
+      "question": "A bonus payment is best described as",
+      "options": {
+        "A": "The basic salary paid to all employees each month",
+        "B": "An additional payment over and above the regular salary, awarded for good performance or company profitability",
+        "C": "A government-mandated payment for working overtime",
+        "D": "Money deducted from an employee's salary for late arrival"
+      },
+      "correct_answer": "B",
+      "explanation": "A bonus is an extra payment given to employees for good individual or company performance — motivating staff and rewarding contribution above the basic level."
+    },
+    {
+      "id": 160,
+      "topic": "Remuneration and Wages",
+      "difficulty": "medium",
+      "question": "A pay slip is a document given to an employee to show",
+      "options": {
+        "A": "The amount of commission they earned in the previous quarter",
+        "B": "A detailed breakdown of gross pay, deductions (tax, pension, NHF), and net pay for the pay period",
+        "C": "The organisation's total wage bill for the month",
+        "D": "The employee's performance rating and annual review results"
+      },
+      "correct_answer": "B",
+      "explanation": "A pay slip shows earnings (basic pay, overtime, allowances), deductions (income tax, pension, NHF), and the resulting net (take-home) pay for each pay period."
+    },
+    {
+      "id": 161,
+      "topic": "Work Study and Time Management",
+      "difficulty": "medium",
+      "question": "Time management in an office refers to",
+      "options": {
+        "A": "Recording the exact time each employee arrives and leaves work",
+        "B": "Organising and planning how to divide available time between specific activities to maximise productivity",
+        "C": "Setting strict deadlines for all office tasks regardless of complexity",
+        "D": "Reducing the number of hours worked to cut staffing costs"
+      },
+      "correct_answer": "B",
+      "explanation": "Time management involves planning, prioritising, and organising tasks — using to-do lists, diaries, and scheduling — to make the best use of available time and meet deadlines."
+    },
+    {
+      "id": 162,
+      "topic": "Work Study and Time Management",
+      "difficulty": "medium",
+      "question": "A diary (appointments book) in office management is used to",
+      "options": {
+        "A": "Record the financial transactions of the organisation",
+        "B": "Schedule, record, and remind an executive of appointments, meetings, deadlines, and tasks",
+        "C": "Store the names and contact details of all company clients",
+        "D": "Record the daily attendance of all staff"
+      },
+      "correct_answer": "B",
+      "explanation": "A diary (physical or electronic) schedules appointments, meetings, and tasks, serving as a reminder system to ensure commitments are not missed."
+    },
+    {
+      "id": 163,
+      "topic": "Work Study and Time Management",
+      "difficulty": "medium",
+      "question": "Work measurement in an office is used to",
+      "options": {
+        "A": "Measure the physical dimensions of the office space",
+        "B": "Establish the time required to carry out a specific task to an acceptable standard — used for staffing and planning",
+        "C": "Measure the productivity of the entire organisation",
+        "D": "Record the hours worked by each employee each week"
+      },
+      "correct_answer": "B",
+      "explanation": "Work measurement establishes standard times for tasks — enabling management to plan staffing levels, set performance targets, compare efficiency, and identify improvement areas."
+    },
+    {
+      "id": 164,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A press release is a written communication sent to",
+      "options": {
+        "A": "All employees of the organisation",
+        "B": "The media (newspapers, TV, radio, online) to announce news, events, or developments about the organisation",
+        "C": "Government regulatory authorities to report compliance",
+        "D": "Suppliers and creditors about changes in payment terms"
+      },
+      "correct_answer": "B",
+      "explanation": "A press release is written for the media — announcing company news with the aim of generating editorial coverage and publicity."
+    },
+    {
+      "id": 165,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A newsletter in an organisation is used to",
+      "options": {
+        "A": "Communicate urgent instructions from management to staff",
+        "B": "Regularly inform employees, customers, or members about news, events, and developments within the organisation",
+        "C": "Record the minutes of departmental meetings",
+        "D": "Process orders from customers"
+      },
+      "correct_answer": "B",
+      "explanation": "A newsletter is a regular publication that keeps employees, customers, or members informed about organisational news, events, achievements, and updates."
+    },
+    {
+      "id": 166,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A notice board in an office is used to",
+      "options": {
+        "A": "Display the organisation's financial results for the year",
+        "B": "Post general information, announcements, and notices for the attention of all staff",
+        "C": "Show the performance ratings of individual employees",
+        "D": "Record attendance and absence of staff"
+      },
+      "correct_answer": "B",
+      "explanation": "A notice board is a display board where general information — meeting notices, policy changes, job vacancies, event announcements — can be posted for all staff to see."
+    },
+    {
+      "id": 167,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "An instruction manual in an office is a document used to",
+      "options": {
+        "A": "Record the instructions given by management at team meetings",
+        "B": "Provide step-by-step guidance on how to operate equipment or carry out a procedure",
+        "C": "List the disciplinary instructions for all employees",
+        "D": "Record the training activities completed by each employee"
+      },
+      "correct_answer": "B",
+      "explanation": "An instruction manual provides detailed, step-by-step guidance on how to operate equipment or carry out specific procedures — ensuring correct and safe use."
+    },
+    {
+      "id": 168,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Formal communication in an organisation is characterised by",
+      "options": {
+        "A": "Rumours and gossip passed between employees informally",
+        "B": "Following established channels and procedures — documented, authorised, and part of the official communication system",
+        "C": "Communication that takes place only in writing",
+        "D": "Communication reserved for senior management only"
+      },
+      "correct_answer": "B",
+      "explanation": "Formal communication follows official organisational structure and channels — memos, official letters, reports, meetings. It is authorised, documented, and governed by organisational policies."
+    },
+    {
+      "id": 169,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Effective listening in the office is important because",
+      "options": {
+        "A": "It allows the listener to plan what to say next while the speaker talks",
+        "B": "It ensures the listener understands the message accurately, reducing errors, misunderstandings, and the need for clarification",
+        "C": "It shows respect only to senior managers",
+        "D": "It is a legal requirement under employment law"
+      },
+      "correct_answer": "B",
+      "explanation": "Active listening — giving full attention, not interrupting, and confirming understanding — ensures messages are received accurately, reduces errors, and builds better working relationships."
+    },
+    {
+      "id": 170,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "An email signature in business communication serves to",
+      "options": {
+        "A": "Sign an email digitally to confirm its authenticity",
+        "B": "Provide the sender's name, position, company, and contact details automatically at the end of every email",
+        "C": "Encrypt the email to prevent unauthorised access",
+        "D": "Confirm that the email has been read by the recipient"
+      },
+      "correct_answer": "B",
+      "explanation": "An email signature automatically appends the sender's name, job title, company, and contact details to outgoing emails — giving a professional impression."
+    },
+    {
+      "id": 171,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "An executive's diary management includes",
+      "options": {
+        "A": "Recording all financial transactions made by the executive",
+        "B": "Scheduling appointments, meetings, deadlines, and travel arrangements — and reminding the executive of upcoming commitments",
+        "C": "Ordering stationery and office supplies for the executive",
+        "D": "Filing all correspondence received by the executive"
+      },
+      "correct_answer": "B",
+      "explanation": "Diary management involves maintaining the executive's schedule — booking and confirming appointments, ensuring no conflicts, and coordinating meetings and travel."
+    },
+    {
+      "id": 172,
+      "topic": "Banking and Financial Procedures",
+      "difficulty": "medium",
+      "question": "An office cashier's duties include",
+      "options": {
+        "A": "Designing the company's financial strategy and investment portfolio",
+        "B": "Receiving and disbursing cash, maintaining cash records, and ensuring cash is kept securely",
+        "C": "Auditing the company's annual financial accounts",
+        "D": "Managing the company's relationships with its banks"
+      },
+      "correct_answer": "B",
+      "explanation": "An office cashier handles cash receipts and payments, maintains a cash book, reconciles cash holdings, issues receipts, and ensures cash is kept safely."
+    },
+    {
+      "id": 173,
+      "topic": "Banking and Financial Procedures",
+      "difficulty": "medium",
+      "question": "A cheque requisition form is used to",
+      "options": {
+        "A": "Request a refund from a supplier for returned goods",
+        "B": "Formally request that the accounts department prepare a cheque for a specific payment",
+        "C": "Order goods from a supplier on credit",
+        "D": "Authorise the bank to pay a standing order"
+      },
+      "correct_answer": "B",
+      "explanation": "A cheque requisition form is an internal document used by a department to formally request the accounts department to issue a cheque — providing details of payee, amount, and reason."
+    },
+    {
+      "id": 174,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "Microfilming is a records management technique that involves",
+      "options": {
+        "A": "Filing documents in alphabetical order using a microscope",
+        "B": "Photographing documents at a greatly reduced size onto photographic film for compact storage",
+        "C": "Shredding and micronising documents for disposal",
+        "D": "Scanning documents and storing them on a microchip"
+      },
+      "correct_answer": "B",
+      "explanation": "Microfilming photographs documents at greatly reduced size onto microfilm or microfiche. Large volumes can be stored in very small space and read using a microfilm reader."
+    },
+    {
+      "id": 175,
+      "topic": "Filing",
+      "difficulty": "medium",
+      "question": "A visible card index system stores",
+      "options": {
+        "A": "Documents on microfilm for compact storage",
+        "B": "Cards in overlapping rows so the bottom edge of each card (containing key information) is always visible",
+        "C": "Loose documents in alphabetical suspension files",
+        "D": "Electronic records in a searchable database"
+      },
+      "correct_answer": "B",
+      "explanation": "A visible card index (Kardex) holds cards in overlapping rows so the bottom edge of each card (with key details) is always visible — allowing quick scanning and retrieval."
+    },
+    {
+      "id": 176,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A cheque writer (cheque protector) is used to",
+      "options": {
+        "A": "Sign cheques automatically on behalf of the managing director",
+        "B": "Imprint the amount on a cheque in ink and perforations that are difficult to alter fraudulently",
+        "C": "Print bank statements for reconciliation",
+        "D": "Verify that a cheque is valid before it is accepted"
+      },
+      "correct_answer": "B",
+      "explanation": "A cheque writer/protector prints and perforates the amount on a cheque in a way that is very difficult to alter, protecting against fraudulent modification."
+    },
+    {
+      "id": 177,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A dictating machine (Dictaphone) is used to",
+      "options": {
+        "A": "Connect telephone calls between offices",
+        "B": "Record spoken dictation that can later be typed by a secretary or transcribed by voice recognition software",
+        "C": "Print labels and address stickers",
+        "D": "Sort incoming mail into categories automatically"
+      },
+      "correct_answer": "B",
+      "explanation": "A dictating machine allows an executive to record dictation verbally, which a secretary later transcribes — saving the executive time and allowing dictation when the secretary is unavailable."
+    },
+    {
+      "id": 178,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "An intercom system in an office is used to",
+      "options": {
+        "A": "Connect the office to external telephone networks",
+        "B": "Facilitate internal voice communication between different rooms, floors, or departments within a building",
+        "C": "Record all telephone conversations for security purposes",
+        "D": "Broadcast company announcements over public radio"
+      },
+      "correct_answer": "B",
+      "explanation": "An intercom (intercommunication) system allows immediate voice communication between different locations within the same building without using external phone lines."
+    },
+    {
+      "id": 179,
+      "topic": "Office Equipment",
+      "difficulty": "medium",
+      "question": "A paper folding machine in an office is used to",
+      "options": {
+        "A": "Staple pages of a document together",
+        "B": "Automatically fold letters, circulars, or leaflets for insertion into envelopes — saving time and ensuring consistency",
+        "C": "Cut paper to specific sizes using a preset template",
+        "D": "Punch holes in paper for filing in ring binders"
+      },
+      "correct_answer": "B",
+      "explanation": "A paper folding machine folds letters and circulars to the correct format automatically and consistently — saving significant time in large mail-out operations."
+    },
+    {
+      "id": 180,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A facsimile (fax) transmission is used to send",
+      "options": {
+        "A": "Electronic packages via internet courier services",
+        "B": "An exact electronic image of a document over telephone lines to a receiving fax machine",
+        "C": "Bulk emails to many recipients simultaneously",
+        "D": "Voice messages to telephone answering machines"
+      },
+      "correct_answer": "B",
+      "explanation": "A fax transmits a scanned image of a document over telephone lines — used when a handwritten signature or exact document image must be transmitted immediately."
+    },
+    {
+      "id": 181,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Feedback in communication is important because",
+      "options": {
+        "A": "It allows the sender to speak for longer",
+        "B": "It confirms whether the message has been received and understood correctly, enabling the sender to correct misunderstandings",
+        "C": "It is a legal requirement for all business communications",
+        "D": "It reduces the cost of communication for the organisation"
+      },
+      "correct_answer": "B",
+      "explanation": "Feedback closes the communication loop — it tells the sender how the message was received, enabling corrections to misunderstandings and ensuring the communication achieved its purpose."
+    },
+    {
+      "id": 182,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Accountability in management means",
+      "options": {
+        "A": "The responsibility of an employee to carry out assigned tasks",
+        "B": "Being answerable to a superior for the exercise of authority and the performance of duties",
+        "C": "The ability to count and manage financial resources",
+        "D": "The process of reviewing employee performance annually"
+      },
+      "correct_answer": "B",
+      "explanation": "Accountability means being answerable for the use of authority and the fulfilment of responsibilities. A manager who delegates tasks remains accountable to their superiors for outcomes."
+    },
+    {
+      "id": 183,
+      "topic": "Office Layout",
+      "difficulty": "medium",
+      "question": "Office layout refers to",
+      "options": {
+        "A": "The colour scheme and decoration of the office",
+        "B": "The design and arrangement of office furniture, equipment, and staff to maximise efficiency",
+        "C": "The number of staff employed in the office",
+        "D": "The hours during which the office is open for business"
+      },
+      "correct_answer": "B",
+      "explanation": "Office layout is the physical arrangement of furniture, equipment, partitions, and people within the office space, designed to facilitate workflow, communication, and efficiency."
+    },
+    {
+      "id": 184,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "The subject line in a business letter or memo is used to",
+      "options": {
+        "A": "Greet the recipient formally",
+        "B": "State the topic or purpose of the communication briefly",
+        "C": "Give the full name of the sender",
+        "D": "Show the postal address of the recipient"
+      },
+      "correct_answer": "B",
+      "explanation": "The subject line briefly states the topic of the communication, allowing the reader to immediately understand the purpose before reading the full content."
+    },
+    {
+      "id": 185,
+      "topic": "Human Resources in the Office",
+      "difficulty": "medium",
+      "question": "Dismissal (termination) of employment means",
+      "options": {
+        "A": "An employee voluntarily resigning from their position",
+        "B": "The employer ending the employee's employment — either for misconduct, poor performance, or other valid reasons",
+        "C": "An employee taking unpaid leave for an extended period",
+        "D": "A mutual agreement to end the employment relationship"
+      },
+      "correct_answer": "B",
+      "explanation": "Dismissal is when the employer ends the employee's contract. It must follow proper procedures and be for a valid reason to avoid claims of unfair dismissal."
+    },
+    {
+      "id": 186,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "Work scheduling in an office means",
+      "options": {
+        "A": "Deciding when staff can take annual leave",
+        "B": "Planning and organising tasks, activities, and staff time to ensure work is completed efficiently and on time",
+        "C": "Scheduling meetings and conferences for the management team",
+        "D": "Recording the actual hours worked by each employee each day"
+      },
+      "correct_answer": "B",
+      "explanation": "Work scheduling involves planning what work needs to be done, assigning it to staff, and setting deadlines — ensuring efficient use of time and resources."
+    },
+    {
+      "id": 187,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "A memo is different from a business letter in that a memo",
+      "options": {
+        "A": "Is longer and more formal than a business letter",
+        "B": "Is used for internal communication within the same organisation and does not require a salutation or formal closing",
+        "C": "Must always be signed by the managing director before circulation",
+        "D": "Can only be sent by post, not electronically"
+      },
+      "correct_answer": "B",
+      "explanation": "A memo is used internally within the organisation and has a simplified format — no salutation, no complimentary close, just TO, FROM, DATE, SUBJECT, and the message body."
+    },
+    {
+      "id": 188,
+      "topic": "Office Health and Safety",
+      "difficulty": "medium",
+      "question": "A first aid kit in an office should be",
+      "options": {
+        "A": "Kept in the managing director's personal office for security",
+        "B": "Readily accessible in the workplace, regularly checked and replenished, and staff trained in basic first aid",
+        "C": "Used only by the company nurse or medical officer",
+        "D": "Replaced only when items expire"
+      },
+      "correct_answer": "B",
+      "explanation": "First aid kits must be accessible to all staff, regularly inspected and restocked, clearly signposted, and key staff should be trained in first aid."
+    },
+    {
+      "id": 189,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "Electronic mail (email) in the office is used to",
+      "options": {
+        "A": "Physically deliver packages to clients",
+        "B": "Send and receive written messages, documents, and files electronically over the internet",
+        "C": "Print documents directly from a computer",
+        "D": "Store digital copies of all office stationery"
+      },
+      "correct_answer": "B",
+      "explanation": "Email allows instant sending and receiving of text messages and file attachments electronically — replacing much of the traditional postal correspondence."
+    },
+    {
+      "id": 190,
+      "topic": "Records Management",
+      "difficulty": "medium",
+      "question": "A requisition form for office supplies is used to",
+      "options": {
+        "A": "Order goods from an external supplier",
+        "B": "Formally request the issue of supplies from the stationery store within the organisation",
+        "C": "Record all stationery received from suppliers",
+        "D": "Approve payment for stationery purchases"
+      },
+      "correct_answer": "B",
+      "explanation": "A requisition form is an internal document used by a department to formally request items from the stationery or stores department."
+    },
+    {
+      "id": 191,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "An office procedures manual is important because it",
+      "options": {
+        "A": "Allows the managing director to personally supervise every task",
+        "B": "Provides a reference guide ensuring tasks are performed consistently, correctly, and efficiently — especially by new staff",
+        "C": "Eliminates the need for any staff training",
+        "D": "Gives employees freedom to perform tasks in any way they choose"
+      },
+      "correct_answer": "B",
+      "explanation": "A procedures manual documents how tasks should be performed, ensuring consistency, quality, and compliance — especially valuable for training new staff and maintaining standards."
+    },
+    {
+      "id": 192,
+      "topic": "Office Environment",
+      "difficulty": "medium",
+      "question": "The Workplace Regulations require that the temperature in an office should be",
+      "options": {
+        "A": "Below 15 degrees Celsius to maintain staff alertness",
+        "B": "At least 16 degrees Celsius (or 13 degrees Celsius for physical work) — ensuring staff are comfortable and can work effectively",
+        "C": "Exactly 25 degrees Celsius at all times",
+        "D": "Set by individual employees using personal fans and heaters"
+      },
+      "correct_answer": "B",
+      "explanation": "Standard workplace regulations require a minimum indoor working temperature of 16 degrees Celsius (or 13 degrees for physically active work) to maintain staff comfort and productivity."
+    },
+    {
+      "id": 193,
+      "topic": "Mail Handling",
+      "difficulty": "medium",
+      "question": "A mail register (postage book) is used to",
+      "options": {
+        "A": "Store all incoming letters in alphabetical order",
+        "B": "Record details of outgoing mail — including the recipient, postage charged, and date dispatched",
+        "C": "List all staff authorised to send official letters",
+        "D": "Show the addresses of all company clients"
+      },
+      "correct_answer": "B",
+      "explanation": "A mail register records all outgoing correspondence — date, addressee, type of mail, and postage cost — helping control postage expenditure and providing evidence if queries arise."
+    },
+    {
+      "id": 194,
+      "topic": "Office Automation",
+      "difficulty": "medium",
+      "question": "The internet in an office is used for",
+      "options": {
+        "A": "Only sending and receiving emails",
+        "B": "Accessing information, communicating, conducting research, online transactions, and cloud-based services",
+        "C": "Only connecting office computers within the same building",
+        "D": "Automatically backing up all company data"
+      },
+      "correct_answer": "B",
+      "explanation": "The internet enables access to vast information, communication (email, video calls), online transactions, research, and cloud computing — transforming how modern offices operate."
+    },
+    {
+      "id": 195,
+      "topic": "Secretarial Duties",
+      "difficulty": "medium",
+      "question": "An executive's travel arrangements managed by a secretary include",
+      "options": {
+        "A": "Only booking the flight and hotel",
+        "B": "Booking transport and accommodation, preparing itineraries, obtaining visas, arranging currency, and preparing travel documents",
+        "C": "Only arranging meetings at the destination",
+        "D": "Filing all travel receipts after the trip"
+      },
+      "correct_answer": "B",
+      "explanation": "A secretary arranging business travel handles: transport bookings (flights, trains, taxis), hotel accommodation, detailed itineraries, visas/passports, foreign currency, and preparing all necessary documents."
+    },
+    {
+      "id": 196,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Line and staff organisation differs from a pure line organisation in that",
+      "options": {
+        "A": "In line and staff, all managers have equal authority",
+        "B": "Line and staff adds specialist advisory (staff) positions to support line managers without taking away their authority",
+        "C": "In line and staff, staff managers have authority over line managers",
+        "D": "Line and staff eliminates the need for a chain of command"
+      },
+      "correct_answer": "B",
+      "explanation": "Line and staff organisation retains the clear authority of line managers but adds staff specialists (HR, legal, finance advisers) who provide expert advice without having direct authority over line employees."
+    },
+    {
+      "id": 197,
+      "topic": "Business Documents",
+      "difficulty": "medium",
+      "question": "A chairman's report at an AGM is used to",
+      "options": {
+        "A": "Record the minutes of the previous AGM",
+        "B": "Give shareholders a review of the company's performance and prospects from the board's perspective",
+        "C": "Show the detailed financial accounts of the company",
+        "D": "List the agenda items for the AGM"
+      },
+      "correct_answer": "B",
+      "explanation": "The chairman's report reviews the company's performance during the year, highlights key achievements and challenges, and looks ahead to future prospects — from the board's perspective."
+    },
+    {
+      "id": 198,
+      "topic": "Office Procedures",
+      "difficulty": "medium",
+      "question": "Centralised purchasing in an organisation means",
+      "options": {
+        "A": "Each department purchases its own supplies independently",
+        "B": "All purchasing for the entire organisation is handled by one central purchasing department",
+        "C": "Only the finance department can approve purchases",
+        "D": "Purchasing is contracted out to an external procurement agency"
+      },
+      "correct_answer": "B",
+      "explanation": "Centralised purchasing concentrates all buying decisions in one department — achieving bulk purchase discounts, consistent supplier relationships, standardised specifications, and better control over expenditure."
+    },
+    {
+      "id": 199,
+      "topic": "Office Management",
+      "difficulty": "medium",
+      "question": "Matrix management structure is one where",
+      "options": {
+        "A": "All staff report to only one manager in a strict hierarchy",
+        "B": "Employees report to both a functional manager and a project manager simultaneously",
+        "C": "Decision-making authority is distributed equally among all staff",
+        "D": "The organisation is structured by geographic territory"
+      },
+      "correct_answer": "B",
+      "explanation": "A matrix structure overlays project teams on top of functional departments. Employees have a dual reporting relationship — to their functional manager (specialist) and their project manager (deliverable). It improves flexibility but can cause role conflict."
+    },
+    {
+      "id": 200,
+      "topic": "Office Communication",
+      "difficulty": "medium",
+      "question": "Which of the following is the MOST effective way to communicate a confidential, detailed policy change to all staff?",
+      "options": {
+        "A": "Posting a notice on the office notice board",
+        "B": "Issuing a formal written circular letter or memo to each staff member individually",
+        "C": "Announcing it verbally at a casual gathering",
+        "D": "Posting it on the company's public website"
+      },
+      "correct_answer": "B",
+      "explanation": "A formal written circular or memo ensures that every staff member receives the same accurate, documented information. It provides a record of communication, ensures confidentiality, and allows staff to refer back to the details."
+    }
+  ]
+}

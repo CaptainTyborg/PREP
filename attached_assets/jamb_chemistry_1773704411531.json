@@ -1,0 +1,2806 @@
+{
+  "subject": "Chemistry",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The atomic number of an element is defined as the number of:",
+      "options": {
+        "A": "neutrons in the nucleus",
+        "B": "protons in the nucleus",
+        "C": "electrons in the outermost shell",
+        "D": "nucleons in the nucleus"
+      },
+      "correct_answer": "B",
+      "explanation": "The atomic number (Z) is the number of protons in the nucleus of an atom. In a neutral atom, it equals the number of electrons."
+    },
+    {
+      "id": 2,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "An element has atomic number 17 and mass number 35. How many neutrons does it have?",
+      "options": {
+        "A": "17",
+        "B": "35",
+        "C": "18",
+        "D": "52"
+      },
+      "correct_answer": "C",
+      "explanation": "Number of neutrons = Mass number - Atomic number = 35 - 17 = 18."
+    },
+    {
+      "id": 3,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "Isotopes are atoms of the same element that have the same number of protons but different numbers of:",
+      "options": {
+        "A": "protons",
+        "B": "electrons",
+        "C": "neutrons",
+        "D": "energy levels"
+      },
+      "correct_answer": "C",
+      "explanation": "Isotopes have the same atomic number (protons) but different mass numbers due to different numbers of neutrons."
+    },
+    {
+      "id": 4,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The maximum number of electrons that can be accommodated in the second shell (n=2) is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "18"
+      },
+      "correct_answer": "C",
+      "explanation": "Maximum electrons in a shell = 2n². For n=2: 2×4 = 8 electrons."
+    },
+    {
+      "id": 5,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The electron configuration of chlorine (atomic number 17) is:",
+      "options": {
+        "A": "2, 8, 7",
+        "B": "2, 8, 8",
+        "C": "2, 7, 8",
+        "D": "2, 9, 6"
+      },
+      "correct_answer": "A",
+      "explanation": "Chlorine (Z=17) has configuration 2, 8, 7. It has 7 electrons in its outermost shell."
+    },
+    {
+      "id": 6,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "Which of the following particles has negligible mass and carries a negative charge?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Alpha particle"
+      },
+      "correct_answer": "C",
+      "explanation": "Electrons have negligible mass (1/1836 of a proton) and carry a negative charge of -1."
+    },
+    {
+      "id": 7,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The nucleus of an atom contains which of the following particles?",
+      "options": {
+        "A": "Electrons and protons",
+        "B": "Protons and neutrons",
+        "C": "Electrons and neutrons",
+        "D": "Electrons only"
+      },
+      "correct_answer": "B",
+      "explanation": "The nucleus contains protons (positive charge) and neutrons (no charge). Electrons orbit outside the nucleus."
+    },
+    {
+      "id": 8,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "An ion X²⁺ has 18 electrons. What is the atomic number of element X?",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "20",
+        "D": "22"
+      },
+      "correct_answer": "C",
+      "explanation": "X²⁺ has lost 2 electrons. So neutral X has 18 + 2 = 20 electrons = 20 protons. Atomic number = 20 (Calcium)."
+    },
+    {
+      "id": 9,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "Elements in the same group of the periodic table have the same:",
+      "options": {
+        "A": "number of electron shells",
+        "B": "atomic mass",
+        "C": "number of valence electrons",
+        "D": "number of neutrons"
+      },
+      "correct_answer": "C",
+      "explanation": "Elements in the same group have the same number of valence (outermost shell) electrons and therefore similar chemical properties."
+    },
+    {
+      "id": 10,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "As you move across a period from left to right in the periodic table, atomic radius generally:",
+      "options": {
+        "A": "increases",
+        "B": "decreases",
+        "C": "remains the same",
+        "D": "first increases then decreases"
+      },
+      "correct_answer": "B",
+      "explanation": "Across a period, nuclear charge increases while electrons are added to the same shell, so atomic radius decreases due to increased nuclear attraction."
+    },
+    {
+      "id": 11,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "The noble gases are placed in Group:",
+      "options": {
+        "A": "I",
+        "B": "VII",
+        "C": "0 (or VIII)",
+        "D": "IV"
+      },
+      "correct_answer": "C",
+      "explanation": "Noble gases (He, Ne, Ar, Kr, Xe, Rn) are in Group 0 (or Group VIII/18) of the periodic table."
+    },
+    {
+      "id": 12,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "Which of the following elements is a halogen?",
+      "options": {
+        "A": "Sodium",
+        "B": "Potassium",
+        "C": "Bromine",
+        "D": "Argon"
+      },
+      "correct_answer": "C",
+      "explanation": "Bromine (Br) is a halogen in Group VII. Halogens include F, Cl, Br, I, and At."
+    },
+    {
+      "id": 13,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "The first ionization energy generally increases across a period because:",
+      "options": {
+        "A": "atomic radius increases",
+        "B": "nuclear charge increases and atomic radius decreases",
+        "C": "the number of electron shells increases",
+        "D": "valence electrons are further from the nucleus"
+      },
+      "correct_answer": "B",
+      "explanation": "Across a period, increasing nuclear charge with decreasing atomic radius means valence electrons are held more tightly, requiring more energy to remove."
+    },
+    {
+      "id": 14,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "Electronegativity generally increases:",
+      "options": {
+        "A": "down a group and across a period from right to left",
+        "B": "down a group and across a period from left to right",
+        "C": "up a group and across a period from left to right",
+        "D": "up a group and across a period from right to left"
+      },
+      "correct_answer": "C",
+      "explanation": "Electronegativity increases up a group (smaller atoms hold electrons more tightly) and across a period from left to right (increasing nuclear charge)."
+    },
+    {
+      "id": 15,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "Elements in Period 3 have electrons in how many shells?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "Elements in Period 3 have electrons in 3 shells (n=1, 2, 3). The period number corresponds to the outermost shell."
+    },
+    {
+      "id": 16,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "An ionic bond is formed by the:",
+      "options": {
+        "A": "sharing of electrons between two atoms",
+        "B": "transfer of electrons from one atom to another",
+        "C": "sharing of protons between two atoms",
+        "D": "attraction between two non-metal atoms"
+      },
+      "correct_answer": "B",
+      "explanation": "Ionic bonds form when electrons are transferred from a metal to a non-metal, creating oppositely charged ions that attract each other."
+    },
+    {
+      "id": 17,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Which of the following compounds contains a covalent bond?",
+      "options": {
+        "A": "NaCl",
+        "B": "KBr",
+        "C": "H₂O",
+        "D": "MgO"
+      },
+      "correct_answer": "C",
+      "explanation": "H₂O is a covalent compound — oxygen and hydrogen share electrons. NaCl, KBr, and MgO are ionic compounds."
+    },
+    {
+      "id": 18,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "A co-ordinate (dative) bond is formed when:",
+      "options": {
+        "A": "both electrons in the bond are supplied by one atom",
+        "B": "each atom contributes one electron to the bond",
+        "C": "electrons are transferred completely",
+        "D": "two atoms share four electrons"
+      },
+      "correct_answer": "A",
+      "explanation": "In a dative (coordinate) bond, both electrons of the shared pair come from one atom (donor), as in NH₄⁺ formation."
+    },
+    {
+      "id": 19,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "The type of bonding present in a metal is called:",
+      "options": {
+        "A": "ionic bonding",
+        "B": "covalent bonding",
+        "C": "metallic bonding",
+        "D": "hydrogen bonding"
+      },
+      "correct_answer": "C",
+      "explanation": "Metallic bonding involves a lattice of positive ions surrounded by a 'sea' of delocalized electrons, which explains metals' conductivity and malleability."
+    },
+    {
+      "id": 20,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Hydrogen bonding occurs between molecules that contain hydrogen bonded to a highly electronegative atom such as:",
+      "options": {
+        "A": "carbon or hydrogen",
+        "B": "nitrogen, oxygen, or fluorine",
+        "C": "sulfur or chlorine",
+        "D": "phosphorus or bromine"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydrogen bonding forms when H is bonded to a highly electronegative atom (N, O, or F), which creates a strong dipole."
+    },
+    {
+      "id": 21,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Which of the following has the highest melting point?",
+      "options": {
+        "A": "Sodium chloride (ionic solid)",
+        "B": "Ice (covalent molecular)",
+        "C": "Iodine (covalent molecular)",
+        "D": "Methane (covalent molecular)"
+      },
+      "correct_answer": "A",
+      "explanation": "Ionic solids like NaCl have strong electrostatic attractions between ions and require more energy (higher melting point) to break down than molecular solids."
+    },
+    {
+      "id": 22,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "The shape of a water molecule (H₂O) is:",
+      "options": {
+        "A": "linear",
+        "B": "trigonal planar",
+        "C": "bent (V-shaped)",
+        "D": "tetrahedral"
+      },
+      "correct_answer": "C",
+      "explanation": "Water has 2 bonding pairs and 2 lone pairs. The lone pairs repel the bonding pairs, giving a bent (V-shaped) geometry with a bond angle of ~104.5°."
+    },
+    {
+      "id": 23,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "The molar mass of calcium carbonate (CaCO₃) is: (Ca=40, C=12, O=16)",
+      "options": {
+        "A": "68 g/mol",
+        "B": "84 g/mol",
+        "C": "100 g/mol",
+        "D": "116 g/mol"
+      },
+      "correct_answer": "C",
+      "explanation": "Molar mass of CaCO₃ = 40 + 12 + (16×3) = 40 + 12 + 48 = 100 g/mol."
+    },
+    {
+      "id": 24,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "How many moles are present in 22 g of carbon dioxide (CO₂)? (C=12, O=16)",
+      "options": {
+        "A": "0.25 mol",
+        "B": "0.5 mol",
+        "C": "1 mol",
+        "D": "2 mol"
+      },
+      "correct_answer": "B",
+      "explanation": "Molar mass of CO₂ = 12 + 32 = 44 g/mol. Moles = 22/44 = 0.5 mol."
+    },
+    {
+      "id": 25,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "Avogadro's number (constant) is approximately:",
+      "options": {
+        "A": "6.02 × 10²³",
+        "B": "6.02 × 10²²",
+        "C": "3.01 × 10²³",
+        "D": "1.66 × 10⁻²⁴"
+      },
+      "correct_answer": "A",
+      "explanation": "Avogadro's constant Nₐ = 6.02 × 10²³ mol⁻¹. It is the number of particles in one mole of a substance."
+    },
+    {
+      "id": 26,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "What volume does 2 moles of an ideal gas occupy at STP?",
+      "options": {
+        "A": "11.2 L",
+        "B": "22.4 L",
+        "C": "44.8 L",
+        "D": "33.6 L"
+      },
+      "correct_answer": "C",
+      "explanation": "At STP, 1 mole of gas = 22.4 L. Therefore 2 moles = 2 × 22.4 = 44.8 L."
+    },
+    {
+      "id": 27,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "In the reaction: 2H₂ + O₂ → 2H₂O, how many moles of water are produced from 4 moles of H₂?",
+      "options": {
+        "A": "2 mol",
+        "B": "4 mol",
+        "C": "6 mol",
+        "D": "8 mol"
+      },
+      "correct_answer": "B",
+      "explanation": "From the equation, 2 mol H₂ produces 2 mol H₂O. Therefore 4 mol H₂ produces 4 mol H₂O (1:1 ratio)."
+    },
+    {
+      "id": 28,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "The empirical formula of a compound with 40% carbon, 6.7% hydrogen, and 53.3% oxygen is: (C=12, H=1, O=16)",
+      "options": {
+        "A": "CH₂O",
+        "B": "C₂H₄O₂",
+        "C": "CHO",
+        "D": "C₂H₂O"
+      },
+      "correct_answer": "A",
+      "explanation": "Mole ratios: C=40/12=3.33, H=6.7/1=6.7, O=53.3/16=3.33. Dividing by 3.33 gives C:H:O = 1:2:1, so CH₂O."
+    },
+    {
+      "id": 29,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "The percentage by mass of nitrogen in ammonium nitrate (NH₄NO₃) is: (N=14, H=1, O=16)",
+      "options": {
+        "A": "17.5%",
+        "B": "35%",
+        "C": "28%",
+        "D": "14%"
+      },
+      "correct_answer": "B",
+      "explanation": "Molar mass of NH₄NO₃ = 14+4+14+48 = 80 g/mol. Mass of N = 2×14 = 28. % N = (28/80)×100 = 35%."
+    },
+    {
+      "id": 30,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "A solution containing 0.5 moles of solute in 500 cm³ of solution has a concentration of:",
+      "options": {
+        "A": "0.5 mol/L",
+        "B": "1.0 mol/L",
+        "C": "0.25 mol/L",
+        "D": "2.0 mol/L"
+      },
+      "correct_answer": "B",
+      "explanation": "Concentration = moles/volume(L) = 0.5/0.5 = 1.0 mol/L. (500 cm³ = 0.5 L)"
+    },
+    {
+      "id": 31,
+      "topic": "States of Matter",
+      "difficulty": "medium",
+      "question": "Which of the following best describes the arrangement of particles in a solid?",
+      "options": {
+        "A": "Particles are far apart and move randomly",
+        "B": "Particles are close together and vibrate about fixed positions",
+        "C": "Particles are close together and move freely",
+        "D": "Particles have no definite arrangement"
+      },
+      "correct_answer": "B",
+      "explanation": "In solids, particles are closely packed in a regular arrangement and only vibrate about their fixed positions."
+    },
+    {
+      "id": 32,
+      "topic": "States of Matter",
+      "difficulty": "medium",
+      "question": "The process by which a solid changes directly to a gas without passing through the liquid state is called:",
+      "options": {
+        "A": "evaporation",
+        "B": "condensation",
+        "C": "sublimation",
+        "D": "melting"
+      },
+      "correct_answer": "C",
+      "explanation": "Sublimation is the direct conversion of a solid to a gas. Examples include iodine, naphthalene, and dry ice (CO₂)."
+    },
+    {
+      "id": 33,
+      "topic": "States of Matter",
+      "difficulty": "medium",
+      "question": "Which of the following substances undergoes sublimation?",
+      "options": {
+        "A": "Ice",
+        "B": "Iodine",
+        "C": "Salt",
+        "D": "Wax"
+      },
+      "correct_answer": "B",
+      "explanation": "Iodine undergoes sublimation — it converts directly from a purple solid to a purple vapour when heated."
+    },
+    {
+      "id": 34,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "Boyle's Law states that at constant temperature, pressure and volume of a fixed gas are:",
+      "options": {
+        "A": "directly proportional",
+        "B": "inversely proportional",
+        "C": "equal",
+        "D": "independent"
+      },
+      "correct_answer": "B",
+      "explanation": "Boyle's Law: PV = constant (at constant T). Pressure and volume are inversely proportional."
+    },
+    {
+      "id": 35,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "A gas has a volume of 300 cm³ at 27°C. What is its volume at 127°C at constant pressure?",
+      "options": {
+        "A": "400 cm³",
+        "B": "225 cm³",
+        "C": "600 cm³",
+        "D": "150 cm³"
+      },
+      "correct_answer": "A",
+      "explanation": "Charles' Law: V₁/T₁ = V₂/T₂. T₁=300K, T₂=400K. V₂ = 300×400/300 = 400 cm³."
+    },
+    {
+      "id": 36,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "Graham's Law of diffusion states that the rate of diffusion of a gas is inversely proportional to the square root of its:",
+      "options": {
+        "A": "pressure",
+        "B": "temperature",
+        "C": "molar mass (molecular weight)",
+        "D": "volume"
+      },
+      "correct_answer": "C",
+      "explanation": "Graham's Law: rate ∝ 1/√M. Lighter gases diffuse faster than heavier gases at the same temperature and pressure."
+    },
+    {
+      "id": 37,
+      "topic": "Gas Laws",
+      "difficulty": "medium",
+      "question": "At STP (Standard Temperature and Pressure), what is the temperature in Kelvin?",
+      "options": {
+        "A": "0 K",
+        "B": "100 K",
+        "C": "273 K",
+        "D": "373 K"
+      },
+      "correct_answer": "C",
+      "explanation": "STP is defined as 0°C (273 K) and 1 atm (101.325 kPa) pressure."
+    },
+    {
+      "id": 38,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "According to the Arrhenius definition, an acid is a substance that:",
+      "options": {
+        "A": "accepts protons",
+        "B": "donates electrons",
+        "C": "produces H⁺ ions in aqueous solution",
+        "D": "produces OH⁻ ions in aqueous solution"
+      },
+      "correct_answer": "C",
+      "explanation": "Arrhenius acids produce H⁺ (or H₃O⁺) ions when dissolved in water. Arrhenius bases produce OH⁻ ions."
+    },
+    {
+      "id": 39,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "According to the Brønsted-Lowry definition, a base is a substance that:",
+      "options": {
+        "A": "produces OH⁻ ions in water",
+        "B": "accepts protons (H⁺)",
+        "C": "donates protons (H⁺)",
+        "D": "donates electron pairs"
+      },
+      "correct_answer": "B",
+      "explanation": "Brønsted-Lowry base is a proton acceptor. The corresponding Brønsted-Lowry acid is a proton donor."
+    },
+    {
+      "id": 40,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "What is the pH of a neutral solution at 25°C?",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "14",
+        "D": "1"
+      },
+      "correct_answer": "B",
+      "explanation": "At 25°C, a neutral solution has [H⁺] = [OH⁻] = 10⁻⁷ mol/L, giving pH = -log(10⁻⁷) = 7."
+    },
+    {
+      "id": 41,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "The reaction between an acid and a base to form salt and water is called:",
+      "options": {
+        "A": "oxidation",
+        "B": "neutralization",
+        "C": "precipitation",
+        "D": "hydrolysis"
+      },
+      "correct_answer": "B",
+      "explanation": "Neutralization: Acid + Base → Salt + Water. For example, HCl + NaOH → NaCl + H₂O."
+    },
+    {
+      "id": 42,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "Which of the following is a strong acid?",
+      "options": {
+        "A": "Ethanoic acid (CH₃COOH)",
+        "B": "Carbonic acid (H₂CO₃)",
+        "C": "Hydrochloric acid (HCl)",
+        "D": "Nitrous acid (HNO₂)"
+      },
+      "correct_answer": "C",
+      "explanation": "HCl is a strong acid that fully dissociates in water. CH₃COOH, H₂CO₃, and HNO₂ are weak acids (partial dissociation)."
+    },
+    {
+      "id": 43,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "What is produced when sodium hydroxide reacts with hydrochloric acid?",
+      "options": {
+        "A": "Sodium oxide and water",
+        "B": "Sodium chloride and water",
+        "C": "Sodium carbonate and water",
+        "D": "Sodium hypochlorite and water"
+      },
+      "correct_answer": "B",
+      "explanation": "NaOH + HCl → NaCl + H₂O. The salt produced is sodium chloride (common salt)."
+    },
+    {
+      "id": 44,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "A solution with pH = 3 is:",
+      "options": {
+        "A": "strongly basic",
+        "B": "weakly basic",
+        "C": "neutral",
+        "D": "acidic"
+      },
+      "correct_answer": "D",
+      "explanation": "pH < 7 is acidic, pH = 7 is neutral, pH > 7 is basic. A pH of 3 is strongly acidic."
+    },
+    {
+      "id": 45,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "Which of the following indicators turns red in acidic solution and blue in basic solution?",
+      "options": {
+        "A": "Phenolphthalein",
+        "B": "Methyl orange",
+        "C": "Litmus",
+        "D": "Universal indicator"
+      },
+      "correct_answer": "C",
+      "explanation": "Litmus is red in acidic solution and blue in basic (alkaline) solution. It is a common acid-base indicator."
+    },
+    {
+      "id": 46,
+      "topic": "Oxidation and Reduction",
+      "difficulty": "medium",
+      "question": "Oxidation is defined in terms of electron transfer as:",
+      "options": {
+        "A": "gain of electrons",
+        "B": "loss of electrons",
+        "C": "gain of protons",
+        "D": "loss of protons"
+      },
+      "correct_answer": "B",
+      "explanation": "OIL RIG: Oxidation Is Loss (of electrons), Reduction Is Gain (of electrons)."
+    },
+    {
+      "id": 47,
+      "topic": "Oxidation and Reduction",
+      "difficulty": "medium",
+      "question": "In the reaction: Zn + CuSO₄ → ZnSO₄ + Cu, the zinc is:",
+      "options": {
+        "A": "reduced",
+        "B": "oxidized",
+        "C": "neither oxidized nor reduced",
+        "D": "the oxidizing agent"
+      },
+      "correct_answer": "B",
+      "explanation": "Zinc loses electrons (Zn → Zn²⁺), so it is oxidized. Zinc acts as the reducing agent."
+    },
+    {
+      "id": 48,
+      "topic": "Oxidation and Reduction",
+      "difficulty": "medium",
+      "question": "What is the oxidation number of sulfur in H₂SO₄?",
+      "options": {
+        "A": "+2",
+        "B": "+4",
+        "C": "+6",
+        "D": "-2"
+      },
+      "correct_answer": "C",
+      "explanation": "In H₂SO₄: 2(+1) + S + 4(-2) = 0 → 2 + S - 8 = 0 → S = +6."
+    },
+    {
+      "id": 49,
+      "topic": "Oxidation and Reduction",
+      "difficulty": "medium",
+      "question": "A reducing agent is a substance that:",
+      "options": {
+        "A": "gains electrons and is oxidized",
+        "B": "gains electrons and is reduced",
+        "C": "loses electrons and is oxidized",
+        "D": "loses electrons and is reduced"
+      },
+      "correct_answer": "C",
+      "explanation": "A reducing agent donates electrons to another substance (it is itself oxidized by losing electrons)."
+    },
+    {
+      "id": 50,
+      "topic": "Oxidation and Reduction",
+      "difficulty": "medium",
+      "question": "Which of the following is a common oxidizing agent?",
+      "options": {
+        "A": "Carbon",
+        "B": "Hydrogen",
+        "C": "Potassium manganate(VII) (KMnO₄)",
+        "D": "Carbon monoxide"
+      },
+      "correct_answer": "C",
+      "explanation": "KMnO₄ (potassium permanganate) is a strong oxidizing agent. It readily accepts electrons and oxidizes other substances."
+    },
+    {
+      "id": 51,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "During electrolysis of dilute sulfuric acid, hydrogen gas is produced at the:",
+      "options": {
+        "A": "anode",
+        "B": "cathode",
+        "C": "both electrodes",
+        "D": "electrolyte surface"
+      },
+      "correct_answer": "B",
+      "explanation": "At the cathode (negative electrode), H⁺ ions gain electrons to form H₂ gas: 2H⁺ + 2e⁻ → H₂."
+    },
+    {
+      "id": 52,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "The anode in an electrolytic cell is connected to the:",
+      "options": {
+        "A": "negative terminal of the battery",
+        "B": "positive terminal of the battery",
+        "C": "switch",
+        "D": "voltmeter"
+      },
+      "correct_answer": "B",
+      "explanation": "The anode is the positive electrode and is connected to the positive terminal of the power supply. Oxidation occurs at the anode."
+    },
+    {
+      "id": 53,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "Faraday's first law of electrolysis states that the mass of substance deposited is proportional to:",
+      "options": {
+        "A": "the voltage applied",
+        "B": "the quantity of electricity passed",
+        "C": "the temperature of the electrolyte",
+        "D": "the concentration of the solution"
+      },
+      "correct_answer": "B",
+      "explanation": "Faraday's first law: mass deposited ∝ quantity of electricity (Q = It). More charge = more mass deposited."
+    },
+    {
+      "id": 54,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "During the electrolysis of copper sulfate solution using copper electrodes, the anode:",
+      "options": {
+        "A": "remains unchanged",
+        "B": "gains mass as copper deposits on it",
+        "C": "dissolves as copper goes into solution",
+        "D": "produces oxygen gas"
+      },
+      "correct_answer": "C",
+      "explanation": "With copper electrodes, the copper anode dissolves (Cu → Cu²⁺ + 2e⁻) while copper deposits on the cathode. This is used in copper purification."
+    },
+    {
+      "id": 55,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "The process of coating a metal object with another metal using electrolysis is called:",
+      "options": {
+        "A": "galvanizing",
+        "B": "anodizing",
+        "C": "electroplating",
+        "D": "smelting"
+      },
+      "correct_answer": "C",
+      "explanation": "Electroplating uses electrolysis to deposit a thin layer of metal (e.g., silver, gold, chromium) onto an object."
+    },
+    {
+      "id": 56,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "In a standard electrochemical cell, the electrode with the more negative standard electrode potential acts as the:",
+      "options": {
+        "A": "cathode",
+        "B": "anode",
+        "C": "neutral electrode",
+        "D": "reference electrode"
+      },
+      "correct_answer": "B",
+      "explanation": "The electrode with more negative potential has a stronger tendency to oxidize (lose electrons) and acts as the anode."
+    },
+    {
+      "id": 57,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Le Chatelier's principle states that when a system at equilibrium is disturbed, it will:",
+      "options": {
+        "A": "collapse and not restore equilibrium",
+        "B": "shift to counteract the disturbance and restore equilibrium",
+        "C": "shift to increase the disturbance",
+        "D": "remain unchanged"
+      },
+      "correct_answer": "B",
+      "explanation": "Le Chatelier's principle: a system at equilibrium responds to a stress (change in concentration, pressure, or temperature) by shifting to minimize that change."
+    },
+    {
+      "id": 58,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "For the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g), increasing pressure will:",
+      "options": {
+        "A": "shift equilibrium to the left",
+        "B": "shift equilibrium to the right",
+        "C": "have no effect",
+        "D": "decrease the amount of ammonia"
+      },
+      "correct_answer": "B",
+      "explanation": "Increasing pressure shifts equilibrium toward the side with fewer moles of gas. Left has 4 moles, right has 2 moles, so equilibrium shifts right (more NH₃)."
+    },
+    {
+      "id": 59,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "In the Haber process, iron is used as a:",
+      "options": {
+        "A": "reactant",
+        "B": "product",
+        "C": "catalyst",
+        "D": "solvent"
+      },
+      "correct_answer": "C",
+      "explanation": "Iron is the catalyst in the Haber process (N₂ + 3H₂ ⇌ 2NH₃). It speeds up the attainment of equilibrium without being consumed."
+    },
+    {
+      "id": 60,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "Adding a catalyst to a reversible reaction at equilibrium:",
+      "options": {
+        "A": "shifts the equilibrium to the right",
+        "B": "shifts the equilibrium to the left",
+        "C": "has no effect on the equilibrium position but speeds up both forward and reverse reactions equally",
+        "D": "increases the yield of products"
+      },
+      "correct_answer": "C",
+      "explanation": "A catalyst speeds up both the forward and reverse reactions equally, so equilibrium is reached faster but the equilibrium position (yield) is unchanged."
+    },
+    {
+      "id": 61,
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "question": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+      "options": {
+        "A": "Temperature",
+        "B": "Concentration of reactants",
+        "C": "Presence of a catalyst",
+        "D": "Colour of the reactants"
+      },
+      "correct_answer": "D",
+      "explanation": "The colour of reactants does not affect reaction rate. Rate is affected by temperature, concentration, catalyst, surface area, and light (for photochemical reactions)."
+    },
+    {
+      "id": 62,
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "question": "A catalyst increases reaction rate by:",
+      "options": {
+        "A": "increasing the temperature",
+        "B": "providing an alternative pathway with lower activation energy",
+        "C": "increasing the concentration of reactants",
+        "D": "changing the nature of the reactants"
+      },
+      "correct_answer": "B",
+      "explanation": "A catalyst provides an alternative reaction pathway with a lower activation energy, allowing more particles to react."
+    },
+    {
+      "id": 63,
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "question": "Increasing the temperature of a reaction increases the reaction rate mainly because:",
+      "options": {
+        "A": "it lowers the activation energy",
+        "B": "it increases the number of particles with energy greater than or equal to the activation energy",
+        "C": "it reduces the number of collisions",
+        "D": "it changes the concentration of reactants"
+      },
+      "correct_answer": "B",
+      "explanation": "Higher temperature gives particles more kinetic energy, so a greater proportion have energy ≥ activation energy, leading to more successful collisions."
+    },
+    {
+      "id": 64,
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "question": "The minimum energy required for a chemical reaction to occur is called the:",
+      "options": {
+        "A": "bond energy",
+        "B": "lattice energy",
+        "C": "activation energy",
+        "D": "ionization energy"
+      },
+      "correct_answer": "C",
+      "explanation": "Activation energy is the minimum energy that colliding particles must possess for a reaction to occur."
+    },
+    {
+      "id": 65,
+      "topic": "Chemical Kinetics",
+      "difficulty": "medium",
+      "question": "Which of the following increases the rate of reaction between marble chips and hydrochloric acid?",
+      "options": {
+        "A": "Using larger marble chips",
+        "B": "Using more dilute acid",
+        "C": "Using powdered marble instead of chips",
+        "D": "Lowering the temperature"
+      },
+      "correct_answer": "C",
+      "explanation": "Powdered marble has a larger surface area than chips, increasing the frequency of collisions and thus the reaction rate."
+    },
+    {
+      "id": 66,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "The general formula for alkanes is:",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙH₂ₙ₋₂",
+        "D": "CₙHₙ"
+      },
+      "correct_answer": "B",
+      "explanation": "Alkanes (saturated hydrocarbons) have the general formula CₙH₂ₙ₊₂. E.g., methane CH₄ (n=1), ethane C₂H₆ (n=2)."
+    },
+    {
+      "id": 67,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct name for CH₃CH₂CH₂CH₃?",
+      "options": {
+        "A": "Propane",
+        "B": "Butane",
+        "C": "Pentane",
+        "D": "Ethane"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₃CH₂CH₂CH₃ has 4 carbon atoms — this is butane (C₄H₁₀)."
+    },
+    {
+      "id": 68,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Alkenes differ from alkanes in that alkenes contain:",
+      "options": {
+        "A": "only single bonds",
+        "B": "a carbon-carbon double bond",
+        "C": "a carbon-carbon triple bond",
+        "D": "benzene rings"
+      },
+      "correct_answer": "B",
+      "explanation": "Alkenes contain at least one C=C double bond (unsaturated). The general formula is CₙH₂ₙ."
+    },
+    {
+      "id": 69,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Ethyne (acetylene) belongs to which homologous series?",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Alkynes",
+        "D": "Arenes"
+      },
+      "correct_answer": "C",
+      "explanation": "Ethyne (C₂H₂) is an alkyne — it contains a C≡C triple bond. Alkynes have the general formula CₙH₂ₙ₋₂."
+    },
+    {
+      "id": 70,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "The type of reaction that alkanes undergo with halogens in the presence of UV light is called:",
+      "options": {
+        "A": "addition reaction",
+        "B": "elimination reaction",
+        "C": "substitution reaction",
+        "D": "polymerization"
+      },
+      "correct_answer": "C",
+      "explanation": "Alkanes undergo free radical substitution with halogens (e.g., CH₄ + Cl₂ → CH₃Cl + HCl) in the presence of UV light."
+    },
+    {
+      "id": 71,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Alkenes readily undergo addition reactions. Which of the following is an addition product of ethene and bromine?",
+      "options": {
+        "A": "Bromoethane",
+        "B": "1,2-dibromoethane",
+        "C": "Ethanol",
+        "D": "Ethanoic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₂=CH₂ + Br₂ → CH₂BrCH₂Br (1,2-dibromoethane). The bromine adds across the double bond."
+    },
+    {
+      "id": 72,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "The decolorization of bromine water is used as a test for:",
+      "options": {
+        "A": "alkanes",
+        "B": "alcohols",
+        "C": "unsaturation (C=C double bonds)",
+        "D": "carboxylic acids"
+      },
+      "correct_answer": "C",
+      "explanation": "Alkenes decolorize bromine water (orange/yellow → colourless) due to addition across the C=C double bond. Alkanes do not decolorize bromine water at room temperature."
+    },
+    {
+      "id": 73,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "The functional group of alcohols is:",
+      "options": {
+        "A": "-COOH",
+        "B": "-CHO",
+        "C": "-OH",
+        "D": "-CO-"
+      },
+      "correct_answer": "C",
+      "explanation": "Alcohols contain the hydroxyl group (-OH) as the functional group. E.g., ethanol CH₃CH₂OH."
+    },
+    {
+      "id": 74,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "The functional group of carboxylic acids is:",
+      "options": {
+        "A": "-OH",
+        "B": "-CHO",
+        "C": "-COOH",
+        "D": "-COO-"
+      },
+      "correct_answer": "C",
+      "explanation": "Carboxylic acids contain the carboxyl group (-COOH). Ethanoic acid (CH₃COOH) is a common example."
+    },
+    {
+      "id": 75,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "Ethanol reacts with ethanoic acid in the presence of concentrated H₂SO₄ to produce:",
+      "options": {
+        "A": "diethyl ether",
+        "B": "ethyl ethanoate and water",
+        "C": "ethanoic acid and water",
+        "D": "ethane and water"
+      },
+      "correct_answer": "B",
+      "explanation": "Esterification: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O. Ethyl ethanoate (a sweet-smelling ester) is produced."
+    },
+    {
+      "id": 76,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "The product of the complete combustion of ethanol (C₂H₅OH) is:",
+      "options": {
+        "A": "CO and H₂O",
+        "B": "C and H₂O",
+        "C": "CO₂ and H₂O",
+        "D": "CO₂ and H₂"
+      },
+      "correct_answer": "C",
+      "explanation": "Complete combustion of any organic compound containing only C, H, and O gives CO₂ and H₂O: C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O."
+    },
+    {
+      "id": 77,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "Aldehydes contain which functional group?",
+      "options": {
+        "A": "-COOH",
+        "B": "-CHO",
+        "C": "-CO-",
+        "D": "-OH"
+      },
+      "correct_answer": "B",
+      "explanation": "Aldehydes contain the -CHO (formyl) group at the end of a carbon chain. E.g., methanal (HCHO), ethanal (CH₃CHO)."
+    },
+    {
+      "id": 78,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "Fehling's solution is used to distinguish between:",
+      "options": {
+        "A": "alkanes and alkenes",
+        "B": "aldehydes and ketones",
+        "C": "alcohols and carboxylic acids",
+        "D": "saturated and unsaturated fats"
+      },
+      "correct_answer": "B",
+      "explanation": "Fehling's solution is reduced by aldehydes (giving a brick-red precipitate of Cu₂O) but not by ketones."
+    },
+    {
+      "id": 79,
+      "topic": "Organic Chemistry - Polymers",
+      "difficulty": "medium",
+      "question": "The process by which small molecules (monomers) join together to form a large molecule is called:",
+      "options": {
+        "A": "hydrolysis",
+        "B": "esterification",
+        "C": "polymerization",
+        "D": "saponification"
+      },
+      "correct_answer": "C",
+      "explanation": "Polymerization is the process of joining many monomers together to form a polymer. Addition and condensation polymerization are the two main types."
+    },
+    {
+      "id": 80,
+      "topic": "Organic Chemistry - Polymers",
+      "difficulty": "medium",
+      "question": "Polythene (polyethylene) is made from which monomer?",
+      "options": {
+        "A": "Propene",
+        "B": "Ethene",
+        "C": "Styrene",
+        "D": "Chloroethene"
+      },
+      "correct_answer": "B",
+      "explanation": "Polythene is made by addition polymerization of ethene (CH₂=CH₂) monomers: n(CH₂=CH₂) → -(CH₂-CH₂)ₙ-."
+    },
+    {
+      "id": 81,
+      "topic": "Organic Chemistry - Polymers",
+      "difficulty": "medium",
+      "question": "Nylon is an example of which type of polymer?",
+      "options": {
+        "A": "Addition polymer",
+        "B": "Condensation polymer",
+        "C": "Natural polymer",
+        "D": "Elastomer"
+      },
+      "correct_answer": "B",
+      "explanation": "Nylon is a condensation polymer (polyamide) formed from diamines and dicarboxylic acids, with water eliminated during polymerization."
+    },
+    {
+      "id": 82,
+      "topic": "Organic Chemistry - Polymers",
+      "difficulty": "medium",
+      "question": "Proteins are natural polymers made up of which monomers?",
+      "options": {
+        "A": "Glucose units",
+        "B": "Fatty acids",
+        "C": "Amino acids",
+        "D": "Nucleotides"
+      },
+      "correct_answer": "C",
+      "explanation": "Proteins are condensation polymers of amino acids linked by peptide bonds (-CO-NH-)."
+    },
+    {
+      "id": 83,
+      "topic": "Water and Solutions",
+      "difficulty": "medium",
+      "question": "Hard water is water that does not easily lather with soap because it contains dissolved:",
+      "options": {
+        "A": "sodium chloride",
+        "B": "potassium sulfate",
+        "C": "calcium or magnesium salts",
+        "D": "iron oxide"
+      },
+      "correct_answer": "C",
+      "explanation": "Hard water contains Ca²⁺ and Mg²⁺ ions which react with soap to form an insoluble scum instead of lather."
+    },
+    {
+      "id": 84,
+      "topic": "Water and Solutions",
+      "difficulty": "medium",
+      "question": "Temporary hardness of water can be removed by:",
+      "options": {
+        "A": "adding sodium chloride",
+        "B": "boiling",
+        "C": "adding more soap",
+        "D": "filtering"
+      },
+      "correct_answer": "B",
+      "explanation": "Temporary hardness (due to Ca(HCO₃)₂) is removed by boiling: Ca(HCO₃)₂ → CaCO₃↓ + H₂O + CO₂."
+    },
+    {
+      "id": 85,
+      "topic": "Water and Solutions",
+      "difficulty": "medium",
+      "question": "Permanent hardness of water is caused by dissolved:",
+      "options": {
+        "A": "calcium hydrogencarbonate",
+        "B": "calcium sulfate and magnesium chloride",
+        "C": "sodium chloride",
+        "D": "calcium carbonate"
+      },
+      "correct_answer": "B",
+      "explanation": "Permanent hardness is caused by Ca²⁺ and Mg²⁺ from sulfates and chlorides, which cannot be removed by boiling."
+    },
+    {
+      "id": 86,
+      "topic": "Water and Solutions",
+      "difficulty": "medium",
+      "question": "A saturated solution is one that:",
+      "options": {
+        "A": "contains the maximum amount of solute that can dissolve at a given temperature",
+        "B": "has very little solute dissolved",
+        "C": "is boiling",
+        "D": "contains only one type of solute"
+      },
+      "correct_answer": "A",
+      "explanation": "A saturated solution contains the maximum amount of solute dissolved at a specific temperature. Adding more solute will cause it to remain undissolved."
+    },
+    {
+      "id": 87,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "The reactivity series of metals ranks metals in order of:",
+      "options": {
+        "A": "their melting points",
+        "B": "their density",
+        "C": "their tendency to lose electrons (react with water and acids)",
+        "D": "their hardness"
+      },
+      "correct_answer": "C",
+      "explanation": "The reactivity series ranks metals by their tendency to undergo oxidation (lose electrons) and react with water, acids, and oxygen."
+    },
+    {
+      "id": 88,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Which of the following metals reacts vigorously with cold water to produce hydrogen gas?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Sodium",
+        "D": "Gold"
+      },
+      "correct_answer": "C",
+      "explanation": "Sodium reacts vigorously with cold water: 2Na + 2H₂O → 2NaOH + H₂↑. It is in the highly reactive group of metals."
+    },
+    {
+      "id": 89,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Which metal is extracted from bauxite (Al₂O₃) by electrolysis?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Zinc",
+        "D": "Aluminium"
+      },
+      "correct_answer": "D",
+      "explanation": "Aluminium is extracted from bauxite (aluminium oxide) by electrolytic reduction in the Hall-Héroult process."
+    },
+    {
+      "id": 90,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Iron is extracted from its ore (haematite, Fe₂O₃) in a:",
+      "options": {
+        "A": "blast furnace",
+        "B": "reverberatory furnace",
+        "C": "electrolytic cell",
+        "D": "open-hearth furnace"
+      },
+      "correct_answer": "A",
+      "explanation": "Iron is extracted from its oxide ore (haematite, Fe₂O₃) by reduction with carbon (coke) in a blast furnace."
+    },
+    {
+      "id": 91,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Galvanizing is the process of coating iron with:",
+      "options": {
+        "A": "tin",
+        "B": "copper",
+        "C": "zinc",
+        "D": "chromium"
+      },
+      "correct_answer": "C",
+      "explanation": "Galvanizing coats iron or steel with zinc to protect it from rusting. Zinc acts as a sacrificial metal."
+    },
+    {
+      "id": 92,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Rusting of iron requires the presence of:",
+      "options": {
+        "A": "oxygen only",
+        "B": "water only",
+        "C": "both oxygen and water (moisture)",
+        "D": "carbon dioxide"
+      },
+      "correct_answer": "C",
+      "explanation": "Rusting requires both oxygen and water. The product is hydrated iron(III) oxide Fe₂O₃·nH₂O (rust)."
+    },
+    {
+      "id": 93,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "Chlorine gas is prepared in the laboratory by the reaction of:",
+      "options": {
+        "A": "HCl with NaOH",
+        "B": "MnO₂ with concentrated HCl and heat",
+        "C": "NaCl with water",
+        "D": "HCl with zinc"
+      },
+      "correct_answer": "B",
+      "explanation": "Cl₂ is prepared in the lab: MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂↑. MnO₂ oxidizes HCl to Cl₂."
+    },
+    {
+      "id": 94,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "Sulfur dioxide (SO₂) is produced when:",
+      "options": {
+        "A": "sulfur burns in oxygen",
+        "B": "sulfur dissolves in water",
+        "C": "sulfur reacts with acids",
+        "D": "sulfur reacts with bases"
+      },
+      "correct_answer": "A",
+      "explanation": "S + O₂ → SO₂. Sulfur dioxide is produced when sulfur burns in oxygen or when sulfur-containing fuels are burned."
+    },
+    {
+      "id": 95,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "Which of the following is the correct product when nitrogen dioxide dissolves in water?",
+      "options": {
+        "A": "Nitrous acid only",
+        "B": "Nitric acid and nitrous acid",
+        "C": "Ammonia",
+        "D": "Nitric acid only"
+      },
+      "correct_answer": "B",
+      "explanation": "3NO₂ + H₂O → 2HNO₃ + NO. In excess water: 4NO₂ + O₂ + 2H₂O → 4HNO₃."
+    },
+    {
+      "id": 96,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "The Haber process is used to manufacture:",
+      "options": {
+        "A": "sulfuric acid",
+        "B": "nitric acid",
+        "C": "ammonia",
+        "D": "hydrogen chloride"
+      },
+      "correct_answer": "C",
+      "explanation": "The Haber process manufactures ammonia: N₂ + 3H₂ ⇌ 2NH₃, using an iron catalyst at ~450°C and 200 atm."
+    },
+    {
+      "id": 97,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "The Contact process is used to manufacture:",
+      "options": {
+        "A": "ammonia",
+        "B": "chlorine",
+        "C": "sulfuric acid",
+        "D": "hydrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "The Contact process manufactures sulfuric acid (H₂SO₄). SO₂ is oxidized to SO₃ over a vanadium(V) oxide catalyst."
+    },
+    {
+      "id": 98,
+      "topic": "Non-metals",
+      "difficulty": "medium",
+      "question": "Carbon dioxide turns limewater:",
+      "options": {
+        "A": "blue",
+        "B": "red",
+        "C": "milky (white)",
+        "D": "yellow"
+      },
+      "correct_answer": "C",
+      "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O. The white precipitate of CaCO₃ turns limewater milky. This is the test for CO₂."
+    },
+    {
+      "id": 99,
+      "topic": "Air and Combustion",
+      "difficulty": "medium",
+      "question": "The approximate percentage of nitrogen in dry air is:",
+      "options": {
+        "A": "21%",
+        "B": "78%",
+        "C": "0.03%",
+        "D": "1%"
+      },
+      "correct_answer": "B",
+      "explanation": "Dry air is approximately 78% nitrogen, 21% oxygen, 0.9% argon, and 0.04% CO₂."
+    },
+    {
+      "id": 100,
+      "topic": "Air and Combustion",
+      "difficulty": "medium",
+      "question": "Incomplete combustion of hydrocarbons produces:",
+      "options": {
+        "A": "CO₂ and H₂O only",
+        "B": "CO and H₂O",
+        "C": "SO₂ and H₂O",
+        "D": "N₂ and H₂O"
+      },
+      "correct_answer": "B",
+      "explanation": "Incomplete combustion (insufficient oxygen) produces carbon monoxide (CO) and water instead of CO₂ and water."
+    },
+    {
+      "id": 101,
+      "topic": "Air and Combustion",
+      "difficulty": "medium",
+      "question": "The main cause of acid rain is the emission of:",
+      "options": {
+        "A": "CO₂ and water vapour",
+        "B": "SO₂ and NOₓ",
+        "C": "O₃ and N₂",
+        "D": "CO and H₂"
+      },
+      "correct_answer": "B",
+      "explanation": "Acid rain is caused by SO₂ (from burning fossil fuels) and NOₓ (from car engines) dissolving in rain water to form sulfuric and nitric acids."
+    },
+    {
+      "id": 102,
+      "topic": "Air and Combustion",
+      "difficulty": "medium",
+      "question": "The greenhouse gas most responsible for global warming is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Argon"
+      },
+      "correct_answer": "C",
+      "explanation": "Carbon dioxide (CO₂) is the primary greenhouse gas contributing to global warming, mainly from burning fossil fuels."
+    },
+    {
+      "id": 103,
+      "topic": "Separation Techniques",
+      "difficulty": "medium",
+      "question": "The technique used to separate a mixture of miscible liquids with different boiling points is:",
+      "options": {
+        "A": "filtration",
+        "B": "fractional distillation",
+        "C": "crystallization",
+        "D": "chromatography"
+      },
+      "correct_answer": "B",
+      "explanation": "Fractional distillation separates miscible liquids (like ethanol and water) that have different but close boiling points."
+    },
+    {
+      "id": 104,
+      "topic": "Separation Techniques",
+      "difficulty": "medium",
+      "question": "Paper chromatography is used to separate:",
+      "options": {
+        "A": "insoluble solids from a liquid",
+        "B": "mixtures of dissolved coloured substances",
+        "C": "immiscible liquids",
+        "D": "gases from liquids"
+      },
+      "correct_answer": "B",
+      "explanation": "Chromatography separates mixtures based on different rates of movement through a stationary phase. It is commonly used for coloured substances."
+    },
+    {
+      "id": 105,
+      "topic": "Separation Techniques",
+      "difficulty": "medium",
+      "question": "Which technique would you use to obtain salt crystals from a salt solution?",
+      "options": {
+        "A": "Filtration",
+        "B": "Distillation",
+        "C": "Evaporation and crystallization",
+        "D": "Sublimation"
+      },
+      "correct_answer": "C",
+      "explanation": "Salt crystals are obtained from solution by evaporation (to concentrate) and then crystallization (slow cooling to form crystals)."
+    },
+    {
+      "id": 106,
+      "topic": "Separation Techniques",
+      "difficulty": "medium",
+      "question": "The Rf value in paper chromatography is calculated as:",
+      "options": {
+        "A": "distance moved by solvent / distance moved by spot",
+        "B": "distance moved by spot / distance moved by solvent front",
+        "C": "mass of spot / total mass",
+        "D": "concentration of spot / total concentration"
+      },
+      "correct_answer": "B",
+      "explanation": "Rf = distance moved by spot / distance moved by solvent front. It is always less than or equal to 1."
+    },
+    {
+      "id": 107,
+      "topic": "Thermochemistry",
+      "difficulty": "medium",
+      "question": "An exothermic reaction is one that:",
+      "options": {
+        "A": "absorbs heat from the surroundings",
+        "B": "releases heat to the surroundings",
+        "C": "requires an increase in temperature to proceed",
+        "D": "produces no energy change"
+      },
+      "correct_answer": "B",
+      "explanation": "Exothermic reactions release energy (heat) to the surroundings, causing a temperature increase. ΔH is negative."
+    },
+    {
+      "id": 108,
+      "topic": "Thermochemistry",
+      "difficulty": "medium",
+      "question": "The standard enthalpy of combustion of a substance is the heat released when:",
+      "options": {
+        "A": "1 g of the substance reacts with excess oxygen",
+        "B": "1 mole of the substance completely combusts in oxygen under standard conditions",
+        "C": "the substance is heated to its boiling point",
+        "D": "the substance dissolves in water"
+      },
+      "correct_answer": "B",
+      "explanation": "Standard enthalpy of combustion (ΔH°c) is the enthalpy change when 1 mole of a substance completely combusts at 25°C and 1 atm."
+    },
+    {
+      "id": 109,
+      "topic": "Thermochemistry",
+      "difficulty": "medium",
+      "question": "Hess's Law states that:",
+      "options": {
+        "A": "the heat of a reaction depends on the path taken",
+        "B": "the enthalpy change of a reaction is independent of the route taken",
+        "C": "heat is always released in chemical reactions",
+        "D": "endothermic reactions are always reversible"
+      },
+      "correct_answer": "B",
+      "explanation": "Hess's Law: the total enthalpy change for a reaction is independent of the pathway — it depends only on the initial and final states."
+    },
+    {
+      "id": 110,
+      "topic": "Thermochemistry",
+      "difficulty": "medium",
+      "question": "An endothermic reaction has a:",
+      "options": {
+        "A": "negative enthalpy change (ΔH < 0)",
+        "B": "positive enthalpy change (ΔH > 0)",
+        "C": "zero enthalpy change",
+        "D": "decreasing enthalpy change with time"
+      },
+      "correct_answer": "B",
+      "explanation": "Endothermic reactions absorb heat from the surroundings, giving a positive ΔH value (products have more energy than reactants)."
+    },
+    {
+      "id": 111,
+      "topic": "Chemical Reactions - Types",
+      "difficulty": "medium",
+      "question": "A precipitation reaction involves the formation of:",
+      "options": {
+        "A": "a gas",
+        "B": "an insoluble solid from two solutions",
+        "C": "a new acid",
+        "D": "a liquid from two gases"
+      },
+      "correct_answer": "B",
+      "explanation": "Precipitation forms an insoluble solid (precipitate) when two solutions are mixed. E.g., AgNO₃ + NaCl → AgCl↓ + NaNO₃."
+    },
+    {
+      "id": 112,
+      "topic": "Chemical Reactions - Types",
+      "difficulty": "medium",
+      "question": "Which type of reaction involves the breakdown of a single compound into two or more simpler substances?",
+      "options": {
+        "A": "Synthesis reaction",
+        "B": "Decomposition reaction",
+        "C": "Displacement reaction",
+        "D": "Double decomposition"
+      },
+      "correct_answer": "B",
+      "explanation": "Decomposition: one compound breaks down into simpler substances. E.g., 2H₂O₂ → 2H₂O + O₂↑."
+    },
+    {
+      "id": 113,
+      "topic": "Chemical Reactions - Types",
+      "difficulty": "medium",
+      "question": "In a displacement reaction, a more reactive metal displaces a less reactive metal from its:",
+      "options": {
+        "A": "oxide",
+        "B": "salt solution",
+        "C": "carbonate",
+        "D": "hydroxide"
+      },
+      "correct_answer": "B",
+      "explanation": "A more reactive metal displaces a less reactive metal from its salt solution. E.g., Zn + CuSO₄ → ZnSO₄ + Cu."
+    },
+    {
+      "id": 114,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "The gas that produces a white precipitate with limewater is:",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Nitrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O. The milky white precipitate is CaCO₃. This is the standard test for CO₂."
+    },
+    {
+      "id": 115,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "A gas that relights a glowing splint is:",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Oxygen",
+        "C": "Hydrogen",
+        "D": "Nitrogen"
+      },
+      "correct_answer": "B",
+      "explanation": "Oxygen supports combustion and will relight a glowing wooden splint. This is the standard lab test for oxygen."
+    },
+    {
+      "id": 116,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "Hydrogen gas burns with a:",
+      "options": {
+        "A": "blue flame that produces a black deposit",
+        "B": "squeaky pop when tested with a lighted splint",
+        "C": "yellow flame producing CO₂",
+        "D": "green flame"
+      },
+      "correct_answer": "B",
+      "explanation": "The test for hydrogen is the squeaky pop — it burns explosively when a lit splint is placed near a test tube of hydrogen."
+    },
+    {
+      "id": 117,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "Silver nitrate solution is used to test for which ion?",
+      "options": {
+        "A": "Sulfate ion (SO₄²⁻)",
+        "B": "Chloride ion (Cl⁻)",
+        "C": "Carbonate ion (CO₃²⁻)",
+        "D": "Nitrate ion (NO₃⁻)"
+      },
+      "correct_answer": "B",
+      "explanation": "AgNO₃ + Cl⁻ → AgCl↓ (white precipitate). Silver nitrate tests for halide ions. Bromide gives cream, iodide gives yellow precipitate."
+    },
+    {
+      "id": 118,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "To test for the presence of sulfate ions (SO₄²⁻) in a solution, you would add:",
+      "options": {
+        "A": "silver nitrate solution",
+        "B": "acidified barium chloride solution",
+        "C": "sodium hydroxide solution",
+        "D": "litmus paper"
+      },
+      "correct_answer": "B",
+      "explanation": "Ba²⁺ + SO₄²⁻ → BaSO₄↓ (white precipitate insoluble in acid). Acidified BaCl₂ is the test for sulfate ions."
+    },
+    {
+      "id": 119,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "The flame test for sodium produces a:",
+      "options": {
+        "A": "lilac/violet flame",
+        "B": "brick-red flame",
+        "C": "persistent yellow flame",
+        "D": "green flame"
+      },
+      "correct_answer": "C",
+      "explanation": "Sodium produces a persistent/intense yellow (golden yellow) flame. Potassium gives lilac, calcium gives brick-red, copper gives green."
+    },
+    {
+      "id": 120,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "Ammonium ions (NH₄⁺) are detected by:",
+      "options": {
+        "A": "adding dilute HCl and observing effervescence",
+        "B": "adding sodium hydroxide and warming — the gas produced turns moist red litmus paper blue",
+        "C": "adding silver nitrate solution",
+        "D": "adding barium chloride solution"
+      },
+      "correct_answer": "B",
+      "explanation": "NH₄⁺ + OH⁻ → NH₃ + H₂O (on warming). Ammonia is alkaline and turns moist red litmus blue."
+    },
+    {
+      "id": 121,
+      "topic": "Environmental Chemistry",
+      "difficulty": "medium",
+      "question": "The main cause of the depletion of the ozone layer is:",
+      "options": {
+        "A": "carbon dioxide",
+        "B": "chlorofluorocarbons (CFCs)",
+        "C": "sulfur dioxide",
+        "D": "methane"
+      },
+      "correct_answer": "B",
+      "explanation": "CFCs from aerosols and refrigerants release chlorine radicals in the stratosphere that catalytically destroy ozone molecules."
+    },
+    {
+      "id": 122,
+      "topic": "Environmental Chemistry",
+      "difficulty": "medium",
+      "question": "Water pollution by fertilizers (nitrates and phosphates) causes excessive growth of algae. This phenomenon is called:",
+      "options": {
+        "A": "eutrophication",
+        "B": "salinization",
+        "C": "acidification",
+        "D": "sedimentation"
+      },
+      "correct_answer": "A",
+      "explanation": "Eutrophication occurs when excess nutrients (nitrates, phosphates) cause rapid algal growth, depleting dissolved oxygen and killing aquatic life."
+    },
+    {
+      "id": 123,
+      "topic": "Nuclear Chemistry",
+      "difficulty": "medium",
+      "question": "Carbon-14 dating is based on the radioactive decay of ¹⁴C and is used to estimate the age of:",
+      "options": {
+        "A": "rocks and minerals",
+        "B": "organic (carbon-containing) remains",
+        "C": "metals",
+        "D": "synthetic materials"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbon-14 dating measures the ratio of ¹⁴C to ¹²C in organic materials (fossils, wood, charcoal) to estimate age up to ~50,000 years."
+    },
+    {
+      "id": 124,
+      "topic": "Colligative Properties",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a colligative property?",
+      "options": {
+        "A": "Boiling point elevation",
+        "B": "Freezing point depression",
+        "C": "Osmotic pressure",
+        "D": "Colour change of solution"
+      },
+      "correct_answer": "D",
+      "explanation": "Colligative properties depend only on the number of solute particles, not their nature. Colour is not a colligative property."
+    },
+    {
+      "id": 125,
+      "topic": "Colligative Properties",
+      "difficulty": "medium",
+      "question": "Adding salt to water used to cook food is an example of:",
+      "options": {
+        "A": "decreasing the boiling point",
+        "B": "elevating the boiling point",
+        "C": "decreasing the density",
+        "D": "making water more acidic"
+      },
+      "correct_answer": "B",
+      "explanation": "Dissolving solute in water raises the boiling point (boiling point elevation). Salty water boils above 100°C."
+    },
+    {
+      "id": 126,
+      "topic": "Organic Chemistry - Isomerism",
+      "difficulty": "medium",
+      "question": "Structural isomers are compounds that:",
+      "options": {
+        "A": "have different molecular formulas",
+        "B": "have the same molecular formula but different structural arrangements of atoms",
+        "C": "are mirror images of each other",
+        "D": "have the same structural formula but different molecular formulas"
+      },
+      "correct_answer": "B",
+      "explanation": "Structural isomers have the same molecular formula but different connectivity of atoms. E.g., butane and methylpropane are both C₄H₁₀."
+    },
+    {
+      "id": 127,
+      "topic": "Organic Chemistry - Isomerism",
+      "difficulty": "medium",
+      "question": "How many structural isomers does butane (C₄H₁₀) have (including itself)?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "C₄H₁₀ has 2 structural isomers: n-butane (straight chain) and isobutane/2-methylpropane (branched chain)."
+    },
+    {
+      "id": 128,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "Saponification is the alkaline hydrolysis of:",
+      "options": {
+        "A": "carbohydrates",
+        "B": "esters (fats and oils) to produce soap",
+        "C": "proteins",
+        "D": "alkenes"
+      },
+      "correct_answer": "B",
+      "explanation": "Saponification is the hydrolysis of fats and oils with a strong base (NaOH or KOH) to produce glycerol and soap (fatty acid salts)."
+    },
+    {
+      "id": 129,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The fermentation of glucose produces ethanol and:",
+      "options": {
+        "A": "oxygen",
+        "B": "carbon dioxide",
+        "C": "hydrogen",
+        "D": "water"
+      },
+      "correct_answer": "B",
+      "explanation": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Fermentation of glucose by yeast (enzymes) produces ethanol and carbon dioxide."
+    },
+    {
+      "id": 130,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The conversion of ethanol to ethanoic acid is an example of:",
+      "options": {
+        "A": "reduction",
+        "B": "fermentation",
+        "C": "oxidation",
+        "D": "esterification"
+      },
+      "correct_answer": "C",
+      "explanation": "Converting an alcohol to a carboxylic acid (CH₃CH₂OH → CH₃COOH) is an oxidation reaction (addition of oxygen/removal of hydrogen)."
+    },
+    {
+      "id": 131,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "For the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = -92 kJ/mol. Increasing temperature will:",
+      "options": {
+        "A": "increase the yield of ammonia",
+        "B": "decrease the yield of ammonia",
+        "C": "have no effect on the yield",
+        "D": "increase the rate but not affect equilibrium"
+      },
+      "correct_answer": "B",
+      "explanation": "The forward reaction is exothermic (ΔH < 0). By Le Chatelier's principle, increasing temperature shifts equilibrium to the left (endothermic direction), decreasing NH₃ yield."
+    },
+    {
+      "id": 132,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "A radioactive element X has a half-life of 20 days. Starting with 100 g, how much remains after 60 days?",
+      "options": {
+        "A": "50 g",
+        "B": "25 g",
+        "C": "12.5 g",
+        "D": "6.25 g"
+      },
+      "correct_answer": "C",
+      "explanation": "60 days = 3 half-lives. 100 → 50 → 25 → 12.5 g."
+    },
+    {
+      "id": 133,
+      "topic": "Radioactivity",
+      "difficulty": "medium",
+      "question": "When a radioactive nucleus emits a beta particle, its atomic number:",
+      "options": {
+        "A": "decreases by 1",
+        "B": "increases by 1",
+        "C": "remains unchanged",
+        "D": "decreases by 2"
+      },
+      "correct_answer": "B",
+      "explanation": "Beta emission: a neutron converts to a proton + electron (beta particle). Atomic number increases by 1, mass number unchanged."
+    },
+    {
+      "id": 134,
+      "topic": "Organic Chemistry - Nomenclature",
+      "difficulty": "medium",
+      "question": "What is the IUPAC name of CH₃CH₂OH?",
+      "options": {
+        "A": "Methanol",
+        "B": "Ethanol",
+        "C": "Propanol",
+        "D": "Butanol"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₃CH₂OH has 2 carbon atoms and an -OH group, making it ethanol. 'Eth-' indicates 2 carbons, '-ol' indicates alcohol."
+    },
+    {
+      "id": 135,
+      "topic": "Organic Chemistry - Nomenclature",
+      "difficulty": "medium",
+      "question": "What is the IUPAC name of CH₃COOH?",
+      "options": {
+        "A": "Methanoic acid",
+        "B": "Ethanoic acid",
+        "C": "Propanoic acid",
+        "D": "Butanoic acid"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₃COOH has 2 carbon atoms (including the carboxyl C) and a -COOH group. It is ethanoic acid (common name: acetic acid)."
+    },
+    {
+      "id": 136,
+      "topic": "Organic Chemistry - Nomenclature",
+      "difficulty": "medium",
+      "question": "The IUPAC name for CH₃CH₂CH₂OH is:",
+      "options": {
+        "A": "ethanol",
+        "B": "propan-1-ol",
+        "C": "propan-2-ol",
+        "D": "butanol"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₃CH₂CH₂OH has 3 carbons with -OH on C1. It is propan-1-ol (n-propanol)."
+    },
+    {
+      "id": 137,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "In the electrolysis of brine (concentrated NaCl solution), the product at the cathode is:",
+      "options": {
+        "A": "Chlorine gas",
+        "B": "Sodium metal",
+        "C": "Hydrogen gas",
+        "D": "Oxygen gas"
+      },
+      "correct_answer": "C",
+      "explanation": "At the cathode: 2H₂O + 2e⁻ → H₂ + 2OH⁻. Hydrogen is produced because water is more easily reduced than Na⁺ ions."
+    },
+    {
+      "id": 138,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "In the electrolysis of brine, which product is obtained at the anode?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Oxygen",
+        "C": "Chlorine",
+        "D": "Sodium"
+      },
+      "correct_answer": "C",
+      "explanation": "At the anode: 2Cl⁻ → Cl₂ + 2e⁻. Chloride ions are preferentially discharged over OH⁻ ions at the anode in concentrated brine."
+    },
+    {
+      "id": 139,
+      "topic": "Periodic Trends",
+      "difficulty": "medium",
+      "question": "Down a group in the periodic table, atomic radius:",
+      "options": {
+        "A": "decreases",
+        "B": "remains constant",
+        "C": "increases",
+        "D": "first increases then decreases"
+      },
+      "correct_answer": "C",
+      "explanation": "Down a group, each element has one more electron shell, so atoms become larger (greater atomic radius)."
+    },
+    {
+      "id": 140,
+      "topic": "Periodic Trends",
+      "difficulty": "medium",
+      "question": "Which group in the periodic table contains elements with the highest electronegativity values?",
+      "options": {
+        "A": "Group I",
+        "B": "Group II",
+        "C": "Group VII",
+        "D": "Group 0"
+      },
+      "correct_answer": "C",
+      "explanation": "The halogens (Group VII) have the highest electronegativities. Fluorine is the most electronegative element of all."
+    },
+    {
+      "id": 141,
+      "topic": "Organic Chemistry - Fats and Oils",
+      "difficulty": "medium",
+      "question": "Vegetable oils are converted to solid fats (margarine) by a process called:",
+      "options": {
+        "A": "oxidation",
+        "B": "saponification",
+        "C": "hydrogenation",
+        "D": "hydrolysis"
+      },
+      "correct_answer": "C",
+      "explanation": "Hydrogenation adds H₂ across C=C double bonds in unsaturated vegetable oils, converting them into solid saturated fats."
+    },
+    {
+      "id": 142,
+      "topic": "Organic Chemistry - Fats and Oils",
+      "difficulty": "medium",
+      "question": "Fats and oils are esters of glycerol and:",
+      "options": {
+        "A": "amino acids",
+        "B": "long-chain fatty acids",
+        "C": "glucose",
+        "D": "nucleotides"
+      },
+      "correct_answer": "B",
+      "explanation": "Fats and oils (triglycerides) are triesters formed from glycerol and three long-chain fatty acids."
+    },
+    {
+      "id": 143,
+      "topic": "Organic Chemistry - Carbohydrates",
+      "difficulty": "medium",
+      "question": "The simplest form of carbohydrates (monosaccharides) includes:",
+      "options": {
+        "A": "sucrose",
+        "B": "starch",
+        "C": "glucose",
+        "D": "cellulose"
+      },
+      "correct_answer": "C",
+      "explanation": "Glucose (C₆H₁₂O₆) is a monosaccharide — the simplest type of carbohydrate. Sucrose is a disaccharide; starch and cellulose are polysaccharides."
+    },
+    {
+      "id": 144,
+      "topic": "Organic Chemistry - Carbohydrates",
+      "difficulty": "medium",
+      "question": "Starch gives a blue-black color with:",
+      "options": {
+        "A": "Fehling's solution",
+        "B": "Benedict's reagent",
+        "C": "iodine solution",
+        "D": "litmus solution"
+      },
+      "correct_answer": "C",
+      "explanation": "Iodine solution gives a blue-black color with starch due to the iodine molecules fitting into the helical starch structure."
+    },
+    {
+      "id": 145,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Which of the following molecules has a triple bond?",
+      "options": {
+        "A": "H₂O",
+        "B": "N₂",
+        "C": "CO₂",
+        "D": "Cl₂"
+      },
+      "correct_answer": "B",
+      "explanation": "Nitrogen (N₂) contains a triple bond (N≡N) between two nitrogen atoms. It is a very strong bond (945 kJ/mol)."
+    },
+    {
+      "id": 146,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Van der Waals forces are the weakest type of intermolecular forces and are present in:",
+      "options": {
+        "A": "ionic compounds only",
+        "B": "all molecules, including non-polar ones",
+        "C": "polar molecules only",
+        "D": "metals only"
+      },
+      "correct_answer": "B",
+      "explanation": "Van der Waals (London dispersion) forces exist between all molecules due to temporary dipoles, even in non-polar molecules like N₂ and I₂."
+    },
+    {
+      "id": 147,
+      "topic": "Solutions",
+      "difficulty": "medium",
+      "question": "The solubility of a gas in a liquid generally:",
+      "options": {
+        "A": "increases with increasing temperature",
+        "B": "decreases with increasing temperature",
+        "C": "is independent of temperature",
+        "D": "increases with decreasing pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "Gas solubility decreases as temperature increases (dissolved gas escapes more easily). Henry's Law relates gas solubility to pressure."
+    },
+    {
+      "id": 148,
+      "topic": "Solutions",
+      "difficulty": "medium",
+      "question": "The solubility of most solid solutes in water:",
+      "options": {
+        "A": "decreases with increasing temperature",
+        "B": "increases with increasing temperature",
+        "C": "is not affected by temperature",
+        "D": "decreases as pressure increases"
+      },
+      "correct_answer": "B",
+      "explanation": "For most solid solutes, solubility increases with temperature because higher temperature provides more energy to break solute-solute bonds."
+    },
+    {
+      "id": 149,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "An alloy is a mixture of:",
+      "options": {
+        "A": "a metal with a non-metal only",
+        "B": "two or more metals, or a metal with small amounts of non-metals",
+        "C": "only non-metals",
+        "D": "a metal with an acid"
+      },
+      "correct_answer": "B",
+      "explanation": "An alloy is a mixture of a metal with one or more other elements (metals or non-metals). E.g., steel (iron + carbon), brass (copper + zinc)."
+    },
+    {
+      "id": 150,
+      "topic": "Metals and Their Properties",
+      "difficulty": "medium",
+      "question": "Bronze is an alloy of:",
+      "options": {
+        "A": "copper and zinc",
+        "B": "copper and tin",
+        "C": "iron and carbon",
+        "D": "aluminium and copper"
+      },
+      "correct_answer": "B",
+      "explanation": "Bronze is an alloy of copper and tin. Brass is copper and zinc. Steel is iron and carbon."
+    },
+    {
+      "id": 151,
+      "topic": "Chemical Formulae and Equations",
+      "difficulty": "medium",
+      "question": "What is the valency of aluminum (Al) in Al₂O₃?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "In Al₂O₃, oxygen has valency 2 and there are 3 oxygen atoms. Total valency of O = 6. With 2 Al atoms, each Al has valency 3."
+    },
+    {
+      "id": 152,
+      "topic": "Chemical Formulae and Equations",
+      "difficulty": "medium",
+      "question": "What is the formula of magnesium sulfate?",
+      "options": {
+        "A": "MgSO₃",
+        "B": "MgSO₄",
+        "C": "Mg₂SO₄",
+        "D": "MgS"
+      },
+      "correct_answer": "B",
+      "explanation": "Magnesium (Mg²⁺) and sulfate (SO₄²⁻) combine: Mg + SO₄ = MgSO₄ (charges balance)."
+    },
+    {
+      "id": 153,
+      "topic": "Chemical Formulae and Equations",
+      "difficulty": "medium",
+      "question": "Balance the equation: Fe + HCl → FeCl₂ + H₂. The balanced equation is:",
+      "options": {
+        "A": "Fe + HCl → FeCl₂ + H₂",
+        "B": "Fe + 2HCl → FeCl₂ + H₂",
+        "C": "2Fe + 2HCl → 2FeCl₂ + H₂",
+        "D": "Fe + 2HCl → FeCl + H₂"
+      },
+      "correct_answer": "B",
+      "explanation": "Fe + 2HCl → FeCl₂ + H₂. We need 2 HCl to provide 2 Cl⁻ ions for FeCl₂ and produce H₂."
+    },
+    {
+      "id": 154,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a product of the fractional distillation of crude oil?",
+      "options": {
+        "A": "Petrol (gasoline)",
+        "B": "Kerosene (paraffin)",
+        "C": "Alcohol",
+        "D": "Diesel"
+      },
+      "correct_answer": "C",
+      "explanation": "Crude oil fractional distillation gives gasoline, naphtha, kerosene, diesel, fuel oil, and bitumen. Alcohol is not a crude oil fraction."
+    },
+    {
+      "id": 155,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Cracking in the petroleum industry converts:",
+      "options": {
+        "A": "light fractions into heavier ones",
+        "B": "large hydrocarbon molecules into smaller, more useful ones",
+        "C": "alkenes into alkanes",
+        "D": "crude oil into natural gas"
+      },
+      "correct_answer": "B",
+      "explanation": "Cracking breaks large alkane molecules into smaller alkanes and alkenes (used for petrol and as chemical feedstocks)."
+    },
+    {
+      "id": 156,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "The salt formed when sulfuric acid reacts with sodium hydroxide is:",
+      "options": {
+        "A": "sodium chloride",
+        "B": "sodium sulfite",
+        "C": "sodium sulfate",
+        "D": "sodium hydrogen sulfate only"
+      },
+      "correct_answer": "C",
+      "explanation": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. The salt is sodium sulfate (with excess NaOH)."
+    },
+    {
+      "id": 157,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "An amphoteric substance is one that can act as both:",
+      "options": {
+        "A": "an oxidizing agent and a reducing agent",
+        "B": "an acid and a base",
+        "C": "a solid and a liquid",
+        "D": "a conductor and an insulator"
+      },
+      "correct_answer": "B",
+      "explanation": "An amphoteric substance can react as both an acid and a base. Aluminium oxide (Al₂O₃) and water (H₂O) are examples."
+    },
+    {
+      "id": 158,
+      "topic": "Organic Chemistry - Alcohols",
+      "difficulty": "medium",
+      "question": "Primary, secondary, and tertiary alcohols are distinguished by the number of:",
+      "options": {
+        "A": "carbon atoms in the chain",
+        "B": "hydrogen atoms attached to the carbon bearing the -OH group",
+        "C": "carbon atoms directly attached to the carbon bearing the -OH group",
+        "D": "oxygen atoms in the molecule"
+      },
+      "correct_answer": "C",
+      "explanation": "Primary alcohol: -OH carbon attached to 1 other C; Secondary: 2 other C; Tertiary: 3 other C atoms."
+    },
+    {
+      "id": 159,
+      "topic": "Organic Chemistry - Alcohols",
+      "difficulty": "medium",
+      "question": "Dehydration of ethanol (C₂H₅OH) at 180°C with concentrated H₂SO₄ produces:",
+      "options": {
+        "A": "diethyl ether",
+        "B": "ethene",
+        "C": "ethanoic acid",
+        "D": "ethane"
+      },
+      "correct_answer": "B",
+      "explanation": "At 180°C, concentrated H₂SO₄ dehydrates ethanol to give ethene: C₂H₅OH → CH₂=CH₂ + H₂O."
+    },
+    {
+      "id": 160,
+      "topic": "Organic Chemistry - Alcohols",
+      "difficulty": "medium",
+      "question": "Dehydration of ethanol at 140°C with concentrated H₂SO₄ produces:",
+      "options": {
+        "A": "ethene",
+        "B": "ethane",
+        "C": "diethyl ether",
+        "D": "ethanoic acid"
+      },
+      "correct_answer": "C",
+      "explanation": "At 140°C, dehydration of ethanol gives diethyl ether (C₂H₅OC₂H₅): 2C₂H₅OH → C₂H₅OC₂H₅ + H₂O."
+    },
+    {
+      "id": 161,
+      "topic": "Chemical Formulae and Equations",
+      "difficulty": "medium",
+      "question": "How many moles of oxygen are required for the complete combustion of 1 mole of methane (CH₄)?",
+      "options": {
+        "A": "1 mol",
+        "B": "2 mol",
+        "C": "3 mol",
+        "D": "4 mol"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₄ + 2O₂ → CO₂ + 2H₂O. The balanced equation shows that 2 moles of O₂ are needed per mole of CH₄."
+    },
+    {
+      "id": 162,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "If 4 g of NaOH (molar mass 40 g/mol) is dissolved in water to make 200 cm³ of solution, what is the molarity?",
+      "options": {
+        "A": "0.1 M",
+        "B": "0.5 M",
+        "C": "1.0 M",
+        "D": "2.0 M"
+      },
+      "correct_answer": "B",
+      "explanation": "Moles of NaOH = 4/40 = 0.1 mol. Volume = 0.2 L. Molarity = 0.1/0.2 = 0.5 mol/L."
+    },
+    {
+      "id": 163,
+      "topic": "Titration",
+      "difficulty": "medium",
+      "question": "In a titration, 25 cm³ of 0.1 M HCl neutralizes 12.5 cm³ of NaOH. What is the concentration of NaOH?",
+      "options": {
+        "A": "0.05 M",
+        "B": "0.1 M",
+        "C": "0.2 M",
+        "D": "0.4 M"
+      },
+      "correct_answer": "C",
+      "explanation": "Moles HCl = 0.025 × 0.1 = 0.0025 mol. Since HCl:NaOH = 1:1, moles NaOH = 0.0025. C(NaOH) = 0.0025/0.0125 = 0.2 M."
+    },
+    {
+      "id": 164,
+      "topic": "Titration",
+      "difficulty": "medium",
+      "question": "The indicator suitable for titrating a strong acid with a weak base is:",
+      "options": {
+        "A": "phenolphthalein",
+        "B": "methyl orange",
+        "C": "litmus",
+        "D": "universal indicator"
+      },
+      "correct_answer": "B",
+      "explanation": "Methyl orange (colour change pH 3.1–4.4) is suitable for strong acid/weak base titrations (acidic end point). Phenolphthalein suits strong base/weak acid."
+    },
+    {
+      "id": 165,
+      "topic": "Titration",
+      "difficulty": "medium",
+      "question": "The indicator suitable for titrating a strong base with a weak acid is:",
+      "options": {
+        "A": "methyl orange",
+        "B": "litmus",
+        "C": "phenolphthalein",
+        "D": "screened methyl orange"
+      },
+      "correct_answer": "C",
+      "explanation": "Phenolphthalein (colour change pH 8.3–10) is suitable for strong base/weak acid titrations because the equivalence point is basic."
+    },
+    {
+      "id": 166,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "Ketones are organic compounds that contain:",
+      "options": {
+        "A": "a carbonyl group (-C=O) at the end of a chain",
+        "B": "a carbonyl group (-C=O) within the carbon chain",
+        "C": "a -COOH group",
+        "D": "a -OH group"
+      },
+      "correct_answer": "B",
+      "explanation": "Ketones have a carbonyl group (-C=O) within the carbon chain (not at the end). Propanone (CH₃COCH₃) is the simplest ketone."
+    },
+    {
+      "id": 167,
+      "topic": "Organic Chemistry - Functional Groups",
+      "difficulty": "medium",
+      "question": "Tollens' reagent (silver mirror test) is used to distinguish:",
+      "options": {
+        "A": "alkanes from alkenes",
+        "B": "aldehydes from ketones",
+        "C": "alcohols from acids",
+        "D": "esters from aldehydes"
+      },
+      "correct_answer": "B",
+      "explanation": "Aldehydes reduce Tollens' reagent to form a silver mirror. Ketones do not react. This distinguishes aldehydes from ketones."
+    },
+    {
+      "id": 168,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The reaction of ethanol with sodium produces:",
+      "options": {
+        "A": "sodium ethoxide and oxygen",
+        "B": "sodium ethoxide and hydrogen",
+        "C": "sodium hydroxide and ethane",
+        "D": "ethanoic acid and hydrogen"
+      },
+      "correct_answer": "B",
+      "explanation": "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑. Alcohols react with sodium to produce sodium alkoxide and hydrogen gas."
+    },
+    {
+      "id": 169,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The acid hydrolysis of an ester produces:",
+      "options": {
+        "A": "a polymer and water",
+        "B": "an alcohol and a carboxylic acid",
+        "C": "two carboxylic acids",
+        "D": "two alcohols"
+      },
+      "correct_answer": "B",
+      "explanation": "Ester hydrolysis (with H₂O and acid catalyst): RCOOR' + H₂O ⇌ RCOOH + R'OH — an acid and an alcohol are produced."
+    },
+    {
+      "id": 170,
+      "topic": "Organic Chemistry - Amines",
+      "difficulty": "medium",
+      "question": "Amines are organic derivatives of:",
+      "options": {
+        "A": "oxygen",
+        "B": "ammonia (NH₃)",
+        "C": "hydrogen",
+        "D": "methane"
+      },
+      "correct_answer": "B",
+      "explanation": "Amines are organic compounds derived from ammonia (NH₃) where one or more hydrogen atoms are replaced by hydrocarbon groups."
+    },
+    {
+      "id": 171,
+      "topic": "Laboratory Safety",
+      "difficulty": "medium",
+      "question": "What should you do immediately if acid spills on your skin in the laboratory?",
+      "options": {
+        "A": "Apply a neutralizing base directly",
+        "B": "Wash with plenty of water",
+        "C": "Wipe with a dry cloth",
+        "D": "Apply oil to the affected area"
+      },
+      "correct_answer": "B",
+      "explanation": "The immediate action for acid (or base) on skin is to wash with large amounts of water to dilute and remove the chemical."
+    },
+    {
+      "id": 172,
+      "topic": "Laboratory Safety",
+      "difficulty": "medium",
+      "question": "Which of the following gases is extremely poisonous and odourless?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Carbon monoxide",
+        "C": "Hydrogen sulfide",
+        "D": "Chlorine"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbon monoxide (CO) is extremely toxic and has no colour or smell, making it very dangerous. It binds to haemoglobin stronger than oxygen."
+    },
+    {
+      "id": 173,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "Benzene (C₆H₆) is the simplest member of which series?",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Arenes (aromatic hydrocarbons)",
+        "D": "Alkynes"
+      },
+      "correct_answer": "C",
+      "explanation": "Benzene is the parent compound of the arenes (aromatic hydrocarbons), which contain a benzene ring as the core structure."
+    },
+    {
+      "id": 174,
+      "topic": "Organic Chemistry - Hydrocarbons",
+      "difficulty": "medium",
+      "question": "The type of reaction that characterizes aromatic compounds (benzene) is:",
+      "options": {
+        "A": "addition",
+        "B": "elimination",
+        "C": "electrophilic substitution",
+        "D": "free radical addition"
+      },
+      "correct_answer": "C",
+      "explanation": "Benzene undergoes electrophilic substitution rather than addition because it preserves its stable aromatic ring."
+    },
+    {
+      "id": 175,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "The shape of ammonia (NH₃) is:",
+      "options": {
+        "A": "tetrahedral",
+        "B": "linear",
+        "C": "trigonal planar",
+        "D": "trigonal pyramidal"
+      },
+      "correct_answer": "D",
+      "explanation": "NH₃ has 3 bonding pairs and 1 lone pair. The lone pair pushes down the bonding pairs, giving a trigonal pyramidal shape with ~107° bond angles."
+    },
+    {
+      "id": 176,
+      "topic": "Chemical Bonding",
+      "difficulty": "medium",
+      "question": "Carbon dioxide (CO₂) is a linear molecule because:",
+      "options": {
+        "A": "it has no lone pairs on the central carbon atom",
+        "B": "it has two lone pairs",
+        "C": "it contains single bonds only",
+        "D": "carbon is in Group IV"
+      },
+      "correct_answer": "A",
+      "explanation": "CO₂ has two double bonds and no lone pairs on the central C atom. With only bonding pairs (linear arrangement), the bond angle is 180°."
+    },
+    {
+      "id": 177,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "When ethene reacts with steam (H₂O) in the presence of a phosphoric acid catalyst, the product is:",
+      "options": {
+        "A": "ethane",
+        "B": "ethanol",
+        "C": "ethanoic acid",
+        "D": "diethyl ether"
+      },
+      "correct_answer": "B",
+      "explanation": "CH₂=CH₂ + H₂O → CH₃CH₂OH (ethanol). This is the industrial process for making ethanol from ethene and steam."
+    },
+    {
+      "id": 178,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "Addition polymerization differs from condensation polymerization in that addition polymerization:",
+      "options": {
+        "A": "produces a small molecule as a byproduct",
+        "B": "only works with amino acids",
+        "C": "does not produce any byproduct",
+        "D": "requires higher temperatures"
+      },
+      "correct_answer": "C",
+      "explanation": "Addition polymerization has no byproduct — monomers simply add to each other. Condensation polymerization releases small molecules like H₂O."
+    },
+    {
+      "id": 179,
+      "topic": "Atomic Structure",
+      "difficulty": "medium",
+      "question": "The Bohr model of the atom states that electrons:",
+      "options": {
+        "A": "are randomly distributed throughout the atom",
+        "B": "occupy fixed energy levels (shells) around the nucleus",
+        "C": "are embedded in the nucleus",
+        "D": "have no definite position"
+      },
+      "correct_answer": "B",
+      "explanation": "Bohr's model proposed that electrons orbit the nucleus in fixed energy levels. When electrons jump between levels, they absorb or emit energy."
+    },
+    {
+      "id": 180,
+      "topic": "Thermochemistry",
+      "difficulty": "medium",
+      "question": "Bond breaking in a chemical reaction is:",
+      "options": {
+        "A": "exothermic (releases energy)",
+        "B": "endothermic (requires energy)",
+        "C": "neither endothermic nor exothermic",
+        "D": "only possible in the presence of a catalyst"
+      },
+      "correct_answer": "B",
+      "explanation": "Energy must be absorbed (endothermic) to break chemical bonds. Bond formation releases energy (exothermic)."
+    },
+    {
+      "id": 181,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "The limiting reagent in a chemical reaction is the reactant that:",
+      "options": {
+        "A": "is present in the greatest amount",
+        "B": "is consumed first and limits the amount of product formed",
+        "C": "has the highest molar mass",
+        "D": "reacts most slowly"
+      },
+      "correct_answer": "B",
+      "explanation": "The limiting reagent is the reactant that is used up first, thereby limiting the maximum amount of product that can be formed."
+    },
+    {
+      "id": 182,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "The element with the electron configuration 2, 8, 2 belongs to which group?",
+      "options": {
+        "A": "Group I",
+        "B": "Group II",
+        "C": "Group III",
+        "D": "Group IV"
+      },
+      "correct_answer": "B",
+      "explanation": "The element has 2 valence electrons, placing it in Group II. With 3 shells (2+8+2=12 electrons), this is magnesium (Mg)."
+    },
+    {
+      "id": 183,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "Across Period 3, the oxides change from basic to acidic. The oxide that is amphoteric is:",
+      "options": {
+        "A": "Na₂O",
+        "B": "MgO",
+        "C": "Al₂O₃",
+        "D": "SiO₂"
+      },
+      "correct_answer": "C",
+      "explanation": "Al₂O₃ (aluminium oxide) is amphoteric — it reacts with both acids and bases. It lies at the boundary between metallic and non-metallic behavior."
+    },
+    {
+      "id": 184,
+      "topic": "Electrochemistry",
+      "difficulty": "medium",
+      "question": "The standard hydrogen electrode (SHE) has a standard electrode potential of:",
+      "options": {
+        "A": "+1.00 V",
+        "B": "-1.00 V",
+        "C": "0.00 V",
+        "D": "+0.50 V"
+      },
+      "correct_answer": "C",
+      "explanation": "The standard hydrogen electrode (SHE) is assigned a potential of exactly 0.00 V and is used as the reference standard for all other electrode potentials."
+    },
+    {
+      "id": 185,
+      "topic": "Chemical Reactions - Types",
+      "difficulty": "medium",
+      "question": "Thermal decomposition of calcium carbonate produces:",
+      "options": {
+        "A": "calcium hydroxide and water",
+        "B": "calcium oxide and carbon dioxide",
+        "C": "calcium and carbon dioxide",
+        "D": "calcium carbonate remains unchanged"
+      },
+      "correct_answer": "B",
+      "explanation": "CaCO₃ → CaO + CO₂ (on strong heating). This is thermal decomposition used in cement and lime production."
+    },
+    {
+      "id": 186,
+      "topic": "Chemical Reactions - Types",
+      "difficulty": "medium",
+      "question": "The reaction of an acid with a carbonate produces salt, water, and:",
+      "options": {
+        "A": "oxygen",
+        "B": "hydrogen",
+        "C": "carbon dioxide",
+        "D": "nitrogen"
+      },
+      "correct_answer": "C",
+      "explanation": "Acid + Carbonate → Salt + Water + CO₂. E.g., 2HCl + CaCO₃ → CaCl₂ + H₂O + CO₂↑."
+    },
+    {
+      "id": 187,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "When sodium hydroxide is added to a solution of Fe³⁺ ions, a ______ precipitate is formed.",
+      "options": {
+        "A": "white",
+        "B": "blue",
+        "C": "green",
+        "D": "reddish-brown"
+      },
+      "correct_answer": "D",
+      "explanation": "Fe³⁺ + 3OH⁻ → Fe(OH)₃↓ (reddish-brown precipitate). Fe²⁺ gives a green precipitate, and Zn²⁺ gives white."
+    },
+    {
+      "id": 188,
+      "topic": "Qualitative Analysis",
+      "difficulty": "medium",
+      "question": "Which of the following is the test for the presence of an aldehyde?",
+      "options": {
+        "A": "It decolorizes bromine water",
+        "B": "It gives a brick-red precipitate with Fehling's solution",
+        "C": "It turns litmus red",
+        "D": "It forms an ester with alcohol"
+      },
+      "correct_answer": "B",
+      "explanation": "Aldehydes are reducing sugars — they reduce Fehling's (or Benedict's) solution from blue to a brick-red precipitate of Cu₂O."
+    },
+    {
+      "id": 189,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "What is the product of the reaction between ethanoic acid and sodium carbonate?",
+      "options": {
+        "A": "Sodium ethanoate, water, and hydrogen",
+        "B": "Sodium ethanoate, water, and carbon dioxide",
+        "C": "Sodium oxide and ethanoic acid",
+        "D": "Sodium hydroxide and ethanol"
+      },
+      "correct_answer": "B",
+      "explanation": "2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑. Acid + carbonate → salt + water + CO₂."
+    },
+    {
+      "id": 190,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The acidic nature of carboxylic acids is due to:",
+      "options": {
+        "A": "the carbonyl group (-C=O)",
+        "B": "the ability to donate a proton from the -OH of the -COOH group",
+        "C": "the large number of carbon atoms",
+        "D": "the presence of hydrogen atoms"
+      },
+      "correct_answer": "B",
+      "explanation": "Carboxylic acids are weak acids because the -OH in -COOH can donate its proton (H⁺) in solution: RCOOH ⇌ RCOO⁻ + H⁺."
+    },
+    {
+      "id": 191,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The reaction of an alkene with HBr is an example of:",
+      "options": {
+        "A": "substitution",
+        "B": "elimination",
+        "C": "electrophilic addition",
+        "D": "free radical substitution"
+      },
+      "correct_answer": "C",
+      "explanation": "Alkenes undergo electrophilic addition. HBr adds across the double bond: CH₂=CH₂ + HBr → CH₃CH₂Br."
+    },
+    {
+      "id": 192,
+      "topic": "Chemical Equilibrium",
+      "difficulty": "medium",
+      "question": "The equilibrium constant Kc for a reaction increases when:",
+      "options": {
+        "A": "a catalyst is added",
+        "B": "pressure is increased",
+        "C": "temperature is increased for an endothermic reaction",
+        "D": "concentration of reactants is increased"
+      },
+      "correct_answer": "C",
+      "explanation": "Kc depends only on temperature. For an endothermic reaction, increasing temperature shifts equilibrium right, increasing Kc."
+    },
+    {
+      "id": 193,
+      "topic": "Nuclear Chemistry",
+      "difficulty": "medium",
+      "question": "Nuclear fusion reactions release more energy than fission because:",
+      "options": {
+        "A": "they involve heavier atoms",
+        "B": "they occur at lower temperatures",
+        "C": "the mass defect per nucleon is greater for light nuclei fusing",
+        "D": "they require no activation energy"
+      },
+      "correct_answer": "C",
+      "explanation": "In fusion, light nuclei combine to form heavier ones with a large mass defect per nucleon, releasing enormous energy via E=mc²."
+    },
+    {
+      "id": 194,
+      "topic": "Environmental Chemistry",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a biodegradable polymer?",
+      "options": {
+        "A": "Polyethylene",
+        "B": "PVC",
+        "C": "Nylon",
+        "D": "Starch"
+      },
+      "correct_answer": "D",
+      "explanation": "Starch is a natural, biodegradable polymer that is broken down by microorganisms. Polyethylene, PVC, and nylon are synthetic non-biodegradable polymers."
+    },
+    {
+      "id": 195,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The reaction of propene (CH₃CH=CH₂) with HBr follows Markovnikov's rule, giving the major product:",
+      "options": {
+        "A": "1-bromopropane",
+        "B": "2-bromopropane",
+        "C": "1,2-dibromopropane",
+        "D": "propane"
+      },
+      "correct_answer": "B",
+      "explanation": "Markovnikov's rule: H adds to the carbon with more H atoms, Br adds to the carbon with fewer H atoms. So 2-bromopropane (CH₃CHBrCH₃) is the major product."
+    },
+    {
+      "id": 196,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "Which reagent is used to distinguish between saturated and unsaturated organic compounds?",
+      "options": {
+        "A": "Sodium hydroxide",
+        "B": "Hydrochloric acid",
+        "C": "Bromine water",
+        "D": "Potassium nitrate"
+      },
+      "correct_answer": "C",
+      "explanation": "Bromine water is decolorized by unsaturated compounds (alkenes, alkynes) due to addition reactions. Saturated compounds do not decolorize bromine water at room temperature."
+    },
+    {
+      "id": 197,
+      "topic": "Stoichiometry",
+      "difficulty": "medium",
+      "question": "What mass of sodium chloride (NaCl) contains 3.01 × 10²³ formula units? (Na=23, Cl=35.5)",
+      "options": {
+        "A": "29.25 g",
+        "B": "58.5 g",
+        "C": "14.625 g",
+        "D": "117 g"
+      },
+      "correct_answer": "A",
+      "explanation": "3.01×10²³ is 0.5 mol (= Nₐ/2). Molar mass of NaCl = 58.5 g/mol. Mass = 0.5 × 58.5 = 29.25 g."
+    },
+    {
+      "id": 198,
+      "topic": "Acids, Bases and Salts",
+      "difficulty": "medium",
+      "question": "A buffer solution resists changes in pH when small amounts of acid or base are added. A typical buffer consists of:",
+      "options": {
+        "A": "a strong acid and its salt",
+        "B": "a weak acid and its conjugate base (salt)",
+        "C": "two strong acids",
+        "D": "water and a neutral salt"
+      },
+      "correct_answer": "B",
+      "explanation": "A buffer solution typically contains a weak acid and its conjugate base (salt). E.g., CH₃COOH/CH₃COONa is a common buffer."
+    },
+    {
+      "id": 199,
+      "topic": "Periodic Table",
+      "difficulty": "medium",
+      "question": "The trend in metallic character as you go down Group I (alkali metals) is that metallic character:",
+      "options": {
+        "A": "decreases",
+        "B": "increases",
+        "C": "remains the same",
+        "D": "first increases then decreases"
+      },
+      "correct_answer": "B",
+      "explanation": "Down Group I, atomic radius increases and valence electron is further from nucleus, so it is more easily lost. Metallic character (reactivity) increases."
+    },
+    {
+      "id": 200,
+      "topic": "Organic Chemistry - Reactions",
+      "difficulty": "medium",
+      "question": "The reaction of a carboxylic acid with an alcohol in the presence of a concentrated acid catalyst is called:",
+      "options": {
+        "A": "hydrolysis",
+        "B": "saponification",
+        "C": "esterification",
+        "D": "fermentation"
+      },
+      "correct_answer": "C",
+      "explanation": "Esterification: RCOOH + R'OH ⇌ RCOOR' + H₂O. A carboxylic acid reacts with an alcohol (with H₂SO₄ catalyst) to form an ester and water."
+    }
+  ]
+}

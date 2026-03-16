@@ -18,7 +18,11 @@ const AVAILABLE_SUBJECTS = [
   "Agricultural Science",
   "Civic Education",
   "Christian Religious Studies",
-  "Islamic Studies"
+  "Islamic Studies",
+  "Commerce",
+  "Financial Accounting",
+  "Marketing",
+  "Office Practice"
 ];
 
 export default function PracticeSetup() {
