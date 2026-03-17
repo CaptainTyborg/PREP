@@ -38,17 +38,21 @@ export const useExamStore = create<ExamState>()(
       currentQuestionIndex: 0,
       timeRemaining: 0,
 
-      startExam: (type, subjects, questions, durationSeconds) => set({
-        isActive: true,
-        examType: type,
-        subjects,
-        questions,
-        answers: {},
-        flagged: {},
-        currentSubject: subjects[0] || "",
-        currentQuestionIndex: 0,
-        timeRemaining: durationSeconds,
-      }),
+      startExam: (type, subjects, questions, durationSeconds) => {
+        // Wipe any persisted answers/flags from previous sessions before starting fresh
+        try { localStorage.removeItem("prep-exam-storage"); } catch {}
+        set({
+          isActive: true,
+          examType: type,
+          subjects,
+          questions,
+          answers: {},
+          flagged: {},
+          currentSubject: subjects[0] || "",
+          currentQuestionIndex: 0,
+          timeRemaining: durationSeconds,
+        });
+      },
 
       setAnswer: (questionId, answer) => set((state) => ({
         answers: { ...state.answers, [questionId]: answer }

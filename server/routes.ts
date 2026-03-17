@@ -27,7 +27,7 @@ function getMockQuestions(subject: string, count: number): Question[] {
       
       // Map to ensure all fields are present and types match QuestionResponseSchema
       const mappedQuestions: Question[] = allQuestions.map((q, idx) => ({
-        id: String(q.id || `${normalizedSubject}-${idx}`),
+        id: `${normalizedSubject}-${String(q.id || idx)}`,
         subject: q.subject || subject,
         topic: q.topic || "General",
         year: String(q.year || "2024"),
