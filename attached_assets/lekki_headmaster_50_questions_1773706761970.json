@@ -1,0 +1,708 @@
+{
+  "subject": "Literature in English",
+  "text": "The Lekki Headmaster by Kabir Alabi Garba",
+  "description": "50 JAMB-style multiple-choice questions on The Lekki Headmaster (Kabir Alabi Garba)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "At the beginning of the novel, what unusual behaviour does Mr. Bepo exhibit at the morning assembly?",
+      "options": {
+        "A": "He delivers an angry speech and storms off the stage",
+        "B": "He takes the microphone but breaks down in tears without saying a word",
+        "C": "He announces his resignation to the whole school",
+        "D": "He faints on the podium and has to be carried out"
+      },
+      "correct_answer": "B",
+      "explanation": "In Chapter One ('Dusk'), Bepo takes the microphone from the chapel prefect Angel but is overcome with emotion, drops the microphone, and sobs uncontrollably in front of staff and students — saying nothing."
+    },
+    {
+      "id": 2,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "Why is Mr. Bepo emotionally distressed in Chapter One of The Lekki Headmaster?",
+      "options": {
+        "A": "He has just learnt that a student has died",
+        "B": "He is leaving Nigeria to join his family in the United Kingdom",
+        "C": "He has been sacked by the Managing Director",
+        "D": "He has received news of a bereavement in his family"
+      },
+      "correct_answer": "B",
+      "explanation": "As revealed in Chapter Two, Bepo had finally accepted that he must relocate to the UK to join his wife and children after years of resisting the pressure. His emotional breakdown at assembly was caused by the pain of leaving his beloved school and students."
+    },
+    {
+      "id": 3,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "How many days of interrogation passed before Mr. Bepo revealed the true reason for his distress in Chapter Two?",
+      "options": {
+        "A": "Two days",
+        "B": "Three days",
+        "C": "Five days",
+        "D": "Seven days"
+      },
+      "correct_answer": "C",
+      "explanation": "Chapter Two opens: 'After five days of interrogation and frustration, Mr. Bepo opened up.' He had been deflecting questions with 'Thank you. I will be all right' for five days before finally disclosing his plan to relocate to the UK."
+    },
+    {
+      "id": 4,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What was the central grammatical issue that almost cost Mr. Fafore his job in Chapter Six?",
+      "options": {
+        "A": "He wrote 'their' instead of 'there' in a student's notebook",
+        "B": "He wrote 'Ade as well as Jide comes early' in a student's note",
+        "C": "He used 'whom' where 'who' was required in a letter to parents",
+        "D": "He misspelt the word 'principal' in a school bulletin"
+      },
+      "correct_answer": "B",
+      "explanation": "Parent Mr. Guta complained that Mr. Fafore's use of 'comes' (instead of 'come') in the sentence 'Ade as well as Jide comes early' was a grammatical error. Principal Bepo defended the sentence, explaining that 'as well as' (unlike 'and') takes a singular verb."
+    },
+    {
+      "id": 5,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What was the outcome of the investigation into Mr. Fafore's grammar that almost led to his dismissal?",
+      "options": {
+        "A": "Fafore admitted the error and apologised to the parent",
+        "B": "An independent grammar expert was brought in to adjudicate",
+        "C": "Staff checked online and confirmed Fafore and Bepo were correct — the MD was wrong",
+        "D": "The matter was referred to the Ministry of Education for resolution"
+      },
+      "correct_answer": "C",
+      "explanation": "The MD directed everyone to check their smartphones. All discovered that 'as well as' with a singular verb is correct in the subjunctive clause structure. The MD, Mrs. Ibidun Gloss, had been wrong, and Fafore was vindicated."
+    },
+    {
+      "id": 6,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What shocking discovery did the MD make when she walked to the piece of land Stardom had acquired near the school?",
+      "options": {
+        "A": "She found the land had been sold without her knowledge",
+        "B": "She discovered that ritual objects had been buried on the land",
+        "C": "She found dozens of cars belonging to staff parked there",
+        "D": "She discovered that a rival school was being built on the land"
+      },
+      "correct_answer": "C",
+      "explanation": "In Chapter Five ('Snake in the Roof'), the MD discovered that staff were using Stardom's acquired land as a car park. She saw vehicles of various brands — Toyota, Hyundai, Venza, Mazda — and even two buses, some bearing Stardom stickers."
+    },
+    {
+      "id": 7,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What did the accountant Jeremi Amos reveal to the MD about the source of staff funds for buying cars?",
+      "options": {
+        "A": "Staff had been stealing from the school's accounts",
+        "B": "Staff were receiving undisclosed salaries from a government scheme",
+        "C": "The school cooperative society had provided loans to the staff",
+        "D": "A wealthy parent had gifted the cars to selected teachers"
+      },
+      "correct_answer": "C",
+      "explanation": "The accountant explained that staff had obtained loans from the school cooperative society — which had N95 million in its account with over N50 million loaned out — and some had also raised personal loans from other sources."
+    },
+    {
+      "id": 8,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What decision did the Stardom board of directors take following the revelation about the cooperative society's loans?",
+      "options": {
+        "A": "The cooperative society was immediately dissolved",
+        "B": "A cap of N250,000 was placed on individual loans and all requests now required the MD's approval",
+        "C": "All outstanding loans were cancelled and the cooperative was restructured",
+        "D": "Staff were banned from operating the cooperative society"
+      },
+      "correct_answer": "B",
+      "explanation": "After the board meeting, it was unanimously decided that no staff member could borrow more than N250,000, all loan requests had to be approved by the MD, and management had to be informed about the cooperative's elections."
+    },
+    {
+      "id": 9,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What did Mr. Bepo witness at 2:51am during his time working at Beesway Group of School?",
+      "options": {
+        "A": "A group of men breaking into the school's safe",
+        "B": "The school director and accomplices burying a cow alive on the school grounds",
+        "C": "Students carrying out a midnight cult initiation ceremony",
+        "D": "The director conducting a secret prayer meeting in the dark"
+      },
+      "correct_answer": "B",
+      "explanation": "In Chapter Seven ('Ritualists'), Bepo saw seven men (including the Beesway director) and a cow in the darkness. The cow was being pushed into a pit and buried alive — a ritual act that Bepo confronted and was physically attacked for opposing."
+    },
+    {
+      "id": 10,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What offer did the parent Mr. Ogo make to Bepo at Fruitful Future school, which Bepo declined?",
+      "options": {
+        "A": "To donate land for a new school building",
+        "B": "To perform a ritual by sprinkling corn at the corners of the school to attract pupils",
+        "C": "To provide free advertising for the school in local newspapers",
+        "D": "To introduce the school to a government bursary scheme"
+      },
+      "correct_answer": "B",
+      "explanation": "Mr. Ogo came to Fruitful Future and offered to perform a ritual — sprinkling corn grains at the school's corners — for N35,000, promising it would supernaturally flood the school with pupils. Bepo and his colleague refused."
+    },
+    {
+      "id": 11,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What ultimately happened to Mr. Ogo of Fruitful Future, as Bepo saw on television ten years later?",
+      "options": {
+        "A": "He became a successful evangelist and school owner",
+        "B": "He was arrested for murdering a woman who had paid him N9 million to cure her infertility",
+        "C": "He was elected into the local government on a religious platform",
+        "D": "He was exposed as a fraudster who had stolen school funds"
+      },
+      "correct_answer": "B",
+      "explanation": "Ten years later, Bepo saw on the news that Mr. Ogo had murdered a civil servant — a woman who had paid him N9 million for a spiritual solution to her infertility. When promised results did not materialise, she threatened him, and he lured and killed her."
+    },
+    {
+      "id": 12,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What caused the suspension of Stardom's democratic prefect election tradition?",
+      "options": {
+        "A": "The managing director decided elections were too expensive to organise",
+        "B": "Banky made a vulgar reference to Tosh's father as an 'ex-convict' during his campaign speech",
+        "C": "The school received a government directive banning student elections",
+        "D": "A fight broke out between supporters of two candidates on election day"
+      },
+      "correct_answer": "B",
+      "explanation": "During the Speech Day campaign for Social Prefect, SSS2 student Banky said 'Instead of voting for the son of an ex-convict, cast your vote for me,' referring to Tosh's father Chief Didi Ogba. This caused a serious fallout and the democratic tradition was suspended."
+    },
+    {
+      "id": 13,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What was the farewell gift presented to Mr. Bepo by the Stardom management at his send-off?",
+      "options": {
+        "A": "A brand new car and a gold wristwatch",
+        "B": "A domiciliary cheque of $10,000",
+        "C": "A cash payment of N5 million in naira",
+        "D": "A return ticket to the UK for his entire family"
+      },
+      "correct_answer": "B",
+      "explanation": "The MD announced that the gift was not less than $10,000 — the highest Stardom had ever given any departing staff member. It was presented as a domiciliary cheque, not cash, as Bepo was heading to the UK."
+    },
+    {
+      "id": 14,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "What happened at the end of the novel on the Monday morning after Bepo's departure?",
+      "options": {
+        "A": "A new principal was announced at the morning assembly",
+        "B": "Students boycotted classes in protest at Bepo's departure",
+        "C": "Bepo returned to Stardom, declaring he could not go and would complete his mission",
+        "D": "The MD resigned, saying she could not manage without Bepo"
+      },
+      "correct_answer": "C",
+      "explanation": "On the Monday after his departure, as the students gathered at assembly missing Bepo, a shout of 'Principoo!' erupted. Bepo had returned to Stardom, declaring 'I am back! I am here to complete my mission!' — choosing his students and Nigeria over relocation."
+    },
+    {
+      "id": 15,
+      "topic": "Plot",
+      "difficulty": "medium",
+      "question": "Why did Bepo miss a flight six years before the events of the final chapter?",
+      "options": {
+        "A": "He was stuck in Lagos traffic and arrived after the plane had left",
+        "B": "He misread his British Airways ticket, confusing 11:00am for 1:00pm",
+        "C": "His passport was seized at the airport due to an expired visa",
+        "D": "He arrived on time but was denied boarding for excess luggage"
+      },
+      "correct_answer": "B",
+      "explanation": "In Chapter Twelve, Bepo recalled how he once missed a British Airways flight during a visit to his family because he had not carefully checked the ticket — reading '1:00pm' when the flight was actually at '11:00am'. He had to travel the following day after paying a $100 penalty."
+    },
+    {
+      "id": 16,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What is the full real name of the principal referred to throughout the novel as 'Bepo'?",
+      "options": {
+        "A": "Adewale Adebepo",
+        "B": "Bepo Adewale",
+        "C": "Kabir Alabi Bepo",
+        "D": "Adebepo Olawale"
+      },
+      "correct_answer": "A",
+      "explanation": "In Chapter Eleven, the farewell banner reads 'Memorable Farewell for a Most Committed Principal Adebepo Adewale.' The MD confirms: 'Mr Adewale Adebepo, would you kindly step forward.' 'Bepo' is a shortened form of 'Adebepo'."
+    },
+    {
+      "id": 17,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "Which of the following BEST describes the character of Mr. Audu in the novel?",
+      "options": {
+        "A": "A serious, disciplined teacher who rarely smiles",
+        "B": "A witty, humorous Fine Arts teacher known for comic remarks and biting observations",
+        "C": "A strict administrator who enforces school rules harshly",
+        "D": "A timid teacher who avoids confrontation with the management"
+      },
+      "correct_answer": "B",
+      "explanation": "Mr. Audu, the Fine Arts teacher, is portrayed as the school's comedian — making hilarious observations about economics, the MD, Bepo's relocation, and the Fafore grammar saga. His jokes consistently provide comic relief and lighten tense situations."
+    },
+    {
+      "id": 18,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "How is Mrs. Ibidun Gloss, the Managing Director of Stardom Schools, portrayed in the novel?",
+      "options": {
+        "A": "As a compassionate leader who always sides with her staff",
+        "B": "As a shrewd, demanding, sometimes impulsive school owner who deeply values the institution",
+        "C": "As a corrupt administrator who embezzles school funds",
+        "D": "As an absentee leader who leaves all decisions to the principal"
+      },
+      "correct_answer": "B",
+      "explanation": "Mrs. Gloss is portrayed as a sharp, proud, sometimes rash school proprietor who fiercely guards Stardom's reputation. She acts impulsively (firing Fafore without investigation), but also shows deep appreciation for Bepo and truly values Stardom's brand."
+    },
+    {
+      "id": 19,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What physical trait of Mr. Bepo is frequently mentioned in the novel?",
+      "options": {
+        "A": "He is short and stocky with a deep bass voice",
+        "B": "He is tall (six feet two inches), light-skinned, with a powerful voice and prominent eyeballs",
+        "C": "He is heavily built with a thick beard and dark complexion",
+        "D": "He is slim, bespectacled, and constantly well-dressed"
+      },
+      "correct_answer": "B",
+      "explanation": "Throughout the novel, Bepo's physical description is emphasised: he is tall (six feet), light-skinned (complexion likened to the yellow salamo ant), has a powerful voice that needed no loudspeaker, and prominent eyeballs. His height made him an effective exam invigilator."
+    },
+    {
+      "id": 20,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What academic discipline did Mr. Bepo study at the University of Benin?",
+      "options": {
+        "A": "Law and Political Science",
+        "B": "Business Administration",
+        "C": "English/History Education",
+        "D": "Economics and Philosophy"
+      },
+      "correct_answer": "C",
+      "explanation": "Chapter Two states that Bepo 'was a trained teacher, having studied English/History Education at the University of Benin.' This training explains his passion for language correctness and history, reflected throughout the novel."
+    },
+    {
+      "id": 21,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What is the name of Mr. Bepo's wife, and what is her profession?",
+      "options": {
+        "A": "Nike; she is a doctor",
+        "B": "Seri; she is a nurse",
+        "C": "Kike; she is a broadcaster",
+        "D": "Grace; she is a banker"
+      },
+      "correct_answer": "B",
+      "explanation": "Bepo's wife is named Seri, and she is a nurse working in the UK. She could reportedly earn up to £10,000 per month (over N17 million). Bepo's children are Nike (at university) and Kike (in high school)."
+    },
+    {
+      "id": 22,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What nickname was Mr. Bepo given, and what was its origin?",
+      "options": {
+        "A": "'Principoo' — because he always mispronounced 'principal' as 'principoo'",
+        "B": "'The Lekki Headmaster' — coined by Mr. Audu, comparing how Bepo resolved staff quarrels to King Oloja's style in the TV drama Village Headmaster",
+        "C": "'The Weeping Principal' — because of his emotional breakdown at assembly",
+        "D": "'Oga Tisa' — a humorous Yoruba nickname given by his students"
+      },
+      "correct_answer": "B",
+      "explanation": "Mr. Audu coined the nickname 'The Lekki Headmaster' during a staff meeting to settle a quarrel, comparing Bepo's diplomatic conflict-resolution style to King Oloja's in the popular TV drama Village Headmaster. The name stuck even after Bepo became principal at the secondary school."
+    },
+    {
+      "id": 23,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What does the novel reveal about Mr. Fafore's personal housing situation?",
+      "options": {
+        "A": "He lived in the school's staff quarters and paid no rent",
+        "B": "He owned his own house in Ifo, Ogun State — having built a two-bedroom flat on half a plot of land",
+        "C": "He rented an apartment in Lekki close to the school",
+        "D": "He shared accommodation with another teacher from Stardom"
+      },
+      "correct_answer": "B",
+      "explanation": "Chapter Six narrates Fafore's housing journey: from renting in Ijaye (near Lagos-Ogun boundary) to Sango, before purchasing land in Ifo and building a two-bedroom apartment — even though it had no bath, toilet, or plaster when he first moved in. He woke at 4am daily to arrive early at Stardom."
+    },
+    {
+      "id": 24,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "Who was Angel in the context of the novel's opening chapter?",
+      "options": {
+        "A": "One of Bepo's two children who had relocated to the UK",
+        "B": "The chapel prefect who handed the microphone to Mr. Bepo at the assembly",
+        "C": "The school nurse who attended to the weeping principal",
+        "D": "A student who gave the pep talk that moved Mr. Bepo to tears"
+      },
+      "correct_answer": "B",
+      "explanation": "Angel was the chapel prefect who held the microphone at assembly and handed it to Bepo — who was then expected to give his usual pep talk address following Ikenna Egbu's speech about the Jos excursion."
+    },
+    {
+      "id": 25,
+      "topic": "Characterisation",
+      "difficulty": "medium",
+      "question": "What two characteristics does Mrs. Ibidun Gloss's speech at the farewell reveal about how Bepo got his job at Stardom?",
+      "options": {
+        "A": "He was recommended by the Lagos State Ministry of Education",
+        "B": "He was employed directly by the MD's late father, Chief David Aje, after a one-on-one conversation — and then arrived eight days late to resume",
+        "C": "He was poached from a rival school by a generous salary offer",
+        "D": "He applied through a competitive process and scored highest in the interview"
+      },
+      "correct_answer": "B",
+      "explanation": "The MD revealed that her late father Chief David Aje employed Bepo directly after seeing his CV and having a conversation. Bepo was expected to resume on September 14 but arrived eight days late — yet Chief Aje patiently waited for him, sensing his exceptional qualities."
+    },
+    {
+      "id": 26,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "Which of the following BEST states the major theme of The Lekki Headmaster?",
+      "options": {
+        "A": "The dangers of corruption in the Nigerian education system",
+        "B": "The tension between patriotism and self-improvement, as illustrated by the Japa (emigration) phenomenon",
+        "C": "The importance of discipline and punishment in private schools",
+        "D": "The rivalry between Nigeria's public and private school systems"
+      },
+      "correct_answer": "B",
+      "explanation": "The novel's central theme is the conflict between love for one's country, profession, and students on one hand, and the material and family pressures pushing Nigerians to emigrate (Japa) on the other. Bepo embodies this dilemma throughout."
+    },
+    {
+      "id": 27,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "The theme of dedication to one's vocation is illustrated in the novel primarily through",
+      "options": {
+        "A": "The MD's management of Stardom's finances",
+        "B": "Mr. Bepo's 24-year career of passionate teaching and his final decision to return to Stardom",
+        "C": "Mr. Audu's commitment to entertaining the staff with humour",
+        "D": "Sola's determination to succeed in the UK after leaving Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "Bepo's unwavering dedication to education — staying at Stardom for 24 years, introducing excursions, the pep talk tradition, defending teachers unjustly treated, and ultimately returning — is the novel's clearest illustration of the theme of vocational dedication."
+    },
+    {
+      "id": 28,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "In Chapter Nine, Bepo compares the modern Japa movement to which historical event?",
+      "options": {
+        "A": "The Nigerian Civil War",
+        "B": "The Trans-Atlantic Slave Trade",
+        "C": "The colonial partition of Africa",
+        "D": "The Biblical Exodus of the Israelites from Egypt"
+      },
+      "correct_answer": "B",
+      "explanation": "Standing at the Heritage Slavery Museum in Badagry, Bepo reflects that Africans were once forced into ships as slaves; now they voluntarily flee to work for former 'masters,' selling properties and families for visas. He sees this as a new, self-imposed form of enslavement."
+    },
+    {
+      "id": 29,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "The theme of corruption and moral compromise is illustrated in the novel through which of the following incidents?",
+      "options": {
+        "A": "Bepo's decision to accept a teaching job in the UK",
+        "B": "The prefect election process at Stardom Schools",
+        "C": "Bepo's use of an agent (Tai) who colluded with immigration officials to expedite his passport renewal",
+        "D": "Mr. Audu's comic remarks about the MD's financial decisions"
+      },
+      "correct_answer": "C",
+      "explanation": "In Chapter Ten, Bepo is forced to pay an agent (Tai) N100,000 — above the official N70,000 fee — to get his passport renewed through an informal arrangement. The agent works hand-in-glove with immigration officials, illustrating systemic corruption."
+    },
+    {
+      "id": 30,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "The theme of family versus career is most directly illustrated by which plot development?",
+      "options": {
+        "A": "The DNA revelation in the Ignatius family",
+        "B": "Mr. Bepo's prolonged resistance to relocating despite his wife and children already living in the UK",
+        "C": "Mr. Fafore's struggle to pay school fees for his children",
+        "D": "The Banky-Tosh rivalry and its parents' involvement"
+      },
+      "correct_answer": "B",
+      "explanation": "Bepo loves Stardom and his students deeply, but his wife Seri and children Nike and Kike are in the UK. His marriage is pushed to the brink by his reluctance to join them. This tension between family duty and professional passion is central to the plot."
+    },
+    {
+      "id": 31,
+      "topic": "Setting",
+      "difficulty": "medium",
+      "question": "Where is Stardom Schools, the primary setting of The Lekki Headmaster, located?",
+      "options": {
+        "A": "Victoria Island, Lagos",
+        "B": "Ikeja, Lagos",
+        "C": "The posh heart of Lekki, Lagos",
+        "D": "Ikoyi, Lagos"
+      },
+      "correct_answer": "C",
+      "explanation": "The novel repeatedly describes Stardom Schools as an A-list school 'located in the posh heart of Lekki' — one of Lagos's most affluent suburbs. This setting explains the wealthy parent population and the high fees charged."
+    },
+    {
+      "id": 32,
+      "topic": "Setting",
+      "difficulty": "medium",
+      "question": "In Chapter Seven, Bepo's nighttime encounter with the ritualists takes place at which school?",
+      "options": {
+        "A": "Stardom Schools, Lekki",
+        "B": "Fruitful Future School",
+        "C": "Beesway Group of School, on the outskirts of Lagos",
+        "D": "The government school in Warri where Bepo did NYSC"
+      },
+      "correct_answer": "C",
+      "explanation": "The nighttime rituals involving the buried cow took place at Beesway Group of School, located on the outskirts of Lagos, where Bepo worked before joining Stardom Schools. He was living in the Beesway Staff Quarters at the time."
+    },
+    {
+      "id": 33,
+      "topic": "Setting",
+      "difficulty": "medium",
+      "question": "Badagry, which features prominently in Chapter Nine, is significant in Nigerian history primarily because of its",
+      "options": {
+        "A": "Role as Nigeria's first capital city under British colonial rule",
+        "B": "Connection to the Atlantic slave trade and its many slave trade monuments",
+        "C": "Status as the site of Nigeria's first university",
+        "D": "Role as the headquarters of the first Christian mission in Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "Badagry is described as significant for 'its pioneering contact with Atlantic slave traders.' It is home to the Point of No Return, the Heritage Slavery Museum, the Mobee Royal Family Slave Relics Museum, and the First Storey Building (built by Henry Townsend in 1846)."
+    },
+    {
+      "id": 34,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "The chapter titles 'Dusk' (Chapter One) and '...Dawn' (Chapter Twelve) are examples of which literary device?",
+      "options": {
+        "A": "Oxymoron — placing two contradictory words together",
+        "B": "Symbolism — using the movement from dusk (endings) to dawn (new beginnings) to frame the novel's emotional journey",
+        "C": "Alliteration — the repetition of the same initial sound",
+        "D": "Onomatopoeia — words that imitate natural sounds"
+      },
+      "correct_answer": "B",
+      "explanation": "The novel begins at 'Dusk' (the end of something — Bepo's time at Stardom) and closes with '...Dawn' (a new beginning — his return and recommitment). This framing device symbolically underscores the novel's theme of choices and new starts."
+    },
+    {
+      "id": 35,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "When the chapter title 'Snake in the Roof' is used in Chapter Five, this is an example of which literary device?",
+      "options": {
+        "A": "Personification",
+        "B": "Simile",
+        "C": "Metaphor — the cooperative society's large loan fund hidden from the MD is the 'snake' in the roof",
+        "D": "Hyperbole"
+      },
+      "correct_answer": "C",
+      "explanation": "'Snake in the Roof' is a metaphor, drawn from the Yoruba proverb used by Chief Mrs. Solape Bayo: 'It's like hanging a snake in the roof and going to bed.' The cooperative's dangerously large unsupervised loan fund is the hidden snake threatening Stardom's stability."
+    },
+    {
+      "id": 36,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "Mr. Audu's remark — 'Mr. Fafore, as well as the principal, is correct. And the MD, Mrs. Ibidun Gloss, is hereby pardoned, discharged and acquitted' — is an example of",
+      "options": {
+        "A": "Irony and satire — using courtroom language humorously to deflate a tense situation",
+        "B": "Dramatic monologue — a character revealing their inner thoughts",
+        "C": "Stream of consciousness — the unfiltered flow of a character's thoughts",
+        "D": "Flashback — returning to an earlier time in the narrative"
+      },
+      "correct_answer": "A",
+      "explanation": "Audu uses the solemn language of a court verdict ('pardoned, discharged and acquitted') in a comic context — making a formal declaration about a grammatical dispute. This satirical use of legal register defuses tension and provides comic relief."
+    },
+    {
+      "id": 37,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "Bepo's dream during his wait at the airport — where he sees slaves being loaded onto ships and shouts 'Noooo!' — is an example of which narrative technique?",
+      "options": {
+        "A": "Flashback",
+        "B": "Foreshadowing",
+        "C": "Dream sequence used as an allegory for the Japa dilemma",
+        "D": "Stream of consciousness"
+      },
+      "correct_answer": "C",
+      "explanation": "The dream is an allegorical sequence: Bepo watches Africans being forced into a slave ship — mirroring his own impending 'voluntary' emigration. The dream serves as an internal moral reckoning, and his shout of 'Noooo!' foreshadows his ultimate decision to return to Stardom."
+    },
+    {
+      "id": 38,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "The Yoruba proverb referenced in Chapter Five — 'It's like hanging a snake in the roof and going to bed' — is an example of",
+      "options": {
+        "A": "Simile",
+        "B": "Proverbial wisdom used to express hidden danger in an everyday context",
+        "C": "Personification",
+        "D": "Allusion to a biblical text"
+      },
+      "correct_answer": "B",
+      "explanation": "The proverb is an example of proverbial wisdom — a traditional saying that condenses a complex truth into a vivid image. Chief Bayo uses it to warn that allowing staff to hold enormous loan funds without oversight is a latent danger, like a live snake hidden in the roof."
+    },
+    {
+      "id": 39,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "The narrative technique used to tell Bepo's story, where the author reveals backstory through Bepo's own memories and reflections, is called",
+      "options": {
+        "A": "In medias res — starting in the middle of the action",
+        "B": "Flashback (retrospective narrative) — inserting past events into the present timeline",
+        "C": "Epistolary narrative — telling the story through letters",
+        "D": "Second-person narrative — addressing the reader as 'you'"
+      },
+      "correct_answer": "B",
+      "explanation": "Throughout the novel, the author uses flashbacks — Bepo recalls his time at Beesway, the Fruitful Future experience, the electricity tariff incident, Sola's migration stories — to fill in his character's history within the present narrative."
+    },
+    {
+      "id": 40,
+      "topic": "Literary Devices",
+      "difficulty": "medium",
+      "question": "Which of the following BEST describes the author's narrative style in The Lekki Headmaster?",
+      "options": {
+        "A": "Minimalist prose with short, sparse sentences",
+        "B": "A rich blend of humour, social commentary, proverbs, and vivid Nigerian socio-cultural detail",
+        "C": "Highly poetic language with extensive use of verse within the chapters",
+        "D": "A purely formal academic style devoid of humour"
+      },
+      "correct_answer": "B",
+      "explanation": "Garba's style is a lively mix of humour (through characters like Audu), social criticism (of Japa, corruption, educational decay), Yoruba and other Nigerian proverbs, code-switching, and precise cultural references — creating an authentically Nigerian narrative voice."
+    },
+    {
+      "id": 41,
+      "topic": "Language and Grammar",
+      "difficulty": "medium",
+      "question": "According to Mr. Bepo's explanation in Chapter Six, what grammatical rule explains why 'Ade as well as Jide comes early' is correct?",
+      "options": {
+        "A": "Conjunctions like 'as well as' always take a plural verb in Standard English",
+        "B": "When 'as well as', 'together with', or 'alongside' are used, the verb agrees with the first subject — giving a singular verb with 's'",
+        "C": "The verb 'comes' is used because both Ade and Jide are male names",
+        "D": "This is a case of American English differing from British English usage"
+      },
+      "correct_answer": "B",
+      "explanation": "Bepo explains: 'When you use 'and', the verb that follows is 'come'. But when you use 'as well as', 'together with', 'alongside', etc., we go for the singular verb with 's'. The clause is in the subjunctive mood and does not align with normal grammar rules.'"
+    },
+    {
+      "id": 42,
+      "topic": "Language and Grammar",
+      "difficulty": "medium",
+      "question": "In Chapter Seven, the director of Beesway School dismisses Bepo's correction about 'Group of School' by saying, 'Mr. Bepo, the Englisher, let's leave the matter as it is.' What grammatical error does this statement itself contain?",
+      "options": {
+        "A": "'Let's' should be 'let us' in formal speech",
+        "B": "'Englisher' is not a standard English word and should be 'English teacher' or 'English expert'",
+        "C": "'Leave' should be 'left' in this context",
+        "D": "'Matter' should be plural — 'matters'"
+      },
+      "correct_answer": "B",
+      "explanation": "Bepo notices but suppresses the urge to correct the director's use of 'Englisher.' Ironically, Bepo then points out that 'Englisher' actually exists in dictionaries (referring to a translator from another language into English), further embarrassing the director."
+    },
+    {
+      "id": 43,
+      "topic": "Language and Grammar",
+      "difficulty": "medium",
+      "question": "The title of Chapter Six, 'Ade as Well as Jide COMES vs. COME', suggests the chapter is primarily concerned with which literary and linguistic theme?",
+      "options": {
+        "A": "The conflict between two students named Ade and Jide",
+        "B": "Subject-verb agreement and the way professional integrity can hinge on linguistic knowledge",
+        "C": "The need for a national standard of spoken English in Nigerian schools",
+        "D": "The differences between English as spoken in the UK and in Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter uses a grammar dispute as its central dramatic device to explore professional integrity, the dangers of hasty judgement, and the critical importance of linguistic knowledge — particularly for someone who calls themselves an English teacher."
+    },
+    {
+      "id": 44,
+      "topic": "Social Issues",
+      "difficulty": "medium",
+      "question": "The novel portrays the Japa phenomenon (mass emigration from Nigeria) as",
+      "options": {
+        "A": "An entirely positive development that Nigeria should encourage",
+        "B": "A morally simple choice that any rational person would make",
+        "C": "A complex, sometimes painful decision driven by economic hardship, family pressure, and disappointment with Nigerian systems",
+        "D": "A purely political act of protest against the Nigerian government"
+      },
+      "correct_answer": "C",
+      "explanation": "The novel presents Japa as deeply ambivalent — some emigrants thrive (Sola, Riike), others struggle (Hope, Jare). Bepo himself is torn between the economic logic of emigration and his passionate love for his students and his country, illustrating the issue's complexity."
+    },
+    {
+      "id": 45,
+      "topic": "Social Issues",
+      "difficulty": "medium",
+      "question": "What does the novel suggest about the housing situation of teachers in Lagos?",
+      "options": {
+        "A": "Teachers in Lagos enjoy subsidised accommodation provided by the government",
+        "B": "Most teachers cannot afford the high rents in Lekki and commute long distances from cheaper areas like Ifo and Iyana Ipaja",
+        "C": "Teachers at private schools like Stardom are provided with comfortable staff quarters on campus",
+        "D": "Teachers in Lagos earn enough to rent comfortable flats near their schools"
+      },
+      "correct_answer": "B",
+      "explanation": "Both Fafore (who lives in Ifo, Ogun State) and other teachers wake as early as 4:00am to commute to Lekki. A two-bedroom flat in Lekki costs over N2 million, with landlords demanding two years' upfront — beyond reach on a teacher's salary of N175,000-N400,000."
+    },
+    {
+      "id": 46,
+      "topic": "Social Issues",
+      "difficulty": "medium",
+      "question": "The DNA revelation in the Ignatius family in Chapter Four primarily comments on which social issue?",
+      "options": {
+        "A": "Medical negligence in Nigerian hospitals",
+        "B": "The devastating impact of unresolved marital conflicts, secrets, and infidelity on family plans, especially those involving relocation",
+        "C": "The inadequacy of Nigeria's identity documentation system",
+        "D": "The challenges of single parenting in modern Nigeria"
+      },
+      "correct_answer": "B",
+      "explanation": "The DNA test that revealed Mr. Ignatius was not Favour's biological father exposed a hidden marital crisis. Combined with the planned relocation to the UK, it shattered the family — illustrating how personal secrets can derail even the most carefully laid life plans."
+    },
+    {
+      "id": 47,
+      "topic": "Social Issues",
+      "difficulty": "medium",
+      "question": "What criticism of Nigeria's bureaucratic system does Chapter Ten ('Passport Pains') make?",
+      "options": {
+        "A": "That the immigration system works perfectly for those willing to follow official channels",
+        "B": "That corruption has so infiltrated the passport renewal process that the official online system is deliberately made dysfunctional to push citizens toward bribe-paying agents",
+        "C": "That the government has closed all passport offices in Lagos due to overcrowding",
+        "D": "That only Nigerians with overseas connections can renew their passports successfully"
+      },
+      "correct_answer": "B",
+      "explanation": "Chapter Ten exposes that passport renewal requires paying unofficial agents (like Tai) who collude with immigration staff. The official online platform is widely suspected of being deliberately made erratic to force citizens into the corrupt informal system."
+    },
+    {
+      "id": 48,
+      "topic": "Style and Structure",
+      "difficulty": "medium",
+      "question": "The novel begins with Mr. Bepo's breakdown at assembly and ends with his return to Stardom. This narrative structure is an example of",
+      "options": {
+        "A": "A linear, chronological plot with no flashbacks",
+        "B": "A circular narrative structure — beginning and ending at the same location (Stardom's assembly ground), bookending the story's emotional journey",
+        "C": "An episodic structure with entirely unrelated chapters",
+        "D": "A tragic structure ending in the protagonist's defeat"
+      },
+      "correct_answer": "B",
+      "explanation": "The novel opens at a morning assembly with tears and confusion (dusk) and ends at a morning assembly with joy and homecoming (dawn). This circular structure reinforces the thematic message that Bepo's true home is Stardom, and that he has come full circle."
+    },
+    {
+      "id": 49,
+      "topic": "Style and Structure",
+      "difficulty": "medium",
+      "question": "The author's use of multiple episodes (the Fafore grammar affair, the cooperative saga, the passport ordeal, the migration tales) rather than a single linear plot serves to",
+      "options": {
+        "A": "Confuse the reader and obscure the novel's central message",
+        "B": "Present a panoramic, socially rich picture of Nigerian institutional life and the dilemmas of emigration",
+        "C": "Demonstrate the author's inability to maintain a single storyline",
+        "D": "Limit the novel to readers who are already familiar with Nigerian culture"
+      },
+      "correct_answer": "B",
+      "explanation": "The episodic structure allows Garba to comment on multiple aspects of Nigerian life — educational management, corruption, housing, migration, grammar, and cultural identity — while maintaining Bepo's dilemma as the unifying thread, creating a socially comprehensive novel."
+    },
+    {
+      "id": 50,
+      "topic": "Themes",
+      "difficulty": "medium",
+      "question": "The dedication of The Lekki Headmaster reads: 'This book is dedicated to all teachers committed to the cause of sound education. You are truly the real builders of the nation!' This dedication suggests the novel's overarching message is",
+      "options": {
+        "A": "That teachers should emigrate to countries that pay them better",
+        "B": "That dedicated teachers are the foundation of national development and deserve greater recognition",
+        "C": "That only private school teachers deserve respect and praise",
+        "D": "That the Nigerian government adequately rewards its teachers"
+      },
+      "correct_answer": "B",
+      "explanation": "The dedication positions the novel as a tribute to dedicated teachers — the 'real builders of the nation.' The entire story of Bepo's 24-year selfless commitment to Stardom, and his ultimate decision to return, is the author's literary embodiment of this dedication."
+    }
+  ]
+}
