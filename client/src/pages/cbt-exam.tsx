@@ -75,26 +75,31 @@ export default function CBTExam() {
   const isLowTime = exam.timeRemaining < 300; // 5 mins
 
   const handleSubmit = () => {
-    // Calculate naive score before sending to backend
-    let score = 0;
+    // Calculate score normalized to 400 points (out of total questions in exam, not just answered)
+    let correctCount = 0;
+    let totalQuestions = 0;
     const subjectScores: Record<string, number> = {};
     
     exam.subjects.forEach(sub => {
       subjectScores[sub] = 0;
       exam.questions[sub]?.forEach(q => {
+        totalQuestions += 1;
         if (exam.answers[q.id] === q.correct_answer) {
           subjectScores[sub] += 1;
-          score += 1; // Assuming 1 point per Q for mock logic, backend should calculate properly but we send this schema
+          correctCount += 1;
         }
       });
     });
+
+    // Calculate score out of 400: (correct / total) * 400, then divide by 10 for storage (since display multiplies by 10)
+    const normalizedScore = Math.round((correctCount / Math.max(totalQuestions, 1)) * 40);
 
     submitMutation.mutate({
       userId: 1, // Mocked user ID
       examType: exam.examType,
       subjects: exam.subjects,
       answers: exam.answers,
-      score: score, // Assuming out of 400 total mapped later, we'll just send raw count here
+      score: normalizedScore, // Normalized to 40 (displays as 400 when * 10)
       subjectScores: subjectScores,
       timeTaken: 7200 - exam.timeRemaining
     }, {
