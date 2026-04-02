@@ -14,7 +14,7 @@ export default function Review() {
   const [explanations, setExplanations] = useState<Record<string, string>>({});
 
   useEffect(() => {
-    if (attempt && attempt.score >= 250) { // arbitrary celebration threshold
+    if (attempt && attempt.score >= 25) { // 250/400 = 62.5%, stored as 25/40
       confetti({
         particleCount: 150,
         spread: 70,
