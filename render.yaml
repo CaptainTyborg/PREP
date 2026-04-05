@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: prep-ng
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: prep-ng-db
+          property: connectionString
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: OPENAI_API_KEY
+        sync: false
+
+databases:
+  - name: prep-ng-db
+    plan: free
+    databaseName: prep
+    user: prep_user
