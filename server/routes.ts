@@ -3,10 +3,15 @@ import type { Server } from "http";
 import { storage } from "./storage";
 import { api } from "@shared/routes";
 import { z } from "zod";
-import { openai } from "./replit_integrations/audio/client"; // reusing OpenAI client
+import OpenAI from "openai";
 import { Question } from "@shared/schema";
 import fs from "fs";
 import path from "path";
+
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY || process.env.AI_INTEGRATIONS_OPENAI_API_KEY || "",
+  baseURL: process.env.AI_INTEGRATIONS_OPENAI_BASE_URL || undefined,
+});
 
 // Mock JSON database for questions
 function getMockQuestions(subject: string, count: number): Question[] {
