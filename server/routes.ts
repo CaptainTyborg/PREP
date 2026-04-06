@@ -195,7 +195,7 @@ The student selected ${selectedAnswer}.
 Explain why the correct answer is right, and why the student's selected answer is wrong (if it is wrong). Keep it concise, clear, and encouraging.`;
 
       const aiResponse = await openai.chat.completions.create({
-        model: "gpt-5.1",
+        model: "gpt-4o-mini",
         messages: [
           { role: "system", content: "You are a helpful JAMB UTME prep tutor." },
           { role: "user", content: prompt }
